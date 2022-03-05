@@ -1,4 +1,61 @@
-# 7 useful HTML attributes you may not know
+## Useful input types
+
+```html
+<input type="range" min="1" max="5" value="2" />
+<input type="search" />
+<input type="tel" />
+<input type="time" />
+<input type="color" />
+<input type="datetime-local" />
+<input type="week" />
+<input type="month" />
+<input type="url" />
+```
+
+## 5 HTML Tricks
+
+```html
+<!-- input suggestion -->
+<input list="lists" />
+<datalist id="lists">
+    <option value="1"></option>
+    <option value="2"></option>
+    <option value="3"></option>
+</datalist>
+```
+
+```html
+<!-- multiple image with different widths have a single scaling -->
+<picture>
+    <source media="{min-width:650px}" srcset="image.png" />
+    <source media="{min-width:550px}" srcset="image.png" />
+    <img src="image.png" style="width:auto" />
+</picture>
+```
+
+```html
+<!-- This lets the page be rendered first and then render the images slowly -->
+<img src="image.png" loading="lazy" />
+```
+
+```html
+<!-- This is useful where you have many anchors tag but their base url is same -->
+<head>
+    <base href="http://twitter.com/" target="_blank"> />
+</head>
+<body>
+    <a href="Elon musk">
+</body>
+```
+
+```html
+<!-- This will redirect the user to provided url in 4s and then set to 0 for an immediate redirect -->
+<head>
+    <meta http-equiv="refresh" content="4;URL=URL" />
+</head>
+```
+
+## 7 useful HTML attributes you may not know
 
 1. Multiple
     ```html
@@ -58,6 +115,15 @@
     You can also specify the file name.
 
 ## [Basic HTML tags](https://way2tutorial.com/html/example/html_cheat_sheet.php)
+
+```html
+<p hidden></p>
+hide the content of the element
+```
+
+```html
+<video poster="image.png"></video> Shown while the video isn't playing
+```
 
 ```html
 <optgroup></optgroup>
