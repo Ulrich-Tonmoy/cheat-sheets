@@ -63,6 +63,10 @@ A model is a constructor compiled from a schema. Model instances represent a col
 
     User.find({ fullName: "Name" });
 
+##### $find by multiple values
+
+    User.find({ fullName: "Name", id: "123" });
+
 ##### $find one by id
 
     User.findOne({ _id: id });
@@ -78,3 +82,7 @@ A model is a constructor compiled from a schema. Model instances represent a col
       runValidators: true,
       overwrite: true // it will remove all the old data without default values and add the new data under the id
     });
+	
+##### $delete one by id
+
+    User.findByIdAndRemove(id);
