@@ -1,6 +1,6 @@
 ## React - Best Practices
 
-## Use vite instead of create-react-app
+### Use vite instead of create-react-app
 
 ##### Its both faster for development and production build. Use the bellow command and follow the instruction given in the terminal.
 
