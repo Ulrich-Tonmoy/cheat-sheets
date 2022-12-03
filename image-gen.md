@@ -9,3 +9,5 @@
 ## [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
 
 ## [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
+
+## [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
