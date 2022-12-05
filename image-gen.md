@@ -4,6 +4,8 @@
 
 ## [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
 
+## [Anything V3 (huggingface)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
+
 ## [Waifu-Diffusion (huggingface)](https://huggingface.co/hakurei/waifu-diffusion)
 
 ## [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
