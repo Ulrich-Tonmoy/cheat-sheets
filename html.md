@@ -18,7 +18,50 @@
 <input type="url" />
 ```
 
-## 5 HTML Tricks
+## HTML Tricks
+
+```html
+<!-- When you need to run some calculations on your inputs and get a result instantly, you can use the <output> element to display the results without writing any external JS -->
+
+<form oninput="total.value=Number(amount.value) + (Number(amount.value) * Number(tip.value)/100)">
+    <input type="number" id="amount" value="0" /> + <input type="number" id="tip" value="0" /> =
+    <output name="total" for="amount tip"></output>
+</form>
+```
+
+```html
+<!-- You can add a special <meta> tag inside of your document head to refresh the page at a set interval or to redirect users to different websites after a set delay -->
+
+<!-- refresh after 30s -->
+<meta http-equiv="refresh" content="30" />
+
+<!-- redirect after 30s -->
+<meta http-equiv="refresh" content="30;https://www.youtube.com/" />
+```
+
+```html
+<!-- For users who are on mobile devices, you can use the <input/> tag with a capture attribute to open the user's camera and allow them to take a photo or video to upload to your website. On desktop the default behavior of uploading files is kept -->
+
+<!-- Opens back facing camera to take video -->
+<input type="file" capture="environment" accept="video/*" />
+
+<!-- Opens front facing camera to take photo -->
+<input type="file" capture="user" accept="image/*" />
+```
+
+```html
+<!-- When you have lots of images in your website but you don't wanna wait a longer time for the browser to load all the images then show the content of the site you can lazy load images it will show other content of the site then slowly load images  -->
+
+<img src="image.png" loading="lazy" alt="image" />
+```
+
+```html
+<!-- Disable right click for the entire website -->
+<body oncontextmenu="return false"></body>
+
+<!-- Disable right click for a specific element-->
+<section oncontextmenu="return false"></section>
+```
 
 ```html
 <!-- input suggestion -->
