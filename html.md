@@ -1,5 +1,11 @@
 ## Useful input types
 
+## HTML structure
+
+<p align="center">
+  <img alt="html structure" src="https://github.com/Ulrich-Tonmoy/cheat-sheets/blob/main/assets/html/HTML.png" width="360px"/>
+</p>
+
 ```html
 <input type="range" min="1" max="5" value="2" />
 <input type="search" />
