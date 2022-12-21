@@ -1,5 +1,31 @@
 # CSS Tricks
 
+## Media Queries
+
+```css
+body {
+    background: black;
+}
+
+/* Before */
+@media (min-width: 300px) and(max-width:600px) {
+    body {
+        background: green;
+    }
+}
+/* Now */
+@media (300px <= width <= 600px) {
+    body {
+        background: green;
+    }
+}
+@media (width <= 600px) or (orientation: landscape) {
+    body {
+        background: white;
+    }
+}
+```
+
 ```css
 .class {
     all: initial; /* Reset all properties.*/
