@@ -6,6 +6,13 @@
   <img alt="html structure" src="https://github.com/Ulrich-Tonmoy/cheat-sheets/blob/main/assets/html/HTML.png" width="360px"/>
 </p>
 
+```js
+/* Enabling design mode will make the entire web page editable, just by clicking and typing. To use it,
+open up the console and run: */
+
+document.designMode = "on";
+```
+
 ```html
 <input type="range" min="1" max="5" value="2" />
 <input type="search" />
