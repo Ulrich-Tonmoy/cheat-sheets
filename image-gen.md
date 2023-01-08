@@ -13,3 +13,5 @@
 ## [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
 
 ## [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
+
+## [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
