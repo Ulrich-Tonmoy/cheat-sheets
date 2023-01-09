@@ -110,3 +110,41 @@ npm xmas
 ```properties
 npm visnup
 ```
+
+## Npm Commands For Global Execution
+
+1.  Get list of all globally installed npm packages
+
+    ```properties
+    npm list -g
+    ```
+
+2.  Check if the package is globally installed
+
+    ```properties
+    npm list -g <package-name>
+    ```
+
+3.  Uninstall global package
+
+    ```properties
+    npm uninstall -g <package-name>
+    ```
+
+4.  Check which packages are outdated
+
+    ```properties
+    npm outdated -g
+    ```
+
+5.  Update all global packages
+
+    ```properties
+    npm update -g
+    ```
+
+6.  Update a global package
+
+    ```properties
+    npm update -g <package_name>
+    ```
