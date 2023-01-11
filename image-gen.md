@@ -15,3 +15,4 @@
 ## [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
 
 ## [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
+## [Craiyon (Formerly DALL-E Mini))](https://www.craiyon.com/)
