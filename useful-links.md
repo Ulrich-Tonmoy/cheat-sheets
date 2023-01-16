@@ -1,4 +1,31 @@
-# <p align="center">🎮Game🎮</p>
+# <p align="center">🎮Free Game/Web Dev Tools‍💻</p>
+
+-   [Game Dev Tools](#🎮game🎮)
+    -   [Game Engine](#game-engine)
+    -   [Online Game Engine](#online-game-engine)
+    -   [Roblox Like Game Engine](#roblox-like-game-engine)
+    -   [3D APP](#3d-app)
+    -   [Photo APP](#photo-app)
+    -   [Online Photo APP](#online-photo-app)
+    -   [Animation APP](#animation-app)
+    -   [2D Animation APP](#2d-animation-app)
+    -   [Tile Editor](#tile-editor)
+    -   [Online Sprite Editor](#online-sprite-editor)
+    -   [AI Art Gen](#ai-art-gen)
+    -   [Assets](#assets)
+    -   [3D Model](#3d-model)
+    -   [PBR](#pbr)
+    -   [Shader](#shader)
+    -   [Texture](#texture)
+    -   [Game Audio](#game-audio)
+    -   [Game Audio Online](#game-audio-online)
+    -   [Logo maker](#logo-maker)
+    -   [Fonts](#fonts)
+    -   [Others](#others)
+-   [Web Dev Tools](#‍💻web‍💻)
+    -   [](#)
+
+# 🎮Game🎮
 
 -   ## Jam:
 
@@ -8,6 +35,7 @@
     4. [Indie Game Jams](http://www.indiegamejams.com)
     5. [Game Maker’s Toolkit](https://itch.io/jam/gmtk-jam-2022)
     6. [Weekly Game Jam](https://weeklygamejam.itch.io)
+    7. [JS 13K Games](https://js13kgames.com)
 
 -   ## Game Engine
 
@@ -17,10 +45,15 @@
 
 -   ## Online Game Engine:
 
-    1. [microStudio](https://microstudio.dev/)
-    2. [nunustudio](https://www.nunustudio.org/)
-    3. [Microsoft microbit](https://makecode.microbit.org/)
-    4. [scratch](https://scratch.mit.edu/)
+    1. [microStudio](https://microstudio.dev)
+    2. [nunustudio](https://www.nunustudio.org)
+    3. [Microsoft microbit](https://makecode.microbit.org)
+    4. [scratch](https://scratch.mit.edu)
+
+-   ## Roblox Like Game Engine:
+
+    1. [Core](https://www.coregames.com)
+    2. [The Mirror](https://www.themirror.space/)
 
 -   ## 3D APP
 
@@ -38,6 +71,7 @@
     12. [makehuman](http://www.makehumancommunity.org)
     13. [stephaneginier](https://stephaneginier.com)
     14. [nomadsculpt](https://nomadsculpt.com)
+    15. [Character Creator 4](https://www.reallusion.com/character-creator/)
 
 -   ## Photo APP:
 
@@ -64,10 +98,11 @@
     6. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
     7. [makepixelart](https://makepixelart.com/free)
 
--   ## Animation:
+-   ## Animation App:
 
     1. [Mixamo](https://www.mixamo.com)
-    2. https://nilooy.github.io/character-animation-combiner
+    2. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
+    3. [Cascadeur](https://cascadeur.com/)
 
 -   ## 2d Animation APP:
 
@@ -89,6 +124,10 @@
     1. [Images sprite sheet generator](https://codeshack.io/images-sprite-sheet-generator)
     2. [Free sprite sheet packer](https://www.codeandweb.com/free-sprite-sheet-packer)
 
+-   ## AI Art Gen:
+
+    1. [ArtBreeder](https://www.artbreeder.com)
+
 -   ## Assets:
 
     1. https://www.si.edu/openaccess
@@ -98,13 +137,25 @@
     5. https://opengameart.org
     6. http://poly.pizza
     7. https://kitbash3d.com
-    8. https://itch.io/game-assets/free
-    9. https://craftpix.net/freebies
-    10. https://www.gameart2d.com/freebies.html#
-    11. https://www.turbosquid.com/Search/3D-Models/free
-    12. https://www.gamedevmarket.net
-    13. https://thebasemesh.com
-    14. https://kronbits.itch.io
+    8. https://www.brushify.io/
+    9. https://itch.io/game-assets/free
+    10. https://craftpix.net/freebies
+    11. https://www.gameart2d.com/freebies.html#
+    12. https://www.turbosquid.com/Search/3D-Models/free
+    13. https://www.gamedevmarket.net
+    14. https://thebasemesh.com
+    15. https://kronbits.itch.io
+
+-   ## 3D Model:
+
+    1.  https://polyhaven.com/
+    2.  https://renderpeople.com/free-3d-people/
+    3.  https://secure.axyz-design.com/en/shop/
+    4.  https://sketchfab.com/MrDavids1
+    5.  https://www.cgtrader.com/
+    6.  https://quaternius.com/
+    7.  https://nasa3d.arc.nasa.gov/models
+    8.  https://clara.io/
 
 -   ## PBR:
 
@@ -132,21 +183,6 @@
     12. https://cloud.blender.org/p/textures
     13. https://itch.io/game-assets/free/tag-texture
 
--   ## Materials & Grass:
-
-    1. https://www.raywenderlich.com/6314-creating-interactive-grass-in-unreal-engine-4
-
--   ## 3D Model:
-
-    1.  https://polyhaven.com/
-    2.  https://renderpeople.com/free-3d-people/
-    3.  https://secure.axyz-design.com/en/shop/
-    4.  https://sketchfab.com/MrDavids1
-    5.  https://www.cgtrader.com/
-    6.  https://quaternius.com/
-    7.  https://nasa3d.arc.nasa.gov/models
-    8.  https://clara.io/
-
 -   ## Game Audio:
 
     1. [Audacity](https://www.audacityteam.org)
@@ -170,16 +206,12 @@
 
 -   ## Game Audio Online:
 
-    1. https://www.beepbox.co
+    1. [BeepBox](https://www.beepbox.co)
 
 -   ## Logo maker
 
-    1. https://logomaker.thehoth.com/
-    2. https://logomakr.com/
-
--   ## Color Picker:
-
-    1. https://lospec.com/
+    1. [TheHoth](https://logomaker.thehoth.com)
+    2. [Logomakr](https://logomakr.com)
 
 -   ## Fonts:
 
@@ -196,5 +228,14 @@
     11. https://symbols.wentin.net/
 
 -   ## Others
-    1. https://marian42.de/article/wfc/
+
+    1. https://steamdb.info/tech/
+    2. https://gaminganalytics.info/
+    3. https://kdenlive.org/en/
+    4. https://marian42.de/article/wfc
+    5. https://gamedevacademy.org
+    6. https://www.raywenderlich.com/6314-creating-interactive-grass-in-unreal-engine-4
+
 -   ## [Download Unity Paid assets For Free For Trial](https://unityassetcollection.com/)
+
+# ‍💻Web‍💻
