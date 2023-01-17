@@ -1,33 +1,33 @@
 # <p align="center">🎮Free Game/Web Dev Tools‍💻</p>
 
--   [Game Dev Tools](#🎮game🎮)
+-   [Game Dev Tools](#game)
+    -   [Game Jam](#game-jam)
     -   [Game Engine](#game-engine)
     -   [Online Game Engine](#online-game-engine)
     -   [Roblox Like Game Engine](#roblox-like-game-engine)
-    -   [3D APP](#3d-app)
-    -   [Photo APP](#photo-app)
-    -   [Online Photo APP](#online-photo-app)
-    -   [Animation APP](#animation-app)
+    -   [Game Framework](#game-framework)
+    -   [3d Modeling APP](#3d-modeling-app)
+    -   [3d Animation APP](#3d-animation-app)
+    -   [2d Art APP](#2d-art-app)
+    -   [Online 2d Art APP](#online-2d-art-app)
     -   [2D Animation APP](#2d-animation-app)
     -   [Tile Editor](#tile-editor)
     -   [Online Sprite Editor](#online-sprite-editor)
     -   [AI Art Gen](#ai-art-gen)
-    -   [Assets](#assets)
+    -   [2d Assets](#2d-assets)
     -   [3D Model](#3d-model)
-    -   [PBR](#pbr)
-    -   [Shader](#shader)
-    -   [Texture](#texture)
+    -   [Texture Material Shader](#texture-material-shader)
     -   [Game Audio](#game-audio)
     -   [Game Audio Online](#game-audio-online)
     -   [Logo maker](#logo-maker)
     -   [Fonts](#fonts)
     -   [Others](#others)
--   [Web Dev Tools](#‍💻web‍💻)
+-   [Web Dev Tools](#web)
     -   [](#)
 
 # 🎮Game🎮
 
--   ## Jam:
+-   ## Game Jam
 
     1. [Global Game Jam](https://globalgamejam.org)
     2. [Ludum Dare](https://ldjam.com)
@@ -39,56 +39,68 @@
 
 -   ## Game Engine
 
-    1. [Godot](https://godotengine.org/en/download/windows)
+    1. [Godot](https://godotengine.org/download/windows/)
     2. [Unity](https://unity.com/download)
     3. [Unreal](https://www.unrealengine.com/en-US/download)
+    4. [RenPy](https://www.renpy.org/)
 
--   ## Online Game Engine:
+-   ## Online Game Engine
 
     1. [microStudio](https://microstudio.dev)
     2. [nunustudio](https://www.nunustudio.org)
     3. [Microsoft microbit](https://makecode.microbit.org)
-    4. [scratch](https://scratch.mit.edu)
+    4. [Scratch](https://scratch.mit.edu)
 
--   ## Roblox Like Game Engine:
+-   ## Roblox Like Game Engine
 
     1. [Core](https://www.coregames.com)
     2. [The Mirror](https://www.themirror.space/)
 
--   ## 3D APP
+-   ## Game Framework
+
+    1. C# [MonoGame](https://www.monogame.net/)
+    2. Rust [Bevy](https://bevyengine.org/)
+    3. Lua [Love2d](https://love2d.org/)
+    4. Python [PyGame](https://www.pygame.org/news)
+    5. JavaScript/TypeScript [Three JS](https://threejs.org/)
+    6. JavaScript/TypeScript [Babylon JS](https://www.babylonjs.com/)
+
+-   ## 3d Modeling APP
 
     1. [Blender](https://www.blender.org)
     2. [Vroid](https://vroid.com)
     3. [Ephtracy](https://ephtracy.github.io)
-    4. [rocket3f](https://rocket3f.com)
-    5. [meshmixer](https://meshmixer.com)
-    6. [meshmolder](https://www.meshmolder.com)
-    7. [bforartists](https://www.bforartists.de)
-    8. [daz3d](https://www.daz3d.com)
-    9. [dust3d](https://dust3d.org/)
-    10. [wings3d](http://www.wings3d.com)
-    11. [metaseq](https://www.metaseq.net/en)
-    12. [makehuman](http://www.makehumancommunity.org)
-    13. [stephaneginier](https://stephaneginier.com)
-    14. [nomadsculpt](https://nomadsculpt.com)
-    15. [Character Creator 4](https://www.reallusion.com/character-creator/)
+    4. [Rocket3f](https://rocket3f.com)
+    5. [Meshmixer](https://meshmixer.com)
+    6. [Meshmolder](https://www.meshmolder.com)
+    7. [Bforartists](https://www.bforartists.de)
+    8. [Daz3d](https://www.daz3d.com)
+    9. [Dust3d](https://dust3d.org/)
+    10. [Wings3d](http://www.wings3d.com)
+    11. [Make Human](http://www.makehumancommunity.org)
+    12. [Nomad Sculpt](https://stephaneginier.com)
 
--   ## Photo APP:
+-   ## 3d Animation App
+
+    1. [Mixamo](https://www.mixamo.com)
+    2. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
+    3. [Cascadeur](https://cascadeur.com/)
+
+-   ## 2d Art APP
 
     1. [Krita](https://krita.org)
-    2. [Gimp](https://www.gimp.org)
-    3. [Sketchbook](https://www.sketchbook.com/apps)
-    4. [Aseprite](https://github.com/aseprite/aseprite)
-    5. [Libresprite](http://www.libresprite.org/downloads)
-    6. [Graphicsgale](https://graphicsgale.com/us)
-    7. [Getpaint](https://www.getpaint.net)
-    8. [Inkscape](https://inkscape.org)
-    9. [Vectr](https://vectr.com)
-    10. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
-    11. [Firealpaca](https://firealpaca.com)
-    12. [Medibangpaint](https://medibangpaint.com/en)
+    2. [Paint.NET](https://www.getpaint.net)
+    3. [Gimp](https://www.gimp.org)
+    4. [Inkscape](https://inkscape.org)
+    5. [Sketchbook](https://www.sketchbook.com/apps)
+    6. [Aseprite](https://github.com/aseprite/aseprite)
+    7. [Libresprite](http://www.libresprite.org/downloads)
+    8. [Graphicsgale](https://graphicsgale.com/us)
+    9. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+    10. [Firealpaca](https://firealpaca.com)
+    11. [Medibangpaint](https://medibangpaint.com/en)
 
--   ## Online Photo APP:
+-   ## Online 2d Art APP
 
     1. [Photopea](https://www.photopea.com)
     2. [Lunapic](https://www7.lunapic.com/editor)
@@ -97,93 +109,79 @@
     5. [lospec](https://lospec.com/pixel-editor)
     6. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
     7. [makepixelart](https://makepixelart.com/free)
+    8. [Vectr](https://vectr.com/design/)
 
--   ## Animation App:
-
-    1. [Mixamo](https://www.mixamo.com)
-    2. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
-    3. [Cascadeur](https://cascadeur.com/)
-
--   ## 2d Animation APP:
+-   ## 2d Animation APP
 
     1. [Pencil2d](https://www.pencil2d.org)
     2. [Synfig](https://www.synfig.org)
-    3. [coa_tools](https://github.com/ndee85/coa_tools)
-    4. [tupi2d](https://sourceforge.net/projects/tupi2d)
-    5. [OpenToonz](https://opentoonz.github.io/e/)
-    6. [animationpaper](https://animationpaper.com/download-pre-release)
-    7. [stykz](https://www.stykz.net)
+    3. [Coa Tools](https://github.com/ndee85/coa_tools)
+    4. [Tupi2d](https://sourceforge.net/projects/tupi2d)
+    5. [Open Toonz](https://opentoonz.github.io/e/)
+    6. [Animation Paper](https://animationpaper.com/download-pre-release)
+    7. [Stykz](https://www.stykz.net)
 
--   ## Tile Editor:
+-   ## Tile Editor
 
     1. [Tiled](https://www.mapeditor.org)
     2. [ldtk](https://ldtk.io/)
 
--   ## Online Sprite Editor:
+-   ## Online Sprite Editor
 
-    1. [Images sprite sheet generator](https://codeshack.io/images-sprite-sheet-generator)
+    1. [Images sprite sheet generator](https://codeshack.io/images-sprite-sheet-generator/)
     2. [Free sprite sheet packer](https://www.codeandweb.com/free-sprite-sheet-packer)
 
--   ## AI Art Gen:
+-   ## AI Art Gen
 
     1. [ArtBreeder](https://www.artbreeder.com)
 
--   ## Assets:
+-   ## 3D Model
 
-    1. https://www.si.edu/openaccess
-    2. https://kaylousberg.com/game-assets
-    3. https://kenney.nl/assets
-    4. https://bevouliin.com
-    5. https://opengameart.org
-    6. http://poly.pizza
-    7. https://kitbash3d.com
-    8. https://www.brushify.io/
-    9. https://itch.io/game-assets/free
-    10. https://craftpix.net/freebies
-    11. https://www.gameart2d.com/freebies.html#
-    12. https://www.turbosquid.com/Search/3D-Models/free
-    13. https://www.gamedevmarket.net
-    14. https://thebasemesh.com
-    15. https://kronbits.itch.io
+    1. [The Base Mesh](https://thebasemesh.com)
+    2. [Poly Haven](https://polyhaven.com/)
+    3. [Quaternius](https://quaternius.com/)
+    4. [Nasa3d](https://nasa3d.arc.nasa.gov/models)
+    5. [Clara](https://clara.io/)
 
--   ## 3D Model:
+-   ## Paid
 
-    1.  https://polyhaven.com/
-    2.  https://renderpeople.com/free-3d-people/
-    3.  https://secure.axyz-design.com/en/shop/
-    4.  https://sketchfab.com/MrDavids1
-    5.  https://www.cgtrader.com/
-    6.  https://quaternius.com/
-    7.  https://nasa3d.arc.nasa.gov/models
-    8.  https://clara.io/
+    1. [Kitbash 3d](https://kitbash3d.com)
+    2. [Brushify](https://www.brushify.io)
+    3. [Turbo Squid](https://www.turbosquid.com)
+    4. [CG Trader](https://www.cgtrader.com/)
+    5. [Sketchfab](https://sketchfab.com/)
+    6. [Render People](https://renderpeople.com/)
+    7. [axyz-design](https://secure.axyz-design.com/)
 
--   ## PBR:
+-   ## 2d Assets
 
-    1.  https://freepbr.com/
-    2.  https://www.sharetextures.com/
-    3.  https://www.cgbookcase.com/
+    4. [itch.io](https://itch.io/game-assets/free)
+    5. [Open Game Art](https://opengameart.org)
+    6. [kenney.nl](https://kenney.nl/assets)
+    7. [Poly.Pizza](http://poly.pizza)
+    8. [Craft Pix](https://craftpix.net/)
+    9. [Game Dev Market](https://www.gamedevmarket.net)
 
--   ## Shader:
-
-    1. https://www.shadertoy.com/
-
--   ## Texture:
+-   ## Texture-Material-Shader
 
     1. https://cc0textures.com
-    2. https://ambientcg.com
-    3. https://www.textures.com
-    4. https://texture.ninja
-    5. https://joost3d.com/textures
-    6. https://freetextures.3dtotal.com
-    7. https://quixel.com/megascans/free
-    8. https://3dtextures.me
-    9. http://texturelib.com
-    10. http://texturer.com
-    11. https://www.3dxo.com
-    12. https://cloud.blender.org/p/textures
-    13. https://itch.io/game-assets/free/tag-texture
+    2. https://freepbr.com/
+    3. https://www.sharetextures.com/
+    4. https://ambientcg.com
+    5. https://www.textures.com
+    6. https://texture.ninja
+    7. https://joost3d.com/textures
+    8. https://freetextures.3dtotal.com
+    9. https://quixel.com/megascans/free
+    10. https://3dtextures.me
+    11. http://texturelib.com
+    12. http://texturer.com
+    13. https://www.3dxo.com
+    14. https://www.cgbookcase.com/
+    15. https://cloud.blender.org/p/textures
+    16. [Shader Toy](https://www.shadertoy.com/)
 
--   ## Game Audio:
+-   ## Game Audio
 
     1. [Audacity](https://www.audacityteam.org)
     2. [LMMS](https://lmms.io)
@@ -204,7 +202,7 @@
     17. [ocenaudio](https://www.ocenaudio.com)
     18. [sitala](https://decomposer.de/sitala)
 
--   ## Game Audio Online:
+-   ## Game Audio Online
 
     1. [BeepBox](https://www.beepbox.co)
 
