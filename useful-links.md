@@ -62,8 +62,9 @@
     2. Rust [Bevy](https://bevyengine.org/)
     3. Lua [Love2d](https://love2d.org/)
     4. Python [PyGame](https://www.pygame.org/news)
-    5. JavaScript/TypeScript [Three JS](https://threejs.org/)
-    6. JavaScript/TypeScript [Babylon JS](https://www.babylonjs.com/)
+    5. JavaScript [Three JS](https://threejs.org/)
+    6. JavaScript [Babylon JS](https://www.babylonjs.com/)
+    7. [C++ Game Libraries](https://github.com/fffaraz/awesome-cpp#game-engine)
 
 -   ## 3d Modeling APP
 
@@ -164,22 +165,20 @@
 
 -   ## Texture-Material-Shader
 
-    1. https://cc0textures.com
-    2. https://freepbr.com/
-    3. https://www.sharetextures.com/
-    4. https://ambientcg.com
-    5. https://www.textures.com
-    6. https://texture.ninja
-    7. https://joost3d.com/textures
-    8. https://freetextures.3dtotal.com
-    9. https://quixel.com/megascans/free
-    10. https://3dtextures.me
-    11. http://texturelib.com
-    12. http://texturer.com
-    13. https://www.3dxo.com
-    14. https://www.cgbookcase.com/
-    15. https://cloud.blender.org/p/textures
-    16. [Shader Toy](https://www.shadertoy.com/)
+    1. [Quixel](https://quixel.com/megascans/free)
+    2. [cc0textures](https://cc0textures.com)
+    3. [freepbr](https://freepbr.com/)
+    4. [sharetextures](https://www.sharetextures.com/)
+    5. [ambientcg](https://ambientcg.com)
+    6. [textures](https://www.textures.com)
+    7. [texture](https://texture.ninja)
+    8. [3dtextures](https://3dtextures.me)
+    9. [texturelib](http://texturelib.com)
+    10. [texturer](http://texturer.com)
+    11. [3dxo](https://www.3dxo.com)
+    12. [cgbookcase](https://www.cgbookcase.com/)
+    13. [blender textures](https://cloud.blender.org/p/textures)
+    14. [Shader Toy](https://www.shadertoy.com/)
 
 -   ## Game Audio
 
