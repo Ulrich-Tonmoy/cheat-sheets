@@ -212,17 +212,13 @@
 
 -   ## Fonts:
 
-    1. https://fontstruct.com/
-    2. https://www.behance.net/search/projects/?sort=appreciations&time=week&search=free%20font
-    3. https://www.dafont.com/
-    4. https://www.fontfabric.com/fonts/
-    5. https://www.fontsquirrel.com/
-    6. https://www.1001freefonts.com/
-    7. https://www.fontspace.com/
-    8. https://www.neogrey.com/fonts/
-    9. https://www.theleagueofmoveabletype.com/
-    10. https://fonts.bunny.net/
-    11. https://symbols.wentin.net/
+    1. [dafont](https://www.dafont.com/)
+    2. [fontsquirrel](https://www.fontsquirrel.com/)
+    3. [1001freefonts](https://www.1001freefonts.com/)
+    4. [fontspace](https://www.fontspace.com/)
+    5. [theleagueofmoveabletype](https://www.theleagueofmoveabletype.com/)
+    6. [fonts bunny](https://fonts.bunny.net/)
+    7. [wentin](https://symbols.wentin.net/)
 
 -   ## Others
 
