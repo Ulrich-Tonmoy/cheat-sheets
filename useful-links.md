@@ -166,19 +166,20 @@
 -   ## Texture-Material-Shader
 
     1. [Quixel](https://quixel.com/megascans/free)
-    2. [cc0textures](https://cc0textures.com)
-    3. [freepbr](https://freepbr.com/)
-    4. [sharetextures](https://www.sharetextures.com/)
-    5. [ambientcg](https://ambientcg.com)
-    6. [textures](https://www.textures.com)
-    7. [texture](https://texture.ninja)
-    8. [3dtextures](https://3dtextures.me)
-    9. [texturelib](http://texturelib.com)
-    10. [texturer](http://texturer.com)
-    11. [3dxo](https://www.3dxo.com)
-    12. [cgbookcase](https://www.cgbookcase.com/)
-    13. [blender textures](https://cloud.blender.org/p/textures)
-    14. [Shader Toy](https://www.shadertoy.com/)
+    2. [solarsystemscope](https://www.solarsystemscope.com/textures/)
+    3. [cc0textures](https://cc0textures.com)
+    4. [freepbr](https://freepbr.com/)
+    5. [sharetextures](https://www.sharetextures.com/)
+    6. [ambientcg](https://ambientcg.com)
+    7. [textures](https://www.textures.com)
+    8. [texture](https://texture.ninja)
+    9. [3dtextures](https://3dtextures.me)
+    10. [texturelib](http://texturelib.com)
+    11. [texturer](http://texturer.com)
+    12. [3dxo](https://www.3dxo.com)
+    13. [cgbookcase](https://www.cgbookcase.com/)
+    14. [blender textures](https://cloud.blender.org/p/textures)
+    15. [Shader Toy](https://www.shadertoy.com/)
 
 -   ## Game Audio
 
