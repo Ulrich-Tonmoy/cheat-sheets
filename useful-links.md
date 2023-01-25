@@ -83,9 +83,10 @@
 
 -   ## 3d Animation App
 
-    1. [Mixamo](https://www.mixamo.com)
-    2. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
-    3. [Cascadeur](https://cascadeur.com/)
+    1. [Actor Core AUTO RIG](https://actorcore.reallusion.com/)
+    2. [Mixamo](https://www.mixamo.com)
+    3. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
+    4. [Cascadeur](https://cascadeur.com/)
 
 -   ## 2d Art APP
 
