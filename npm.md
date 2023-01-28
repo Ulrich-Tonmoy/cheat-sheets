@@ -148,3 +148,16 @@ npm visnup
     ```properties
     npm update -g <package_name>
     ```
+
+## Npm Commands For updating dependency versions
+
+1.  Check all the upgradable dependency lists
+
+    ```properties
+    npx npm-check-updates
+    ```
+
+2.  Update all dependency version in package.json file
+    ```properties
+    npx npm-check-updates -u
+    ```
