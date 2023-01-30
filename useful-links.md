@@ -133,10 +133,6 @@
     1. [Images sprite sheet generator](https://codeshack.io/images-sprite-sheet-generator/)
     2. [Free sprite sheet packer](https://www.codeandweb.com/free-sprite-sheet-packer)
 
--   ## AI Art Gen
-
-    1. [ArtBreeder](https://www.artbreeder.com)
-
 -   ## 3D Model
 
     1. [The Base Mesh](https://thebasemesh.com)
@@ -154,6 +150,10 @@
     5. [Sketchfab](https://sketchfab.com/)
     6. [Render People](https://renderpeople.com/)
     7. [axyz-design](https://secure.axyz-design.com/)
+
+-   ## AI Art Gen
+
+    1. [ArtBreeder](https://www.artbreeder.com)
 
 -   ## 2d Assets
 
@@ -181,6 +181,10 @@
     13. [cgbookcase](https://www.cgbookcase.com/)
     14. [blender textures](https://cloud.blender.org/p/textures)
     15. [Shader Toy](https://www.shadertoy.com/)
+
+-   ## AI Gen Game Audio
+
+    1. [voice.ai](https://voice.ai/)
 
 -   ## Game Audio
 
