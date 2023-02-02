@@ -136,10 +136,11 @@
 -   ## 3D Model
 
     1. [The Base Mesh](https://thebasemesh.com)
-    2. [Poly Haven](https://polyhaven.com/)
-    3. [Quaternius](https://quaternius.com/)
-    4. [Nasa3d](https://nasa3d.arc.nasa.gov/models)
-    5. [Clara](https://clara.io/)
+    1. [Quaternius](https://quaternius.com/index.html)
+    1. [Poly Haven](https://polyhaven.com/)
+    1. [Quaternius](https://quaternius.com/)
+    1. [Nasa3d](https://nasa3d.arc.nasa.gov/models)
+    1. [Clara](https://clara.io/)
 
 -   ## Paid
 
