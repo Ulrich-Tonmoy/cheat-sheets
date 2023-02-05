@@ -1,6 +1,7 @@
-# <p align="center">🎮Free Game/Web Dev Tools‍💻</p>
+# <p align="center">🎮Free Tool Links‍💻</p>
 
 -   [Game Dev Tools](#game)
+
     -   [Game Jam](#game-jam)
     -   [Game Engine](#game-engine)
     -   [Online Game Engine](#online-game-engine)
@@ -21,17 +22,38 @@
     -   [Game Audio Online](#game-audio-online)
     -   [Logo maker](#logo-maker)
     -   [Fonts](#fonts)
-    -   [Others](#others)
+    -   [Other Game Dev Links](#other-game-dev-links)
     -   [Websites for Blender User](#websites-for-blender-user)
+
 -   [Web Dev Tools](#web)
+
+    -   [Useful links](#useful-links)
+    -   [Code Screenshots](#code-screenshots)
+    -   [Games to learn JavaScript](#games-to-learn-javascript)
     -   [Top 3 Regex Tools](#top-3-regex-tools)
-    -   [Other Tools](#other-tools)
+    -   [Js](#js)
+    -   [CSS](#css)
+    -   [Colors](#colors)
+    -   [Typography](#typography)
+    -   [Loader](#loader)
+    -   [Layouts](#layouts)
+    -   [Avatar](#avatar)
+    -   [Icons](#icons)
+    -   [3d Model Creation](#3d-model-creation)
+    -   [3d icons](#3d-icons)
+    -   [Illustrations](#illustrations)
+    -   [Videos & Images](#videos-&-images)
+    -   [Info](#info)
+    -   [Free API](#free-api)
+    -   [Course](#course)
+
 -   [AI](#ai)
 
-    -   [Text to Image Generator Free Website](#text-to-image-generator-free-website)
+    -   [Text to Image Generator](#text-to-image-generator)
     -   [AI Drawing Tool](#ai-drawing-tool)
 
--   [Other](#other)
+-   [Other Links](#other-links)
+    -   [Work](#work)
 
 # 🎮Game🎮
 
@@ -247,7 +269,7 @@
     7. [chocofur](https://chocofur.com/)
     8. [r/blender](https://www.reddit.com/r/blender/)
 
--   ## Others
+-   ## Other Game Dev Links
 
     1. https://steamdb.info/tech/
     2. https://gaminganalytics.info/
@@ -260,6 +282,21 @@
 
 # ‍💻Web‍💻
 
+-   ## Useful links
+
+    1. [cdnjs](https://cdnjs.com/)
+    2. [Download Git repo folder](https://downgit.github.io/#/home)
+    3. [SRI Hash Generator](https://www.srihash.org/)
+
+-   ## Code Screenshots
+
+    1. [codeimage](https://app.codeimage.dev/)
+    2. [ray.so](https://ray.so/)
+    3. [carbon](https://carbon.now.sh/)
+    4. [chalk](https://chalk.ist/)
+    5. [poet](https://poet.so/)
+    6. [tweetlet](https://tweetlet.net/)
+
 -   ## Games to learn JavaScript
 
     1. [codecombat](https://codecombat.com/play)
@@ -269,134 +306,124 @@
     5. [jsdares](https://jsdares.com/)
     6. [untrusted](https://alexnisnevich.github.io/untrusted/)
 
--   ## Download folder from Git repo:
+-   ## Top 3 Regex Tools
 
-    1. [downgit](https://downgit.github.io/#/home)
+    1. [Regex 101](https://regex101.com/)
+    2. [YouCode AI: Regex](https://you.com/search?q=regex)
+    3. [Regexr](https://regexr.com/)
 
--   ## Download webpage as pdf:
-
-    1. [printfriendly](https://www.printfriendly.com/)
-
--   ## Doc your code:
+-   ## Js
 
     1. [jsdoc](https://jsdoc.app/)
+    2. [swiperjs](https://swiperjs.com/)
+    3. [scrollrevealjs](https://scrollrevealjs.org)
+    4. [kute](https://thednp.github.io/kute.js/)
+    5. [emailjs](https://www.emailjs.com/)
+    6. [turnjs](http://turnjs.com/)
+    7. [leafletjs](https://leafletjs.com/)
+    8. [particles](https://vincentgarreau.com/particles.js/)
+    9. [desandro](https://masonry.desandro.com/)
+    10. [konvajs](https://konvajs.org/)
+    11. [animejs](https://animejs.com/)
+    12. [popper](https://popper.js.org/)
+    13. [tweenjs](https://github.com/tweenjs/tween.js/)
 
--   ## SASS:
+-   ## CSS
 
     1. [sass](https://sass-lang.com/guide)
+    2. [code-magic](https://code-magic.vercel.app/)
+    3. [motion-ui](https://zurb.com/playground/motion-ui)
+    4. [themeselection](https://bootstrap-cheatsheet.themeselection.com/)
+    5. [hint](https://kushagra.dev/lab/hint)
+    6. [webgradients](https://webgradients.com/)
+    7. [enjoycss](https://enjoycss.com/)
+    8. [fancy-border-radius](https://9elements.github.io/fancy-border-radius/)
+    9. [neumorphism](https://neumorphism.io/#e0e0e0)
+    10. [clippy](https://bennettfeely.com/clippy/)
+    11. [easing-gradients](https://larsenwork.com/easing-gradients/)
+    12. [shadows](https://shadows.brumm.af/)
+    13. [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+    14. [cssgradient](https://cssgradient.io/)
+    15. [getwaves](https://getwaves.io/)
+    16. [css-separator-generator](https://wweb.dev/resources/css-separator-generator/)
+    17. [svgwave](https://svgwave.in/)
+    18. [svg-wave-generator](https://www.softr.io/tools/svg-wave-generator)
+    19. [haikei](https://haikei.app/)
+    20. [shapedivider](https://www.shapedivider.app/)
+    21. [gradient](https://angrytools.com/gradient/)
+    22. [scale-up](https://animista.net/play/basic/scale-up)
+    23. [magic](https://www.minimamente.com/project/magic/)
+    24. [animate](https://animate.style/)
+    25. [box-shadow](https://box-shadow.dev/)
+    26. [generate-css](https://generate-css.com/)
+    27. [box-shadow](https://html-css-js.com/css/generator/box-shadow/)
+    28. [buttons-generator](https://markodenic.com/tools/buttons-generator/)
+    29. [10-online-button-generators](https://www.sitepoint.com/10-online-button-generators/)
+    30. [svgbackgrounds](https://www.svgbackgrounds.com/)
+    31. [css-glow-generator](https://cssbud.com/css-generator/css-glow-generator/)
+    32. [clothoid](https://onotakehiko.dev/clothoid/)
+    33. [glassmorphism-generator](https://hype4.academy/tools/glassmorphism-generator)
+    34. [cssfilters](https://www.cssfilters.co/)
+    35. [base64-image](https://www.base64-image.de/)
+    36. [quantityqueries](https://quantityqueries.com/)
+    37. [animate](https://keyframes.app/animate)
+    38. [waitanimate](https://waitanimate.wstone.uk/)
+    39. [transition](https://www.transition.style/)
+    40. [heropatterns](https://heropatterns.com/)
+    41. [haikei](https://app.haikei.app/)
+    42. [pattern-generator](https://doodad.dev/pattern-generator/)
+    43. [css-pattern](https://css-pattern.com/)
+    44. [patternizer](https://patternizer.com/4rjn)
+    45. [patternify](http://www.patternify.com/)
+    46. [animated-css-background-generator](https://wweb.dev/resources/animated-css-background-generator/)
+    47. [trianglify](https://trianglify.io/)
+    48. [animatedbackgrounds](https://animatedbackgrounds.me/)
+    49. [css-backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
+    50. [stylifycss](https://stylifycss.com/)
+    51. [emojicursor](https://www.emojicursor.app/)
+    52. [css-generators](https://css-generators.com/)
+    53. [cssportal](https://www.cssportal.com/)
+    54. [squircley](https://squircley.app/)
+    55. [blobmaker](https://www.blobmaker.app/)
+    56. [svg-shape-generator](https://www.softr.io/tools/svg-shape-generator)
 
--   ## CSS:
-
-    1. [motion-ui](https://zurb.com/playground/motion-ui)
-    2. [themeselection](https://bootstrap-cheatsheet.themeselection.com/)
-
--   ## Js:
-
-    1. [swiperjs](https://swiperjs.com/)
-    2. [scrollrevealjs](https://scrollrevealjs.org)
-    3. [kute](https://thednp.github.io/kute.js/)
-    4. [emailjs](https://www.emailjs.com/)
-    5. [turnjs](http://turnjs.com/)
-    6. [leafletjs](https://leafletjs.com/)
-    7. [particles](https://vincentgarreau.com/particles.js/)
-    8. [desandro](https://masonry.desandro.com/)
-    9. [konvajs](https://konvajs.org/)
-    10. [animejs](https://animejs.com/)
-    11. [popper](https://popper.js.org/)
-    12. [tweenjs](https://github.com/tweenjs/tween.js/)
-
--   ## SRI Hash Generator:
-
-    1. [srihash](https://www.srihash.org/)
-
--   ## CSS Tools:
-
-    1. [code-magic](https://code-magic.vercel.app/)
-    2. [hint](https://kushagra.dev/lab/hint)
-    3. [webgradients](https://webgradients.com/)
-    4. [enjoycss](https://enjoycss.com/)
-    5. [fancy-border-radius](https://9elements.github.io/fancy-border-radius/)
-    6. [neumorphism](https://neumorphism.io/#e0e0e0)
-    7. [clippy](https://bennettfeely.com/clippy/)
-    8. [easing-gradients](https://larsenwork.com/easing-gradients/)
-    9. [shadows](https://shadows.brumm.af/)
-    10. [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
-    11. [cssgradient](https://cssgradient.io/)
-    12. [getwaves](https://getwaves.io/)
-    13. [css-separator-generator](https://wweb.dev/resources/css-separator-generator/)
-    14. [svgwave](https://svgwave.in/)
-    15. [svg-wave-generator](https://www.softr.io/tools/svg-wave-generator)
-    16. [haikei](https://haikei.app/)
-    17. [shapedivider](https://www.shapedivider.app/)
-    18. [gradient](https://angrytools.com/gradient/)
-    19. [scale-up](https://animista.net/play/basic/scale-up)
-    20. [magic](https://www.minimamente.com/project/magic/)
-    21. [animate](https://animate.style/)
-    22. [box-shadow](https://box-shadow.dev/)
-    23. [generate-css](https://generate-css.com/)
-    24. [box-shadow](https://html-css-js.com/css/generator/box-shadow/)
-    25. [buttons-generator](https://markodenic.com/tools/buttons-generator/)
-    26. [10-online-button-generators](https://www.sitepoint.com/10-online-button-generators/)
-    27. [svgbackgrounds](https://www.svgbackgrounds.com/)
-    28. [css-glow-generator](https://cssbud.com/css-generator/css-glow-generator/)
-    29. [clothoid](https://onotakehiko.dev/clothoid/)
-    30. [glassmorphism-generator](https://hype4.academy/tools/glassmorphism-generator)
-    31. [cssfilters](https://www.cssfilters.co/)
-    32. [base64-image](https://www.base64-image.de/)
-    33. [quantityqueries](https://quantityqueries.com/)
-    34. [animate](https://keyframes.app/animate)
-    35. [waitanimate](https://waitanimate.wstone.uk/)
-    36. [transition](https://www.transition.style/)
-    37. [heropatterns](https://heropatterns.com/)
-    38. [haikei](https://app.haikei.app/)
-    39. [pattern-generator](https://doodad.dev/pattern-generator/)
-    40. [css-pattern](https://css-pattern.com/)
-    41. [patternizer](https://patternizer.com/4rjn)
-    42. [patternify](http://www.patternify.com/)
-    43. [animated-css-background-generator](https://wweb.dev/resources/animated-css-background-generator/)
-    44. [trianglify](https://trianglify.io/)
-    45. [animatedbackgrounds](https://animatedbackgrounds.me/)
-    46. [css-backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
-    47. [colormixer](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset)
-    48. [palettte](https://palettte.app/)
-    49. [stylifycss](https://stylifycss.com/)
-
--   ## Colors:
+-   ## Colors
 
     1. [color-palette](https://www.degraeve.com/color-palette/)
-    2. [coolors](https://coolors.co/)
-    3. [paletton](https://paletton.com/)
-    4. [color-wheel](https://color.adobe.com/create/color-wheel)
-    5. [khroma](http://khroma.co/)
-    6. [culrs](https://www.culrs.com/#/)
-    7. [colorhunt](https://colorhunt.co/)
-    8. [colorsinspo](https://colorsinspo.com/)
-    9. [grabient](https://www.grabient.com/)
-    10. [easing-gradients](https://larsenwork.com/easing-gradients/#editor)
-    11. [meshgradient](https://meshgradient.in/)
-    12. [flatuicolors](https://flatuicolors.com/)
-    13. [colordesigner](https://colordesigner.io/tools)
-    14. [colorpalettes](https://colorpalettes.earth/)
+    2. [palettte](https://palettte.app/)
+    3. [coolors](https://coolors.co/)
+    4. [paletton](https://paletton.com/)
+    5. [color-wheel](https://color.adobe.com/create/color-wheel)
+    6. [khroma](http://khroma.co/)
+    7. [culrs](https://www.culrs.com/#/)
+    8. [colorhunt](https://colorhunt.co/)
+    9. [colorsinspo](https://colorsinspo.com/)
+    10. [grabient](https://www.grabient.com/)
+    11. [easing-gradients](https://larsenwork.com/easing-gradients/#editor)
+    12. [meshgradient](https://meshgradient.in/)
+    13. [flatuicolors](https://flatuicolors.com/)
+    14. [colordesigner](https://colordesigner.io/tools)
+    15. [colorpalettes](https://colorpalettes.earth/)
+    16. [colormixer](https://colormixer.web.app/)
 
--   ## Typography:
+-   ## Typography
 
-    1. [fontjoy](https://fontjoy.com/)
-    2. [typesetwith](https://typesetwith.me/)
-    3. [type-scale](https://type-scale.com/)
-    4. [glyphter](https://glyphter.com/)
-    5. [font-library](https://katydecorah.com/font-library/#!/)
-    6. [glitter](https://wh0.github.io/glitter/)
+    1. [glitter](https://wh0.github.io/glitter/)
+    2. [fontjoy](https://fontjoy.com/)
+    3. [typesetwith](https://typesetwith.me/)
+    4. [type-scale](https://type-scale.com/)
+    5. [glyphter](https://glyphter.com/)
+    6. [font-library](https://katydecorah.com/font-library/#!/)
 
--   ## Loader:
+-   ## Loader
 
-    1. [spinkit](https://tobiasahlin.com/spinkit/
-    2. [whirl](https://whirl.netlify.app/
-    3. [css-loader-generator](https://www.cssportal.com/css-loader-generator/
-    4. [css-loaders](https://projects.lukehaas.me/css-loaders/
-    5. [cssloaders](https://cssloaders.github.io/
-    6. [loading](https://loading.io/css/
+    1. [spinkit](https://tobiasahlin.com/spinkit/)
+    2. [whirl](https://whirl.netlify.app/)
+    3. [css-loaders](https://projects.lukehaas.me/css-loaders/)
+    4. [cssloaders](https://cssloaders.github.io/)
+    5. [loading](https://loading.io/css/)
 
--   ## Layouts:
+-   ## Layouts
 
     1. [cssgridgarden](https://cssgridgarden.com/)
     2. [flexboxfroggy](https://flexboxfroggy.com/)
@@ -406,7 +433,59 @@
     6. [bradwoods](https://layout.bradwoods.io/)
     7. [carolineartz](https://codepen.io/carolineartz/full/ogVXZj)
 
--   ## Info:
+-   ## Avatar
+
+    1. [avatars](https://avatars.dicebear.com/)
+    2. [avamake](https://avamake.com/)
+
+-   ## Icons
+
+    1. [iconify](https://icon-sets.iconify.design/)
+    2. [flaticon](https://www.flaticon.com/)
+    3. [fontawesome](https://fontawesome.com/icons)
+    4. [feathericons](https://feathericons.com/)
+    5. [iconmonstr](https://iconmonstr.com/)
+    6. [thenounproject](https://thenounproject.com/)
+    7. [icons8](https://icons8.com/)
+    8. [tablericons](https://tablericons.com)
+    9. [heroicons](https://heroicons.com/)
+    10. [boxicons](https://boxicons.com/)
+    11. [getbootstrap](https://icons.getbootstrap.com)
+
+-   ## 3d Model Creation
+
+    1. [spline](https://spline.design/)
+
+-   ## 3d icons
+
+    1. [valentine-illustrations](https://10clouds.com/valentine-illustrations)
+    2. [handz](https://www.handz.design/)
+    3. [isometriclove](https://www.isometriclove.com/)
+
+-   ## Illustrations
+
+    1. [iradesign](https://iradesign.io/illustrations)
+    2. [manypixels](https://www.manypixels.co/gallery)
+    3. [undraw](https://undraw.co/illustrations)
+    4. [storyset](https://storyset.com/)
+    5. [opendoodles](https://www.opendoodles.com/)
+    6. [humaaans](https://www.humaaans.com/)
+    7. [openpeeps](https://www.openpeeps.com/)
+    8. [blush](https://blush.design/)
+    9. [drawkit](https://www.drawkit.io/)
+
+-   ## Videos & Images
+
+    1. [unsplash](https://unsplash.com/)
+    2. [mixkit](https://mixkit.co/)
+    3. [pexels](https://www.pexels.com/)
+    4. [coverr](https://coverr.co/)
+    5. [pixabay](https://pixabay.com/)
+    6. [stocksnap](https://stocksnap.io/)
+    7. [shopify](https://burst.shopify.com/)
+    8. [loremfaces](https://loremfaces.com/)
+
+-   ## Info
 
     1. [css-timeline](https://css-timeline.vercel.app/)
     2. [screensizemap](https://screensizemap.com/)
@@ -420,92 +499,26 @@
     10. [checklist](https://www.checklist.design/)
     11. [glyphs](https://css-tricks.com/snippets/html/glyphs/)
     12. [css-tricks](https://css-tricks.com/)
+    13. [htmlwasher](https://www.htmlwasher.com/)
+    14. [caniuse](https://caniuse.com/)
+    15. [validator](https://validator.w3.org/)
+    16. [imagecompressor](https://imagecompressor.com/)
+    17. [websitedownloader](https://websitedownloader.io/)
+    18. [builtwith](https://builtwith.com/)
+    19. [measure](https://web.dev/measure/)
+    20. [gitignore](https://www.toptal.com/developers/gitignore)
+    21. [devhints](https://devhints.io/)
+    22. [metatags](https://metatags.io/)
+    23. [frontendchecklist](https://frontendchecklist.io/)
+    24. [overapi](https://overapi.com/)
+    25. [devdocs](https://devdocs.io/)
+    26. [codebeautify](https://codebeautify.org/)
+    27. [tinypng](https://tinypng.com/)
+    28. [it-tools](https://it-tools.tech/)
+    29. [favicon](https://www.favicon.cc/)
+    30. [jsoncrack](https://jsoncrack.com/)
 
--   ## Get cdn links:
-
-    1. [cdnjs](https://cdnjs.com/)
-
--   ## Avatar:
-
-    1. [avatars](https://avatars.dicebear.com/)
-    2. [avamake](https://avamake.com/)
-
--   ## Icons:
-
-    1. [iconify](https://icon-sets.iconify.design/)
-    1. [flaticon](https://www.flaticon.com/)
-    1. [fontawesome](https://fontawesome.com/icons)
-    1. [feathericons](https://feathericons.com/)
-    1. [iconmonstr](https://iconmonstr.com/)
-    1. [thenounproject](https://thenounproject.com/)
-    1. [icons8](https://icons8.com/)
-    1. [tablericons](https://tablericons.com)
-    1. [heroicons](https://heroicons.com/)
-    1. [boxicons](https://boxicons.com/)
-    1. [getbootstrap](https://icons.getbootstrap.com)
-
--   ## 3d Model Creation:
-
-    1. [spline](https://spline.design/)
-
--   ## 3d icons:
-
-    1. [valentine-illustrations](https://10clouds.com/valentine-illustrations)
-    2. [handz](https://www.handz.design/)
-    3. [isometriclove](https://www.isometriclove.com/)
-
--   ## Illustrations:
-
-    1. [manypixels](https://www.manypixels.co/gallery)
-    1. [undraw](https://undraw.co/illustrations)
-    1. [storyset](https://storyset.com/)
-    1. [iradesign](https://iradesign.io/illustrations)
-    1. [opendoodles](https://www.opendoodles.com/)
-    1. [humaaans](https://www.humaaans.com/)
-    1. [openpeeps](https://www.openpeeps.com/)
-    1. [blush](https://blush.design/)
-    1. [drawkit](https://www.drawkit.io/)
-
--   ## Videos & Images:
-
-    1. [unsplash](https://unsplash.com/)
-    2. [mixkit](https://mixkit.co/)
-    3. [pexels](https://www.pexels.com/)
-    4. [coverr](https://coverr.co/)
-    5. [pixabay](https://pixabay.com/)
-    6. [stocksnap](https://stocksnap.io/)
-    7. [shopify](https://burst.shopify.com/)
-    8. [loremfaces](https://loremfaces.com/)
-
--   ## App ideas:
-
-    1. [codepen](https://codepen.io/)
-    2. [codesandbox](https://codesandbox.io/search)
-
--   ## Others:
-
-    1. [htmlwasher](https://www.htmlwasher.com/)
-    2. [caniuse](https://caniuse.com/)
-    3. [validator](https://validator.w3.org/)
-    4. [imagecompressor](https://imagecompressor.com/)
-    5. [websitedownloader](https://websitedownloader.io/)
-    6. [builtwith](https://builtwith.com/)
-    7. [measure](https://web.dev/measure/)
-    8. [gitignore](https://www.toptal.com/developers/gitignore)
-    9. [devhints](https://devhints.io/)
-    10. [metatags](https://metatags.io/)
-    11. [frontendchecklist](https://frontendchecklist.io/)
-    12. [overapi](https://overapi.com/)
-    13. [devdocs](https://devdocs.io/)
-    14. [mokupframes](https://www.mokupframes.com/)
-    15. [codebeautify](https://codebeautify.org/)
-    16. [tinypng](https://tinypng.com/)
-    17. [remove](https://www.remove.bg/)
-    18. [it-tools](https://it-tools.tech/)
-    19. [favicon](https://www.favicon.cc/)
-    20. [jsoncrack](https://jsoncrack.com/)
-
--   ## Free API:
+-   ## Free API
 
     1. [rapidapi](https://rapidapi.com/hub)
     2. [pokeapi](https://pokeapi.co/)
@@ -516,22 +529,12 @@
     7. [breakingbadapi](https://breakingbadapi.com/documentation)
     8. [random-data-api](https://random-data-api.com/documentation)
 
--   ## Top 3 Regex Tools
-
-    1. [Regex 101](https://regex101.com/)
-    2. [YouCode AI: Regex](https://you.com/search?q=regex)
-    3. [Regexr](https://regexr.com/)
-
--   ## Other Tools
-
-    1.  [emojicursor](https://www.emojicursor.app/)
-
 -   ## Course
     1. [Cloud Fundamentals: AWS Services for C# Developers](https://nickchapsas.com/p/cloud-fundamentals-aws-services-for-c-developers)
 
 # 🤖AI🤖
 
--   ## Text to Image Generator Free Website
+-   ## Text to Image Generator
 
     1. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
@@ -556,64 +559,24 @@
 -   ## AI Drawing Tool
     1. [autodraw](https://www.autodraw.com/)
 
-# ⭐️OTHER⭐️
+# 🔗Other Links🔗
 
--   ## Window view around the world
-
-        1. [Window](https://www.window-swap.com/Window)
-
--   ## Code Screenshots
-
-    1. [codeimage](https://app.codeimage.dev/)
-    2. [ray.so](https://ray.so/)
-    3. [carbon](https://carbon.now.sh/)
-    4. [chalk](https://chalk.ist/)
-    5. [poet](https://poet.so/)
-    6. [tweetlet](https://tweetlet.net/)
-
--   ## Whiteboard
-
-    1. [witeboard](https://witeboard.com/)
-
--   ## Temp email
-
-    1. [temporary mail](https://temp-mail.org/)
-
--   ## Profile Pic Maker:
-
-    1. [pfpmaker](https://pfpmaker.com/)
-
--   ## Converting Tools:
-
-    1. [cloudconvert](https://cloudconvert.com/)
-
--   ## Erase Img Bg:
-
-    1. [magiceraser](https://www.magiceraser.io/)
-
--   ## Tools:
-
-    1. [tinywow](https://tinywow.com/)
-    2. [shadyurl](http://shadyurl.com/)
-    3. [myheritage](https://www.myheritage.com/deep-nostalgia)
-    4. [theuselessweb](https://theuselessweb.com/)
-
--   ## Name Generator:
-
-    1. [inickgenwuname](https://www.mess.be/inickgenwuname.php)
-
--   ## Download free books:
-
-    1. [pdfdrive](https://www.pdfdrive.com/)
-    2. [elephind](https://elephind.com/)
-
--   ## Tree simulation:
-
-    1. [visualgo](https://visualgo.net/en/dfsbfs)
-
--   ## Generate Comic:
-
-    1. [comicgen](https://gramener.com/comicgen/)
+1. [Window view around the world](https://www.window-swap.com/Window)
+2. [witeboard](https://witeboard.com/)
+3. [temporary mail](https://temp-mail.org/)
+4. [Download webpage as pdf](https://www.printfriendly.com/)
+5. [Profile Pic Maker](https://pfpmaker.com/)
+6. [Converting Tools](https://cloudconvert.com/)
+7. [Remove Bg](https://www.remove.bg/)
+8. [Erase Img Bg](https://www.magiceraser.io/)
+9. [tinywow](https://tinywow.com/)
+10. [myheritage](https://www.myheritage.com/deep-nostalgia)
+11. [theuselessweb](https://theuselessweb.com/)
+12. [Name Generator](https://www.mess.be/inickgenwuname.php)
+13. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+14. [Download free books (elephind)](https://elephind.com/)
+15. [Tree simulation](https://visualgo.net/en/dfsbfs)
+16. [Generate Comic](https://gramener.com/comicgen/)
 
 -   ## Work
     1. [clickworker](https://www.clickworker.com/)
