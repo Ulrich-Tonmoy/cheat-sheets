@@ -305,6 +305,7 @@
     4. [elevatorsaga](https://play.elevatorsaga.com/)
     5. [jsdares](https://jsdares.com/)
     6. [untrusted](https://alexnisnevich.github.io/untrusted/)
+    7. [checkio](https://js.checkio.org/)
 
 -   ## Top 3 Regex Tools
 
@@ -386,6 +387,11 @@
     54. [squircley](https://squircley.app/)
     55. [blobmaker](https://www.blobmaker.app/)
     56. [svg-shape-generator](https://www.softr.io/tools/svg-shape-generator)
+    57. [all-animation](https://all-animation.github.io/)
+    58. [csshake](https://elrumordelaluz.github.io/csshake/)
+    59. [Hover](https://ianlunn.github.io/Hover/)
+    60. [infinite](https://tilomitra.github.io/infinite/)
+    61. [Woah.css](https://www.joerezendes.com/projects/Woah.css/)
 
 -   ## Colors
 
@@ -561,22 +567,33 @@
 
 # 🔗Other Links🔗
 
-1. [Window view around the world](https://www.window-swap.com/Window)
-2. [witeboard](https://witeboard.com/)
-3. [temporary mail](https://temp-mail.org/)
-4. [Download webpage as pdf](https://www.printfriendly.com/)
-5. [Profile Pic Maker](https://pfpmaker.com/)
-6. [Converting Tools](https://cloudconvert.com/)
-7. [Remove Bg](https://www.remove.bg/)
-8. [Erase Img Bg](https://www.magiceraser.io/)
-9. [tinywow](https://tinywow.com/)
-10. [myheritage](https://www.myheritage.com/deep-nostalgia)
-11. [theuselessweb](https://theuselessweb.com/)
-12. [Name Generator](https://www.mess.be/inickgenwuname.php)
-13. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
-14. [Download free books (elephind)](https://elephind.com/)
-15. [Tree simulation](https://visualgo.net/en/dfsbfs)
-16. [Generate Comic](https://gramener.com/comicgen/)
+-   ## Free
+
+    1. [Window view around the world](https://www.window-swap.com/Window)
+    2. [witeboard](https://witeboard.com/)
+    3. [temporary mail](https://temp-mail.org/)
+    4. [Download webpage as pdf](https://www.printfriendly.com/)
+    5. [Profile Pic Maker](https://pfpmaker.com/)
+    6. [Converting Tools](https://cloudconvert.com/)
+    7. [Remove Bg](https://www.remove.bg/)
+    8. [Erase Img Bg](https://www.magiceraser.io/)
+    9. [tinywow](https://tinywow.com/)
+    10. [myheritage](https://www.myheritage.com/deep-nostalgia)
+    11. [theuselessweb](https://theuselessweb.com/)
+    12. [Name Generator](https://www.mess.be/inickgenwuname.php)
+    13. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+    14. [Download free books (elephind)](https://elephind.com/)
+    15. [Tree simulation](https://visualgo.net/en/dfsbfs)
+    16. [Generate Comic](https://gramener.com/comicgen/)
+    17. [donotpay](https://donotpay.com/)
+    18. [discudemy](https://www.discudemy.com/)
+    19. [texttohandwriting](https://texttohandwriting.com/)
+    20. [opensourcealternative](https://www.opensourcealternative.to/)
+
+-   ## Paid
+
+    1. [repurpose](https://repurpose.io/)
+    2. [synthesia](https://www.synthesia.io/)
 
 -   ## Work
     1. [clickworker](https://www.clickworker.com/)
