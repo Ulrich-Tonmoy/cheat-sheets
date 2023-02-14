@@ -411,6 +411,7 @@
     14. [colordesigner](https://colordesigner.io/tools)
     15. [colorpalettes](https://colorpalettes.earth/)
     16. [colormixer](https://colormixer.web.app/)
+    17. [uigradients](https://uigradients.com/)
 
 -   ## Typography
 
@@ -446,17 +447,18 @@
 
 -   ## Icons
 
-    1. [iconify](https://icon-sets.iconify.design/)
-    2. [flaticon](https://www.flaticon.com/)
-    3. [fontawesome](https://fontawesome.com/icons)
-    4. [feathericons](https://feathericons.com/)
-    5. [iconmonstr](https://iconmonstr.com/)
-    6. [thenounproject](https://thenounproject.com/)
-    7. [icons8](https://icons8.com/)
-    8. [tablericons](https://tablericons.com)
-    9. [heroicons](https://heroicons.com/)
-    10. [boxicons](https://boxicons.com/)
-    11. [getbootstrap](https://icons.getbootstrap.com)
+    1. [lordicon](https://lordicon.com/)
+    2. [iconify](https://icon-sets.iconify.design/)
+    3. [flaticon](https://www.flaticon.com/)
+    4. [fontawesome](https://fontawesome.com/icons)
+    5. [feathericons](https://feathericons.com/)
+    6. [iconmonstr](https://iconmonstr.com/)
+    7. [thenounproject](https://thenounproject.com/)
+    8. [icons8](https://icons8.com/)
+    9. [tablericons](https://tablericons.com)
+    10. [heroicons](https://heroicons.com/)
+    11. [boxicons](https://boxicons.com/)
+    12. [getbootstrap](https://icons.getbootstrap.com)
 
 -   ## 3d Model Creation
 
@@ -523,6 +525,9 @@
     28. [it-tools](https://it-tools.tech/)
     29. [favicon](https://www.favicon.cc/)
     30. [jsoncrack](https://jsoncrack.com/)
+    31. [gtmetrix](https://gtmetrix.com/)
+    32. [pingdom](https://tools.pingdom.com/)
+    33. [tinyjpg](https://tinyjpg.com/)
 
 -   ## Free API
 
