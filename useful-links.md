@@ -100,16 +100,24 @@
 
     1. [Blender](https://www.blender.org)
     2. [Vroid](https://vroid.com)
-    3. [Ephtracy](https://ephtracy.github.io)
+    3. [MagicaVoxel](https://ephtracy.github.io)
     4. [Rocket3f](https://rocket3f.com)
     5. [Meshmixer](https://meshmixer.com)
     6. [Meshmolder](https://www.meshmolder.com)
     7. [Bforartists](https://www.bforartists.de)
     8. [Daz3d](https://www.daz3d.com)
-    9. [Dust3d](https://dust3d.org/)
+    9. [Dust3d](https://github.com/huxingyi/dust3d)
     10. [Wings3d](http://www.wings3d.com)
     11. [Make Human](http://www.makehumancommunity.org)
     12. [Nomad Sculpt](https://stephaneginier.com)
+    13. [Clavicula](https://clavicula.link/)
+    14. [Rocket 3f](https://rocket3f.com/)
+    15. [Goxel](https://goxel.xyz/)
+    16. [Blockbench](https://www.blockbench.net/)
+    17. [Plasticity](https://github.com/nkallen/plasticity)
+    18. [Material Maker](https://www.materialmaker.org/)
+    19. [Armor Paint](https://github.com/armory3d/armortools)
+    20. [Game Texture Viewer](https://jangafx.com/software/gametextureviewer/)
 
 -   ## 3d Animation App
 
