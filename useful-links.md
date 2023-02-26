@@ -51,6 +51,7 @@
 
     -   [Text to Image Generator](#text-to-image-generator)
     -   [AI Drawing Tool](#ai-drawing-tool)
+    -   [Image Gen AI Websites](#image-gen-ai-websites)
 
 -   [Other Links](#other-links)
     -   [Work](#work)
@@ -89,9 +90,9 @@
 -   ## Game Framework
 
     1. C# [MonoGame](https://www.monogame.net/)
-    2. Rust [Bevy](https://bevyengine.org/)
-    3. Lua [Love2d](https://love2d.org/)
-    4. Python [PyGame](https://www.pygame.org/news)
+    2. Lua [Love2d](https://love2d.org/)
+    3. Python [PyGame](https://www.pygame.org/news)
+    4. Rust [Bevy](https://bevyengine.org/)
     5. JavaScript [Three JS](https://threejs.org/)
     6. JavaScript [Babylon JS](https://www.babylonjs.com/)
     7. [C++ Game Libraries](https://github.com/fffaraz/awesome-cpp#game-engine)
@@ -118,6 +119,7 @@
     18. [Material Maker](https://www.materialmaker.org/)
     19. [Armor Paint](https://github.com/armory3d/armortools)
     20. [Game Texture Viewer](https://jangafx.com/software/gametextureviewer/)
+    21. [lil-ladds](https://nickladd.itch.io/lil-ladds)
 
 -   ## 3d Animation App
 
@@ -467,6 +469,7 @@
     10. [heroicons](https://heroicons.com/)
     11. [boxicons](https://boxicons.com/)
     12. [getbootstrap](https://icons.getbootstrap.com)
+    13. [svgrepo](https://www.svgrepo.com/)
 
 -   ## 3d Model Creation
 
@@ -578,7 +581,12 @@
     10. [DGSpitzer (huggingface))](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space)
 
 -   ## AI Drawing Tool
+
     1. [autodraw](https://www.autodraw.com/)
+
+-   ## Image Gen AI Websites
+    1. [Plagground ai](https://playgroundai.com/)
+    2. [instantart](https://instantart.io/)
 
 # 🔗Other Links🔗
 
@@ -587,24 +595,25 @@
     1. [Window view around the world](https://www.window-swap.com/Window)
     2. [witeboard](https://witeboard.com/)
     3. [stashpad](https://www.stashpad.com/)
-    4. [temporary mail](https://temp-mail.org/)
-    5. [Download webpage as pdf](https://www.printfriendly.com/)
-    6. [Profile Pic Maker](https://pfpmaker.com/)
-    7. [Converting Tools](https://cloudconvert.com/)
-    8. [Remove Bg](https://www.remove.bg/)
-    9. [Erase Img Bg](https://www.magiceraser.io/)
-    10. [tinywow](https://tinywow.com/)
-    11. [myheritage](https://www.myheritage.com/deep-nostalgia)
-    12. [theuselessweb](https://theuselessweb.com/)
-    13. [Name Generator](https://www.mess.be/inickgenwuname.php)
-    14. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
-    15. [Download free books (elephind)](https://elephind.com/)
-    16. [Tree simulation](https://visualgo.net/en/dfsbfs)
-    17. [Generate Comic](https://gramener.com/comicgen/)
-    18. [donotpay](https://donotpay.com/)
-    19. [discudemy](https://www.discudemy.com/)
-    20. [texttohandwriting](https://texttohandwriting.com/)
-    21. [opensourcealternative](https://www.opensourcealternative.to/)
+    4. [obsidian](https://obsidian.md/)
+    5. [temporary mail](https://temp-mail.org/)
+    6. [Download webpage as pdf](https://www.printfriendly.com/)
+    7. [Profile Pic Maker](https://pfpmaker.com/)
+    8. [Converting Tools](https://cloudconvert.com/)
+    9. [Remove Bg](https://www.remove.bg/)
+    10. [Erase Img Bg](https://www.magiceraser.io/)
+    11. [tinywow](https://tinywow.com/)
+    12. [myheritage](https://www.myheritage.com/deep-nostalgia)
+    13. [theuselessweb](https://theuselessweb.com/)
+    14. [Name Generator](https://www.mess.be/inickgenwuname.php)
+    15. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+    16. [Download free books (elephind)](https://elephind.com/)
+    17. [Tree simulation](https://visualgo.net/en/dfsbfs)
+    18. [Generate Comic](https://gramener.com/comicgen/)
+    19. [donotpay](https://donotpay.com/)
+    20. [discudemy](https://www.discudemy.com/)
+    21. [texttohandwriting](https://texttohandwriting.com/)
+    22. [opensourcealternative](https://www.opensourcealternative.to/)
 
 -   ## Paid
 
