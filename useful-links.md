@@ -594,6 +594,7 @@
 
     1. [Window view around the world](https://www.window-swap.com/Window)
     2. [witeboard](https://witeboard.com/)
+    2. [Diagram](https://app.dgrm.net/)
     3. [stashpad](https://www.stashpad.com/)
     4. [obsidian](https://obsidian.md/)
     5. [temporary mail](https://temp-mail.org/)
