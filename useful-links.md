@@ -298,6 +298,11 @@
     2. [Download Git repo folder](https://downgit.github.io/#/home)
     3. [SRI Hash Generator](https://www.srihash.org/)
 
+-   ## Mock Up Tools
+
+    1. [shots](https://shots.so/)
+    2. [brandbird](https://www.brandbird.app/)
+
 -   ## Code Screenshots
 
     1. [codeimage](https://app.codeimage.dev/)
