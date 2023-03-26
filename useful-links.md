@@ -18,8 +18,8 @@
   - [2d Assets](#2d-assets)
   - [3D Model](#3d-model)
   - [Texture Material Shader](#texture-material-shader)
-  - [Game Audio](#game-audio)
-  - [Game Audio Online](#game-audio-online)
+  - [Game Audio App](#game-audio-app)
+  - [Game Audio App Online](#game-audio-app-online)
   - [Logo maker](#logo-maker)
   - [Fonts](#fonts)
   - [Other Game Dev Links](#other-game-dev-links)
@@ -230,6 +230,10 @@
 
 - ## Game Audio
 
+  1. [sonniss](https://gdc.sonniss.com/)
+
+- ## Game Audio App
+
   1. [Audacity](https://www.audacityteam.org)
   2. [Wwise](https://www.audiokinetic.com/en/)
   3. [LMMS](https://lmms.io)
@@ -250,7 +254,7 @@
   18. [ocenaudio](https://www.ocenaudio.com)
   19. [sitala](https://decomposer.de/sitala)
 
-- ## Game Audio Online
+- ## Game Audio App Online
 
   1. [BeepBox](https://www.beepbox.co)
 
@@ -416,7 +420,7 @@
   59. [Hover](https://ianlunn.github.io/Hover/)
   60. [infinite](https://tilomitra.github.io/infinite/)
   61. [Woah.css](https://www.joerezendes.com/projects/Woah.css/)
-  61. [finisher](https://www.finisher.co/lab/header/)
+  62. [finisher](https://www.finisher.co/lab/header/)
 
 - ## Colors
 
