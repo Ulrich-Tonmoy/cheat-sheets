@@ -307,6 +307,11 @@
 
   1. [shots](https://shots.so/)
   2. [brandbird](https://www.brandbird.app/)
+  3. [huemint](https://huemint.com/)
+  4. [gumroad](https://discover.gumroad.com/design?sort=featured)
+  5. [Free psd Templates](https://free-psd-templates.com/)
+  6. [Adobe Express](https://www.adobe.com/express/)
+  7. [Identitydesigned](https://identitydesigned.com/)
 
 - ## Code Screenshots
 
