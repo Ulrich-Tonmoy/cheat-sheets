@@ -481,19 +481,20 @@
 
 - ## Icons
 
-  1. [lordicon](https://lordicon.com/)
-  2. [iconify](https://icon-sets.iconify.design/)
-  3. [flaticon](https://www.flaticon.com/)
-  4. [fontawesome](https://fontawesome.com/icons)
-  5. [feathericons](https://feathericons.com/)
-  6. [iconmonstr](https://iconmonstr.com/)
-  7. [thenounproject](https://thenounproject.com/)
-  8. [icons8](https://icons8.com/)
-  9. [tablericons](https://tablericons.com)
-  10. [heroicons](https://heroicons.com/)
-  11. [boxicons](https://boxicons.com/)
-  12. [getbootstrap](https://icons.getbootstrap.com)
-  13. [svgrepo](https://www.svgrepo.com/)
+  1. [techicons](https://techicons.dev/)
+  2. [feathericons](https://feathericons.com/)
+  3. [lordicon](https://lordicon.com/)
+  4. [iconify](https://icon-sets.iconify.design/)
+  5. [flaticon](https://www.flaticon.com/)
+  6. [fontawesome](https://fontawesome.com/icons)
+  7. [iconmonstr](https://iconmonstr.com/)
+  8. [thenounproject](https://thenounproject.com/)
+  9. [icons8](https://icons8.com/)
+  10. [tablericons](https://tablericons.com)
+  11. [heroicons](https://heroicons.com/)
+  12. [boxicons](https://boxicons.com/)
+  13. [getbootstrap](https://icons.getbootstrap.com)
+  14. [svgrepo](https://www.svgrepo.com/)
 
 - ## 3d Model Creation
 
