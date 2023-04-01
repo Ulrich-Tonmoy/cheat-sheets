@@ -25,3 +25,25 @@
   const fractionFormatter = new Intl.NumberFormat(undefined, { maximumFractionDigits: 2, minimumFractionDigits: 1  });
   console.log(currencyFormatter.format(15412154);
   ```
+
+## Console Logging Methods
+
+- To print array as a table
+
+  ```js
+  const users = [
+    { name: "a", age: 25 },
+    { name: "b", age: 26 },
+  ];
+  console.table(users);
+  ```
+
+- To print How much Time it take
+
+  ```js
+  console.time("Loop")
+  for(let i=0;i<100000;i++){
+    //
+  }
+  console.timeEnd("Loop"))
+  ```
