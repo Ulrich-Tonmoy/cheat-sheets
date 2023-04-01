@@ -1,5 +1,12 @@
 ## React - Best Practices
 
+### To change tab title or html page title in React
+
+```js
+// Add this to the page components and change the title based on the page
+document.title = "A new title";
+```
+
 ### Use vite instead of create-react-app
 
 ##### Its both faster for development and production build. Use the bellow command and follow the instruction given in the terminal.
@@ -15,7 +22,7 @@ npm create vite@latest
 ```js
 // ES5
 function getSum(a, b) {
-    return a + b;
+  return a + b;
 }
 
 // ES6
@@ -51,8 +58,8 @@ const workingHours = 8;
 
 ```js
 var person = {
-    name: "John",
-    age: 32,
+  name: "John",
+  age: 32,
 };
 
 // ES5
@@ -73,10 +80,10 @@ var workingHours = 8;
 
 // ES5
 var person = {
-    name: name,
-    age: age,
-    designation: designation,
-    workingHours: workingHours,
+  name: name,
+  age: age,
+  designation: designation,
+  workingHours: workingHours,
 };
 
 // ES6
@@ -117,8 +124,8 @@ const getSum = (a, b) => a + b; // good approach
 
 ```js
 const person = {
-    name: "John",
-    state: "LA",
+  name: "John",
+  state: "LA",
 };
 console.log("Age", person.age); // error
 console.log("Age", person.age ? person.age : "Not available"); // correct
@@ -142,7 +149,7 @@ const text = <div className="learning-text">Happy Learning!</div>; // good appro
 
 ```css
 .learning-text {
-    font-weight: bold;
+  font-weight: bold;
 }
 ```
 
@@ -171,8 +178,8 @@ const [isValid, setIsValid] = useState(false);
 ```js
 const printHello = () => console.log("HELLO");
 useEffect(() => {
-    document.addEventListener("click", printHello);
-    return () => document.removeEventListener("click", printHello);
+  document.addEventListener("click", printHello);
+  return () => document.removeEventListener("click", printHello);
 });
 ```
 
@@ -199,11 +206,11 @@ const Input=(props)=>{
 ```js
 // Bad approach
 if (name === "Ali") {
-    return 1;
+  return 1;
 } else if (name === "Bilal") {
-    return 2;
+  return 2;
 } else {
-    return 3;
+  return 3;
 }
 
 // Good approach
@@ -224,24 +231,24 @@ import { pageName } from "src/components/pages"; // Good
 ```js
 // Bad approach
 const Details = (props) => {
-    return (
-        <div>
-            <p>{props.name}</p>
-            <p>{props.age}</p>
-            <p>{props.designation}</p>
-        </div>
-    );
+  return (
+    <div>
+      <p>{props.name}</p>
+      <p>{props.age}</p>
+      <p>{props.designation}</p>
+    </div>
+  );
 };
 
 // Good approach
 const Details = ({ name, age, designation }) => {
-    return (
-        <div>
-            <p>{name}</p>
-            <p>{age}</p>
-            <p>{designation}</p>
-        </div>
-    );
+  return (
+    <div>
+      <p>{name}</p>
+      <p>{age}</p>
+      <p>{designation}</p>
+    </div>
+  );
 };
 ```
 
@@ -251,13 +258,13 @@ const Details = ({ name, age, designation }) => {
 // In a function, if you are assigning a value to a state variable then you won't be able to access that assigned value even after it has been assigned in that function
 
 const Message = () => {
-    const [message, setMessage] = useState("Hello World");
-    const changeMessage = (messageText) => {
-        setMessage("Happy Learning");
-        console.log(message); // It will print Hello World on console
-    };
+  const [message, setMessage] = useState("Hello World");
+  const changeMessage = (messageText) => {
+    setMessage("Happy Learning");
+    console.log(message); // It will print Hello World on console
+  };
 
-    return <div>{message}</div>;
+  return <div>{message}</div>;
 };
 ```
 
