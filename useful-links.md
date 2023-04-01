@@ -177,11 +177,19 @@
 - ## 3D Model
 
   1. [The Base Mesh](https://thebasemesh.com)
-  1. [Quaternius](https://quaternius.com/index.html)
-  1. [Poly Haven](https://polyhaven.com/)
-  1. [Quaternius](https://quaternius.com/)
-  1. [Nasa3d](https://nasa3d.arc.nasa.gov/models)
-  1. [Clara](https://clara.io/)
+  2. [Quaternius](https://quaternius.com/index.html)
+  3. [Poly Haven](https://polyhaven.com/)
+  4. [Quaternius](https://quaternius.com/)
+  5. [Nasa3d](https://nasa3d.arc.nasa.gov/models)
+  6. [Clara](https://clara.io/)
+  7. [ReadyPlayer Avatar Engine](https://readyplayer.me/)
+  8. [RenderHub](https://www.renderhub.com/)
+  9. [HDR Maps](https://hdrmaps.com/freebies/)
+  10. [STL Finder](https://www.stlfinder.com/)
+  11. [3D MDB](https://3dmdb.com/)
+  12. [free3d](https://free3d.com/)
+  13. [3Delicious](https://3delicious.net/)
+  14. [Archive3D](https://archive3d.net/)
 
 - ## Paid
 
@@ -192,6 +200,7 @@
   5. [Sketchfab](https://sketchfab.com/)
   6. [Render People](https://renderpeople.com/)
   7. [axyz-design](https://secure.axyz-design.com/)
+  8. [Smithsonian X3D](https://3d.si.edu/)
 
 - ## AI Art Gen
 
