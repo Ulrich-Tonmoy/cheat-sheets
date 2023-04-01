@@ -47,3 +47,9 @@
   }
   console.timeEnd("Loop"))
   ```
+
+## JS Built in uuid generator API
+
+```js
+console.log(crypto.randomUUID());
+```
