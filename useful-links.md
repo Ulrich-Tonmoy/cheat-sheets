@@ -5,7 +5,6 @@
   - [Game Jam](#game-jam)
   - [Game Engine](#game-engine)
   - [Online Game Engine](#online-game-engine)
-  - [Roblox Like Game Engine](#roblox-like-game-engine)
   - [Game Framework](#game-framework)
   - [3d Modeling APP](#3d-modeling-app)
   - [3d Animation APP](#3d-animation-app)
@@ -70,10 +69,12 @@
 
 - ## Game Engine
 
-  1. [Godot](https://godotengine.org/download/windows/)
-  2. [Unity](https://unity.com/download)
+  1. [Unity](https://unity.com/download)
+  2. [Godot](https://godotengine.org/download/windows/)
   3. [Unreal](https://www.unrealengine.com/en-US/download)
   4. [RenPy](https://www.renpy.org/)
+  5. [Core](https://www.coregames.com)
+  6. [The Mirror](https://www.themirror.space/)
 
 - ## Online Game Engine
 
@@ -82,21 +83,13 @@
   3. [Microsoft microbit](https://makecode.microbit.org)
   4. [Scratch](https://scratch.mit.edu)
 
-- ## Roblox Like Game Engine
-
-  1. [Core](https://www.coregames.com)
-  2. [The Mirror](https://www.themirror.space/)
-
 - ## Game Framework
 
-  1. C# [MonoGame](https://www.monogame.net/)
-  2. Lua [Love2d](https://love2d.org/)
-  3. Python [PyGame](https://www.pygame.org/news)
-  4. Rust [Bevy](https://bevyengine.org/)
-  5. JavaScript [Three JS](https://threejs.org/)
-  6. JavaScript [Babylon JS](https://www.babylonjs.com/)
-  7. JavaScript [Phaser](https://phaser.io/)
-  8. [C++ Game Libraries](https://github.com/fffaraz/awesome-cpp#game-engine)
+  1. C++ [All Game Libraries](https://github.com/fffaraz/awesome-cpp#game-engine)
+  2. JavaScript/TypeScript [Three JS](https://threejs.org/) - [Babylon JS](https://www.babylonjs.com/) - [Phaser](https://phaser.io/)
+  3. Python [PyGame](https://www.pygame.org/news) - [Pyglet](https://pyglet.org/) - [Panda3d](https://www.panda3d.org/)
+  4. C# [MonoGame](https://www.monogame.net/)
+  5. Lua [Love2d](https://love2d.org/)
 
 - ## 3d Modeling APP
 
@@ -150,10 +143,10 @@
   3. [piskelapp](https://www.piskelapp.com)
   4. [Pixilart](https://www.pixilart.com)
   5. [lospec](https://lospec.com/pixel-editor)
-  5. [dpaint](https://www.stef.be/dpaint/)
-  6. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
-  7. [makepixelart](https://makepixelart.com/free)
-  8. [Vectr](https://vectr.com/design/)
+  6. [dpaint](https://www.stef.be/dpaint/)
+  7. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+  8. [makepixelart](https://makepixelart.com/free)
+  9. [Vectr](https://vectr.com/design/)
 
 - ## 2d Animation APP
 
