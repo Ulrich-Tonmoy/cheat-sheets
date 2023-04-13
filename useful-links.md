@@ -150,6 +150,7 @@
   3. [piskelapp](https://www.piskelapp.com)
   4. [Pixilart](https://www.pixilart.com)
   5. [lospec](https://lospec.com/pixel-editor)
+  5. [dpaint](https://www.stef.be/dpaint/)
   6. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
   7. [makepixelart](https://makepixelart.com/free)
   8. [Vectr](https://vectr.com/design/)
