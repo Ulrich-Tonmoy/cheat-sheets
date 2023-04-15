@@ -357,7 +357,7 @@
   12. [popper](https://popper.js.org/)
   13. [tweenjs](https://github.com/tweenjs/tween.js/)
 
-- ## Top JavaScript Notification Libraries
+- ## Top JS Notification Libraries
 
   1. [React Toastify](https://github.com/fkhadra/react-toastify#readme)
   2. [Sweetalert](https://sweetalert.js.org/)
