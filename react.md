@@ -1,5 +1,38 @@
 ## React - Best Practices
 
+### The best way to change state in react and get the updated value instantly
+
+```js
+export default function App() {
+  const [array, setArray] = useState([1, 2, 3]);
+
+  const addToStart = (num) => {
+    setArray((prev) => {
+      return [num, ...prev];
+    });
+  };
+  const addToEnd = (num) => {
+    setArray((prev) => {
+      return [...prev, num];
+    });
+  };
+
+  return (
+    <>
+      {array}
+      <button
+        onClick={() => {
+          addToStart(0);
+          addToEnd(0);
+        }}
+      >
+        Add
+      </button>
+    </>
+  );
+}
+```
+
 ### To change tab title or html page title in React
 
 ```js
