@@ -46,14 +46,7 @@
   - [Free API](#free-api)
   - [Course](#course)
 
-- [AI](#ai)
-
-  - [Text to Image Generator](#text-to-image-generator)
-  - [AI Drawing Tool](#ai-drawing-tool)
-  - [Image Gen AI Websites](#image-gen-ai-websites)
-
-- [Other Links](#other-links)
-  - [Work](#work)
+- [Other Tools Links](#other-tools-links)
 
 # 🎮Game🎮
 
@@ -588,67 +581,34 @@
 - ## Course
   1. [Cloud Fundamentals: AWS Services for C# Developers](https://nickchapsas.com/p/cloud-fundamentals-aws-services-for-c-developers)
 
-# 🤖AI🤖
-
-- ## Text to Image Generator
-
-  1. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-
-  2. [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
-
-  3. [Anything V3 (huggingface)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
-
-  4. [Waifu-Diffusion (huggingface)](https://huggingface.co/hakurei/waifu-diffusion)
-
-  5. [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
-
-  6. [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
-
-  7. [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
-
-  8. [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
-
-  9. [Craiyon (Formerly DALL-E Mini))](https://www.craiyon.com/)
-
-  10. [DGSpitzer (huggingface))](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space)
-
-- ## AI Drawing Tool
-
-  1. [autodraw](https://www.autodraw.com/)
-
-- ## Image Gen AI Websites
-  1. [Plagground ai](https://playgroundai.com/)
-  2. [Civitai](https://civitai.com//)
-  3. [mage.space](https://www.mage.space/)
-  4. [instantart](https://instantart.io/)
-
-# 🔗Other Links🔗
+# 🔗Other Tools Links🔗
 
 - ## Free
 
-  1. [Window view around the world](https://www.window-swap.com/Window)
-  2. [witeboard](https://witeboard.com/)
-  3. [Diagram](https://app.dgrm.net/)
-  4. [stashpad](https://www.stashpad.com/)
-  5. [obsidian](https://obsidian.md/)
-  6. [temporary mail](https://temp-mail.org/)
-  7. [Download webpage as pdf](https://www.printfriendly.com/)
-  8. [Profile Pic Maker](https://pfpmaker.com/)
-  9. [Converting Tools](https://cloudconvert.com/)
-  10. [Remove Bg](https://www.remove.bg/)
-  11. [Erase Img Bg](https://www.magiceraser.io/)
-  12. [tinywow](https://tinywow.com/)
-  13. [myheritage](https://www.myheritage.com/deep-nostalgia)
-  14. [theuselessweb](https://theuselessweb.com/)
-  15. [Name Generator](https://www.mess.be/inickgenwuname.php)
-  16. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
-  17. [Download free books (elephind)](https://elephind.com/)
-  18. [Tree simulation](https://visualgo.net/en/dfsbfs)
-  19. [Generate Comic](https://gramener.com/comicgen/)
-  20. [donotpay](https://donotpay.com/)
-  21. [discudemy](https://www.discudemy.com/)
-  22. [texttohandwriting](https://texttohandwriting.com/)
-  23. [opensourcealternative](https://www.opensourcealternative.to/)
+  1. [obsidian](https://obsidian.md/)
+  2. [stashpad](https://www.stashpad.com/)
+  3. [logseq](https://logseq.com/)
+  4. [Window view around the world](https://www.window-swap.com/Window)
+  5. [witeboard](https://witeboard.com/)
+  6. [Diagram](https://app.dgrm.net/)
+  7. [temporary mail](https://temp-mail.org/)
+  8. [Download webpage as pdf](https://www.printfriendly.com/)
+  9. [Profile Pic Maker](https://pfpmaker.com/)
+  10. [Converting Tools](https://cloudconvert.com/)
+  11. [Remove Bg](https://www.remove.bg/)
+  12. [Erase Img Bg](https://www.magiceraser.io/)
+  13. [tinywow](https://tinywow.com/)
+  14. [myheritage](https://www.myheritage.com/deep-nostalgia)
+  15. [theuselessweb](https://theuselessweb.com/)
+  16. [Name Generator](https://www.mess.be/inickgenwuname.php)
+  17. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+  18. [Download free books (elephind)](https://elephind.com/)
+  19. [Tree simulation](https://visualgo.net/en/dfsbfs)
+  20. [Generate Comic](https://gramener.com/comicgen/)
+  21. [donotpay](https://donotpay.com/)
+  22. [discudemy](https://www.discudemy.com/)
+  23. [texttohandwriting](https://texttohandwriting.com/)
+  24. [opensourcealternative](https://www.opensourcealternative.to/)
 
 - ## Paid
 
