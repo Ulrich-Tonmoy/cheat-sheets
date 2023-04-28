@@ -360,7 +360,7 @@
   2. [Sweetalert](https://sweetalert.js.org/)
   3. [Chakra UI](https://chakra-ui.com/docs/components/alert)
   4. [Notie](https://jaredreich.com/notie/)
-  5. [Notie](https://jaredreich.com/notie/)
+  5. [React Hot Toast](https://react-hot-toast.com/)
 
 - ## CSS
 
