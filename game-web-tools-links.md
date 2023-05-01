@@ -87,6 +87,7 @@
 - ## UI Inspiration for Games
 
   1. [Game UI](https://www.gameuidatabase.com/)
+  1. [Game Controls Design Tool](https://www.padcrafter.com)
 
 - ## 3d Modeling APP
 
