@@ -3,6 +3,7 @@
   - [Text to Image Generator](#text-to-image-generator)
   - [AI Drawing Tool](#ai-drawing-tool)
   - [Image Gen AI Websites](#image-gen-ai-websites)
+  - [Top Free Courses on LLM](#top-free-courses-on-llm)
 
 # 🤖AI🤖
 
@@ -34,7 +35,19 @@
   1. [autodraw](https://www.autodraw.com/)
 
 - ## Image Gen AI Websites
+
   1. [Plagground ai](https://playgroundai.com/)
   2. [Civitai](https://civitai.com//)
   3. [mage.space](https://www.mage.space/)
   4. [instantart](https://instantart.io/)
+
+- ## Top Free Courses on LLM
+
+  1. [CS324: LLMs by Stanford University](https://stanford-cs324.github.io/winter2022/)
+  2. [Understanding LLMs by Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+  3. [LLMs by ETH Zürich](https://rycolab.io/classes/llm-s23/)
+  4. [CS224n: Deep Learning for NLP by Stanford University](https://web.stanford.edu/class/cs224n/) -or- [Youtube](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+  5. [HuggingFace Transformers Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+  6. [Jay Alammar’s Article Series on Large Language Models](https://jalammar.github.io/illustrated-transformer/) - or - [Applying massive language models in the real world with Cohere
+     ](https://jalammar.github.io/applying-large-language-models-cohere/)
+  7. [Understanding Large Language Models - A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
