@@ -13,16 +13,15 @@
   - [2D Animation APP](#2d-animation-app)
   - [Tile Editor](#tile-editor)
   - [Online Sprite Editor](#online-sprite-editor)
-  - [AI Art Gen](#ai-art-gen)
-  - [2d Assets](#2d-assets)
   - [3D Model](#3d-model)
   - [Texture Material Shader](#texture-material-shader)
+  - [2d Assets](#2d-assets)
   - [Game Audio App](#game-audio-app)
   - [Game Audio App Online](#game-audio-app-online)
   - [Logo maker](#logo-maker)
   - [Fonts](#fonts)
-  - [Other Game Dev Links](#other-game-dev-links)
   - [Websites for Blender User](#websites-for-blender-user)
+  - [Other Game Dev Links](#other-game-dev-links)
 
 - [Web Dev Tools](#web)
 
@@ -182,6 +181,24 @@
   12. [3Delicious](https://3delicious.net/)
   13. [Archive3D](https://archive3d.net/)
 
+- ## Texture-Material-Shader
+
+  1. [Quixel](https://quixel.com/megascans/free)
+  2. [solarsystemscope](https://www.solarsystemscope.com/textures/)
+  3. [cc0textures](https://cc0textures.com)
+  4. [freepbr](https://freepbr.com/)
+  5. [sharetextures](https://www.sharetextures.com/)
+  6. [ambientcg](https://ambientcg.com)
+  7. [textures](https://www.textures.com)
+  8. [texture](https://texture.ninja)
+  9. [3dtextures](https://3dtextures.me)
+  10. [texturelib](http://texturelib.com)
+  11. [texturer](http://texturer.com)
+  12. [3dxo](https://www.3dxo.com)
+  13. [cgbookcase](https://www.cgbookcase.com/)
+  14. [blender textures](https://cloud.blender.org/p/textures)
+  15. [Shader Toy](https://www.shadertoy.com/)
+
 - ## Paid
 
   1. [Kitbash 3d](https://kitbash3d.com)
@@ -205,24 +222,6 @@
   7. [Poly.Pizza](http://poly.pizza)
   8. [Craft Pix](https://craftpix.net/)
   9. [Game Dev Market](https://www.gamedevmarket.net)
-
-- ## Texture-Material-Shader
-
-  1. [Quixel](https://quixel.com/megascans/free)
-  2. [solarsystemscope](https://www.solarsystemscope.com/textures/)
-  3. [cc0textures](https://cc0textures.com)
-  4. [freepbr](https://freepbr.com/)
-  5. [sharetextures](https://www.sharetextures.com/)
-  6. [ambientcg](https://ambientcg.com)
-  7. [textures](https://www.textures.com)
-  8. [texture](https://texture.ninja)
-  9. [3dtextures](https://3dtextures.me)
-  10. [texturelib](http://texturelib.com)
-  11. [texturer](http://texturer.com)
-  12. [3dxo](https://www.3dxo.com)
-  13. [cgbookcase](https://www.cgbookcase.com/)
-  14. [blender textures](https://cloud.blender.org/p/textures)
-  15. [Shader Toy](https://www.shadertoy.com/)
 
 - ## AI Gen Game Audio
 
