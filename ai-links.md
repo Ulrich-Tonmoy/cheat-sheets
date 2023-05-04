@@ -7,6 +7,10 @@
 
 # 🤖AI🤖
 
+- ## Chat GPT Alternative
+  1. [Bai Chat](https://chatbot.theb.ai)
+  2. [HuggingChat](https://huggingface.co/chat/)
+
 - ## Text to Image Generator
 
   1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
