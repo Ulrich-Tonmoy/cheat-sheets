@@ -37,18 +37,13 @@ document.designMode = "on";
 <!-- different favicon for light and dark mode -->
 
 <head>
-    <link
-        rel="icon"
-        type="image/svg+xml"
-        href="dark-icon.svg"
-        media="(prefers-color-scheme:dark)"
-    />
-    <link
-        rel="icon"
-        type="image/svg+xml"
-        href="light-icon.svg"
-        media="(prefers-color-scheme:light)"
-    />
+  <link rel="icon" type="image/svg+xml" href="dark-icon.svg" media="(prefers-color-scheme:dark)" />
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="light-icon.svg"
+    media="(prefers-color-scheme:light)"
+  />
 </head>
 ```
 
@@ -56,8 +51,8 @@ document.designMode = "on";
 <!-- When you need to run some calculations on your inputs and get a result instantly, you can use the <output> element to display the results without writing any external JS -->
 
 <form oninput="total.value=Number(amount.value) + (Number(amount.value) * Number(tip.value)/100)">
-    <input type="number" id="amount" value="0" /> + <input type="number" id="tip" value="0" /> =
-    <output name="total" for="amount tip"></output>
+  <input type="number" id="amount" value="0" /> + <input type="number" id="tip" value="0" /> =
+  <output name="total" for="amount tip"></output>
 </form>
 ```
 
@@ -99,18 +94,18 @@ document.designMode = "on";
 <!-- input suggestion -->
 <input list="lists" />
 <datalist id="lists">
-    <option value="1"></option>
-    <option value="2"></option>
-    <option value="3"></option>
+  <option value="1"></option>
+  <option value="2"></option>
+  <option value="3"></option>
 </datalist>
 ```
 
 ```html
 <!-- multiple image with different widths have a single scaling -->
 <picture>
-    <source media="{min-width:650px}" srcset="image.png" />
-    <source media="{min-width:550px}" srcset="image.png" />
-    <img src="image.png" style="width:auto" />
+  <source media="{min-width:650px}" srcset="image.png" />
+  <source media="{min-width:550px}" srcset="image.png" />
+  <img src="image.png" style="width:auto" />
 </picture>
 ```
 
@@ -132,80 +127,110 @@ document.designMode = "on";
 ```html
 <!-- This will redirect the user to provided url in 4s and then set to 0 for an immediate redirect -->
 <head>
-    <meta http-equiv="refresh" content="4;URL=URL" />
+  <meta http-equiv="refresh" content="4;URL=URL" />
 </head>
 ```
 
 ## Useful HTML attributes you may not know
 
-1. Multiple
+1. Dialog/Modal
 
-    ```html
-    <input type="file" multiple />
-    ```
+   ```html
+   <dialog>
+     <form>
+       <input type="text" />
+       <button formmethod="dialog" type="submit">Cancel</button>
+       <button type="submit">Submit</button>
+     </form>
+   </dialog>
+   ```
 
-    The multiple attribute allows the user to enter multiple values on an input. It is a boolean attribute valid for file or email input types and the select element.
-    For an email input, if and only if the multiple attribute is specified, the value can be a list of comma-separated email addresses. Any whitespace is removed from each address in the list.
-    For a file input, the user can select multiple files in the as usual (holding down Shift or Crtl).
+   ```js
+   const dialog = document.querySelector("dialog");
+   dialog.show(); // Opens a non-modal dialog
+   dialog.showModal(); // Opens a modal
 
-2. Accept
+   dialog.addEventListener("click", (e) => {
+     const dialogDimensions = dialog.getBoundingClientRect();
+     if (
+       e.clientX < dialogDimensions.left ||
+       e.clientX > dialogDimensions.right ||
+       e.clientY < dialogDimensions.top ||
+       e.clientY > dialogDimensions.bottom
+     ) {
+       dialog.close(); // Closes the dialog
+     }
+   });
+   ```
 
-    ```html
-    <input type="file" accept=".png, .jpg" />
-    ```
+2. Multiple
 
-    The input element has the accept attribute that allows you to specify the types of files the user can upload.
-    You need to pass it a string containing a comma-separated list of unique file type specifiers.
-    You can also use it to specify only audio, image, or video format.
+   ```html
+   <input type="file" multiple />
+   ```
 
-3. Contenteditable
+   The multiple attribute allows the user to enter multiple values on an input. It is a boolean attribute valid for file or email input types and the select element.
+   For an email input, if and only if the multiple attribute is specified, the value can be a list of comma-separated email addresses. Any whitespace is removed from each address in the list.
+   For a file input, the user can select multiple files in the as usual (holding down Shift or Crtl).
 
-    ```html
-    <div contenteditable="true">I'm a cool editable div ;)</div>
-    ```
+3. Accept
 
-    contenteditable is a global attribute (common to all HTML elements) that makes the HTML content editable by the user or not. However, be careful with changes only made to visible content vs the DOM content.
+   ```html
+   <input type="file" accept=".png, .jpg" />
+   ```
 
-4. Spellcheck
+   The input element has the accept attribute that allows you to specify the types of files the user can upload.
+   You need to pass it a string containing a comma-separated list of unique file type specifiers.
+   You can also use it to specify only audio, image, or video format.
 
-    ```html
-    <p contenteditable="true" spellcheck="true">Thanks furr checkinng my speling :)</p>
-    ```
+4. Contenteditable
 
-    The spellcheck is another global attribute that you can use to check spelling and grammar on HTML elements such as input fields and other editable elements.
-    Note: Typically non-editable elements are not checked for spelling errors, even if the spellcheck attribute is set to true and the browser supports spellchecking.
+   ```html
+   <div contenteditable="true">I'm a cool editable div ;)</div>
+   ```
 
-5. Translate
+   contenteditable is a global attribute (common to all HTML elements) that makes the HTML content editable by the user or not. However, be careful with changes only made to visible content vs the DOM content.
 
-    ```html
-    <footer><p translate="no">LearnPine</p></footer>
-    ```
+5. Spellcheck
 
-    translate tells the browser whether the content should be translated or not.
-    For instance, you can use it to prevent Google Translate from automatically trying to translate your company's or brand's name.
+   ```html
+   <p contenteditable="true" spellcheck="true">Thanks furr checkinng my speling :)</p>
+   ```
 
-6. Poster
-    ```html
-    <video controls src="https://bit.ly/3nWh78w" poster="posterImage.png"></video>
-    ```
-    Use the poster attribute to specify an image to be shown while the video is downloading, or until the user hits the play button.
-    If the image isn't specified, nothing is displayed until the first frame is available, then the first frame is shown as the poster frame.
-7. Download
-    ```html
-    <a href="index.html" download="fileName">Download me :)</a>
-    ```
-    Use the download attribute combined with an `a` element to instruct browsers to download a URL instead of navigating to it, so the user will be prompted to save it as a local file.
-    You can also specify the file name.
-8. Style
-    ```html
-    <body>
-        <style contenteditable style="display:block; white-space:pre;">
-            html {
-                background: #bada55;
-            }
-        </style>
-    </body>
-    ```
+   The spellcheck is another global attribute that you can use to check spelling and grammar on HTML elements such as input fields and other editable elements.
+   Note: Typically non-editable elements are not checked for spelling errors, even if the spellcheck attribute is set to true and the browser supports spellchecking.
+
+6. Translate
+
+   ```html
+   <footer><p translate="no">LearnPine</p></footer>
+   ```
+
+   translate tells the browser whether the content should be translated or not.
+   For instance, you can use it to prevent Google Translate from automatically trying to translate your company's or brand's name.
+
+7. Poster
+   ```html
+   <video controls src="https://bit.ly/3nWh78w" poster="posterImage.png"></video>
+   ```
+   Use the poster attribute to specify an image to be shown while the video is downloading, or until the user hits the play button.
+   If the image isn't specified, nothing is displayed until the first frame is available, then the first frame is shown as the poster frame.
+8. Download
+   ```html
+   <a href="index.html" download="fileName">Download me :)</a>
+   ```
+   Use the download attribute combined with an `a` element to instruct browsers to download a URL instead of navigating to it, so the user will be prompted to save it as a local file.
+   You can also specify the file name.
+9. Style
+   ```html
+   <body>
+     <style contenteditable style="display:block; white-space:pre;">
+       html {
+         background: #bada55;
+       }
+     </style>
+   </body>
+   ```
 
 ## [Basic HTML tags](https://way2tutorial.com/html/example/html_cheat_sheet.php)
 
