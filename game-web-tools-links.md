@@ -78,7 +78,7 @@
 - ## Game Framework
 
   1. C++ [All Game Libraries](https://github.com/fffaraz/awesome-cpp#game-engine)
-  2. JavaScript/TypeScript [Three JS](https://threejs.org/) | [Babylon JS](https://www.babylonjs.com/) | [Phaser](https://phaser.io/)
+  2. JavaScript/TypeScript [Three JS](https://threejs.org/) | [Babylon JS](https://www.babylonjs.com/) | [PlayCanvas](https://playcanvas.com/) | [Phaser](https://phaser.io/)
   3. Python [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
   4. C# [MonoGame](https://www.monogame.net/)
   5. Lua [Love2d](https://love2d.org/)
