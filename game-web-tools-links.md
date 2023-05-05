@@ -132,6 +132,7 @@
   9. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
   10. [Firealpaca](https://firealpaca.com)
   11. [Medibangpaint](https://medibangpaint.com/en)
+  12. [PixiEditor](https://pixieditor.net/)
 
 - ## Online 2d Art APP
 
@@ -252,6 +253,7 @@
   17. [blendwave](https://beta.blendwave.net)
   18. [ocenaudio](https://www.ocenaudio.com)
   19. [sitala](https://decomposer.de/sitala)
+  20. [boscaceoil](https://boscaceoil.net/)
 
 - ## Game Audio App Online
 
