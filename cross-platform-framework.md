@@ -62,3 +62,4 @@
   3. [EGUI](https://github.com/emilk/egui)
   4. [Iced](https://github.com/iced-rs/iced)
   5. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
+  6. [Dioxus](https://github.com/DioxusLabs/dioxus)
