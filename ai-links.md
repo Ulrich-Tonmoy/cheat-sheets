@@ -8,8 +8,11 @@
 # 🤖AI🤖
 
 - ## Chat GPT Alternative
+
   1. [Bai Chat](https://chatbot.theb.ai)
   2. [HuggingChat](https://huggingface.co/chat/)
+  3. [You](https://you.com/)
+  4. [Ora AI](https://ora.ai/)
 
 - ## Text to Image Generator
 
