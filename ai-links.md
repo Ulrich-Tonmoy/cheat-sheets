@@ -1,5 +1,7 @@
 - [AI](#ai)
 
+  - [Chat GPT Alternative](#chat-gpt-alternative)
+  - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Text to Image Generator](#text-to-image-generator)
   - [AI Drawing Tool](#ai-drawing-tool)
   - [Image Gen AI Websites](#image-gen-ai-websites)
@@ -13,6 +15,15 @@
   2. [HuggingChat](https://huggingface.co/chat/)
   3. [You](https://you.com/)
   4. [Ora AI](https://ora.ai/)
+
+- ## Free AI and LLMs Playgrounds
+
+  1. [Chatbot Arena](https://chat.lmsys.org/)
+  2. [Vercel AI Playground](https://play.vercel.ai/)
+  3. [GPT4ALL](https://gpt4all.io/)
+  4. [Quora Poe](https://poe.com/)
+  5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
+  6. [Open Assistant](https://open-assistant.io/)
 
 - ## Text to Image Generator
 
