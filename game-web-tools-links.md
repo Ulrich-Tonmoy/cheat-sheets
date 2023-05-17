@@ -314,7 +314,7 @@
   5. [Free psd Templates](https://free-psd-templates.com/)
   6. [Adobe Express](https://www.adobe.com/express/)
   7. [Identitydesigned](https://identitydesigned.com/)
-  7. [realtimecolors](https://realtimecolors.com/)
+  8. [realtimecolors](https://realtimecolors.com/)
 
 - ## Code Screenshots
 
@@ -486,8 +486,8 @@
 
   1. [techicons](https://techicons.dev/)
   2. [feathericons](https://feathericons.com/)
-  3. [lordicon](https://lordicon.com/)
-  4. [iconify](https://icon-sets.iconify.design/)
+  3. [iconify](https://icon-sets.iconify.design/)
+  4. [lordicon](https://lordicon.com/)
   5. [flaticon](https://www.flaticon.com/)
   6. [fontawesome](https://fontawesome.com/icons)
   7. [iconmonstr](https://iconmonstr.com/)
