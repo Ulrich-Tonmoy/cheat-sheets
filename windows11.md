@@ -25,6 +25,13 @@
     @="empty/null"
     ```
 
+## Remove Open With Visual Studio from Context Menu
+
+- Open Registry Editor (Search it in the windows search)
+- In the Registry Editor put the bellow link in the nav it will take you to folder name AnyCode just delete the folder
+- HKEY_CLASSES_ROOT\Directory\Background\shell\AnyCode
+- HKEY_CLASSES_ROOT\Directory\shell\AnyCode
+
 ## Add to open with in context menu (right click) for any app
 
 - For Adding
