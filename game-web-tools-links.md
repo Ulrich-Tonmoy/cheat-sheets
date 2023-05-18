@@ -130,9 +130,13 @@
   7. [Libresprite](http://www.libresprite.org/downloads)
   8. [Graphicsgale](https://graphicsgale.com/us)
   9. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
-  10. [Firealpaca](https://firealpaca.com)
-  11. [Medibangpaint](https://medibangpaint.com/en)
+  10. [MediBang Paint](https://medibangpaint.com/en/)
+  11. [Firealpaca](https://firealpaca.com)
   12. [PixiEditor](https://pixieditor.net/)
+  13. [MyPaint](https://mypaint.app/)
+  14. [Sumo Paint](https://sumo.app/)
+  15. [Pinta](https://www.pinta-project.com/)
+  16. [Pixlr](https://pixlr.com/)
 
 - ## Online 2d Art APP
 
