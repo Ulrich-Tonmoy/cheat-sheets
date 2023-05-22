@@ -46,6 +46,9 @@
   - [Course](#course)
 
 - [Other Tools Links](#other-tools-links)
+  - [Free](#free)
+  - [Paid](#paid)
+  - [Work](#work)
 
 # 🎮Game🎮
 
@@ -208,7 +211,7 @@
   14. [blender textures](https://cloud.blender.org/p/textures)
   15. [Shader Toy](https://www.shadertoy.com/)
 
-- ## Paid
+- ## Texture-Material-Shader (Paid)
 
   1. [Kitbash 3d](https://kitbash3d.com)
   2. [Brushify](https://www.brushify.io)
@@ -606,20 +609,21 @@
   8. [Download webpage as pdf](https://www.printfriendly.com/)
   9. [Profile Pic Maker](https://pfpmaker.com/)
   10. [Converting Tools](https://cloudconvert.com/)
-  11. [Remove Bg](https://www.remove.bg/)
-  12. [Erase Img Bg](https://www.magiceraser.io/)
-  13. [tinywow](https://tinywow.com/)
-  14. [myheritage](https://www.myheritage.com/deep-nostalgia)
-  15. [theuselessweb](https://theuselessweb.com/)
-  16. [Name Generator](https://www.mess.be/inickgenwuname.php)
-  17. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
-  18. [Download free books (elephind)](https://elephind.com/)
-  19. [Tree simulation](https://visualgo.net/en/dfsbfs)
-  20. [Generate Comic](https://gramener.com/comicgen/)
-  21. [donotpay](https://donotpay.com/)
-  22. [discudemy](https://www.discudemy.com/)
-  23. [texttohandwriting](https://texttohandwriting.com/)
-  24. [opensourcealternative](https://www.opensourcealternative.to/)
+  11. [Ico to Png](https://cloudconvert.com/)
+  12. [Remove Bg](https://www.remove.bg/)
+  13. [Erase Img Bg](https://www.magiceraser.io/)
+  14. [tinywow](https://tinywow.com/)
+  15. [myheritage](https://www.myheritage.com/deep-nostalgia)
+  16. [theuselessweb](https://theuselessweb.com/)
+  17. [Name Generator](https://www.mess.be/inickgenwuname.php)
+  18. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+  19. [Download free books (elephind)](https://elephind.com/)
+  20. [Tree simulation](https://visualgo.net/en/dfsbfs)
+  21. [Generate Comic](https://gramener.com/comicgen/)
+  22. [donotpay](https://donotpay.com/)
+  23. [discudemy](https://www.discudemy.com/)
+  24. [texttohandwriting](https://texttohandwriting.com/)
+  25. [opensourcealternative](https://www.opensourcealternative.to/)
 
 - ## Paid
 
