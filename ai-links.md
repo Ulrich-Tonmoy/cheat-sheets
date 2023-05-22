@@ -16,6 +16,11 @@
   3. [You](https://you.com/)
   4. [Ora AI](https://ora.ai/)
 
+- ## Text to Video (Freemium)
+
+  1. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
+  2. [Lumen5](https://lumen5.com/)
+
 - ## Free AI and LLMs Playgrounds
 
   1. [Chatbot Arena](https://chat.lmsys.org/)
