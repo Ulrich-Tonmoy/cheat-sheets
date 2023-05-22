@@ -1,5 +1,82 @@
 ## React - Best Practices
 
+## React Ecosystem
+
+1. #### Getting Started
+   - [Vite (For creating react projects)](https://vitejs.dev/guide/)
+   - [Next JS (React Framework)](https://nextjs.org/docs/getting-started/installation)
+   - [CodeSandbox (For trying online)](https://codesandbox.io/)
+   - [StackBlitz (For trying online)](https://stackblitz.com/)
+2. #### Routing
+   - [React Router Dom](https://reactrouter.com/en/main)
+   - [TanStack Router](https://tanstack.com/router/v1)
+3. #### Client State Management
+   - [Redux Toolkit](https://redux-toolkit.js.org/)
+   - [Zustand](https://zustand-demo.pmnd.rs/)
+4. #### Server State Management
+   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+   - [TanStack Query](https://tanstack.com/query/latest)
+   - [Apollo Client](https://www.apollographql.com/docs/react/)
+5. #### Form Handling
+   - [React Hook Form](https://react-hook-form.com/)
+   - [Formik](https://formik.org/docs/overview)
+6. #### Testing
+   - [Vitest](https://vitest.dev/)
+   - [Playwright](https://playwright.dev/)
+   - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+7. #### Styling
+   - [Tailwind CSS](https://tailwindcss.com/)
+   - [styled-components](https://styled-components.com/)
+   - [Emotion](https://emotion.sh/docs/introduction)
+8. #### UI Component
+   - [MUI](https://mui.com/)
+   - [Mantine](https://mantine.dev/)
+   - [Ant Design](https://ant.design/)
+   - [Chakra UI](https://chakra-ui.com/)
+   - [Flowbite ](https://flowbite.com/)
+   - [daisyUI](https://daisyui.com/)
+   - [shadcn/ui](https://ui.shadcn.com/)
+   - [headlessui](https://headlessui.com/)
+9. #### Animation
+   - [react-spring](https://www.react-spring.dev/)
+   - [Framer Motion](https://www.framer.com/motion/)
+10. #### Data Visualization
+    - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
+    - [react-chartjs-2](https://react-chartjs-2.js.org/)
+    - [Recharts](https://recharts.org/en-US/)
+11. #### Table
+    - [TanStack Table](https://tanstack.com/table/v8)
+12. #### Internationalization
+    - [react-i18next](https://react.i18next.com/)
+    - [FormatJS](https://formatjs.io/docs/react-intl/)
+13. #### DevTools
+    - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+    - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+    - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
+    - [React Hook Form DevTools](https://react-hook-form.com/dev-tools)
+    - [TanStack Query DevTools](https://tanstack.com/query/v4/docs/react/devtools)
+    - [Fake Filler (chrome link)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
+    - [Responsive Viewer (chrome link)](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+    - [Web Developer (chrome link)](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+    - [CSS Peeper (chrome link)](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+    - [CSS Viewer for Google Chrome (chrome link)](https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag)
+    - [Project Naptha (chrome link)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
+14. #### Documentation Apps
+    - [Docusaurus](https://docusaurus.io/)
+    - [Nextra](https://nextra.site/)
+15. #### Component Dev Env
+    - [Storybook](https://storybook.js.org/)
+16. #### Type Checking
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [JSDoc](https://jsdoc.app/)
+17. #### Mobile Apps
+    - [React Native](https://reactnative.dev/)
+    - [Tauri](https://tauri.app/)
+18. #### Other Libraries
+    - [dnd kit](https://dndkit.com/)
+    - [react-dropzone](https://react-dropzone.js.org/)
+    - [Supabase](https://supabase.com/)
+
 ### The best way to change state in react and get the updated value instantly
 
 ```js
@@ -38,16 +115,6 @@ export default function App() {
 ```js
 // Add this to the page components and change the title based on the page
 document.title = "A new title";
-```
-
-### Use vite instead of create-react-app
-
-##### Its both faster for development and production build. Use the bellow command and follow the instruction given in the terminal.
-
-[Official Vite Guide](https://vitejs.dev/guide/)
-
-```properties
-npm create vite@latest
 ```
 
 ### Functions
