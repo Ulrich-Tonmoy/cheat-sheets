@@ -1,2 +1,2 @@
-*.css linguist-detectable=false
-*.bat linguist-detectable=false
+*.css linguist-vendored
+*.bat linguist-vendored
