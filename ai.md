@@ -1,5 +1,6 @@
 - [AI](#ai)
 
+  - [Useful Use Cases of ChatGPT](#useful-use-cases-of-chatgpt)
   - [Chat GPT Alternative](#chat-gpt-alternative)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Text to Image Generator](#text-to-image-generator)
@@ -8,6 +9,31 @@
   - [Top Free Courses on LLM](#top-free-courses-on-llm)
 
 # 🤖AI🤖
+
+- ## Useful Use Cases of ChatGPT
+
+  1. Rapid creation of content based on current events, trends, and analytics. <br>
+     Example: “Generate a caption & prompt for Midjourney to create a post for Instagram [Username] using yesterday’s news for [Topic]. Finally, utilizing the last week’s engagement statistics, recommend a posting time.
+     <img alt="html structure" src="./assets/ai/1.png" width="360px"/>
+  2. Job hunting. <br>
+     Example: “Find a list of remote [Field] jobs that fit my profile, with a pay range of $70k-90k. Using that list, edit my resume & cover letter for each job listing. And lastly, submit each application and use Excel sheets to keep track of each application.”
+  3. Plan your trip with up-to-the-minute information. <br>
+     Example: “Find me the quickest flight from [Location] to [Loaction] within 27 hours. Once landed, book a hotel under $200 in [Location] that also has a hot tub, 2 beds, and is near the city”
+  4. Find the most recent trends. <br>
+     Example: “Give me a list of trends forming within the last week in the [Topic]. Using that list, create multiple visuals and a presentation for [company] on Google Slides about how [Topic] is the next big thing”
+     <img alt="html structure" src="./assets/ai/2.png" width="360px"/>
+  5. Discover the best discounts on the web. <br>
+     Example: “Search for the three lowest priced [items] across all e-commerce websites. Show me the best options with over 4.5 ratings, that ship to [Location].”
+  6. Updates on the stock market in real-time. <br>
+     Example: “What’s the current price of all the stocks in my [portfolio]? How has its value changed in the last 7 days?”
+  7. Summarization. <br>
+     Example: “Summarize the following [Article] in a paragraph. Then, send that summary to my boss on his [email]”
+  8. Explore the most current literature, media, and online resources. <br>
+     Example: “Conduct market research on [Website #1] and compare it to our [Website #2]. Give me a list of ways to improve our website and a step-by-step plan to achieve it.”
+  9. Create new promotional plans every day. <br>
+     Example: “Generate an SEO strategy for [company] around the [Topic].”
+  10. Personal Portfolio Manager. <br>
+      Example: “Using data from the latest Snowflake, Google, and Amazon earnings, generate graphs predicting each company’s growth within [Topic]. Then, provide me a thesis on each stock and how they fit within my portfolio.”
 
 - ## Chat GPT Alternative
 
