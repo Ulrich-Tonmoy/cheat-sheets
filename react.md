@@ -4,7 +4,7 @@
 
 1. #### Getting Started
    - [Vite (For creating react projects)](https://vitejs.dev/guide/)
-   - [Next JS (React Framework)](https://nextjs.org/docs/getting-started/installation)
+   - [Next JS (React Framework)](https://nextjs.org/docs/getting-started/installation) - [Other usefull links](https://github.com/unicodeveloper/awesome-nextjs)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Routing
