@@ -11,7 +11,8 @@
 - Get Page Load Time:
   ```js
   const loadTime =
-    window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
+    window.performance.timing.loadEventEnd -
+    window.performance.timing.navigationStart;
   console.log(`Page load time: ${loadTime}ms`);
   ```
 - Measuring Resource Load Time:
@@ -37,7 +38,8 @@
   ```js
   // Monitoring page load time
   const loadTime =
-    window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
+    window.performance.timing.loadEventEnd -
+    window.performance.timing.navigationStart;
   console.log(`Page load time: ${loadTime}ms`);
 
   // Monitor resource load time
@@ -51,7 +53,10 @@
 
   ```js
   // Monitor the load time of a critical resource
-  const keyResources = ["https://example.com/css/style.css", "https://example.com/js/main.js"];
+  const keyResources = [
+    "https://example.com/css/style.css",
+    "https://example.com/js/main.js",
+  ];
   keyResources.forEach((resource) => {
     const resourceEntry = window.performance.getEntriesByName(resource)[0];
     console.log(`${resource} load time: ${resourceEntry.duration}ms`);
@@ -90,7 +95,8 @@
 - :
   ```js
   const loadTime =
-    window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
+    window.performance.timing.loadEventEnd -
+    window.performance.timing.navigationStart;
   console.log(`Page load time: ${loadTime}ms`);
   ```
 
@@ -98,10 +104,10 @@
 
 - Date Time
 
-```js
-const formatter = new Intl.DateTimeFormat("en-US");
-console.log(formatter.format(new Date()));
-```
+  ```js
+  const formatter = new Intl.DateTimeFormat("en-US");
+  console.log(formatter.format(new Date()));
+  ```
 
 - Relative Time Format
 
@@ -142,8 +148,20 @@ console.log(formatter.format(new Date()));
   console.timeEnd("Loop"))
   ```
 
-## JS Built in uuid generator API
+## Other
 
-```js
-console.log(crypto.randomUUID());
-```
+- JS Built in uuid generator API
+
+  ```js
+  console.log(crypto.randomUUID());
+  ```
+
+- Get time difference between dates in hour
+  ```js
+  const today = new Date();
+  const yesterday = new Date();
+  yesterday.setDate(yesterday.getDate() - 1);
+  const timeDiff = today.getTime() - yesterday.getTime();
+  const diffInMs = Math.abs(timeDiff);
+  const diffInMinutes = Math.floor(diffInMs / (1000 * 60 * 60));
+  ```
