@@ -37,3 +37,24 @@ Linux:
 ```
 
 8. Copy and paste the css inside of the [`codingphase-style.css`](./assets/vs-code/codingphase-style.css) file and replace the styles inside the `synthWaveStyles.css` file
+
+# Workspace tools
+
+- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://desktop.github.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code Studio](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [Opera](https://www.opera.com/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/)
+- [nvm windows](https://github.com/coreybutler/nvm-windows) - [Node](https://nodejs.org/en) - [Deno](https://deno.com/runtime) - [Bun](https://bun.sh/)
+- [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install)
+- Terminal - Powershell - [Starship](https://starship.rs/)
+- [Obsidian](https://obsidian.md/)
+  - Excalidraw
+  - Dataview
+  - Kanban
+  - Tasks
+  - Style Settings
+  - Initiative Tracker
+  - Mermaid
+  - Home tab
+  - Callout Manager
+- [Potplayer](https://potplayer.daum.net/)
