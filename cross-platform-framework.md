@@ -3,8 +3,9 @@
 - ### C#
 
   1. [.NET MAUI](https://github.com/dotnet/maui)
-  2. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
-  3. [Uno](https://github.com/unoplatform/uno)
+  1. [WPF](https://github.com/dotnet/wpf)
+  1. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+  1. [Uno](https://github.com/unoplatform/uno)
 
 - ### C/C++
 
