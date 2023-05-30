@@ -11,8 +11,7 @@
 - Get Page Load Time:
   ```js
   const loadTime =
-    window.performance.timing.loadEventEnd -
-    window.performance.timing.navigationStart;
+    window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
   console.log(`Page load time: ${loadTime}ms`);
   ```
 - Measuring Resource Load Time:
@@ -38,8 +37,7 @@
   ```js
   // Monitoring page load time
   const loadTime =
-    window.performance.timing.loadEventEnd -
-    window.performance.timing.navigationStart;
+    window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
   console.log(`Page load time: ${loadTime}ms`);
 
   // Monitor resource load time
@@ -53,10 +51,7 @@
 
   ```js
   // Monitor the load time of a critical resource
-  const keyResources = [
-    "https://example.com/css/style.css",
-    "https://example.com/js/main.js",
-  ];
+  const keyResources = ["https://example.com/css/style.css", "https://example.com/js/main.js"];
   keyResources.forEach((resource) => {
     const resourceEntry = window.performance.getEntriesByName(resource)[0];
     console.log(`${resource} load time: ${resourceEntry.duration}ms`);
@@ -95,10 +90,18 @@
 - :
   ```js
   const loadTime =
-    window.performance.timing.loadEventEnd -
-    window.performance.timing.navigationStart;
+    window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
   console.log(`Page load time: ${loadTime}ms`);
   ```
+
+## Array
+
+    ```js
+    // Last element
+    arr.at(-1);
+    // 2nd last element
+    arr.at(-2);
+    ```
 
 ## [Intl Formatter Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 
