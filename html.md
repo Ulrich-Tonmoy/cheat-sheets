@@ -3,7 +3,7 @@
 ## HTML structure
 
 <p align="center">
-  <img alt="html structure" src="https://github.com/Ulrich-Tonmoy/cheat-sheets/blob/main/assets/html/HTML.png" width="360px"/>
+  <img alt="html structure" src="./assets/html/HTML.png" width="360px"/>
 </p>
 
 ```js
@@ -231,6 +231,20 @@ document.designMode = "on";
      </style>
    </body>
    ```
+
+## Semantic HTML tags
+
+- `<header>` and `<footer>`: These elements represent the header and footer of a document or a section.
+- `<nav>`: This element is used for the part of the website that contains navigation links.
+- `<article>`: This element represents a self-contained composition in a document, like a blog post, a news story, or a forum post.
+- `<section>`: This element represents a standalone section of a document, which doesn’t have a more specific semantic element to represent it.
+- `<aside>`: This element is used for content that is indirectly related to the main content, like a sidebar or pull quotes.
+- `<figure>` and `<figcaption>`: These elements are used for representing a piece of self-contained flow content, optionally with a caption.
+- `<details>`: Defines additional details that the user can view or hide.
+- `<summary>`: Defines a visible heading for a `<details>` element.
+- `<main>`: Specifies the main content of a document.
+- `<mark>`: Defines marked/highlighted text.
+- `<time>`: Defines a date/time
 
 ## [Basic HTML tags](https://way2tutorial.com/html/example/html_cheat_sheet.php)
 
