@@ -2,8 +2,8 @@
 
 ## Git Commit Patterns
 
-<img alt="git commit patterns" src="https://github.com/Ulrich-Tonmoy/cheat-sheets/blob/main/assets/git/1.png"/>
-<img alt="git commit patterns" src="https://github.com/Ulrich-Tonmoy/cheat-sheets/blob/main/assets/git/2.png"/>
+<img alt="git commit patterns" src="./assets/git/1.png"/>
+<img alt="git commit patterns" src="./assets/git/2.png"/>
 
 - [gitmoji](https://gitmoji.dev/)
 
