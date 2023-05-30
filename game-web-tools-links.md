@@ -15,6 +15,7 @@
   - [Online Sprite Editor](#online-sprite-editor)
   - [3D Model](#3d-model)
   - [Texture Material Shader](#texture-material-shader)
+  - [Game Dev AI Tools](#game-dev-ai-tools)
   - [2d Assets](#2d-assets)
   - [Game Audio App](#game-audio-app)
   - [Game Audio App Online](#game-audio-app-online)
@@ -222,9 +223,10 @@
   7. [axyz-design](https://secure.axyz-design.com/)
   8. [Smithsonian X3D](https://3d.si.edu/)
 
-- ## AI Art Gen
+- ## Game Dev AI Tools
 
   1. [ArtBreeder](https://www.artbreeder.com)
+  1. [Skybox Generator](https://skybox.blockadelabs.com/)
 
 - ## 2d Assets
 
