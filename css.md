@@ -14,6 +14,42 @@ section {
 }
 ```
 
+### Css Nesting
+
+```css
+.card {
+  .heading {
+    font-weight: bold;
+    h1 {
+      color: goldenrod;
+    }
+  }
+}
+```
+
+### Container Queries
+
+```css
+.article {
+  container-type: inline-size;
+}
+
+@container (min-width:700px) {
+  .card {
+    flex-direction: column;
+    font-size: max(1.2rem, 1em + 2cqi);
+  }
+}
+```
+
+### Mix Color
+
+```css
+body {
+  background-color: color-mix(in srgb, red 10%, blue);
+}
+```
+
 ### Media Queries
 
 ```css
