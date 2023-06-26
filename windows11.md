@@ -86,6 +86,13 @@
 
 - Or you get get the file from [here](https://github.com/Ulrich-Tonmoy/cheat-sheets/blob/main/assets/windows/) open with notepad and modify them
 
+## To rename all jpg in a folder to png
+
+- Create a rename.bat file in that folder
+- Then open it with notepad and paste the bellow
+- `ren *.jpg *.png` and save the file
+- Then double click
+
 ## Make Folder Invisible
 
 - Right click and select rename then `alt + 0160`
