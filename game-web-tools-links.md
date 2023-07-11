@@ -281,13 +281,14 @@
 
 - ## Fonts:
 
-  1. [dafont](https://www.dafont.com/)
-  2. [fontsquirrel](https://www.fontsquirrel.com/)
-  3. [1001freefonts](https://www.1001freefonts.com/)
-  4. [fontspace](https://www.fontspace.com/)
-  5. [theleagueofmoveabletype](https://www.theleagueofmoveabletype.com/)
-  6. [fonts bunny](https://fonts.bunny.net/)
-  7. [wentin](https://symbols.wentin.net/)
+  1. [fontpair](https://www.fontpair.co/all)
+  2. [dafont](https://www.dafont.com/)
+  3. [fontsquirrel](https://www.fontsquirrel.com/)
+  4. [1001freefonts](https://www.1001freefonts.com/)
+  5. [fontspace](https://www.fontspace.com/)
+  6. [theleagueofmoveabletype](https://www.theleagueofmoveabletype.com/)
+  7. [fonts bunny](https://fonts.bunny.net/)
+  8. [wentin](https://symbols.wentin.net/)
 
 - ## Websites for Blender User
 
@@ -463,6 +464,8 @@
   15. [colorpalettes](https://colorpalettes.earth/)
   16. [colormixer](https://colormixer.web.app/)
   17. [uigradients](https://uigradients.com/)
+  18. [omatsuri](https://omatsuri.app/)
+  19. [gradient](https://gradient.style/)
 
 - ## Typography
 
