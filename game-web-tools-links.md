@@ -604,6 +604,7 @@
 
   1. [obsidian](https://obsidian.md/)
   1. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+  1. [Pine](https://github.com/lukakerr/Pine)
   1. [stashpad](https://www.stashpad.com/)
   1. [logseq](https://logseq.com/)
 
