@@ -600,34 +600,38 @@
 
 # 🔗Other Tools Links🔗
 
-- ## Free
+- ## Project Management
 
   1. [obsidian](https://obsidian.md/)
-  2. [stashpad](https://www.stashpad.com/)
-  3. [logseq](https://logseq.com/)
-  4. [Window view around the world](https://www.window-swap.com/Window)
-  5. [witeboard](https://witeboard.com/)
-  6. [Tiermaker](https://tiermaker.com/)
-  7. [Diagram](https://app.dgrm.net/)
-  8. [temporary mail](https://temp-mail.org/)
-  9. [Download webpage as pdf](https://www.printfriendly.com/)
-  10. [Profile Pic Maker](https://pfpmaker.com/)
-  11. [Converting Tools](https://cloudconvert.com/)
-  12. [Ico to Png](https://cloudconvert.com/)
-  13. [Remove Bg](https://www.remove.bg/)
-  14. [Erase Img Bg](https://www.magiceraser.io/)
-  15. [tinywow](https://tinywow.com/)
-  16. [myheritage](https://www.myheritage.com/deep-nostalgia)
-  17. [theuselessweb](https://theuselessweb.com/)
-  18. [Name Generator](https://www.mess.be/inickgenwuname.php)
-  19. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
-  20. [Download free books (elephind)](https://elephind.com/)
-  21. [Tree simulation](https://visualgo.net/en/dfsbfs)
-  22. [Generate Comic](https://gramener.com/comicgen/)
-  23. [donotpay](https://donotpay.com/)
-  24. [discudemy](https://www.discudemy.com/)
-  25. [texttohandwriting](https://texttohandwriting.com/)
-  26. [opensourcealternative](https://www.opensourcealternative.to/)
+  1. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+  1. [stashpad](https://www.stashpad.com/)
+  1. [logseq](https://logseq.com/)
+
+- ## Free
+
+  1. [Window view around the world](https://www.window-swap.com/Window)
+  2. [witeboard](https://witeboard.com/)
+  3. [Tiermaker](https://tiermaker.com/)
+  4. [Diagram](https://app.dgrm.net/)
+  5. [temporary mail](https://temp-mail.org/)
+  6. [Download webpage as pdf](https://www.printfriendly.com/)
+  7. [Profile Pic Maker](https://pfpmaker.com/)
+  8. [Converting Tools](https://cloudconvert.com/)
+  9. [Ico to Png](https://cloudconvert.com/)
+  10. [Remove Bg](https://www.remove.bg/)
+  11. [Erase Img Bg](https://www.magiceraser.io/)
+  12. [tinywow](https://tinywow.com/)
+  13. [myheritage](https://www.myheritage.com/deep-nostalgia)
+  14. [theuselessweb](https://theuselessweb.com/)
+  15. [Name Generator](https://www.mess.be/inickgenwuname.php)
+  16. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+  17. [Download free books (elephind)](https://elephind.com/)
+  18. [Tree simulation](https://visualgo.net/en/dfsbfs)
+  19. [Generate Comic](https://gramener.com/comicgen/)
+  20. [donotpay](https://donotpay.com/)
+  21. [discudemy](https://www.discudemy.com/)
+  22. [texttohandwriting](https://texttohandwriting.com/)
+  23. [opensourcealternative](https://www.opensourcealternative.to/)
 
 - ## Paid
 
