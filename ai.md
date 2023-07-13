@@ -56,6 +56,11 @@
   5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
   6. [Open Assistant](https://open-assistant.io/)
 
+- ## Image to Video
+
+  1.  [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+  2.  [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+
 - ## Text to Image Generator
 
   1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
