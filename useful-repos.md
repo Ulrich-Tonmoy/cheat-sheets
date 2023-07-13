@@ -1,20 +1,23 @@
 # <p align="center">🔖Free Tool Links📝</p>
 
 - [Programming Languages](#programming-languages)
-- [Game Engines](#game-engines)
+- [Game Dev Tools](#game-dev-tools)
   - [Native](#native)
   - [Web](#web)
-- [Game Dev Tools](#game-dev-tools)
 - [Code Editors](#code-editors)
 
 # Programming Languages
 
-# Game Engines
+# Game Dev Tools
 
 - ## Native
-  - ### Top Engines
+
+  - ### Top Game Engines
+
     1. [Godot](https://github.com/godotengine/godot)
+
   - ### Other Engines
+
     1. [Nu](https://github.com/bryanedds/Nu)
     2. [MoltenEngine](https://github.com/Syncaidius/MoltenEngine)
     3. [mach](https://github.com/hexops/mach)
@@ -24,19 +27,22 @@
     7. [Nexus](https://github.com/TheSpectreZ/Nexus)
     8. [EtherealEngine](https://github.com/volcoma/EtherealEngine)
     9. [GlistEngine](https://github.com/GlistEngine/GlistEngine)
-  - ### Other Tools
+
+  - ### Tools
     1. [imgui](https://github.com/ocornut/imgui)
+
 - ## Web
-  - ### Web Engines
+
+  - ### Game Engines
+
     1. [Babylon.js](https://github.com/BabylonJS/Babylon.js)
     2. [three.js](https://github.com/mrdoob/three.js) - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
     3. [phaser](https://github.com/photonstorm/phaser)
     4. [Excalibur](https://github.com/excaliburjs/Excalibur)
     5. [playcanvas](https://github.com/playcanvas/engine)
     6. [panda-engine](https://github.com/ekelokorpi/panda-engine)
-  - ### Other Tools
 
-# Game Dev Tools
+  - ### Tools
 
 # Code Editors
 
