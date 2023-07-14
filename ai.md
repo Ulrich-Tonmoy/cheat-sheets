@@ -56,6 +56,10 @@
   5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
   6. [Open Assistant](https://open-assistant.io/)
 
+- ## Drawing to Image
+
+  1.  [stable-doodle](https://clipdrop.co/stable-doodle)
+
 - ## Image to Video
 
   1.  [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
