@@ -27,6 +27,7 @@
   3. [pywebview](https://github.com/r0x0r/pywebview)
   4. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
   5. [Eel](https://github.com/python-eel/Eel)
+  6. [abstra](https://github.com/abstra-app/abstra-lib)
 
 - ### JS
 
