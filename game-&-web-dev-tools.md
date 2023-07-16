@@ -607,10 +607,12 @@
 
   1. [obsidian](https://obsidian.md/)
   2. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-  3. [Pine](https://github.com/lukakerr/Pine)
-  4. [MiaoYan](https://github.com/tw93/MiaoYan)
-  5. [stashpad](https://www.stashpad.com/)
-  6. [logseq](https://logseq.com/)
+  3. [milanote](https://milanote.com/)
+  4. [trello](https://trello.com/)
+  5. [Pine](https://github.com/lukakerr/Pine)
+  6. [MiaoYan](https://github.com/tw93/MiaoYan)
+  7. [stashpad](https://www.stashpad.com/)
+  8. [logseq](https://logseq.com/)
 
 - ## Free
 
