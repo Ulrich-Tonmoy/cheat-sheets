@@ -23,6 +23,10 @@
 ### Top Game Engines
 
 1. [Godot](https://github.com/godotengine/godot)
+2. [renpy](https://github.com/renpy/renpy)
+3. [blender](https://github.com/blender/blender)
+4. [bevy](https://github.com/bevyengine/bevy)
+5. [love2d](https://github.com/love2d/love)
 
 ### Other Engines
 
@@ -36,10 +40,22 @@
 8. [Nexus](https://github.com/TheSpectreZ/Nexus)
 9. [EtherealEngine](https://github.com/volcoma/EtherealEngine)
 10. [GlistEngine](https://github.com/GlistEngine/GlistEngine)
+11. [o3de](https://github.com/o3de/o3de)
+12. [corona](https://github.com/coronalabs/corona)
+13. [defold](https://github.com/defold/defold)
+14. [LumixEngine](https://github.com/nem0/LumixEngine)
+15. [EsenthelEngine](https://github.com/Esenthel/EsenthelEngine)
+16. [panda3d](https://github.com/panda3d/panda3d)
+17. [urho3d](https://github.com/urho3d/urho3d)
+18. [limonEngine](https://github.com/enginmanap/limonEngine)
+19. [Torque3D](https://github.com/TorqueGameEngines/Torque3D)
+20. [ogre](https://github.com/OGRECave/ogre)
+21. [Fyrox](https://github.com/FyroxEngine/Fyrox)
 
 ### Tools
 
 1. [imgui](https://github.com/ocornut/imgui)
+1. [raylib](https://github.com/raysan5/raylib)
 
 ## Web
 
