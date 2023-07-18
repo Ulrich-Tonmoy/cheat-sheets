@@ -55,7 +55,11 @@
 ### Tools
 
 1. [imgui](https://github.com/ocornut/imgui)
-1. [raylib](https://github.com/raysan5/raylib)
+2. [raylib](https://github.com/raysan5/raylib)
+3. [blender](https://github.com/blender/blender)
+4. [krita](https://github.com/KDE/krita)
+5. [gimp](https://github.com/GNOME/gimp)
+6. [inkscape](https://gitlab.com/inkscape/inkscape)
 
 ## Web
 
