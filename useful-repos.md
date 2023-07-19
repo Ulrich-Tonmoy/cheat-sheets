@@ -186,11 +186,11 @@
 
 # Others
 
-2. [git](https://github.com/git/git)
-1. [linux](https://github.com/torvalds/linux)
-1. [ImHex](https://github.com/WerWolv/ImHex)
-1. [flatnotes](https://github.com/dullage/flatnotes)
-1. [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-1. [PowerToys](https://github.com/microsoft/PowerToys)
-1. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-1. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+1. [git](https://github.com/git/git)
+2. [linux](https://github.com/torvalds/linux)
+3. [ImHex](https://github.com/WerWolv/ImHex)
+4. [flatnotes](https://github.com/dullage/flatnotes)
+5. [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+6. [PowerToys](https://github.com/microsoft/PowerToys)
+7. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+8. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
