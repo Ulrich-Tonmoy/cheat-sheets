@@ -66,6 +66,16 @@
 43. [AbyssEngine](https://github.com/AbyssEngine/AbyssEngine)
 44. [turso3d](https://github.com/cadaver/turso3d)
 
+### Other Tools
+
+1. [imgui](https://github.com/ocornut/imgui)
+2. [raylib](https://github.com/raysan5/raylib)
+3. [blender](https://github.com/blender/blender)
+4. [aseprite](https://github.com/aseprite/aseprite)
+5. [krita](https://github.com/KDE/krita)
+6. [gimp](https://github.com/GNOME/gimp)
+7. [inkscape](https://gitlab.com/inkscape/inkscape)
+
 ### Archives/Stopped
 
 1. [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
@@ -76,18 +86,7 @@
 6. [urho](https://github.com/xamarin/urho)
 7. [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine)
 8. [AndEngine](https://github.com/nicolasgramlich/AndEngine)
-9. [egret](https://github.com/egret-labs/egret-core)
-10. [delta3d](https://github.com/delta3d/delta3d)
-
-### Other Tools
-
-1. [imgui](https://github.com/ocornut/imgui)
-2. [raylib](https://github.com/raysan5/raylib)
-3. [blender](https://github.com/blender/blender)
-4. [aseprite](https://github.com/aseprite/aseprite)
-5. [krita](https://github.com/KDE/krita)
-6. [gimp](https://github.com/GNOME/gimp)
-7. [inkscape](https://gitlab.com/inkscape/inkscape)
+9. [delta3d](https://github.com/delta3d/delta3d)
 
 ## Web
 
