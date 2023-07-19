@@ -3,9 +3,7 @@
   - [Useful Use Cases of ChatGPT](#useful-use-cases-of-chatgpt)
   - [Chat GPT Alternative](#chat-gpt-alternative)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
-  - [Text to Image Generator](#text-to-image-generator)
-  - [AI Drawing Tool](#ai-drawing-tool)
-  - [Image Gen AI Websites](#image-gen-ai-websites)
+  - [AI Image and Video Tools](#ai-image-and-video-tools)
   - [Top Free Courses on LLM](#top-free-courses-on-llm)
 
 # 🤖AI🤖
@@ -56,48 +54,41 @@
   5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
   6. [Open Assistant](https://open-assistant.io/)
 
-- ## Drawing to Image
+- # AI Image and Video Tools
 
-  1.  [stable-doodle](https://clipdrop.co/stable-doodle)
+  1. [QR Code Gen - qrcraft](https://www.qrcraft.xyz/qr)
+  2. [Drawing to Image - stable-doodle](https://clipdrop.co/stable-doodle)
+  3. [Drawing Tool - autodraw](https://www.autodraw.com/)
+  4. [Combine two Image - ostagram](https://www.ostagram.me/)
+  5. [Video Face Swap - unboring](https://reface.ai/unboring)
+  6. [Video full body Swap ](https://wonderdynamics.com/)
+  7. [Text to Environment - skybox](https://skybox.blockadelabs.com/)
 
-- ## Image to Video
+  - ## Image to Video
 
-  1.  [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
-  2.  [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+    1.  [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+    2.  [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
 
-- ## Text to Image Generator
+  - ## Text to Image Generator
 
-  1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
-  2. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+    1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
+    2. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+    3. [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
+    4. [Anything V3 (huggingface)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
+    5. [Waifu-Diffusion (huggingface)](https://huggingface.co/hakurei/waifu-diffusion)
+    6. [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
+    7. [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
+    8. [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
+    9. [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
+    10. [Craiyon (Formerly DALL-E Mini))](https://www.craiyon.com/)
+    11. [DGSpitzer (huggingface))](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space)
 
-  3. [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
+  - ## Image Gen AI Websites
 
-  4. [Anything V3 (huggingface)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
-
-  5. [Waifu-Diffusion (huggingface)](https://huggingface.co/hakurei/waifu-diffusion)
-
-  6. [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
-
-  7. [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
-
-  8. [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
-
-  9. [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
-
-  10. [Craiyon (Formerly DALL-E Mini))](https://www.craiyon.com/)
-
-  11. [DGSpitzer (huggingface))](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space)
-
-- ## AI Drawing Tool
-
-  1. [autodraw](https://www.autodraw.com/)
-
-- ## Image Gen AI Websites
-
-  1. [Plagground ai](https://playgroundai.com/)
-  2. [Civitai](https://civitai.com//)
-  3. [mage.space](https://www.mage.space/)
-  4. [instantart](https://instantart.io/)
+    1. [Plagground ai](https://playgroundai.com/)
+    2. [Civitai](https://civitai.com//)
+    3. [mage.space](https://www.mage.space/)
+    4. [instantart](https://instantart.io/)
 
 - ## Top Free Courses on LLM
 
