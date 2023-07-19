@@ -92,15 +92,56 @@
 
 ### Game Engines
 
-1. [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-2. [aframe](https://github.com/aframevr/aframe)
-3. [three.js](https://github.com/mrdoob/three.js) - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-4. [phaser](https://github.com/photonstorm/phaser)
-5. [Excalibur](https://github.com/excaliburjs/Excalibur)
-6. [playcanvas](https://github.com/playcanvas/engine)
-7. [panda-engine](https://github.com/ekelokorpi/panda-engine)
+1.  [GDevelop](https://github.com/4ian/GDevelop) - [nunuStudio](https://github.com/tentone/nunuStudio) - [microstudio](https://github.com/pmgl/microstudio)
+2.  [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+3.  [playcanvas](https://github.com/playcanvas/engine)
+4.  [aframe](https://github.com/aframevr/aframe)
+5.  [three.js](https://github.com/mrdoob/three.js) - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - [react-xr](https://github.com/pmndrs/react-xr)
+6.  [pixijs](https://github.com/pixijs/pixijs)
+7.  [phaser](https://github.com/photonstorm/phaser)
+8.  [Excalibur](https://github.com/excaliburjs/Excalibur)
+9.  [ct-js](https://github.com/ct-js/ct-js)
+10. [webaverse](https://github.com/webaverse/app)
+11. [kaboom](https://github.com/replit/kaboom)
+12. [etherealengine](https://github.com/EtherealEngine/etherealengine)
+13. [melonJS](https://github.com/melonjs/melonJS)
+14. [LittleJS](https://github.com/KilledByAPixel/LittleJS)
+15. [ige](https://github.com/Irrelon/ige)
 
-### Tools
+### Other Tools
+
+1. [ammo.js](https://github.com/kripken/ammo.js) - [howler.js](https://github.com/goldfire/howler.js) - [GSAP](https://github.com/greensock/GSAP) - [planck.js](https://github.com/piqnt/planck.js)
+2. [kontra](https://github.com/straker/kontra)
+3. [colyseus](https://github.com/colyseus/colyseus)
+4. [matter-js](https://github.com/liabru/matter-js)
+5. [stage.js](https://github.com/piqnt/stage.js)
+6. [litegraph.js](https://github.com/jagenjo/litegraph.js)
+7. [theatre](https://github.com/theatre-js/theatre)
+8. [twinejs](https://github.com/klembot/twinejs)
+9. [ml5-library](https://github.com/ml5js/ml5-library) - [BrainJS](https://github.com/BrainJS/brain.js)
+10. [webxr](https://github.com/immersive-web/webxr) - [gpuweb](https://github.com/gpuweb/gpuweb)
+11. [rot.js](https://github.com/ondras/rot.js)
+12. [d3](https://github.com/d3/d3)
+13. [duelyst](https://github.com/open-duelyst/duelyst)
+14. [goodluck](https://github.com/piesku/goodluck)
+15. [omigroup](https://github.com/omigroup/omigroup)
+
+### Archives/Stopped
+
+1. [sculptgl](https://github.com/stephomi/sculptgl)
+2. [egret](https://github.com/egret-labs/egret-core)
+3. [panda-engine](https://github.com/ekelokorpi/panda-engine)
+4. [taro](https://github.com/Cloud9c/taro)
+5. [Crafty](https://github.com/craftyjs/Crafty)
+6. [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
+7. [Impact](https://github.com/phoboslab/Impact)
+8. [kiwi.js](https://github.com/gamelab/kiwi.js)
+9. [qiciengine](https://github.com/qiciengine/qiciengine)
+10. [whs.js](https://github.com/WhitestormJS/whs.js)
+11. [CreateJS](https://github.com/CreateJS/CreateJS)
+12. [webglstudio.js](https://github.com/jagenjo/webglstudio.js) - [litescene.js](https://github.com/jagenjo/litescene.js) - [litefilesystem.js](https://github.com/jagenjo/litefilesystem.js)
+13. [janusweb](https://github.com/jbaicoianu/janusweb)
+14. [goojs](https://github.com/GooTechnologies/goojs)
 
 # Code Editors
 
