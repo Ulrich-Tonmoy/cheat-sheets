@@ -200,12 +200,14 @@
 2. [Qt Base](https://github.com/qt/qtbase)
 3. [Ultralight](https://github.com/ultralight-ux/Ultralight)
 4. [wxWidgets](https://github.com/wxWidgets/wxWidgets)
-5. [GTK](https://github.com/GNOME/gtkmm)
+5. [GTK](https://github.com/GNOME/gtkmm) - [GTK](https://gitlab.gnome.org/GNOME/gtk)
 6. [FLTK](https://github.com/fltk/fltk)
 7. [U++](https://github.com/ultimatepp/ultimatepp)
 8. [SFML](https://github.com/SFML/SFML)
 9. [JUCE](https://github.com/juce-framework/JUCE)
 10. [webview](https://github.com/webview/webview)
+11. [cegui](https://github.com/cegui/cegui)
+12. [cef](https://bitbucket.org/chromiumembedded/cef/src/master/)
 
 - ### Python
 
