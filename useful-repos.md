@@ -67,6 +67,7 @@
 42. [nebula](https://github.com/gscept/nebula)
 43. [AbyssEngine](https://github.com/AbyssEngine/AbyssEngine)
 44. [turso3d](https://github.com/cadaver/turso3d)
+45. [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine)
 
 ### Other Tools
 
