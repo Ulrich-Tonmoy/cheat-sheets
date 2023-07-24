@@ -81,12 +81,9 @@
 
 - ## Game Framework
 
-  1. C++ [All Game Libraries](https://github.com/fffaraz/awesome-cpp#game-engine)
-  2. JavaScript/TypeScript [Three JS](https://threejs.org/) | [Babylon JS](https://www.babylonjs.com/) | [PlayCanvas](https://playcanvas.com/) | [Phaser](https://phaser.io/)
-  3. Python [Ursina](https://github.com/pokepetter/ursina) | [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
-  4. C# [MonoGame](https://www.monogame.net/)
-  5. Lua [Love2d](https://love2d.org/)
-  6. Rust [Bevy](https://bevyengine.org/) | [Fyrox](https://fyrox.rs/)
+  1. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
+  2. Python [Ursina](https://github.com/pokepetter/ursina) | [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
+  3. C# [MonoGame](https://www.monogame.net/)
 
 - ## UI Inspiration for Games
 
