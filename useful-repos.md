@@ -3,6 +3,12 @@
 - [Programming Languages & Tools](#programming-languages-and-tools)
 - [Game Dev Tools](#game-dev-tools)
   - [Native](#native)
+    - [Game Engines](#game-engines)
+    - [Other Libraries](#other-libraries)
+    - [Unity Tools](#unity-tools)
+    - [Godot Tools](#godot-tools)
+    - [Other Game Dev Tools](#other-game-dev-tools)
+    - [Archives/Stopped](#archivesstopped)
   - [Web](#web)
 - [Code Editors](#code-editors)
 - [Native App Framework](#native-app-framework)
@@ -90,7 +96,41 @@
 
 ### Unity Tools
 
+1. [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+2. [Smart-Inspector](https://github.com/neon-age/Smart-Inspector)
+3. [ColorfulHierarchy](https://github.com/neveBr/ColorfulHierarchy)
+4. [UIEffect](https://github.com/mob-sakai/UIEffect)
+5. [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+6. [ml-agents](https://github.com/Unity-Technologies/ml-agents)
+7. [ET](https://github.com/egametang/ET)
+8. [MeshSync](https://github.com/unity3d-jp/MeshSync)
+9. [Entitas](https://github.com/sschmid/Entitas)
+10. [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass)
+11. [FastScriptReload](https://github.com/handzlikchris/FastScriptReload)
+12. [FancyScrollView](https://github.com/setchi/FancyScrollView)
+13. [AICommand](https://github.com/keijiro/AICommand)
+14. [AIShader](https://github.com/keijiro/AIShader)
+15. [ThumbCreator](https://github.com/AndreaDev3D/ThumbCreator)
+16. [Easy-Icon-Maker](https://github.com/Servalstar/Easy-Icon-Maker)
+17. [games.noio.planter](https://github.com/noio/games.noio.planter)
+18. [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer)
+19. [Animation-Sequencer](https://github.com/brunomikoski/Animation-Sequencer)
+20. [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
+21. [ExtendingLWRP](https://github.com/johnsietsma/ExtendingLWRP)
+22. [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
+23. [DeBroglie](https://github.com/BorisTheBrave/DeBroglie)
+24. [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
+
 ### Godot Tools
+
+1. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
+2. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
+3. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
+4. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
+5. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
+6. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
+7. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
+8. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
 
 ### Other Game Dev Tools
 
