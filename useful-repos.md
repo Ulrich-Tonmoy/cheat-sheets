@@ -25,7 +25,7 @@
 ### Game Engines
 
 1. [Godot](https://github.com/godotengine/godot) - [defold](https://github.com/defold/defold) - [cocos-engine](https://github.com/cocos/cocos-engine) - [o3de](https://github.com/o3de/o3de)
-2. [MonoGame](https://github.com/MonoGame/MonoGame) - [OpenRA](https://github.com/OpenRA/OpenRA) - [stride](https://github.com/stride3d/stride) - [opentk](https://github.com/opentk/opentk)
+2. [MonoGame](https://github.com/MonoGame/MonoGame) - [OpenRA](https://github.com/OpenRA/OpenRA) - [stride](https://github.com/stride3d/stride) - [opentk](https://github.com/opentk/opentk) - [Nez](https://github.com/prime31/Nez)
 3. [Renpy](https://github.com/renpy/renpy) - [ursina](https://github.com/pokepetter/ursina) - [pygame](https://github.com/pygame/pygame) - [pygame-ce](https://github.com/pygame-community/pygame-ce) - [pyglet](https://github.com/pyglet/pyglet) - [panda3d](https://github.com/panda3d/panda3d)
 4. [Bevy](https://github.com/bevyengine/bevy) - [Fyrox](https://github.com/FyroxEngine/Fyrox) - [love2d](https://github.com/love2d/love) - [cocos2d](https://github.com/cocos2d/cocos2d-x)
 5. [Nu](https://github.com/bryanedds/Nu) - [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) - [murder](https://github.com/isadorasophia/murder) - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - [ArcGameEngine](https://github.com/MohitSethi99/ArcGameEngine)
@@ -68,16 +68,37 @@
 42. [AbyssEngine](https://github.com/AbyssEngine/AbyssEngine)
 43. [turso3d](https://github.com/cadaver/turso3d)
 44. [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine)
+45. [orx](https://github.com/orx/orx)
+46. [BabylonCpp](https://github.com/samdauwe/BabylonCpp)
+47. [pmtech](https://github.com/polymonster/pmtech)
+48. [G3N](https://github.com/g3n/engine)
+49. [xray-16](https://github.com/OpenXRay/xray-16)
+50. [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
+51. [pixel](https://github.com/faiface/pixel)
+52. [Piccolo](https://github.com/BoomingTech/Piccolo)
+53. [goo-engine](https://github.com/dillongoostudios/goo-engine)
+54. [Castor3D](https://github.com/DragonJoker/Castor3D)
+55. [Atlas-Engine](https://github.com/tippesi/Atlas-Engine)
+
+### Other Libraries
+
+1. [raylib](https://github.com/raysan5/raylib)
+2. [imgui](https://github.com/ocornut/imgui)
+3. [ldtk](https://github.com/deepnight/ldtk)
+4. [bepuphysics2](https://github.com/bepu/bepuphysics2)
+5. [erhe](https://github.com/tksuoran/erhe)
+
+### Unity Tools
+
+### Godot Tools
 
 ### Other Game Dev Tools
 
-1. [imgui](https://github.com/ocornut/imgui)
-2. [raylib](https://github.com/raysan5/raylib)
-3. [blender](https://github.com/blender/blender)
-4. [aseprite](https://github.com/aseprite/aseprite)
-5. [krita](https://github.com/KDE/krita)
-6. [gimp](https://github.com/GNOME/gimp)
-7. [inkscape](https://gitlab.com/inkscape/inkscape)
+1. [blender](https://github.com/blender/blender)
+2. [aseprite](https://github.com/aseprite/aseprite)
+3. [krita](https://github.com/KDE/krita)
+4. [gimp](https://github.com/GNOME/gimp)
+5. [inkscape](https://gitlab.com/inkscape/inkscape)
 
 ### Archives/Stopped
 
