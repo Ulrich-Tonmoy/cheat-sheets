@@ -6,7 +6,8 @@
   - [Web](#web)
 - [Code Editors](#code-editors)
 - [Native App Framework](#native-app-framework)
-- [Others](#others)
+- [Other Tools](#other-tools)
+- [Learning Materials](#learning-materials)
 
 # Programming Languages and Tools
 
@@ -68,7 +69,7 @@
 43. [turso3d](https://github.com/cadaver/turso3d)
 44. [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine)
 
-### Other Tools
+### Other Game Dev Tools
 
 1. [imgui](https://github.com/ocornut/imgui)
 2. [raylib](https://github.com/raysan5/raylib)
@@ -110,7 +111,7 @@
 14. [LittleJS](https://github.com/KilledByAPixel/LittleJS)
 15. [ige](https://github.com/Irrelon/ige)
 
-### Other Tools
+### Other Game Dev Tools
 
 1. [ammo.js](https://github.com/kripken/ammo.js) - [howler.js](https://github.com/goldfire/howler.js) - [GSAP](https://github.com/greensock/GSAP) - [planck.js](https://github.com/piqnt/planck.js)
 2. [kontra](https://github.com/straker/kontra)
@@ -256,7 +257,7 @@
 5. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
 6. [Dioxus](https://github.com/DioxusLabs/dioxus)
 
-# Others
+# Other Tools
 
 1. [git](https://github.com/git/git)
 2. [linux](https://github.com/torvalds/linux)
@@ -266,3 +267,36 @@
 6. [PowerToys](https://github.com/microsoft/PowerToys)
 7. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 8. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+
+# Learning Materials
+
+1. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+2. [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+3. [Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+4. [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+5. [.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
+6. [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+7. [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+8. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+9. [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+10. [css-protips](https://github.com/AllThingsSmitty/css-protips)
+11. [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+12. [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+13. [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+14. [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+15. [airbnb-javascript](https://github.com/airbnb/javascript)
+16. [public-apis](https://github.com/public-apis/public-apis) - [public-apis](https://github.com/public-apis-dev/public-apis) - [public-api-lists](https://github.com/public-api-lists/public-api-lists)
+17. [api-guidelines](https://github.com/microsoft/api-guidelines)
+18. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+19. [realworld](https://github.com/gothinkster/realworld)
+20. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+21. [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+22. [computer-science](https://github.com/ossu/computer-science)
+23. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+24. [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+25. [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+26. [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+27. [data-science](https://github.com/ossu/data-science)
+28. [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+29. [anime-chan](https://github.com/rocktimsaikia/anime-chan)
+30. [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
