@@ -81,9 +81,10 @@
 
 - ## Game Framework
 
-  1. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
-  2. Python [Ursina](https://github.com/pokepetter/ursina) | [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
-  3. C# [MonoGame](https://www.monogame.net/)
+  1. C++ [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
+  2. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
+  3. Python [Ursina](https://github.com/pokepetter/ursina) | [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
+  4. C# [MonoGame](https://www.monogame.net/)
 
 - ## UI Inspiration for Games
 
