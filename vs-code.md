@@ -38,6 +38,11 @@ Linux:
 
 8. Copy and paste the css inside of the [`codingphase-style.css`](./assets/vs-code/codingphase-style.css) file and replace the styles inside the `synthWaveStyles.css` file
 
+# Creating VS Code Snippets
+
+1. Create a snippet then goto [snippet-generator](https://snippet-generator.app/) and convert your snippet for VS Code.
+2. From Setting Icon select `User Snippets` and select whether you want it to be a global or language specific then give a trigger and save it.
+
 # Workspace tools
 
 - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://desktop.github.com/)
