@@ -608,9 +608,10 @@
   3. [milanote](https://milanote.com/)
   4. [trello](https://trello.com/)
   5. [Pine](https://github.com/lukakerr/Pine)
-  6. [MiaoYan](https://github.com/tw93/MiaoYan)
-  7. [stashpad](https://www.stashpad.com/)
-  8. [logseq](https://logseq.com/)
+  6. [MarkText](https://github.com/marktext/marktext)
+  7. [MiaoYan](https://github.com/tw93/MiaoYan)
+  8. [stashpad](https://www.stashpad.com/)
+  9. [logseq](https://logseq.com/)
 
 - ## Free
 
