@@ -6,6 +6,7 @@
     - [Game Engines](#game-engines)
     - [Unity Tools](#unity-tools)
     - [Godot Tools](#godot-tools)
+    - [Unreal Tools](#unreal-tools)
     - [Archives/Stopped](#archivesstopped)
   - [Web](#web)
 - [Code Editors](#code-editors)
@@ -30,10 +31,10 @@
 
 ### Game Engines
 
-1. [blender](https://github.com/blender/blender) - [aseprite](https://github.com/aseprite/aseprite) - [ldtk](https://github.com/deepnight/ldtk) - [tiled](https://github.com/mapeditor/tiled) - [krita](https://github.com/KDE/krita) - [gimp](https://github.com/GNOME/gimp) - [inkscape](https://gitlab.com/inkscape/inkscape)
+1. [blender](https://github.com/blender/blender) - [aseprite](https://github.com/aseprite/aseprite) - [ldtk](https://github.com/deepnight/ldtk) - [tiled](https://github.com/mapeditor/tiled) - [DPaint-js](https://github.com/steffest/DPaint-js) - [krita](https://github.com/KDE/krita) - [gimp](https://github.com/GNOME/gimp) - [inkscape](https://gitlab.com/inkscape/inkscape)
 2. [Godot](https://github.com/godotengine/godot) - [Renpy](https://github.com/renpy/renpy) - [defold](https://github.com/defold/defold) - [cocos-engine](https://github.com/cocos/cocos-engine) - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - [o3de](https://github.com/o3de/o3de)
 3. [MonoGame](https://github.com/MonoGame/MonoGame) - [ursina](https://github.com/pokepetter/ursina) - [pygame](https://github.com/pygame/pygame) - [pygame-ce](https://github.com/pygame-community/pygame-ce) - [pyglet](https://github.com/pyglet/pyglet) - [panda3d](https://github.com/panda3d/panda3d) - [Bevy](https://github.com/bevyengine/bevy) - [love2d](https://github.com/love2d/love)
-4. [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
+4. [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [JoltPhysics](https://github.com/jrouwe/JoltPhysics) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
 5. [MTuner](https://github.com/milostosic/MTuner) - [cr](https://github.com/fungos/cr) - [backward-cpp](https://github.com/bombela/backward-cpp) - [rapidjson](https://github.com/Tencent/rapidjson) - [emscripten](https://github.com/emscripten-core/emscripten) - [filesystem](https://github.com/gulrak/filesystem) - [watchman](https://github.com/facebook/watchman) - [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - [allegro5](https://github.com/liballeg/allegro5) - [nCine](https://github.com/nCine/nCine)
 6. [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - [Torque3D](https://github.com/TorqueGameEngines/Torque3D) - [EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - [LumixEngine](https://github.com/nem0/LumixEngine) - [WickedEngine](https://github.com/turanszkij/WickedEngine) - [ogre](https://github.com/OGRECave/ogre)
 7. [Nu](https://github.com/bryanedds/Nu) - [OpenRA](https://github.com/OpenRA/OpenRA) - [stride](https://github.com/stride3d/stride) - [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) - [murder](https://github.com/isadorasophia/murder) - [ArcGameEngine](https://github.com/MohitSethi99/ArcGameEngine) - [opentk](https://github.com/opentk/opentk) - [Nez](https://github.com/prime31/Nez) - [bepuphysics2](https://github.com/bepu/bepuphysics2)
@@ -95,6 +96,22 @@
 63. [ObEngine](https://github.com/ObEngine/ObEngine)
 64. [cerberus](https://github.com/cerberusxdev/cerberus)
 65. [gosu](https://github.com/gosu/gosu)
+66. [Yave](https://github.com/gan74/Yave)
+67. [GameGuruMAX](https://github.com/TheGameCreators/GameGuruMAX)
+68. [FlingEngine](https://github.com/flingengine/FlingEngine)
+69. [ETEngine](https://github.com/Illation/ETEngine)
+70. [IDKEngine](https://github.com/BoyBaykiller/IDKEngine)
+71. [tdme2](https://github.com/andreasdr/tdme2)
+72. [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine)
+73. [rbfx](https://github.com/rbfx/rbfx)
+74. [U3D](https://github.com/u3d-community/U3D)
+75. [Urho.Net](https://github.com/Urho-Net/Urho.Net)
+76. [MxEngine](https://github.com/asc-community/MxEngine)
+77. [RPG-Paper-Maker](https://github.com/RPG-Paper-Maker/RPG-Paper-Maker)
+78. [Cotton](https://github.com/unbelievableflavour/Cotton)
+79. [ags](https://github.com/adventuregamestudio/ags)
+80. [qfusion](https://github.com/Qfusion/qfusion)
+81. [stratagus](https://github.com/Wargus/stratagus)
 
 ### Unity Tools
 
@@ -133,6 +150,54 @@
 6. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
 7. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
 8. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
+9. [enu](https://github.com/dsrw/enu)
+10. [godot-nim](https://github.com/pragmagic/godot-nim)
+
+### Unreal Tools
+
+1. [cesium-unreal](https://github.com/CesiumGS/cesium-unreal)
+2. [NimForUE](https://github.com/jmgomez/NimForUE)
+
+### Other Tools
+
+1. [character-animation-combiner](https://github.com/nilooy/character-animation-combiner)
+2. [dust3d](https://github.com/huxingyi/dust3d)
+3. [3DWorld](https://github.com/fegennari/3DWorld)
+4. [bitmapflow](https://github.com/Bauxitedev/bitmapflow)
+5. [NoahGameFrame](https://github.com/ketoo/NoahGameFrame)
+6. [c2nim](https://github.com/nim-lang/c2nim)
+7. [Capsaicin](https://github.com/GPUOpen-LibrariesAndSDKs/Capsaicin)
+8. [f3d](https://github.com/f3d-app/f3d)
+9. [Noesis](https://github.com/Noesis/Tutorials)
+10. [DeluxePaint](https://github.com/historicalsource/DeluxePaint)
+11. [flecs](https://github.com/SanderMertens/flecs)
+12. [EveryRay-Rendering-Engine](https://github.com/steaklive/EveryRay-Rendering-Engine)
+13. [VQEngine](https://github.com/vilbeyli/VQEngine)
+14. [motion-canvas](https://github.com/motion-canvas/motion-canvas)
+15. [freetype](https://github.com/freetype/freetype) - [freetype](https://gitlab.freedesktop.org/freetype/freetype)
+16. [openal-soft](https://github.com/kcat/openal-soft)
+17. [volk](https://github.com/zeux/volk)
+18. [cgltf](https://github.com/jkuhlmann/cgltf)
+19. [stb](https://github.com/nothings/stb)
+20. [nannou](https://github.com/nannou-org/nannou)
+21. [ozz-animation](https://github.com/guillaumeblanc/ozz-animation)
+22. [instead](https://github.com/instead-hub/instead)
+23. [gideros](https://github.com/gideros/gideros)
+24. [Ray-Tracing-Gems-II](https://github.com/Apress/Ray-Tracing-Gems-II)
+25. [boardgame.io](https://github.com/boardgameio/boardgame.io)
+26. [magnum](https://github.com/mosra/magnum)
+27. [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)
+28. [cubzh](https://github.com/cubzh/cubzh)
+29. [kbengine](https://github.com/kbengine/kbengine)
+30. [Vulkan-Headers](https://github.com/KhronosGroup/Vulkan-Headers)
+31. [cocos](https://github.com/los-cocos/cocos)
+32. [ClanLib](https://github.com/sphair/ClanLib)
+33. [fs2open.github.com](https://github.com/scp-fs2open/fs2open.github.com)
+34. [Horde3D](https://github.com/horde3d/Horde3D)
+35. [DOOM](https://github.com/id-Software/DOOM) - [DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG)
+36. [Quake](https://github.com/id-Software/Quake) - [Quake-2](https://github.com/id-Software/Quake-2) - [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena)
+37. [moai-dev](https://github.com/moai/moai-dev)
+38. [stepmania](https://github.com/stepmania/stepmania)
 
 ### Archives/Stopped
 
@@ -151,6 +216,7 @@
 13. [Kaguya](https://github.com/kcloudy0717/Kaguya)
 14. [OpenRTS](https://github.com/methusalah/OpenRTS)
 15. [GamePlay](https://github.com/gameplay3d/GamePlay)
+16. [stencyl-engine](https://github.com/Stencyl/stencyl-engine)
 
 ## Web
 
