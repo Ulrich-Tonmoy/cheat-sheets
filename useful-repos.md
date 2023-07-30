@@ -112,6 +112,7 @@
 79. [ags](https://github.com/adventuregamestudio/ags)
 80. [qfusion](https://github.com/Qfusion/qfusion)
 81. [stratagus](https://github.com/Wargus/stratagus)
+82. [NazaraEngine](https://github.com/NazaraEngine/NazaraEngine)
 
 ### Unity Tools
 
