@@ -1,5 +1,18 @@
 # CSS Tricks
 
+```css
+.html {
+  cursor: url("image.png"), auto; /*Set image as cursor*/
+}
+```
+
+```css
+/* To Toggle Dark/light mode */
+.html {
+  filter: invert(1) hue-rotate(180deg);
+}
+```
+
 ### Scroll Snap
 
 ```css
@@ -90,12 +103,6 @@ body {
 ```css
 .img {
   filter: drop-shadow(2px, 4px, 8px, #585858); /*Add shadow to transparent image*/
-}
-```
-
-```css
-.html {
-  cursor: url("image.png"), auto; /*Set image as cursor*/
 }
 ```
 
