@@ -40,11 +40,6 @@
   3. [You](https://you.com/)
   4. [Ora AI](https://ora.ai/)
 
-- ## Text to Video (Freemium)
-
-  1. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
-  2. [Lumen5](https://lumen5.com/)
-
 - ## Free AI and LLMs Playgrounds
 
   1. [Chatbot Arena](https://chat.lmsys.org/)
@@ -53,6 +48,10 @@
   4. [Quora Poe](https://poe.com/)
   5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
   6. [Open Assistant](https://open-assistant.io/)
+
+- ## Text/Image to 3D
+
+  1. [Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
 
 - # AI Image and Video Tools
 
@@ -63,6 +62,11 @@
   5. [Video Face Swap - unboring](https://reface.ai/unboring)
   6. [Video full body Swap ](https://wonderdynamics.com/)
   7. [Text to Environment - skybox](https://skybox.blockadelabs.com/)
+
+  - ## Text to Video (Freemium)
+
+    1.  [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
+    2.  [Lumen5](https://lumen5.com/)
 
   - ## Image to Video
 
