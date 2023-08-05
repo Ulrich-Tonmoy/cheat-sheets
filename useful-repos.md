@@ -284,7 +284,7 @@
 1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Pulsar](https://github.com/pulsar-edit/pulsar)
 2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Notepads](https://github.com/0x7c13/Notepads)
 3. [Neovim](https://github.com/neovim/neovim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [NvChad](https://github.com/NvChad/NvChad) - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
-4. [Helix](https://github.com/helix-editor/helix) - [oni2](https://github.com/onivim/oni2) - [Ox editor](https://github.com/curlpipe/ox) - [micro](https://github.com/zyedidia/micro) - [zee](https://github.com/zee-editor/zee) - [Vim](https://github.com/vim/vim) - [vim.wasm](https://github.com/rhysd/vim.wasm)
+4. [oni2](https://github.com/onivim/oni2) - [focus](https://github.com/focus-editor/focus) - [Helix](https://github.com/helix-editor/helix) - [Ox editor](https://github.com/curlpipe/ox) - [micro](https://github.com/zyedidia/micro) - [zee](https://github.com/zee-editor/zee) - [Vim](https://github.com/vim/vim) - [vim.wasm](https://github.com/rhysd/vim.wasm)
 5. [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [Rust ❤️ Emacs](https://github.com/remacs/remacs)
 6. [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite)
 7. [Eclipse Theia](https://github.com/eclipse-theia/theia)
