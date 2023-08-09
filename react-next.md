@@ -28,14 +28,19 @@
    - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 8. #### Styling
    - [Tailwind CSS](https://tailwindcss.com/)
+     - [flowbite](https://flowbite.com/)
+     - [tailblocks](https://tailblocks.cc/)
+     - [tailwindtoolbox](https://tailwindtoolbox.com/)
+     - [tailkit](https://tailkit.com/)
+     - [tailwindwidgets](https://tailwindwidgets.com/)
+     - [merakiui](https://merakiui.com/)
    - [styled-components](https://styled-components.com/)
    - [Emotion](https://emotion.sh/docs/introduction)
 9. #### UI Component
+   - [Ant Design](https://ant.design/)
    - [MUI](https://mui.com/)
    - [Mantine](https://mantine.dev/)
-   - [Ant Design](https://ant.design/)
    - [Chakra UI](https://chakra-ui.com/)
-   - [Flowbite ](https://flowbite.com/)
    - [daisyUI](https://daisyui.com/)
    - [shadcn/ui](https://ui.shadcn.com/)
    - [headlessui](https://headlessui.com/)
@@ -74,10 +79,12 @@
 18. #### Mobile Apps
     - [React Native](https://reactnative.dev/)
     - [Tauri](https://tauri.app/)
+    - [nativescript](https://nativescript.org/)
 19. #### Other Libraries
     - [dnd kit](https://dndkit.com/)
     - [react-dropzone](https://react-dropzone.js.org/)
     - [Supabase](https://supabase.com/)
+    - [appwrite](https://appwrite.io/)
 
 ### The best way to change state in react and get the updated value instantly
 
