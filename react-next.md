@@ -18,6 +18,7 @@
 5. #### Server State Management
    - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
    - [TanStack Query](https://tanstack.com/query/latest)
+   - [swr](https://swr.vercel.app/)
    - [Apollo Client](https://www.apollographql.com/docs/react/)
 6. #### Form Handling
    - [React Hook Form](https://react-hook-form.com/)
@@ -44,6 +45,8 @@
    - [daisyUI](https://daisyui.com/)
    - [shadcn/ui](https://ui.shadcn.com/)
    - [headlessui](https://headlessui.com/)
+   - [blueprintjs](https://blueprintjs.com/docs/)
+   - [React Suite](https://rsuitejs.com/)
 10. #### Animation
     - [react-spring](https://www.react-spring.dev/)
     - [Framer Motion](https://www.framer.com/motion/)
@@ -82,6 +85,7 @@
     - [nativescript](https://nativescript.org/)
 19. #### Other Libraries
     - [dnd kit](https://dndkit.com/)
+    - [react-dnd](https://react-dnd.github.io/react-dnd/about)
     - [react-dropzone](https://react-dropzone.js.org/)
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
