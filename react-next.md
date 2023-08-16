@@ -50,10 +50,11 @@
 10. #### Animation
     - [react-spring](https://www.react-spring.dev/)
     - [Framer Motion](https://www.framer.com/motion/)
-11. #### Data Visualization
+11. #### Data Visualization/Chart
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
+    - [react-charts](https://canvasjs.com/react-charts/)
 12. #### Table
     - [TanStack Table](https://tanstack.com/table/v8)
 13. #### Internationalization
