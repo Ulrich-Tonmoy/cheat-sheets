@@ -49,6 +49,10 @@
   5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
   6. [Open Assistant](https://open-assistant.io/)
 
+- ## AI Resume Gen
+
+  1.  [resumetrick](https://resumetrick.com/)
+
 - ## Text/Image to 3D
 
   1. [Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
