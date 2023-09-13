@@ -93,6 +93,27 @@
 - `ren *.jpg *.png` and save the file
 - Then double click
 
+## Add prefix to all the file name in a folder
+
+- Create a rename.bat file in that folder
+- Then open it with notepad and paste the bellow code and save the file
+- Then double click
+
+  ```bat
+  @echo off
+  setlocal enabledelayedexpansion
+
+  set "prefix=prefix_"
+
+  for %%F in (*.*) do (
+      set "oldName=%%~nF"
+      set "extension=%%~xF"
+      set "newName=!prefix!!oldName!!extension!"
+      ren "%%F" "!newName!"
+  )
+  endlocal
+  ```
+
 ## Make Folder Invisible
 
 - Right click and select rename then `alt + 0160`
