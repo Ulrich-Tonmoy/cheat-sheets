@@ -63,3 +63,4 @@ Linux:
   - Home tab
   - Callout Manager
 - [Potplayer](https://potplayer.daum.net/)
+- [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117)
