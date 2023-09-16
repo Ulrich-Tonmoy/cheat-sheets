@@ -71,6 +71,7 @@
 
     1.  [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
     2.  [Lumen5](https://lumen5.com/)
+    3.  [synthesia](https://www.synthesia.io/)
 
   - ## Image to Video
 

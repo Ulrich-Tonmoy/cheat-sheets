@@ -3,10 +3,11 @@
 - [Programming Languages & Tools](#programming-languages-and-tools)
 - [Game Dev Tools](#game-dev-tools)
   - [Native](#native)
-    - [Game Engines](#game-engines)
-    - [Unity Tools](#unity-tools)
+    - [Engines](#engines)
     - [Godot Tools](#godot-tools)
+    - [Blender Tools](#blender-tools)
     - [Unreal Tools](#unreal-tools)
+    - [Unity Tools](#unity-tools)
     - [Archives/Stopped](#archivesstopped)
   - [Web](#web)
 - [Code Editors](#code-editors)
@@ -115,6 +116,30 @@
 82. [stratagus](https://github.com/Wargus/stratagus)
 83. [NazaraEngine](https://github.com/NazaraEngine/NazaraEngine)
 
+### Godot Tools
+
+1. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
+2. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
+3. [dialogic](https://github.com/coppolaemilio/dialogic)
+4. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
+5. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
+6. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
+7. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
+8. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
+9. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
+10. [enu](https://github.com/dsrw/enu)
+11. [godot-nim](https://github.com/pragmagic/godot-nim)
+
+### Blender Tools
+
+1. [VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender)
+2. [dream-textures](https://github.com/carson-katri/dream-textures)
+
+### Unreal Tools
+
+1. [cesium-unreal](https://github.com/CesiumGS/cesium-unreal)
+2. [NimForUE](https://github.com/jmgomez/NimForUE)
+
 ### Unity Tools
 
 1. [awesome-opensource-unity](hthttps://github.com/StefanoCecere/awesome-opensource-unity)
@@ -147,25 +172,6 @@
 28. [Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)
 29. [Moments](https://github.com/Chman/Moments)
 30. [odin-serializer](https://github.com/TeamSirenix/odin-serializer)
-
-### Godot Tools
-
-1. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
-2. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
-3. [dialogic](https://github.com/coppolaemilio/dialogic)
-4. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
-5. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
-6. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
-7. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
-8. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
-9. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
-10. [enu](https://github.com/dsrw/enu)
-11. [godot-nim](https://github.com/pragmagic/godot-nim)
-
-### Unreal Tools
-
-1. [cesium-unreal](https://github.com/CesiumGS/cesium-unreal)
-2. [NimForUE](https://github.com/jmgomez/NimForUE)
 
 ### Other Tools
 
@@ -229,7 +235,7 @@
 
 ## Web
 
-### Game Engines
+### Engines
 
 1.  [GDevelop](https://github.com/4ian/GDevelop) - [nunuStudio](https://github.com/tentone/nunuStudio) - [microstudio](https://github.com/pmgl/microstudio)
 2.  [Babylon.js](https://github.com/BabylonJS/Babylon.js)
