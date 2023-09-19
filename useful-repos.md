@@ -39,7 +39,7 @@
 7. [Nu](https://github.com/bryanedds/Nu) - [OpenRA](https://github.com/OpenRA/OpenRA) - [stride](https://github.com/stride3d/stride) - [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) - [murder](https://github.com/isadorasophia/murder) - [ArcGameEngine](https://github.com/MohitSethi99/ArcGameEngine) - [opentk](https://github.com/opentk/opentk) - [Nez](https://github.com/prime31/Nez) - [bepuphysics2](https://github.com/bepu/bepuphysics2)
 8. [Mach](https://github.com/hexops/mach) - [Zig-Gamedev](https://github.com/michal-z/zig-gamedev) - [kohi](https://github.com/travisvroman/kohi) - [Hazel](https://github.com/TheCherno/Hazel) - [Razix](https://github.com/Pikachuxxxx/Razix) - [Game_Engine_MBRS](https://github.com/dejan-xd/Game_Engine_MBRS) - [Primal-Engine](https://github.com/aadipoddar/Primal-Engine)
 9. [Fyrox](https://github.com/FyroxEngine/Fyrox)
-10. [heaps](https://github.com/HeapsIO/heaps)
+10. [heaps](https://github.com/HeapsIO/heaps) - [flixel](https://github.com/HaxeFlixel/flixel)
 11. [ezEngine](https://github.com/ezEngine/ezEngine)
 12. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
 13. [eepp](https://github.com/SpartanJ/eepp)
