@@ -1,261 +1,273 @@
 # **Angular**
 
+## Component Libraries
+
+1. [Angular Material](https://material.angular.io/)
+2. [NG Bootstrap](https://ng-bootstrap.github.io/#/home)
+3. [NGX-Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
+4. [PrimeNG](https://primeng.org/)
+5. [ApexCharts](https://apexcharts.com/angular-chart-demos/)
+6. [Nebular](https://akveo.github.io/nebular/)
+7. [Clarity](https://clarity.design/)
+8. [Core UI](https://coreui.io/angular/)
+9. [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/getting-started)
+
 ## Angular CLI
 
 1. **Setup**
 
-    ```properties
-    npm install -g @angular/cli
-    ```
+   ```properties
+   npm install -g @angular/cli
+   ```
 
 2. **New Application**
 
-    ```properties
-    ng new <app-name>
-    ```
+   ```properties
+   ng new <app-name>
+   ```
 
 3. **Lint for Formatting**
 
-    The Lint command fixes code smells and corrects improper formatting.
+   The Lint command fixes code smells and corrects improper formatting.
 
-    ```properties
-    ng lint my-app --fix
-    ```
+   ```properties
+   ng lint my-app --fix
+   ```
 
-    This command shows warnings:
+   This command shows warnings:
 
-    ```properties
-    ng lint my-app
-    ```
+   ```properties
+   ng lint my-app
+   ```
 
-    If you want to format the code, you can use the following command.
+   If you want to format the code, you can use the following command.
 
-    ```properties
-    ng lint my-app --format stylish
-    ```
+   ```properties
+   ng lint my-app --format stylish
+   ```
 
 4. **Blueprints**
 
-    Generate spec:
+   Generate spec:
 
-    ```properties
-    --spec
-    ```
+   ```properties
+   --spec
+   ```
 
-    Check whether the template will be a.ts file or not:
+   Check whether the template will be a.ts file or not:
 
-    ```properties
-    --inline-template (-t)
-    ```
+   ```properties
+   --inline-template (-t)
+   ```
 
-    Check whether the style will be in the.ts file or not:
+   Check whether the style will be in the.ts file or not:
 
-    ```properties
-    --inline-style (-s)
-    ```
+   ```properties
+   --inline-style (-s)
+   ```
 
-    Create a directive:
+   Create a directive:
 
-    ```properties
-    ng g d directive-name
-    ```
+   ```properties
+   ng g d directive-name
+   ```
 
-    Create a pipeline:
+   Create a pipeline:
 
-    ```properties
-    ng g p init-caps
-    ```
+   ```properties
+   ng g p init-caps
+   ```
 
-    Create customer class in the models folder:
+   Create customer class in the models folder:
 
-    ```properties
-    ng g cl models/customer
-    ```
+   ```properties
+   ng g cl models/customer
+   ```
 
-    Creates a component without the need for the creation of a new folder.
+   Creates a component without the need for the creation of a new folder.
 
-    ```properties
-    ng g c my-component --flat true
-    ```
+   ```properties
+   ng g c my-component --flat true
+   ```
 
-    Assign a prefix:
+   Assign a prefix:
 
-    ```properties
-    --prefix
-    ```
+   ```properties
+   --prefix
+   ```
 
-    Create an interface in the models folder:
+   Create an interface in the models folder:
 
-    ```properties
-    ng g i models/person
-    ```
+   ```properties
+   ng g i models/person
+   ```
 
-    Create an ENUM gender in the models folder:
+   Create an ENUM gender in the models folder:
 
-    ```properties
-    ng g e models/gender
-    ```
+   ```properties
+   ng g e models/gender
+   ```
 
-    Create a service:
+   Create a service:
 
-    ```properties
-    ng g s <service-name>
-    ```
+   ```properties
+   ng g s <service-name>
+   ```
 
 5. **Building Serving**
 
-    Build an app to /dist folder:
+   Build an app to /dist folder:
 
-    ```properties
-    ng build
-    ```
+   ```properties
+   ng build
+   ```
 
-    Optimize and build an app without using unnecessary code:
+   Optimize and build an app without using unnecessary code:
 
-    ```properties
-    ng build --aot
-    ```
+   ```properties
+   ng build --aot
+   ```
 
-    Create a build for production:
+   Create a build for production:
 
-    ```properties
-    ng build --prod
-    ```
+   ```properties
+   ng build --prod
+   ```
 
-    Specify serve with opening a browser:
+   Specify serve with opening a browser:
 
-    ```properties
-    ng serve -o
-    ```
+   ```properties
+   ng serve -o
+   ```
 
-    Reload when changes occur:
+   Reload when changes occur:
 
-    ```properties
-    ng serve --live-reload
-    ```
+   ```properties
+   ng serve --live-reload
+   ```
 
-    Serve using SSL:
+   Serve using SSL:
 
-    ```properties
-    ng serve -ssl
-    ```
+   ```properties
+   ng serve -ssl
+   ```
 
 6. **Add New Capabilities**
 
-    Add angular material to project:
+   Add angular material to project:
 
-    ```properties
-    ng add @angular/material
-    ```
+   ```properties
+   ng add @angular/material
+   ```
 
-    Create a material navigation component:
+   Create a material navigation component:
 
-    ```properties
-    ng g @angular/material:material-nav --name nav
-    ```
+   ```properties
+   ng g @angular/material:material-nav --name nav
+   ```
 
 7. **Component Life Cycles**
 
-    **ngOnInit**
-    Called once, after the first ngOnChanges()
+   **ngOnInit**
+   Called once, after the first ngOnChanges()
 
-    **ngOnChanges**
-    Called before ngOnInit() and whenever one of the input properties changes.
+   **ngOnChanges**
+   Called before ngOnInit() and whenever one of the input properties changes.
 
-    **ngOnDestroy**
-    Called just before Angular destroys the directive/component.
+   **ngOnDestroy**
+   Called just before Angular destroys the directive/component.
 
-    **ngDoCheck**
-    Called during every change detection run.
+   **ngDoCheck**
+   Called during every change detection run.
 
-    **ngAfterContentChecked**
-    Called after the ngAfterContentInit() and every subsequent ngDoCheck()
+   **ngAfterContentChecked**
+   Called after the ngAfterContentInit() and every subsequent ngDoCheck()
 
-    **ngAfterViewChecked**
-    Called after the ngAfterViewInit() and every subsequent ngAfterContentChecked().
+   **ngAfterViewChecked**
+   Called after the ngAfterViewInit() and every subsequent ngAfterContentChecked().
 
-    **ngAfterContentInit**
-    Called once after the first ngDoCheck().
+   **ngAfterContentInit**
+   Called once after the first ngDoCheck().
 
-    **ngAfterViewInit**
-    Called once after the first ngAfterContentChecked().
+   **ngAfterViewInit**
+   Called once after the first ngAfterContentChecked().
 
 8. **Template Syntax**
 
-    Interpolation - generates user name.
+   Interpolation - generates user name.
 
-    ```html
-    {{user.name}}
-    ```
+   ```html
+   {{user.name}}
+   ```
 
-    property binding - bind image url for user to src attribute
+   property binding - bind image url for user to src attribute
 
-    ```html
-    <img [src]="user.imageUrl" />
-    ```
+   ```html
+   <img [src]="user.imageUrl" />
+   ```
 
-    Event - assign function to click event
+   Event - assign function to click event
 
-    ```html
-    <button (click)="do()" ... />
-    ```
+   ```html
+   <button (click)="do()" ... />
+   ```
 
-    Show button when user.showSth is true
+   Show button when user.showSth is true
 
-    ```html
-    <button \*ngIf="user.showSth" ... />
-    ```
+   ```html
+   <button \*ngIf="user.showSth" ... />
+   ```
 
-    Iterate through the items list
+   Iterate through the items list
 
-    ```html
-    *ngFor="let item of items"
-    ```
+   ```html
+   *ngFor="let item of items"
+   ```
 
-    Angular ngClass attribute
+   Angular ngClass attribute
 
-    ```html
-    <div [ngClass]="{green: isTrue(), bold: itTrue()}" />
-    ```
+   ```html
+   <div [ngClass]="{green: isTrue(), bold: itTrue()}" />
+   ```
 
-    Angular ngStyle attribute
+   Angular ngStyle attribute
 
-    ```html
-    <div [ngStyle]="{'color': isTrue() ? '#bbb' : '#ccc'}" />
-    ```
+   ```html
+   <div [ngStyle]="{'color': isTrue() ? '#bbb' : '#ccc'}" />
+   ```
 
 9. **Input and Output**
 
-    Input() To pass value into child component
+   Input() To pass value into child component
 
-    Sample child component implementation:
+   Sample child component implementation:
 
-    ```ts
-    export class SampleComponent {
-        @Input() value: any/string/object/…;
-        ...
-    }
-    ```
+   ```ts
+   export class SampleComponent {
+       @Input() value: any/string/object/…;
+       ...
+   }
+   ```
 
-    Sample parent component usage:
+   Sample parent component usage:
 
-    ```ts
-    <app-sample-component [value]="myValue"></app-sampe-component>
-    Output() Emitting event to parent component
-    Sample child component:
-    @Output() myEvent: EventEmitter = new EventEmitter();
-    onRemoved(item: MyModel) {
-    this.myEvent.emit(item);
-    }
-    ```
+   ```ts
+   <app-sample-component [value]="myValue"></app-sampe-component>
+   Output() Emitting event to parent component
+   Sample child component:
+   @Output() myEvent: EventEmitter = new EventEmitter();
+   onRemoved(item: MyModel) {
+   this.myEvent.emit(item);
+   }
+   ```
 
-    Sample parent component:
+   Sample parent component:
 
-    ```html
-    <app-my-component (myEvent)="someFunction()"></app-my-component>
-    ```
+   ```html
+   <app-my-component (myEvent)="someFunction()"></app-my-component>
+   ```
 
-    onRemoved in the child component is calling the someFunction() method in the parent component, as we can see in the above two child and parent components.
+   onRemoved in the child component is calling the someFunction() method in the parent component, as we can see in the above two child and parent components.
 
 10. **Content Projection**
 
@@ -265,7 +277,7 @@
 
     ```html
     <component>
-        <div>(some html here)</div>
+      <div>(some html here)</div>
     </component>
     ```
 
@@ -285,8 +297,8 @@
 
     ```html
     <component>
-        <div well-title>(some html here)</div>
-        <div well-body>(some html here)</div>
+      <div well-title>(some html here)</div>
+      <div well-body>(some html here)</div>
     </component>
     ```
 
@@ -294,8 +306,8 @@
 
     ```html
     <component>
-        <div well-title>(some html here)</div>
-        <div well-body>(some html here)</div>
+      <div well-title>(some html here)</div>
+      <div well-body>(some html here)</div>
     </component>
     <ng-content select="title"></ng-content>
     <ng-content select="body"></ng-content>
@@ -339,19 +351,19 @@
 
     ```ts
     const appRoutes: Routes = [
-        { path: "crisis-center", component: CrisisListComponent },
-        { path: "prod/:id", component: HeroDetailComponent },
-        {
-            path: "products",
-            component: ProductListComponent,
-            data: { title: "Products List" },
-        },
-        {
-            path: "",
-            redirectTo: "/products",
-            pathMatch: "full",
-        },
-        { path: "**", component: PageNotFoundComponent },
+      { path: "crisis-center", component: CrisisListComponent },
+      { path: "prod/:id", component: HeroDetailComponent },
+      {
+        path: "products",
+        component: ProductListComponent,
+        data: { title: "Products List" },
+      },
+      {
+        path: "",
+        redirectTo: "/products",
+        pathMatch: "full",
+      },
+      { path: "**", component: PageNotFoundComponent },
     ];
     ```
 
@@ -392,9 +404,9 @@
     ```ts
     class UserToken {}
     class Permissions {
-        canActivate(user: UserToken, id: string): boolean {
-            return true;
-        }
+      canActivate(user: UserToken, id: string): boolean {
+        return true;
+      }
     }
     ```
 
@@ -403,9 +415,9 @@
     ```ts
     class UserToken {}
     class Permissions {
-        canDeactivate(user: UserToken, id: string): boolean {
-            return true;
-        }
+      canDeactivate(user: UserToken, id: string): boolean {
+        return true;
+      }
     }
     ```
 
@@ -421,10 +433,10 @@
     import { AppRoutingModule } from "./app-routing.module";
     import { AppComponent } from "./app.component";
     @NgModule({
-        declarations: [AppComponent], // components, pipes, directives
-        imports: [BrowserModule, AppRoutingModule], // other modules
-        providers: [], // services
-        bootstrap: [AppComponent], // top component
+      declarations: [AppComponent], // components, pipes, directives
+      imports: [BrowserModule, AppRoutingModule], // other modules
+      providers: [], // services
+      bootstrap: [AppComponent], // top component
     })
     export class AppModule {}
     ```
@@ -438,11 +450,11 @@
     ```ts
     @Injectable()
     export class MyService {
-        public items: Item[];
-        constructor() {}
-        getSth() {
-            // some implementation
-        }
+      public items: Item[];
+      constructor() {}
+      getSth() {
+        // some implementation
+      }
     }
     ```
 
@@ -495,7 +507,7 @@
 
     ```ts
     @Injectable({
-        providedIn: "root",
+      providedIn: "root",
     })
     export class SomeService {}
     ```
@@ -510,7 +522,7 @@
     import { InjectionToken } from "@angular/core";
     export const CONTROLS_GLOBAL_CONFIG = new InjectionToken("global-values");
     export interface ControlsConfig {
-        firstGlobalValue: string;
+      firstGlobalValue: string;
     }
     ```
 
@@ -541,10 +553,10 @@
     ```ts
     @Pipe({ name: "uselessPipe" })
     export class uselessPipe implements PipeTransform {
-        transform(value: string, before: string, after: string): string {
-            let newStr = `${before} ${value} ${after}`;
-            return newStr;
-        }
+      transform(value: string, before: string, after: string): string {
+        let newStr = `${before} ${value} ${after}`;
+        return newStr;
+      }
     }
     ```
 
@@ -563,18 +575,18 @@
     ```ts
     import { Directive, ElementRef, HostListener, Input } from "@angular/core";
     @Directive({
-        selector: "[appHighlight]",
+      selector: "[appHighlight]",
     })
     export class HighlightDirective {
-        constructor(private el: ElementRef) {}
-        @Input("appHighlight") highlightColor: string;
-        @Input("otherPar") otherPar: any; //it will be taken from other attribute named [otherPar]
-        @HostListener("mouseenter") onMouseEnter() {
-            this.highlight(this.highlightColor || "red");
-        }
-        private highlight(color: string) {
-            this.el.nativeElement.style.backgroundColor = color;
-        }
+      constructor(private el: ElementRef) {}
+      @Input("appHighlight") highlightColor: string;
+      @Input("otherPar") otherPar: any; //it will be taken from other attribute named [otherPar]
+      @HostListener("mouseenter") onMouseEnter() {
+        this.highlight(this.highlightColor || "red");
+      }
+      private highlight(color: string) {
+        this.el.nativeElement.style.backgroundColor = color;
+      }
     }
     ```
 
@@ -592,24 +604,24 @@
 
     ```ts
     animations: [
-        trigger("openClose", [
-            state(
-                "open",
-                style({
-                    height: "400px",
-                    opacity: 1.5,
-                })
-            ),
-            state(
-                "closed",
-                style({
-                    height: "100px",
-                    opacity: 0.5,
-                })
-            ),
-            transition("open => closed", [animate("1s")]),
-            transition("closed => open", [animate("1s")]),
-        ]),
+      trigger("openClose", [
+        state(
+          "open",
+          style({
+            height: "400px",
+            opacity: 1.5,
+          }),
+        ),
+        state(
+          "closed",
+          style({
+            height: "100px",
+            opacity: 0.5,
+          }),
+        ),
+        transition("open => closed", [animate("1s")]),
+        transition("closed => open", [animate("1s")]),
+      ]),
     ];
     ```
 
@@ -631,25 +643,25 @@
 
     ```html
     <form name="form" (ngSubmit)="f.form.valid && onSubmit()" #f="ngForm" novalidate>
-        <div class="form-group">
-            <label for="firstName">First Name</label>
+      <div class="form-group">
+        <label for="firstName">First Name</label>
 
-            <input
-                type="text"
-                class="form-control"
-                name="firstName"
-                [(ngModel)]="model.firstName"
-                #firstName="ngModel"
-                [ngClass]="{ 'is-invalid': f.submitted && firstName.invalid }"
-                required
-            />
-            <div *ngIf="f.submitted && firstName.invalid" class="invalid-feedback">
-                <div *ngIf="firstName.errors.required">First Name is required</div>
-            </div>
+        <input
+          type="text"
+          class="form-control"
+          name="firstName"
+          [(ngModel)]="model.firstName"
+          #firstName="ngModel"
+          [ngClass]="{ 'is-invalid': f.submitted && firstName.invalid }"
+          required
+        />
+        <div *ngIf="f.submitted && firstName.invalid" class="invalid-feedback">
+          <div *ngIf="firstName.errors.required">First Name is required</div>
         </div>
-        <div class="form-group">
-            <button class="btn btn-primary">Register</button>
-        </div>
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary">Register</button>
+      </div>
     </form>
     ```
 
@@ -676,22 +688,22 @@
 
     ```html
     <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
-        <div class="form-group">
-            <label>Email</label>
-            <input
-                type="text"
-                formControlName="email"
-                class="form-control"
-                [ngClass]="{ 'is-invalid': submitted && f.email.errors }"
-            />
-            <div *ngIf="submitted && f.email.errors" class="invalid-feedback">
-                <div *ngIf="f.email.errors.required">Email is required</div>
-                <div *ngIf="f.email.errors.email">Email must be a valid email address</div>
-            </div>
+      <div class="form-group">
+        <label>Email</label>
+        <input
+          type="text"
+          formControlName="email"
+          class="form-control"
+          [ngClass]="{ 'is-invalid': submitted && f.email.errors }"
+        />
+        <div *ngIf="submitted && f.email.errors" class="invalid-feedback">
+          <div *ngIf="f.email.errors.required">Email is required</div>
+          <div *ngIf="f.email.errors.email">Email must be a valid email address</div>
         </div>
-        <div class="form-group">
-            <button [disabled]="loading" class="btn btn-primary">Register</button>
-        </div>
+      </div>
+      <div class="form-group">
+        <button [disabled]="loading" class="btn btn-primary">Register</button>
+      </div>
     </form>
     ```
 
@@ -739,7 +751,7 @@
 
     ```ts
     this.secondFormGroup = this._formBuilder.group({
-        imageCtrl: ["", [Validators.required, this.validateUrl]],
+      imageCtrl: ["", [Validators.required, this.validateUrl]],
     });
     ```
 
@@ -767,7 +779,9 @@
     ```html
     <div *ngIf="firstFormGroup.controls.nameCtrl.errors.maxlength">Name is too long</div>
 
-    <div *ngIf="firstFormGroup.errors.nameShire">Shire dogs should have "shire" in name</div>
+    <div *ngIf="firstFormGroup.errors.nameShire">
+      Shire dogs should have "shire" in name
+    </div>
     ```
 
     **Custom Validator Directive for Template-Driven Forms**
@@ -850,38 +864,38 @@
 
     ```ts
     @Component({
-        selector: "app-text-area",
-        templateUrl: "./text-area.component.html",
-        styleUrls: ["./text-area.component.less"],
-        providers: [
-            {
-                provide: NG_VALUE_ACCESSOR,
-                useExisting: forwardRef(() => TextAreaComponent),
-                multi: true,
-            },
-        ],
+      selector: "app-text-area",
+      templateUrl: "./text-area.component.html",
+      styleUrls: ["./text-area.component.less"],
+      providers: [
+        {
+          provide: NG_VALUE_ACCESSOR,
+          useExisting: forwardRef(() => TextAreaComponent),
+          multi: true,
+        },
+      ],
     })
     export class TextAreaComponent implements ControlValueAccessor, OnInit {
-        @Input() value: string;
-        private _onChange = (data: any) => {
-            console.log("changed: " + data);
-        };
-        private _onTouched = (data?: any) => {
-            console.log("touched: " + data);
-        };
-        ngOnInit(): void {
-            const self = this;
-        }
-        constructor() {}
-        writeValue(obj: any): void {
-            this.value = obj;
-        }
-        registerOnChange(fn) {
-            this._onChange = fn;
-        }
-        registerOnTouched(fn: any): void {
-            this._onTouched = fn;
-        }
+      @Input() value: string;
+      private _onChange = (data: any) => {
+        console.log("changed: " + data);
+      };
+      private _onTouched = (data?: any) => {
+        console.log("touched: " + data);
+      };
+      ngOnInit(): void {
+        const self = this;
+      }
+      constructor() {}
+      writeValue(obj: any): void {
+        this.value = obj;
+      }
+      registerOnChange(fn) {
+        this._onChange = fn;
+      }
+      registerOnTouched(fn: any): void {
+        this._onTouched = fn;
+      }
     }
     ```
 
@@ -911,9 +925,9 @@
 
     ```ts
     it("#fetch should update data", (done: DoneFn) => {
-        // some code
-        done(); // we need 'done' to avoid test finishing before date was received
-        // some code
+      // some code
+      done(); // we need 'done' to avoid test finishing before date was received
+      // some code
     });
     ```
 
@@ -921,10 +935,10 @@
 
     ```ts
     it("http client works", (done: DoneFn) => {
-        service.getUser().subscribe((data) => {
-            expect(data).toBe("test");
-            done();
-        });
+      service.getUser().subscribe((data) => {
+        expect(data).toBe("test");
+        done();
+      });
     });
     ```
 
@@ -952,9 +966,9 @@
 
     ```ts
     beforeEach(() => {
-        let httpClientMock = TestBed.configureTestingModule({
-            providers: [{ provide: MyService, useValue: new MyService(httpClientMock) }],
-        });
+      let httpClientMock = TestBed.configureTestingModule({
+        providers: [{ provide: MyService, useValue: new MyService(httpClientMock) }],
+      });
     });
     ```
 
