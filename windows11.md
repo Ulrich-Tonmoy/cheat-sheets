@@ -32,6 +32,10 @@
 - HKEY_CLASSES_ROOT\Directory\Background\shell\AnyCode
 - HKEY_CLASSES_ROOT\Directory\shell\AnyCode
 
+## Clean Run recent lists
+
+- HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+
 ## Add to open with in context menu (right click) for any app
 
 - For Adding
