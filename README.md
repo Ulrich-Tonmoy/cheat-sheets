@@ -4,8 +4,8 @@
 
 1. [AI](./ai.md)
 2. [Google Colab](./google-colab.md)
-3. [Game Dev Tools](./game-&-web-dev-tools.md#game)
-4. [Web Dev Tools](./game-&-web-dev-tools.md#web)
+3. [Game Dev Tools](./game-dev-tools.md)
+4. [Web Dev Tools](./web-dev-tools.md#web)
 5. [Programming Language](./useful-repos.md#programming-languages-and-tools)
 6. [Game Engines](./useful-repos.md#game-dev-tools)
 7. [Code Editors](./useful-repos.md#code-editors)
