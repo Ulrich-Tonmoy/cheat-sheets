@@ -90,6 +90,47 @@
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
 
+### The best way to filter using useSearchParam
+
+```js
+export default function App() {
+  const [searchParam, setSearchParam] = useSearchParam({ q: "", isActive: false });
+
+  const q = searchParam.get("q");
+  const isActive = searchParam.get("isActive") === "true";
+
+  return (
+    <>
+      <input
+        type="text"
+        id="q"
+        value={q}
+        onChange={(e) =>
+          setSearchParam(
+            (prev) => {
+              prev.set("q", e.target.value);
+              return prev;
+            },
+            { replace: true },
+          )
+        }
+      />
+      <input
+        type="checkbox"
+        id="isActive"
+        value={isActive}
+        onChange={(e) =>
+          setSearchParam((prev) => {
+            prev.set("isActive", e.target.checked);
+            return prev;
+          })
+        }
+      />
+    </>
+  );
+}
+```
+
 ### The best way to change state in react and get the updated value instantly
 
 ```js
