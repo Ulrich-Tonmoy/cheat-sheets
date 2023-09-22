@@ -5,7 +5,7 @@
   - [Project Management](#project-management)
   - [Game Jam](#game-jam)
   - [Game Engine](#game-engine)
-  - [Game Framework & Library](#game-framework-&-library)
+  - [Game Framework & Library](#game-framework-and-library)
   - [3d Modeling APP](#3d-modeling-app)
   - [Online 3d Modeling APP](#online-3d-modeling-app)
   - [3d Animation APP](#3d-animation-app)
@@ -59,7 +59,7 @@
   4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [stencyl](https://www.stencyl.com/)
   5. [rpginabox](https://www.rpginabox.com/) - [falco3d](https://falco3d.com/) - [coppercube](https://www.ambiera.com/coppercube/)
 
-- ## Game Framework & Library
+- ## Game Framework and Library
 
   1. C++ [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
   2. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [aframe](https://aframe.io/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
