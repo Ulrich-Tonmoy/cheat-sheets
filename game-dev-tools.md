@@ -5,7 +5,7 @@
   - [Project Management](#project-management)
   - [Game Jam](#game-jam)
   - [Game Engine](#game-engine)
-  - [Game Framework](#game-framework)
+  - [Game Framework & Library](#game-framework-&-library)
   - [3d Modeling APP](#3d-modeling-app)
   - [Online 3d Modeling APP](#online-3d-modeling-app)
   - [3d Animation APP](#3d-animation-app)
@@ -53,27 +53,16 @@
 
 - ## Game Engine
 
-  1. [Godot](https://godotengine.org/download/windows/) - [Unreal](https://www.unrealengine.com/en-US/download) || [The Mirror](https://www.themirror.space/) - [Core](https://www.coregames.com)
-  2. [Unity](https://unity.com/download)
-  3. [rogueengine](https://rogueengine.io/)
-  4. [RenPy](https://www.renpy.org/)
-  5. [flaxengine](https://flaxengine.com/)
-  6. [Cocos Creator](https://www.cocos.com/en/creator)
-  7. [defold](https://defold.com/)
-  8. [stride3d](https://www.stride3d.net/)
-  9. [microStudio](https://microstudio.dev) - [nunustudio](https://www.nunustudio.org)
-  10. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [stencyl](https://www.stencyl.com/)
-  11. [rpginabox](https://www.rpginabox.com/)
-  12. [falco3d](https://falco3d.com/)
-  13. [armory3d](https://armory3d.org/)
-  14. [solarus-games](https://www.solarus-games.org/)
-  15. [coppercube](https://www.ambiera.com/coppercube/)
-  16. [ctjs](https://ctjs.rocks/)
+  1. [Godot](https://godotengine.org/download/windows/) - [Unreal](https://www.unrealengine.com/en-US/download) - [RenPy](https://www.renpy.org/) || [The Mirror](https://www.themirror.space/) - [Core](https://www.coregames.com)
+  2. [Unity](https://unity.com/download) || [defold](https://defold.com/) - [flaxengine](https://flaxengine.com/) - [stride3d](https://www.stride3d.net/)
+  3. [rogueengine](https://rogueengine.io/) - [playcanvas](https://playcanvas.com/) - [Cocos Creator](https://www.cocos.com/en/creator) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
+  4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [stencyl](https://www.stencyl.com/)
+  5. [rpginabox](https://www.rpginabox.com/) - [falco3d](https://falco3d.com/) - [coppercube](https://www.ambiera.com/coppercube/)
 
-- ## Game Framework
+- ## Game Framework & Library
 
   1. C++ [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
-  2. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
+  2. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [aframe](https://aframe.io/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
   3. Python [Ursina](https://github.com/pokepetter/ursina) | [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
   4. C# [MonoGame](https://www.monogame.net/) | [FNA](https://fna-xna.github.io/)
   5. Lua [love2d](https://love2d.org/)
@@ -231,12 +220,12 @@
 
 - ## 2d Assets
 
-  4. [itch.io](https://itch.io/game-assets/free)
-  5. [Open Game Art](https://opengameart.org)
-  6. [kenney.nl](https://kenney.nl/assets)
-  7. [Poly.Pizza](http://poly.pizza)
-  8. [Craft Pix](https://craftpix.net/)
-  9. [Game Dev Market](https://www.gamedevmarket.net)
+  1. [itch.io](https://itch.io/game-assets/free)
+  2. [Open Game Art](https://opengameart.org)
+  3. [kenney.nl](https://kenney.nl/assets)
+  4. [Poly.Pizza](http://poly.pizza)
+  5. [Craft Pix](https://craftpix.net/)
+  6. [Game Dev Market](https://www.gamedevmarket.net)
 
 - ## Game Dev AI Tools
 
