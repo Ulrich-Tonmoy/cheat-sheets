@@ -31,15 +31,12 @@
 
 - ## Project Management
 
-  1. [obsidian](https://obsidian.md/)
-  2. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-  3. [milanote](https://milanote.com/)
-  4. [trello](https://trello.com/)
-  5. [Pine](https://github.com/lukakerr/Pine)
+  1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/)
+  2. [logseq](https://logseq.com/) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://anytype.io/) - [focalboard](https://www.focalboard.com/)
+  3. [stashpad](https://www.stashpad.com/)
+  4. [Pine](https://github.com/lukakerr/Pine)
+  5. [MiaoYan](https://github.com/tw93/MiaoYan)
   6. [MarkText](https://github.com/marktext/marktext)
-  7. [MiaoYan](https://github.com/tw93/MiaoYan)
-  8. [stashpad](https://www.stashpad.com/)
-  9. [logseq](https://logseq.com/)
 
 - ## Game Jam
 
@@ -53,7 +50,7 @@
 
 - ## Game Engine
 
-  1. [Godot](https://godotengine.org/download/windows/) - [Unreal](https://www.unrealengine.com/en-US/download) - [RenPy](https://www.renpy.org/) || [The Mirror](https://www.themirror.space/) - [Core](https://www.coregames.com)
+  1. [Godot](https://godotengine.org/download/windows/) - [Unreal](https://www.unrealengine.com/en-US/download) - [RenPy](https://www.renpy.org/) | [The Mirror](https://www.themirror.space/) - [Core](https://www.coregames.com)
   2. [Unity](https://unity.com/download) || [defold](https://defold.com/) - [flaxengine](https://flaxengine.com/) - [stride3d](https://www.stride3d.net/)
   3. [rogueengine](https://rogueengine.io/) - [playcanvas](https://playcanvas.com/) - [Cocos Creator](https://www.cocos.com/en/creator) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
   4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [stencyl](https://www.stencyl.com/)
