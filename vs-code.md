@@ -45,22 +45,11 @@ Linux:
 
 # Workspace tools
 
-- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://desktop.github.com/)
-- [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code Studio](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/)
-- [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-- [Opera](https://www.opera.com/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/)
-- [nvm windows](https://github.com/coreybutler/nvm-windows) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install)
-- Terminal - Powershell - [Starship](https://starship.rs/)
+- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://desktop.github.com/) - [Obsidian](https://obsidian.md/)
 - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/)
-- [Obsidian](https://obsidian.md/)
-  - Excalidraw
-  - Dataview
-  - Kanban
-  - Tasks
-  - Style Settings
-  - Initiative Tracker
-  - Mermaid
-  - Home tab
-  - Callout Manager
-- [Potplayer](https://potplayer.daum.net/)
+- [nvm windows](https://github.com/coreybutler/nvm-windows) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install)
+- [Starship](https://starship.rs/) [starship.toml](./assets/vs-code/starship.toml) -> `C:\Users\{Name}\.config`
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [Opera](https://www.opera.com/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Potplayer](https://potplayer.daum.net/)
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117)
