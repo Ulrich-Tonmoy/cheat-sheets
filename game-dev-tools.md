@@ -50,8 +50,8 @@
 
 - ## Game Engine
 
-  1. [Godot](https://godotengine.org/download/windows/) - [Unreal](https://www.unrealengine.com/en-US/download) - [RenPy](https://www.renpy.org/) | [The Mirror](https://www.themirror.space/) - [Core](https://www.coregames.com)
-  2. [Unity](https://unity.com/download) || [defold](https://defold.com/) - [flaxengine](https://flaxengine.com/) - [stride3d](https://www.stride3d.net/)
+  1. [Unreal Engine](https://www.unrealengine.com/en-US/download) - [Godot](https://godotengine.org/download/windows/) - [RenPy](https://www.renpy.org/) | [Core](https://www.coregames.com) - [The Mirror](https://www.themirror.space/)
+  2. [Unity](https://unity.com/download) || [Stride Engine](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Cry Engine](https://www.cryengine.com/) - [Unigine](https://unigine.com/)
   3. [rogueengine](https://rogueengine.io/) - [playcanvas](https://playcanvas.com/) - [Cocos Creator](https://www.cocos.com/en/creator) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
   4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [stencyl](https://www.stencyl.com/)
   5. [rpginabox](https://www.rpginabox.com/) - [falco3d](https://falco3d.com/) - [coppercube](https://www.ambiera.com/coppercube/)
@@ -59,9 +59,9 @@
 - ## Game Framework and Library
 
   1. C++ [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
-  2. JS [Babylon JS](https://www.babylonjs.com/) | [Three JS](https://threejs.org/) | [PlayCanvas](https://playcanvas.com/) | [aframe](https://aframe.io/) | [Phaser](https://phaser.io/) | [Pixi JS](https://github.com/pixijs/pixijs) | [Excalibur](https://github.com/excaliburjs/Excalibur)
-  3. Python [Ursina](https://github.com/pokepetter/ursina) | [PyGame](https://www.pygame.org/news) | [Pyglet](https://pyglet.org/) | [Panda3d](https://www.panda3d.org/)
-  4. C# [MonoGame](https://www.monogame.net/) | [FNA](https://fna-xna.github.io/)
+  2. JS [Babylon JS](https://www.babylonjs.com/) - [Three JS](https://threejs.org/) - [PlayCanvas](https://playcanvas.com/) - [aframe](https://aframe.io/) - [Phaser](https://phaser.io/) - [Pixi JS](https://github.com/pixijs/pixijs) - [Excalibur](https://github.com/excaliburjs/Excalibur)
+  3. Python [Ursina](https://github.com/pokepetter/ursina) - [PyGame](https://www.pygame.org/news) - [Pyglet](https://pyglet.org/) - [Panda3d](https://www.panda3d.org/)
+  4. C# [MonoGame](https://www.monogame.net/) - [FNA](https://fna-xna.github.io/)
   5. Lua [love2d](https://love2d.org/)
   6. Rust [bevy](https://bevyengine.org/)
 
