@@ -38,7 +38,7 @@
 34. [Console Logging Methods](#Console-Logging-Methods)
 35. [Other](#Other)
 
-<img src="./assets/js/es6_cheatsheet.jpg" alt="cheatsheet" width="300px" align="right"/>
+<img src="./assets/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
 <p align="left">
   <img src="./assets/js/array.jpg" alt="array" width="300px"/>
   <img src="./assets/js/hoisting in js.png" alt="hoisting" width="300px"/>
