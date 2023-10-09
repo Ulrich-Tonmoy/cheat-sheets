@@ -39,12 +39,12 @@
 35. [Other](#Other)
 
 <img src="./assets/js/es6_cheatsheet.jpg" alt="cheatsheet" width="300px" align="right"/>
-<p >
-  <img src="./assets/js/js array.jpeg" alt="array" width="300px" align="left"/>
-  <img src="./assets/js/array.jpg" alt="array" width="300px" align="center"/>
-  <img src="./assets/js/asyncjs.gif" alt="asyncjs" width="300px" align="left"/>
-  <img src="./assets/js/hoisting in js.png" alt="hoisting" width="300px" align="center"/>
-  <img src="./assets/js/var-let-const.jpg" alt="var-let-const" width="300px" align="left"/>
+<p align="left">
+  <img src="./assets/js/array.jpg" alt="array" width="300px"/>
+  <img src="./assets/js/js array.jpeg" alt="array" width="300px"/>
+  <img src="./assets/js/hoisting in js.png" alt="hoisting" width="300px"/>
+  <img src="./assets/js/asyncjs.gif" alt="asyncjs" width="300px"/>
+  <img src="./assets/js/var-let-const.jpg" alt="var-let-const" width="300px"/>
 </p>
 
 ### How to generate a random number in a given range
