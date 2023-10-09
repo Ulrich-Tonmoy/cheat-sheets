@@ -6,7 +6,7 @@
 2. [Find the difference between two arrays](#How-to-find-the-difference-between-two-arrays)
 3. [Convert truthy/falsy to boolean(true/false)](#Convert-truthy-falsy-to-boolean)
 4. [Repeat a string](#Repeat-a-string)
-5. [Check how long an operation takes](#Check-how-long-an-operation-takes) |
+5. [Check how long an operation takes](#Check-how-long-an-operation-takes)
 6. [Two ways to remove an item in a specific in an array](#Two-ways-to-remove-an-item-in-a-specific-in-an-array)
 7. [Did you know you can flat an array?](#Did-you-know-you-can-flat-an-array)
 8. [Get unique values in an array](#Get-unique-values-in-an-array)
@@ -41,10 +41,10 @@
 <p align="center">
   <img src="./assets/js/js array.jpeg" alt="" width="330px"/>
   <img src="./assets/js/array.jpg" alt="" width="330px"/>
+  <img src="./assets/js/es6_cheatsheet.jpg" alt="" width="330px"/>
   <img src="./assets/js/asyncjs.gif" alt="" width="330px"/>
   <img src="./assets/js/hoisting in js.png" alt="" width="330px"/>
   <img src="./assets/js/var-let-const.jpg" alt="" width="330px"/>
-  <img src="./assets/js/es6_cheatsheet.jpg" alt="" width="330px"/>
 </p>
 
 ### How to generate a random number in a given range
