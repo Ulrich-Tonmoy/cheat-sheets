@@ -12,14 +12,22 @@
 
   1. Rapid creation of content based on current events, trends, and analytics. <br>
      Example: “Generate a caption & prompt for Midjourney to create a post for Instagram [Username] using yesterday’s news for [Topic]. Finally, utilizing the last week’s engagement statistics, recommend a posting time.
+
+     <br>
      <img alt="html structure" src="./assets/ai/1.png" width="360px"/>
+     <br>
+
   2. Job hunting. <br>
      Example: “Find a list of remote [Field] jobs that fit my profile, with a pay range of $70k-90k. Using that list, edit my resume & cover letter for each job listing. And lastly, submit each application and use Excel sheets to keep track of each application.”
   3. Plan your trip with up-to-the-minute information. <br>
      Example: “Find me the quickest flight from [Location] to [Loaction] within 27 hours. Once landed, book a hotel under $200 in [Location] that also has a hot tub, 2 beds, and is near the city”
   4. Find the most recent trends. <br>
      Example: “Give me a list of trends forming within the last week in the [Topic]. Using that list, create multiple visuals and a presentation for [company] on Google Slides about how [Topic] is the next big thing”
+
+     <br>
      <img alt="html structure" src="./assets/ai/2.png" width="360px"/>
+     <br>
+
   5. Discover the best discounts on the web. <br>
      Example: “Search for the three lowest priced [items] across all e-commerce websites. Show me the best options with over 4.5 ratings, that ship to [Location].”
   6. Updates on the stock market in real-time. <br>
