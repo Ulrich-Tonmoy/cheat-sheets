@@ -109,3 +109,5 @@
   6. [Jay Alammar’s Article Series on Large Language Models](https://jalammar.github.io/illustrated-transformer/) - or - [Applying massive language models in the real world with Cohere
      ](https://jalammar.github.io/applying-large-language-models-cohere/)
   7. [Understanding Large Language Models - A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+
+![Secure AI Development](./assets/ai/cheat-sheet-secure-ai-development.jpg)
