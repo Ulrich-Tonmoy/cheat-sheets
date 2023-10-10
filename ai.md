@@ -5,6 +5,7 @@
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [AI Image and Video Tools](#ai-image-and-video-tools)
   - [Top Free Courses on LLM](#top-free-courses-on-llm)
+  - [Useful AI Git Repos](#Useful-AI-Git-Repos)
 
 # 🤖AI🤖
 
