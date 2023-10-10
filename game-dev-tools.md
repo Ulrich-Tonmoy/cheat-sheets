@@ -25,8 +25,6 @@
   - [Websites for Blender User](#websites-for-blender-user)
   - [Other Game Dev Links](#other-game-dev-links)
 
-- [Other Tools](#other-tools)
-
 # 🎮Game🎮
 
 - ## Project Management
@@ -136,6 +134,8 @@
   14. [Sumo Paint](https://sumo.app/)
   15. [Pinta](https://www.pinta-project.com/)
   16. [Pixlr](https://pixlr.com/)
+  17. [spritemancer](https://spritemancer.com/)
+  18. [crocotile3d](https://crocotile3d.com/)
 
 - ## Online 2d Art APP
 
@@ -163,6 +163,7 @@
 
   1. [Tiled](https://www.mapeditor.org)
   2. [ldtk](https://ldtk.io/)
+  3. [tilesetter](https://www.tilesetter.org/)
 
 - ## Online Sprite Editor
 
@@ -203,6 +204,7 @@
   14. [blender textures](https://cloud.blender.org/p/textures)
   15. [Shader Toy](https://www.shadertoy.com/)
   16. [nodetoy](https://nodetoy.co/)
+  17. [godotshaders](https://godotshaders.com/)
 
 - ## Texture-Material-Shader (Paid)
 
@@ -269,6 +271,7 @@
 
   1. [TheHoth](https://logomaker.thehoth.com)
   2. [Logomakr](https://logomakr.com)
+  3. [game-icons](https://game-icons.net/)
 
 - ## Fonts:
 
@@ -297,33 +300,11 @@
   1. [Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
   2. [steamdb](https://steamdb.info/tech/)
   3. [gaminganalytics](https://gaminganalytics.info/)
+  4. [gamalytic](https://gamalytic.com/)
+  5. [games-stats](https://games-stats.com/)
 
-# 🔗Other Tools🔗
-
-1. [Window view around the world](https://www.window-swap.com/Window)
-2. [kdenlive video editor](https://kdenlive.org/en/)
-3. [witeboard](https://witeboard.com/)
-4. [Tiermaker](https://tiermaker.com/)
-5. [Diagram](https://app.dgrm.net/)
-6. [temporary mail](https://temp-mail.org/)
-7. [Download webpage as pdf](https://www.printfriendly.com/)
-8. [Profile Pic Maker](https://pfpmaker.com/)
-9. [Converting Tools](https://cloudconvert.com/)
-10. [Ico to Png](https://cloudconvert.com/)
-11. [Remove Bg](https://www.remove.bg/)
-12. [Erase Img Bg](https://www.magiceraser.io/)
-13. [tinywow](https://tinywow.com/)
-14. [myheritage](https://www.myheritage.com/deep-nostalgia)
-15. [theuselessweb](https://theuselessweb.com/)
-16. [Name Generator](https://www.mess.be/inickgenwuname.php)
-17. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
-18. [Download free books (elephind)](https://elephind.com/)
-19. [Tree simulation](https://visualgo.net/en/dfsbfs)
-20. [Generate Comic](https://gramener.com/comicgen/)
-21. [donotpay](https://donotpay.com/)
-22. [discudemy](https://www.discudemy.com/)
-23. [texttohandwriting](https://texttohandwriting.com/)
-24. [opensourcealternative](https://www.opensourcealternative.to/)
-
-- ## Work
-  1. [remoteok](https://remoteok.com/)
+- ## Funding
+  1. [buymeacoffee](https://www.buymeacoffee.com/)
+  2. [ko-fi](https://ko-fi.com/)
+  3. [patreon](https://www.patreon.com/)
+  4. [kowloonnights](https://www.kowloonnights.com/)
