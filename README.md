@@ -26,3 +26,34 @@
 22. [Unity](./unity.md)
 23. [Windows](./windows11.md)
 24. [Learning Materials](./useful-repos.md#learning-materials)
+
+# 🔗Other Tools🔗
+
+1. [Window view around the world](https://www.window-swap.com/Window)
+2. [kdenlive video editor](https://kdenlive.org/en/)
+3. [witeboard](https://witeboard.com/)
+4. [Tiermaker](https://tiermaker.com/)
+5. [Diagram](https://app.dgrm.net/)
+6. [temporary mail](https://temp-mail.org/)
+7. [Download webpage as pdf](https://www.printfriendly.com/)
+8. [Profile Pic Maker](https://pfpmaker.com/)
+9. [Converting Tools](https://cloudconvert.com/)
+10. [Ico to Png](https://cloudconvert.com/)
+11. [Remove Bg](https://www.remove.bg/)
+12. [Erase Img Bg](https://www.magiceraser.io/)
+13. [tinywow](https://tinywow.com/)
+14. [myheritage](https://www.myheritage.com/deep-nostalgia)
+15. [theuselessweb](https://theuselessweb.com/)
+16. [Name Generator](https://www.mess.be/inickgenwuname.php)
+17. [Download free books (pdfdrive)](https://www.pdfdrive.com/)
+18. [Download free books (elephind)](https://elephind.com/)
+19. [Tree simulation](https://visualgo.net/en/dfsbfs)
+20. [Generate Comic](https://gramener.com/comicgen/)
+21. [donotpay](https://donotpay.com/)
+22. [discudemy](https://www.discudemy.com/)
+23. [texttohandwriting](https://texttohandwriting.com/)
+24. [opensourcealternative](https://www.opensourcealternative.to/)
+
+# Work🔗
+
+1. [remoteok](https://remoteok.com/)
