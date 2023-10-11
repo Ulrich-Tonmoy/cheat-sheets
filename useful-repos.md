@@ -77,7 +77,7 @@
 
 ### Unity Tools
 
-1. [awesome-opensource-unity](hthttps://github.com/StefanoCecere/awesome-opensource-unity)
+1. [awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity)
 2. [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 3. [Smart-Inspector](https://github.com/neon-age/Smart-Inspector)
 4. [ColorfulHierarchy](https://github.com/neveBr/ColorfulHierarchy)
