@@ -271,7 +271,7 @@
 
 - ### Frontend Framework
 
-1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js)
+1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [remix](https://github.com/remix-run/remix) - [umi](https://github.com/umijs/umi) - []()
 2. [Angular](https://github.com/angular/angular)
 3. [Vue](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
 4. [Svelte](https://github.com/sveltejs/svelte) - [Kit](https://github.com/sveltejs/kit)
@@ -282,7 +282,7 @@
 9. [Preact](https://github.com/preactjs/preact)
 10. [Lit](https://github.com/lit/lit)
 11. [htmx](https://github.com/bigskysoftware/htmx)
-12. [react-admin](https://github.com/marmelab/react-admin)
+12. [react-admin](https://github.com/marmelab/react-admin) - [refine](https://github.com/refinedev/refine)
 13. [Yew](https://github.com/yewstack/yew)
 14. [neo.mjs](https://github.com/neomjs/neo)
 15. [Stimulus](https://github.com/hotwired/stimulus)
