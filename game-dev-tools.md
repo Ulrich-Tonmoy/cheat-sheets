@@ -31,10 +31,7 @@
 
   1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/)
   2. [logseq](https://logseq.com/) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://anytype.io/) - [focalboard](https://www.focalboard.com/)
-  3. [stashpad](https://www.stashpad.com/)
-  4. [Pine](https://github.com/lukakerr/Pine)
-  5. [MiaoYan](https://github.com/tw93/MiaoYan)
-  6. [MarkText](https://github.com/marktext/marktext)
+  3. [stashpad](https://www.stashpad.com/) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
 
 - ## Game Jam
 
@@ -120,21 +117,22 @@
 
   1. [Krita](https://krita.org)
   2. [Gimp](https://www.gimp.org) - [Inkscape](https://inkscape.org)
-  3. [Paint.NET](https://www.getpaint.net)
-  4. [Sketchbook](https://www.sketchbook.com/apps)
-  5. [Aseprite](https://github.com/aseprite/aseprite)
-  6. [Libresprite](http://www.libresprite.org/downloads)
-  7. [Graphicsgale](https://graphicsgale.com/us)
-  8. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
-  9. [MediBang Paint](https://medibangpaint.com/en/)
-  10. [Firealpaca](https://firealpaca.com)
-  11. [PixiEditor](https://pixieditor.net/)
-  12. [MyPaint](https://mypaint.app/)
-  13. [Sumo Paint](https://sumo.app/)
-  14. [Pinta](https://www.pinta-project.com/)
-  15. [Pixlr](https://pixlr.com/)
-  16. [spritemancer](https://spritemancer.com/)
-  17. [crocotile3d](https://crocotile3d.com/)
+  3. [Paint](https://apps.microsoft.com/detail/paint/9PCFS5B6T72H) - [Paint 3D](https://apps.microsoft.com/detail/paint-3d/9NBLGGH5FV99)
+  4. [Paint.NET](https://www.getpaint.net)
+  5. [Sketchbook](https://www.sketchbook.com/apps)
+  6. [Aseprite](https://github.com/aseprite/aseprite)
+  7. [Libresprite](http://www.libresprite.org/downloads)
+  8. [Graphicsgale](https://graphicsgale.com/us)
+  9. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+  10. [MediBang Paint](https://medibangpaint.com/en/)
+  11. [Firealpaca](https://firealpaca.com)
+  12. [PixiEditor](https://pixieditor.net/)
+  13. [MyPaint](https://mypaint.app/)
+  14. [Sumo Paint](https://sumo.app/)
+  15. [Pinta](https://www.pinta-project.com/)
+  16. [Pixlr](https://pixlr.com/)
+  17. [spritemancer](https://spritemancer.com/)
+  18. [crocotile3d](https://crocotile3d.com/)
 
 - ## Online 2d Art APP
 
