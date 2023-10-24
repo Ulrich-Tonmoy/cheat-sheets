@@ -46,9 +46,9 @@ Linux:
 # Workspace tools
 
 - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://desktop.github.com/) - [nvm windows](https://github.com/coreybutler/nvm-windows) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install)
-- [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - Terminal - Powershell - WSL
+- [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Terminal](https://apps.microsoft.com/detail/windows-terminal/9N0DX20HK701) - [Powershell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D) - [WSL](https://apps.microsoft.com/detail/windows-subsystem-for-linux/9P9TQF7MRM4R)
 - [Starship](https://starship.rs/) - [starship.toml](./assets/vs-code/starship.toml) -> `C:\Users\{Name}\.config`
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/) - [Obsidian](https://obsidian.md/)
 - [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Opera](https://www.opera.com/) - [Potplayer](https://potplayer.daum.net/)
-- [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117)
+- [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) `.\setup.exe /configure .\configuration-office2021Enterprise.xml`
