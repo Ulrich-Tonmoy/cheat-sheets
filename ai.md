@@ -62,6 +62,15 @@
 
   1.  [resumetrick](https://resumetrick.com/)
 
+- ## Text to Voice
+
+  1. [onlinetonegenerator](https://onlinetonegenerator.com/)
+  2. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
+  3. [voicebooking](https://www.voicebooking.com/)
+  4. [naturalreaders](https://www.naturalreaders.com/online/)
+  5. [voicemaker](https://voicemaker.in/)
+  6. [play.ht](https://play.ht/)
+
 - ## Text/Image to 3D
 
   1. [Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
