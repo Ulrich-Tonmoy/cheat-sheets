@@ -17,10 +17,11 @@
   - [3D Model](#3d-model)
   - [Texture Material Shader](#texture-material-shader)
   - [2d Assets](#2d-assets)
+  - [Logo maker](#logo-maker)
+  - [Video Editor](#video-editor)
   - [Game Dev AI Tools](#game-dev-ai-tools)
   - [Game Audio App](#game-audio-app)
   - [Game Audio App Online](#game-audio-app-online)
-  - [Logo maker](#logo-maker)
   - [Fonts](#fonts)
   - [Websites for Blender User](#websites-for-blender-user)
   - [Other Game Dev Links](#other-game-dev-links)
@@ -223,6 +224,18 @@
   5. [Craft Pix](https://craftpix.net/)
   6. [Game Dev Market](https://www.gamedevmarket.net)
 
+- ## Logo maker
+
+  1. [TheHoth](https://logomaker.thehoth.com)
+  2. [Logomakr](https://logomakr.com)
+  3. [game-icons](https://game-icons.net/)
+
+- ## Video Editor
+
+  1. [clipchamp](https://clipchamp.com/en/)
+  2. [kdenlive](https://kdenlive.org/en/)
+  3. [filmora](https://filmora.wondershare.com/)
+
 - ## Game Dev AI Tools
 
   1. [ArtBreeder](https://www.artbreeder.com)
@@ -263,12 +276,6 @@
 
   1. [BeepBox](https://www.beepbox.co)
   1. [Vocal Remover](https://vocalremover.org/)
-
-- ## Logo maker
-
-  1. [TheHoth](https://logomaker.thehoth.com)
-  2. [Logomakr](https://logomakr.com)
-  3. [game-icons](https://game-icons.net/)
 
 - ## Fonts:
 
