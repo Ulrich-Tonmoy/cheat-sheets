@@ -36,7 +36,8 @@
 32. [Array](#Array)
 33. [Intl Formatter Docs](#Intl-Formatter-Docs)
 34. [Console Logging Methods](#Console-Logging-Methods)
-35. [Other](#Other)
+35. [Other](#other)
+36. [TypeScript](#ts)
 
 <img src="./assets/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
 <p align="left">
@@ -82,10 +83,7 @@ const diff = [
 console.log("diff", diff); //[3,4]
 
 function arrayDiff(a, b) {
-  return [
-    ...a.filter((x) => b.indexOf(x) === -1),
-    ...b.filter((x) => a.indexOf(x) === -1),
-  ];
+  return [...a.filter((x) => b.indexOf(x) === -1), ...b.filter((x) => a.indexOf(x) === -1)];
 }
 console.log("arrayDiff", arrayDiff(firstArr, secondArr)); //[3,4]
 
@@ -388,7 +386,7 @@ window.addEventListener(
     console.log("right click");
     return false; // cancel default menu
   },
-  false,
+  false
 );
 ```
 
@@ -658,7 +656,7 @@ console.log(
   str
     .split(" ")
     .map((el) => el.split("").reverse().join(""))
-    .join(" "),
+    .join(" ")
 );
 
 // with regex
@@ -726,10 +724,7 @@ console.log(str);
 
   ```js
   // Monitor the load time of a critical resource
-  const keyResources = [
-    "https://example.com/css/style.css",
-    "https://example.com/js/main.js",
-  ];
+  const keyResources = ["https://example.com/css/style.css", "https://example.com/js/main.js"];
   keyResources.forEach((resource) => {
     const resourceEntry = window.performance.getEntriesByName(resource)[0];
     console.log(`${resource} load time: ${resourceEntry.duration}ms`);
@@ -868,3 +863,36 @@ arr.at(-2);
   ```
 
   **[⬆ Back to Top](#table-of-contents)**
+
+# TS
+
+```ts
+// Discriminating Union
+type LoadingState = {
+  state: "Loading";
+};
+type SuccessState = {
+  state: "Success";
+  data: { id: string; name: string };
+};
+type ErrorState = {
+  state: "Error";
+  error: { message: string };
+};
+type CurrentState = LoadingState | SuccessState | ErrorState;
+function print(loc: CurrentState) {
+  switch (location.state) {
+    case "Loading":
+      console.log(location.state);
+      break;
+    case "Success":
+      console.log(location.data.name);
+      break;
+    case "Error":
+      console.log(location.error.message);
+      break;
+    default:
+      break;
+  }
+}
+```
