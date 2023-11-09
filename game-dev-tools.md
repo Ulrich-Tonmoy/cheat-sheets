@@ -47,7 +47,7 @@
 - ## Game Engine
 
   1. [Unreal Engine](https://www.unrealengine.com/en-US/download) - [Godot](https://godotengine.org/download/windows/) - [RenPy](https://www.renpy.org/) | [Core](https://www.coregames.com) - [The Mirror](https://www.themirror.space/)
-  2. [Unity](https://unity.com/download) || [Stride Engine](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Cry Engine](https://www.cryengine.com/) - [Unigine](https://unigine.com/)
+  2. [Unity](https://unity.com/download) || [Stride](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Cry Engine](https://www.cryengine.com/) - [Unigine](https://unigine.com/) - [o3de](https://o3de.org/)
   3. [Rogue Engine](https://rogueengine.io/) - [PlayCanvas](https://playcanvas.com/) - [Cocos Creator](https://www.cocos.com/en/creator) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
   4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [Stencyl](https://www.stencyl.com/)
   5. [rpginabox](https://www.rpginabox.com/) - [falco3d](https://falco3d.com/) - [coppercube](https://www.ambiera.com/coppercube/)
