@@ -51,4 +51,4 @@ Linux:
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/) - [Obsidian](https://obsidian.md/)
 - [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Opera](https://www.opera.com/) - [Potplayer](https://potplayer.daum.net/)
-- [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) `.\setup.exe /configure .\configuration-office2021Enterprise.xml`
+- [Office Customization Tool](https://config.office.com/deploymentsettings) & [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) `.\setup.exe /configure .\configuration-office2021Enterprise.xml` or `setup /configure configuration.xml`
