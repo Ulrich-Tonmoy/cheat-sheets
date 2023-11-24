@@ -1,4 +1,4 @@
-## React - Best Practices
+# React & Next
 
 ## React Ecosystem
 
@@ -89,6 +89,8 @@
     - [react-dropzone](https://react-dropzone.js.org/)
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
+
+## React - Best Practices
 
 ### The best way to filter using useSearchParam
 
@@ -429,4 +431,44 @@ const Message = () => {
 
 "2" == 2 ? true : false; // true
 "2" === 2 ? true : false; // false
+```
+
+# Interview Questions
+
+### Find 2nd largest number in array
+
+```js
+function nextBiggest(arr) {
+  let max = 0,
+    result = 0;
+
+  for (const value of arr) {
+    const nr = Number(value);
+    if (nr > max) {
+      [result, max] = [max, nr]; // save previous max
+    } else if (nr < max && nr > result) {
+      result = nr; // new second biggest
+    }
+  }
+  return result;
+}
+
+const arr = ["20", "120", "111", "215", "215", "215", "54", "78"];
+console.log(nextBiggest(arr));
+```
+
+### IIFE
+
+```js
+(async () => {
+  await asyncCodeHere();
+})();
+```
+
+### Suspense
+
+```js
+<Suspense fallback={<Loading />}>
+  <SomeComponent />
+</Suspense>
 ```
