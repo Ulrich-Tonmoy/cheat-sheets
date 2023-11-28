@@ -37,7 +37,12 @@ document.designMode = "on";
 <!-- different favicon for light and dark mode -->
 
 <head>
-  <link rel="icon" type="image/svg+xml" href="dark-icon.svg" media="(prefers-color-scheme:dark)" />
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="dark-icon.svg"
+    media="(prefers-color-scheme:dark)"
+  />
   <link
     rel="icon"
     type="image/svg+xml"
@@ -50,8 +55,11 @@ document.designMode = "on";
 ```html
 <!-- When you need to run some calculations on your inputs and get a result instantly, you can use the <output> element to display the results without writing any external JS -->
 
-<form oninput="total.value=Number(amount.value) + (Number(amount.value) * Number(tip.value)/100)">
-  <input type="number" id="amount" value="0" /> + <input type="number" id="tip" value="0" /> =
+<form
+  oninput="total.value=Number(amount.value) + (Number(amount.value) * Number(tip.value)/100)"
+>
+  <input type="number" id="amount" value="0" /> +
+  <input type="number" id="tip" value="0" /> =
   <output name="total" for="amount tip"></output>
 </form>
 ```
@@ -163,7 +171,34 @@ document.designMode = "on";
    });
    ```
 
-2. Popover
+2. Accordion
+
+   ```html
+   <details>
+     <summary>Open</summary>
+     <p>lorem ipsem</p>
+   </details>
+   ```
+
+3. Progress bar
+
+   ```html
+   <label for="prog">Download</label> <progress id="prog" value="50" max="100"></progress>
+   ```
+
+4. Autocomplete
+
+   ```html
+   <input list="lists">
+    <datalist id="lists">
+      <option>op1</option>
+      <option>op2</option>
+      <option>op3</option>
+    </datalist>
+   </input>
+   ```
+
+5. Popover
 
    ```html
    <button popovertarget="pop">Open</button>
@@ -172,7 +207,7 @@ document.designMode = "on";
    </div>
    ```
 
-3. Multiple
+6. Multiple
 
    ```html
    <input type="file" multiple />
@@ -182,7 +217,7 @@ document.designMode = "on";
    For an email input, if and only if the multiple attribute is specified, the value can be a list of comma-separated email addresses. Any whitespace is removed from each address in the list.
    For a file input, the user can select multiple files in the as usual (holding down Shift or Crtl).
 
-4. Accept
+7. Accept
 
    ```html
    <input type="file" accept=".png, .jpg" />
@@ -192,7 +227,7 @@ document.designMode = "on";
    You need to pass it a string containing a comma-separated list of unique file type specifiers.
    You can also use it to specify only audio, image, or video format.
 
-5. Contenteditable
+8. Contenteditable
 
    ```html
    <div contenteditable="true">I'm a cool editable div ;)</div>
@@ -200,7 +235,7 @@ document.designMode = "on";
 
    contenteditable is a global attribute (common to all HTML elements) that makes the HTML content editable by the user or not. However, be careful with changes only made to visible content vs the DOM content.
 
-6. Spellcheck
+9. Spellcheck
 
    ```html
    <p contenteditable="true" spellcheck="true">Thanks furr checkinng my speling :)</p>
@@ -209,28 +244,28 @@ document.designMode = "on";
    The spellcheck is another global attribute that you can use to check spelling and grammar on HTML elements such as input fields and other editable elements.
    Note: Typically non-editable elements are not checked for spelling errors, even if the spellcheck attribute is set to true and the browser supports spellchecking.
 
-7. Translate
+10. Translate
 
-   ```html
-   <footer><p translate="no">LearnPine</p></footer>
-   ```
+    ```html
+    <footer><p translate="no">LearnPine</p></footer>
+    ```
 
-   translate tells the browser whether the content should be translated or not.
-   For instance, you can use it to prevent Google Translate from automatically trying to translate your company's or brand's name.
+    translate tells the browser whether the content should be translated or not.
+    For instance, you can use it to prevent Google Translate from automatically trying to translate your company's or brand's name.
 
-8. Poster
-   ```html
-   <video controls src="https://bit.ly/3nWh78w" poster="posterImage.png"></video>
-   ```
-   Use the poster attribute to specify an image to be shown while the video is downloading, or until the user hits the play button.
-   If the image isn't specified, nothing is displayed until the first frame is available, then the first frame is shown as the poster frame.
-9. Download
-   ```html
-   <a href="index.html" download="fileName">Download me :)</a>
-   ```
-   Use the download attribute combined with an `a` element to instruct browsers to download a URL instead of navigating to it, so the user will be prompted to save it as a local file.
-   You can also specify the file name.
-10. Style
+11. Poster
+    ```html
+    <video controls src="https://bit.ly/3nWh78w" poster="posterImage.png"></video>
+    ```
+    Use the poster attribute to specify an image to be shown while the video is downloading, or until the user hits the play button.
+    If the image isn't specified, nothing is displayed until the first frame is available, then the first frame is shown as the poster frame.
+12. Download
+    ```html
+    <a href="index.html" download="fileName">Download me :)</a>
+    ```
+    Use the download attribute combined with an `a` element to instruct browsers to download a URL instead of navigating to it, so the user will be prompted to save it as a local file.
+    You can also specify the file name.
+13. Style
     ```html
     <body>
       <style contenteditable style="display:block; white-space:pre;">
@@ -272,8 +307,9 @@ is a great way to add a little definition between groups of options inside a sel
 ```
 
 ```html
-<acronym></acronym> is a way to define or further explain a group of words. When you hover over text
-that has the acronym tag used, a box appears below with the text from the title tag.
+<acronym></acronym> is a way to define or further explain a group of words. When you hover
+over text that has the acronym tag used, a box appears below with the text from the title
+tag.
 ```
 
 ```html
@@ -365,8 +401,8 @@ Represents a caption text corresponding with a figure element
 
 ```html
 <legend></legend>
-Used to add a caption (title) to a group of related form elements that are grouped together into the
-fieldset tag.
+Used to add a caption (title) to a group of related form elements that are grouped
+together into the fieldset tag.
 ```
 
 ```html
@@ -400,7 +436,8 @@ Used to represents preformatted text.
 ```
 
 ```html
-<samp></samp> Represents text that should be interpreted as sample output from a computer program.
+<samp></samp> Represents text that should be interpreted as sample output from a computer
+program.
 ```
 
 ```html
