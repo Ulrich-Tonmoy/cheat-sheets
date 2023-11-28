@@ -15,7 +15,6 @@
 - [Native App Framework](#native-app-framework)
 - [Other Tools](#other-tools)
 - [Learning Materials](#learning-materials)
-- [Other Links](#other-links)
 
 # Programming Languages and Tools
 
@@ -499,9 +498,3 @@
 34. [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 35. [anime-chan](https://github.com/rocktimsaikia/anime-chan)
 36. [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-
-# Other Links
-
-1. [ossinsight collections](https://ossinsight.io/collections/)
-2. [tiobe-index](https://www.tiobe.com/tiobe-index/)
-3. [PYPL](https://pypl.github.io/PYPL.html)
