@@ -122,3 +122,8 @@
 
 - Right click and select rename then `alt + 0160`
 - Right click and select properties select customize then change icon and pick a blank icon
+
+## GodMode
+
+Create a new folder on your Windows Desktop (or in any other folder that you might want to have this God Mode icon) and change the name to:
+`GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}`
