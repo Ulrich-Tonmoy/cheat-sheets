@@ -113,9 +113,10 @@
   - ## Image Gen AI Websites
 
     1. [Plagground ai](https://playgroundai.com/)
-    2. [Civitai](https://civitai.com//)
-    3. [mage.space](https://www.mage.space/)
-    4. [instantart](https://instantart.io/)
+    1. [Seaart ai](https://seaart.ai/)
+    1. [Civitai](https://civitai.com//)
+    1. [mage.space](https://www.mage.space/)
+    1. [instantart](https://instantart.io/)
 
 - ## Top Free Courses on LLM
 
