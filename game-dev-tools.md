@@ -140,10 +140,10 @@
   1. [Photopea](https://www.photopea.com) - [Vectorpea](https://www.vectorpea.com/)
   2. [Lunapic](https://www7.lunapic.com/editor)
   3. [piskelapp](https://www.piskelapp.com)
-  4. [Pixilart](https://www.pixilart.com)
+  4. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
   5. [lospec](https://lospec.com/pixel-editor)
-  6. [dpaint](https://www.stef.be/dpaint/)
-  7. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+  6. [Pixilart](https://www.pixilart.com)
+  7. [dpaint](https://www.stef.be/dpaint/)
   8. [makepixelart](https://makepixelart.com/free)
   9. [Vectr](https://vectr.com/design/)
 
@@ -151,11 +151,12 @@
 
   1. [Pencil2d](https://www.pencil2d.org)
   2. [Synfig](https://www.synfig.org)
-  3. [Coa Tools](https://github.com/ndee85/coa_tools)
-  4. [Tupi2d](https://sourceforge.net/projects/tupi2d)
-  5. [Open Toonz](https://opentoonz.github.io/e/)
-  6. [Animation Paper](https://animationpaper.com/download-pre-release)
-  7. [Stykz](https://www.stykz.net)
+  3. [Open Toonz](https://opentoonz.github.io/e/)
+  4. [spookyghost](https://encelo.itch.io/spookyghost)
+  5. [Coa Tools](https://github.com/ndee85/coa_tools)
+  6. [Tupi2d](https://sourceforge.net/projects/tupi2d)
+  7. [Animation Paper](https://animationpaper.com/download-pre-release)
+  8. [Stykz](https://www.stykz.net)
 
 - ## Tile Editor
 
