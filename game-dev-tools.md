@@ -2,7 +2,6 @@
 
 - [Game Dev Tools](#game)
 
-  - [Project Management](#project-management)
   - [Game Jam](#game-jam)
   - [Game Engine](#game-engine)
   - [Game Framework & Library](#game-framework-and-library)
@@ -28,12 +27,6 @@
 
 # 🎮Game🎮
 
-- ## Project Management
-
-  1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/)
-  2. [logseq](https://logseq.com/) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://anytype.io/) - [focalboard](https://www.focalboard.com/)
-  3. [stashpad](https://www.stashpad.com/) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
-
 - ## Game Jam
 
   1. [Global Game Jam](https://globalgamejam.org)
@@ -51,6 +44,9 @@
   3. [Rogue Engine](https://rogueengine.io/) - [PlayCanvas](https://playcanvas.com/) - [Cocos Creator](https://www.cocos.com/en/creator) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
   4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [Stencyl](https://www.stencyl.com/)
   5. [rpginabox](https://www.rpginabox.com/) - [falco3d](https://falco3d.com/) - [coppercube](https://www.ambiera.com/coppercube/)
+
+- ## [Other Game Engines](./useful-repos.md#game-dev-tools) - [Web Game Engines](./useful-repos.md#web)
+- ## [Godot Tools](./useful-repos.md#godot-tools) - [Unity Tools](./useful-repos.md#unity-tools)
 
 - ## Game Framework and Library
 

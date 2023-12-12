@@ -1,28 +1,27 @@
 # cheat-sheets
 
-## Template & Shortcut snippets and useful tools link
+## 🔗Project Management🔗
+
+1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/)
+2. [logseq](https://logseq.com/) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://anytype.io/) - [focalboard](https://www.focalboard.com/)
+3. [stashpad](https://www.stashpad.com/) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
+
+## 🔗Template & Shortcut snippets and useful tools link🔗
 
 1. [Game Dev Tools](./game-dev-tools.md)
-2. [Web Dev Tools](./web-dev-tools.md#web)
+2. [Unity](./unity.md)
 3. [Code Editors Repos](./useful-repos.md#code-editors)
 4. [Programming Language Repos](./useful-repos.md#programming-languages-and-tools)
-5. [Game Engines Repos](./useful-repos.md#game-dev-tools)
-6. [Web Game Engines Repos](./useful-repos.md#web)
-7. [Web Framework and Tools Repos](./useful-repos.md#web-framework-and-tools)
-8. [HTML](./html.md) - [CSS](./css.md) - [JavaScript](./js.md)
+5. [Native App Framework Repos](./useful-repos.md#native-app-framework)
+6. [Web Dev Tools](./web-dev-tools.md#web)
+7. [HTML](./html.md) - [CSS](./css.md) - [JavaScript](./js.md)
+8. [React](./react-next.md) - [Angular](./angular.md)
 9. [Npm & Nvm](./nvm-npm.md)
-10. [React](./react-next.md)
-11. [Angular](./angular.md)
-12. [Mongoose](./mongoose.md.md)
-13. [Asp.Net](./asp.net.md)
-14. [VS Code](./vs-code.md)
-15. [Git](./git.md)
-16. [AI](./ai.md) - [Google Colab](./google-colab.md)
-17. [Native App Framework Repos](./useful-repos.md#native-app-framework)
-18. [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos)
-19. [Windows](./windows.md)
-20. [Learning Materials](./useful-repos.md#learning-materials)
-21. [Unity](./unity.md)
+10. [Mongoose](./mongoose.md.md)
+11. [Asp.Net](./asp.net.md)
+12. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
+13. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./google-colab.md)
+14. [Learning Materials](./useful-repos.md#learning-materials)
 
 # 🔗Other Links🔗
 
