@@ -51,19 +51,24 @@
 
 ### Godot Tools
 
-1. [Horizontal-Filesystem-Like-Unity](https://github.com/newjoker6/Horizontal-Filesystem-Like-Unity)
-2. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
-3. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
-4. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
-5. [dialogic](https://github.com/coppolaemilio/dialogic)
-6. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
-7. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
-8. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
-9. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
-10. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
-11. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
-12. [enu](https://github.com/dsrw/enu)
-13. [godot-nim](https://github.com/pragmagic/godot-nim)
+1. [Godot Dynamic Inventory System](https://github.com/alfredbaudisch/GodotDynamicInventorySystem)
+2. [Godello](https://github.com/alfredbaudisch/Godello)
+3. [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. [material-maker](https://github.com/RodZill4/material-maker)
+5. [Horizontal-Filesystem-Like-Unity](https://github.com/newjoker6/Horizontal-Filesystem-Like-Unity)
+6. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
+7. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
+8. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
+9. [dialogic](https://github.com/coppolaemilio/dialogic)
+10. [grider](https://github.com/alfredbaudisch/grider)
+11. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
+12. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
+13. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
+14. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
+15. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
+16. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
+17. [enu](https://github.com/dsrw/enu)
+18. [godot-nim](https://github.com/pragmagic/godot-nim)
 
 ### Blender Tools
 
