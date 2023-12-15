@@ -8,3 +8,5 @@
 ![](./assets/sql/SQL-6.jpg)
 ![](./assets/sql/SQL-7.jpg)
 ![](./assets/sql/SQL-8.jpg)
+
+[!NOTE]
