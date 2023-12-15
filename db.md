@@ -1,3 +1,10 @@
+# MongoDb & SQL
+
+- [MongoDb](#mongodb)
+- [SQL](#sql)
+
+# MongoDb
+
 #### Install
 
     $ npm i mongoose
@@ -31,14 +38,14 @@
 
 ##### SchemaTypes
 
--   String
--   Number
--   Date
--   Buffer
--   Boolean
--   Mixed
--   ObjectId
--   Array
+- String
+- Number
+- Date
+- Buffer
+- Boolean
+- Mixed
+- ObjectId
+- Array
 
 For more
 [SchemaTypes](http://mongoosejs.com/docs/schematypes.html)
@@ -82,7 +89,18 @@ A model is a constructor compiled from a schema. Model instances represent a col
       runValidators: true,
       overwrite: true // it will remove all the old data without default values and add the new data under the id
     });
-	
+
 ##### $delete one by id
 
     User.findByIdAndRemove(id);
+
+# SQL
+
+![](./assets/db/SQL-1.jpg)
+![](./assets/db/SQL-2.jpg)
+![](./assets/db/SQL-3.jpg)
+![](./assets/db/SQL-4.jpg)
+![](./assets/db/SQL-5.jpg)
+![](./assets/db/SQL-6.jpg)
+![](./assets/db/SQL-7.jpg)
+![](./assets/db/SQL-8.jpg)
