@@ -7,7 +7,7 @@
 ## HTML
 
 <p align="center">
-  <img alt="html structure" src="./assets/html/HTML.png" width="360px"/>
+  <img alt="html structure" src="./assets/web/HTML.png" width="360px"/>
 </p>
 
 ```js
@@ -683,13 +683,13 @@ p {
 35. [Other](#other)
 36. [TypeScript](#ts)
 
-<img src="./assets/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
+<img src="./assets/web/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
 <p align="left">
-  <img src="./assets/js/array.jpg" alt="array" width="300px"/>
-  <img src="./assets/js/hoisting in js.png" alt="hoisting" width="300px"/>
-  <img src="./assets/js/js array.jpeg" alt="array" width="300px"/>
-  <img src="./assets/js/asyncjs.gif" alt="asyncjs" width="300px"/>
-  <img src="./assets/js/var-let-const.jpg" alt="var-let-const" width="300px"/>
+  <img src="./assets/web/js/array.jpg" alt="array" width="300px"/>
+  <img src="./assets/web/js/hoisting in js.png" alt="hoisting" width="300px"/>
+  <img src="./assets/web/js/js array.jpeg" alt="array" width="300px"/>
+  <img src="./assets/web/js/asyncjs.gif" alt="asyncjs" width="300px"/>
+  <img src="./assets/web/js/var-let-const.jpg" alt="var-let-const" width="300px"/>
 </p>
 
 ### How to generate a random number in a given range
