@@ -229,9 +229,13 @@
 
 - ## Video Editor
 
-  1. [clipchamp](https://clipchamp.com/en/)
-  2. [kdenlive](https://kdenlive.org/en/)
-  3. [filmora](https://filmora.wondershare.com/)
+  1. [Clipchamp](https://clipchamp.com/en/)
+  1. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+  1. [Shotcut](https://shotcut.org/)
+  1. [Lightworks](https://lwks.com/)
+  1. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
+  1. [kdenlive](https://kdenlive.org/en/)
+  1. [filmora](https://filmora.wondershare.com/)
 
 - ## Game Dev AI Tools
 
