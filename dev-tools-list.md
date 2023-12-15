@@ -55,7 +55,7 @@
     - [Unreal Tools](#unreal-tools)
     - [Unity Tools](#unity-tools)
     - [Archives/Stopped](#archivesstopped)
-  - [Web](#web)
+  - [Web Engine](#web-engine)
 - [Code Editors](#code-editors)
 - [Web Framework and Tools](#web-framework-and-tools)
 - [Native App Framework](#native-app-framework)
@@ -800,7 +800,7 @@
 16. [stencyl-engine](https://github.com/Stencyl/stencyl-engine)
 17. [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
 
-## Web
+## Web Engine
 
 ### Engines
 

@@ -8,20 +8,18 @@
 
 ## 🔗Template & Shortcut snippets and useful tools link🔗
 
-1. [Game Dev Tools](./game-dev-tools.md)
+1. [Game Dev Tools](./dev-tools-list.md)
 2. [Unity](./unity.md)
-3. [Code Editors Repos](./useful-repos.md#code-editors)
-4. [Programming Language Repos](./useful-repos.md#programming-languages-and-tools)
-5. [Native App Framework Repos](./useful-repos.md#native-app-framework)
-6. [Web Dev Tools](./web-dev-tools.md#web)
-7. [HTML](./html.md) - [CSS](./css.md) - [JavaScript](./js.md)
-8. [React](./react-next.md) - [Angular](./angular.md)
-9. [Npm & Nvm](./nvm-npm.md)
-10. [Mongoose](./mongoose.md.md)
-11. [Asp.Net](./asp.net.md)
-12. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
-13. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./google-colab.md)
-14. [Learning Materials](./useful-repos.md#learning-materials)
+3. [Code Editors](./dev-tools-list.md#code-editors) - [Programming Language](./dev-tools-list.md#programming-languages-and-tools)
+4. [Native App Framework Repos](./dev-tools-list.md#native-app-framework)
+5. [HTML CSS & JavaScript](./html-css-js.md)
+6. [Web Dev Tools](./dev-tools-list.md) - [Npm & Nvm](./nvm-npm.md)
+7. [React](./react-next.md) - [Angular](./angular.md)
+8. [Mongoose](./db.md#mongodb) - [SQL](./db.md#sql)
+9. [Asp.Net](./asp.net.md)
+10. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
+11. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
+12. [Learning Materials](./dev-tools-list.md#learning-materials)
 
 # 🔗Other Links🔗
 
