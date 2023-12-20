@@ -265,18 +265,19 @@
 
 - ## Video Editor
 
-  1. [Clipchamp](https://clipchamp.com/en/)
-  1. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-  1. [Shotcut](https://shotcut.org/)
-  1. [Lightworks](https://lwks.com/)
-  1. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
-  1. [kdenlive](https://kdenlive.org/en/)
-  1. [filmora](https://filmora.wondershare.com/)
+  1. [CapCut](https://www.capcut.com/)
+  2. [Clipchamp](https://clipchamp.com/en/)
+  3. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+  4. [Shotcut](https://shotcut.org/)
+  5. [Lightworks](https://lwks.com/)
+  6. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
+  7. [kdenlive](https://kdenlive.org/en/)
+  8. [filmora](https://filmora.wondershare.com/)
 
 - ## Game Dev AI Tools
 
   1. [ArtBreeder](https://www.artbreeder.com)
-  1. [Skybox Generator](https://skybox.blockadelabs.com/)
+  2. [Skybox Generator](https://skybox.blockadelabs.com/)
 
 - ## AI Gen Game Audio
 

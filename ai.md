@@ -66,12 +66,13 @@
 
 - ## Text to Voice
 
-  1. [onlinetonegenerator](https://onlinetonegenerator.com/)
-  2. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
-  3. [voicebooking](https://www.voicebooking.com/)
-  4. [naturalreaders](https://www.naturalreaders.com/online/)
-  5. [voicemaker](https://voicemaker.in/)
-  6. [play.ht](https://play.ht/)
+  1. [elevenlabs](https://elevenlabs.io/)
+  2. [onlinetonegenerator](https://onlinetonegenerator.com/)
+  3. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
+  4. [voicebooking](https://www.voicebooking.com/)
+  5. [naturalreaders](https://www.naturalreaders.com/online/)
+  6. [voicemaker](https://voicemaker.in/)
+  7. [play.ht](https://play.ht/)
 
 - ## Text/Image to 3D
 
