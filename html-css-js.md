@@ -667,12 +667,13 @@ p {
 29. [Date Formatter](#Date-Formatter)
 30. [Reversing string](#Reversing-string)
 31. [JavaScript Performance API](#JavaScript-Performance-API)
-32. [Array](#Array)
-33. [Intl Formatter Docs](#Intl-Formatter-Docs)
-34. [Console Logging Methods](#Console-Logging-Methods)
-35. [UUID and Date](#uuid-and-date)
-36. [TypeScript](#ts)
-37. [Hide the Source Code of a Web Page](#hide-source-code)
+32. [Array](#array)
+33. [Closure](#closure)
+34. [Intl Formatter Docs](#Intl-Formatter-Docs)
+35. [Console Logging Methods](#Console-Logging-Methods)
+36. [UUID and Date](#uuid-and-date)
+37. [Discriminating Union](#discriminating-union)
+38. [Hide the Source Code of a Web Page](#hide-source-code)
 
 <img src="./assets/web/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
 <p align="left">
@@ -1405,11 +1406,70 @@ console.log(str);
 
 ### Array
 
+**Common Functional Array Methods:**
+
+- **map(callback):**
+  - Creates a new array by applying a function to each element of the original array.
+  - Example: `const doubledNumbers = numbers.map(number => number * 2);`
+- **filter(callback):**
+  - Creates a new array containing elements that pass a certain test.
+  - Example: `const evenNumbers = numbers.filter(number => number % 2 === 0);`
+- **reduce(callback, initialValue):**
+  - Reduces an array to a single value by applying a function to each element and accumulating a result.
+  - Example: `const sum = numbers.reduce((accumulator, number) => accumulator + number, 0);`
+- **forEach(callback):**
+  - Executes a function for each element of an array, but doesn't create a new array.
+  - Example: `numbers.forEach(number => console.log(number));`
+- **find(callback):**
+  - Returns the first element in an array that satisfies a test.
+  - Example: `const firstEvenNumber = numbers.find(number => number % 2 === 0);`
+- **some(callback):**
+  - Tests whether at least one element in an array passes a test.
+  - Example: `const hasEvenNumber = numbers.some(number => number % 2 === 0);`
+- **every(callback):**
+  - Tests whether all elements in an array pass a test.
+  - Example: `const allEvenNumbers = numbers.every(number => number % 2 === 0);`
+
+**Key Advantages:**
+
+- **Concise and expressive:** Functional array methods often lead to more concise and readable code compared to traditional loops.
+- **Chainable:** Array methods can be chained together to create complex operations in a fluent style.
+- **Pure and predictable:** Functional approaches often emphasize pure functions and immutability, promoting easier testing and reasoning about code.
+- **Performance optimizations:** Some functional array methods can be optimized by JavaScript engines for better performance.
+
+**In essence, functional array functions provide a powerful and elegant way to manipulate and process arrays in JavaScript, leading to cleaner, more maintainable, and potentially more performant code.**
+
 ```js
 // Last element
 arr.at(-1);
 // 2nd last element
 arr.at(-2);
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Closure
+
+A function that has access to variables in its outer (enclosing) function's scope, even after the outer function has returned. Closures can have multiple nested functions, creating closures within closures. This allows for even more encapsulation and control over data access.
+
+```js
+function createCounter() {
+  let count = 0; // Outer scope variable
+
+  return function () {
+    // Inner function (closure)
+    count++;
+    return count;
+  };
+}
+
+const counter1 = createCounter();
+const counter2 = createCounter();
+
+console.log(counter1()); // Output: 1
+console.log(counter2()); // Output: 1 (separate count for each closure)
+console.log(counter1()); // Output: 2
+console.log(counter2()); // Output: 2
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1499,7 +1559,7 @@ arr.at(-2);
 
   **[⬆ Back to Top](#table-of-contents)**
 
-# TS
+### Discriminating Union
 
 ```ts
 // Discriminating Union
@@ -1534,7 +1594,7 @@ function print(loc: CurrentState) {
 
 **[⬆ Back to Top](#table-of-contents)**
 
-# Hide Source Code
+### Hide Source Code
 
 ```js
 <script>
