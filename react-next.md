@@ -90,6 +90,87 @@
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
 
+### Fundamental building blocks of React, known as primitives:
+
+**1. Components:**
+
+- Reusable pieces of UI that encapsulate their own logic and rendering.
+- Can be classified as:
+  - **Functional Components:** Simple JavaScript functions that return JSX.
+  - **Class Components:** Extend React.Component and manage state and lifecycle methods using `this`.
+
+**2. JSX:**
+
+- A syntax extension for JavaScript that allows writing HTML-like structures within code.
+- Elements in JSX can represent both React components and DOM elements.
+
+**3. Props:**
+
+- Data passed from parent components to child components.
+- Used to customize the behavior and appearance of child components.
+
+**4. State:**
+
+- Data that can change over time within a component.
+- Managed using the `useState` hook in functional components or `this.state` in class components.
+- Changes to state trigger re-renders of the component and its children.
+
+**5. Rendering:**
+
+- The process of generating the UI based on the component's state and props.
+- React uses a virtual DOM to efficiently update only the necessary parts of the actual DOM.
+
+**6. Lifecycle Methods:**
+
+- Methods that are called at different stages of a component's lifecycle (mounting, updating, unmounting).
+- Used for tasks like data fetching, subscriptions, or cleanup.
+- Available in class components, but functional components can use hooks for similar effects.
+
+**7. Hooks:**
+
+- Functions that allow you to "hook into" React features like state and lifecycle methods from functional components.
+- Examples include `useState`, `useEffect`, `useContext`, `useMemo`, and more.
+
+**8. Virtual DOM:**
+
+- An in-memory representation of the actual DOM.
+- React uses it to compare changes and apply only the necessary updates to the real DOM, improving performance.
+
+**9. Reconciliation:**
+
+- The process of comparing the virtual DOM with the actual DOM to determine the minimal changes needed.
+- React's efficient reconciliation algorithm is a key factor in its performance.
+
+### useMemo
+
+```js
+// The useMemo hook is used to memoize the result of a computation. Memoization is a technique where the result of a function is cached and returned when the same inputs occur again, instead of recomputing the result. This can be useful for optimizing performance in certain scenarios, especially when dealing with expensive calculations or rendering.
+
+import React, { useState, useMemo } from "react";
+
+function App() {
+  const [count, setCount] = useState(0);
+  const [toDos, setToDos] = useState([{ id: 1, text: "Learn React" }]);
+
+  const filteredToDos = useMemo(() => {
+    // Expensive filtering operation
+    return toDos.filter((todo) => todo.id !== count);
+  }, [toDos, count]);
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Increment</button>
+      <ul>
+        {filteredToDos.map((todo) => (
+          <li key={todo.id}>{todo.text}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+```
+
 ## React - Best Practices
 
 ### The best way to filter using useSearchParam
@@ -113,7 +194,7 @@ export default function App() {
               prev.set("q", e.target.value);
               return prev;
             },
-            { replace: true },
+            { replace: true }
           )
         }
       />
