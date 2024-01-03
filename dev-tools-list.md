@@ -49,7 +49,7 @@
 - [Project Management](#project-management)
 - [Other Apps](#other-apps)
 - [Programming Languages & Tools](#programming-languages-and-tools)
-- [Game Dev Tools](#game-dev-tools)
+- [Game Dev Tool Repos](#game-dev-tool-repos)
   - [Native](#native)
     - [Engines](#game-engines)
     - [Godot Tools](#godot-tools)
@@ -660,7 +660,7 @@
 4. [Java](https://github.com/openjdk/jdk) - [kotlin](https://github.com/JetBrains/kotlin) - [swift](https://github.com/apple/swift) - [gravity](https://github.com/marcobambini/gravity) - [dart-lang](https://github.com/dart-lang/language) - [sdk](https://github.com/dart-lang/sdk) - [php](https://github.com/php/php-src) - [Ruby](https://github.com/ruby/ruby) - [perl5](https://github.com/Perl/perl5) - [scala](https://github.com/scala/scala) - [Scala 3](https://github.com/lampepfl/dotty) - [Vale](https://github.com/ValeLang/Vale) - [groovy](https://github.com/apache/groovy) - [clojure](https://github.com/clojure/clojure) - [crystal](https://github.com/crystal-lang/crystal)
 5. [io](https://github.com/IoLanguage/io) - [eta](https://github.com/typelead/eta) - [terra](https://github.com/terralang/terra) - [pharo](https://github.com/pharo-project/pharo) - [goby](https://github.com/goby-lang/goby) - [eo](https://github.com/objectionary/eo) - [gosu-lang](https://github.com/gosu-lang/gosu-lang) - [frege](https://github.com/Frege/frege) - [rakudo](https://github.com/rakudo/rakudo) - [flix](https://github.com/flix/flix) - [effekt](https://github.com/effekt-lang/effekt) - [nu](https://github.com/programming-nu/nu) - [Senegal](https://github.com/SenegalLang/Senegal) - [Idris-dev](https://github.com/idris-lang/Idris-dev) - [chavascript](https://github.com/ChavaScript/chavascript) - [starlark](https://github.com/bazelbuild/starlark) - [starlark-go](https://github.com/google/starlark-go) - [starlark-rust](https://github.com/facebookexperimental/starlark-rust) - [koka](https://github.com/koka-lang/koka) - [ring](https://github.com/ring-lang/ring) - [ponyc](https://github.com/ponylang/ponyc) - [futhark](https://github.com/diku-dk/futhark) - [coq](https://github.com/coq/coq) - [cue](https://github.com/cue-lang/cue) - [chapel](https://github.com/chapel-lang/chapel) - [wren](https://github.com/wren-lang/wren) - [lux](https://github.com/LuxLang/lux) - [muon](https://github.com/nickmqb/muon) - [leo](https://github.com/AleoHQ/leo) - [vala](https://gitlab.gnome.org/GNOME/vala) - [red](https://github.com/red/red) - [wenyan](https://github.com/wenyan-lang/wenyan) - [Draco-lang](https://github.com/Draco-lang/Compiler) - [skip](https://github.com/skiplang/skip) - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - [D](https://github.com/dlang/dmd) - [BosqueLanguage](https://github.com/BosqueLanguage/BosqueCore) - [racket](https://github.com/racket/racket) - [livecode](https://github.com/livecode/livecode) - [golo-lang](https://github.com/eclipse-archived/golo-lang)
 
-# Game Dev Tools
+# Game Dev Tool Repos
 
 ## Native
 
