@@ -46,6 +46,8 @@
   - [Free API](#free-api)
   - [Course](#course)
 
+- [Project Management](#project-management)
+- [Other Apps](#other-apps)
 - [Programming Languages & Tools](#programming-languages-and-tools)
 - [Game Dev Tools](#game-dev-tools)
   - [Native](#native)
@@ -637,6 +639,16 @@
 
 - ## Course
   1. [Cloud Fundamentals: AWS Services for C# Developers](https://nickchapsas.com/p/cloud-fundamentals-aws-services-for-c-developers)
+
+# Project Management
+
+1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/)
+2. [logseq](https://logseq.com/) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://anytype.io/) - [focalboard](https://www.focalboard.com/)
+3. [stashpad](https://www.stashpad.com/) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
+
+# Other Apps
+
+1. [windirstat](https://windirstat.net/index.html)
 
 # <p align="center">🔖Free Tool Github Links📝</p>
 
