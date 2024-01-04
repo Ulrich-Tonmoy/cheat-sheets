@@ -1023,10 +1023,11 @@
 
 - ### C#
 
-1. [.NET MAUI](https://github.com/dotnet/maui)
-2. [WPF](https://github.com/dotnet/wpf)
-3. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
-4. [Uno](https://github.com/unoplatform/uno)
+1. [Godot](https://github.com/godotengine/godot)
+2. [.NET MAUI](https://github.com/dotnet/maui)
+3. [WPF](https://github.com/dotnet/wpf)
+4. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+5. [Uno](https://github.com/unoplatform/uno)
 
 - ### C/C++
 
@@ -1056,9 +1057,9 @@
 - ### JS
 
 1. [React Native](https://github.com/facebook/react-native)
-2. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
-3. [Sciter ](https://github.com/c-smile/sciter-sdk)
-4. [Tauri](https://github.com/tauri-apps/tauri)
+2. [Tauri](https://github.com/tauri-apps/tauri)
+3. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
+4. [Sciter ](https://github.com/c-smile/sciter-sdk)
 5. [Electron](https://github.com/electron/electron)
 6. [Gluon](https://github.com/gluon-framework/gluon)
 7. [NW.js](https://github.com/nwjs/nw.js)
