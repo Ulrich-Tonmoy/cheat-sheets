@@ -1047,12 +1047,14 @@
 
 - ### Python
 
-1. [Kivy](https://github.com/kivy/kivy)
-2. [Phoenix](https://github.com/wxWidgets/Phoenix)
-3. [pywebview](https://github.com/r0x0r/pywebview)
-4. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-5. [Eel](https://github.com/python-eel/Eel)
-6. [abstra](https://github.com/abstra-app/abstra-lib)
+1. [Toga](https://github.com/beeware/toga)
+2. [Flet](https://github.com/flet-dev/flet)
+3. [Kivy](https://github.com/kivy/kivy)
+4. [Phoenix](https://github.com/wxWidgets/Phoenix)
+5. [pywebview](https://github.com/r0x0r/pywebview)
+6. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+7. [Eel](https://github.com/python-eel/Eel)
+8. [abstra](https://github.com/abstra-app/abstra-lib)
 
 - ### JS
 
@@ -1065,6 +1067,16 @@
 7. [NW.js](https://github.com/nwjs/nw.js)
 8. [NodeGui](https://github.com/nodegui/nodegui)
 9. [Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs)
+
+- ### Rust
+
+1. [Tauri](https://github.com/tauri-apps/tauri)
+2. [Slint](https://github.com/slint-ui/slint)
+3. [Druid](https://github.com/linebender/druid)
+4. [EGUI](https://github.com/emilk/egui)
+5. [Iced](https://github.com/iced-rs/iced)
+6. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
+7. [Dioxus](https://github.com/DioxusLabs/dioxus)
 
 - ### Dart
 
@@ -1082,15 +1094,6 @@
 
 1. [Muon](https://github.com/ImVexed/muon)
 2. [Wails](https://github.com/wailsapp/wails)
-
-- ### Rust
-
-1. [Tauri](https://github.com/tauri-apps/tauri)
-2. [Druid](https://github.com/linebender/druid)
-3. [EGUI](https://github.com/emilk/egui)
-4. [Iced](https://github.com/iced-rs/iced)
-5. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
-6. [Dioxus](https://github.com/DioxusLabs/dioxus)
 
 # Other Tools
 
