@@ -41,7 +41,12 @@ document.designMode = "on";
 <!-- different favicon for light and dark mode -->
 
 <head>
-  <link rel="icon" type="image/svg+xml" href="dark-icon.svg" media="(prefers-color-scheme:dark)" />
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="dark-icon.svg"
+    media="(prefers-color-scheme:dark)"
+  />
   <link
     rel="icon"
     type="image/svg+xml"
@@ -54,8 +59,11 @@ document.designMode = "on";
 ```html
 <!-- When you need to run some calculations on your inputs and get a result instantly, you can use the <output> element to display the results without writing any external JS -->
 
-<form oninput="total.value=Number(amount.value) + (Number(amount.value) * Number(tip.value)/100)">
-  <input type="number" id="amount" value="0" /> + <input type="number" id="tip" value="0" /> =
+<form
+  oninput="total.value=Number(amount.value) + (Number(amount.value) * Number(tip.value)/100)"
+>
+  <input type="number" id="amount" value="0" /> +
+  <input type="number" id="tip" value="0" /> =
   <output name="total" for="amount tip"></output>
 </form>
 ```
@@ -303,8 +311,9 @@ is a great way to add a little definition between groups of options inside a sel
 ```
 
 ```html
-<acronym></acronym> is a way to define or further explain a group of words. When you hover over text
-that has the acronym tag used, a box appears below with the text from the title tag.
+<acronym></acronym> is a way to define or further explain a group of words. When you hover
+over text that has the acronym tag used, a box appears below with the text from the title
+tag.
 ```
 
 ```html
@@ -396,8 +405,8 @@ Represents a caption text corresponding with a figure element
 
 ```html
 <legend></legend>
-Used to add a caption (title) to a group of related form elements that are grouped together into the
-fieldset tag.
+Used to add a caption (title) to a group of related form elements that are grouped
+together into the fieldset tag.
 ```
 
 ```html
@@ -431,7 +440,8 @@ Used to represents preformatted text.
 ```
 
 ```html
-<samp></samp> Represents text that should be interpreted as sample output from a computer program.
+<samp></samp> Represents text that should be interpreted as sample output from a computer
+program.
 ```
 
 ```html
@@ -530,6 +540,14 @@ Used to represents preformatted text.
 /* To Toggle Dark/light mode */
 .html {
   filter: invert(1) hue-rotate(180deg);
+}
+```
+
+```css
+/* List bullet-point marker change */
+li::marker {
+  content: "@";
+  font-size: 1.2rem;
 }
 ```
 
@@ -719,7 +737,10 @@ const diff = [
 console.log("diff", diff); //[3,4]
 
 function arrayDiff(a, b) {
-  return [...a.filter((x) => b.indexOf(x) === -1), ...b.filter((x) => a.indexOf(x) === -1)];
+  return [
+    ...a.filter((x) => b.indexOf(x) === -1),
+    ...b.filter((x) => a.indexOf(x) === -1),
+  ];
 }
 console.log("arrayDiff", arrayDiff(firstArr, secondArr)); //[3,4]
 
@@ -1022,7 +1043,7 @@ window.addEventListener(
     console.log("right click");
     return false; // cancel default menu
   },
-  false
+  false,
 );
 ```
 
@@ -1292,7 +1313,7 @@ console.log(
   str
     .split(" ")
     .map((el) => el.split("").reverse().join(""))
-    .join(" ")
+    .join(" "),
 );
 
 // with regex
@@ -1360,7 +1381,10 @@ console.log(str);
 
   ```js
   // Monitor the load time of a critical resource
-  const keyResources = ["https://example.com/css/style.css", "https://example.com/js/main.js"];
+  const keyResources = [
+    "https://example.com/css/style.css",
+    "https://example.com/js/main.js",
+  ];
   keyResources.forEach((resource) => {
     const resourceEntry = window.performance.getEntriesByName(resource)[0];
     console.log(`${resource} load time: ${resourceEntry.duration}ms`);
