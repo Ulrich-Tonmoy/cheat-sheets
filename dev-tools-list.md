@@ -874,7 +874,7 @@
 
 # Code Editors
 
-1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Pulsar](https://github.com/pulsar-edit/pulsar)
+1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/community) - [Pulsar](https://github.com/pulsar-edit/pulsar)
 2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Notepads](https://github.com/0x7c13/Notepads)
 3. [Neovim](https://github.com/neovim/neovim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [NvChad](https://github.com/NvChad/NvChad) - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
 4. [oni2](https://github.com/onivim/oni2) - [focus](https://github.com/focus-editor/focus) - [Helix](https://github.com/helix-editor/helix) - [Ox editor](https://github.com/curlpipe/ox) - [micro](https://github.com/zyedidia/micro) - [zee](https://github.com/zee-editor/zee) - [Vim](https://github.com/vim/vim) - [vim.wasm](https://github.com/rhysd/vim.wasm)
@@ -909,7 +909,7 @@
 33. [neoeedit](https://github.com/neoedmund/neoeedit)
 34. [overleaf](https://github.com/overleaf/overleaf)
 35. [MonoDevelop](https://github.com/mono/monodevelop)
-36. [Atom](https://github.com/atom/atom)
+36. [Atom](https://github.com/atom/atom) - [atom-community](https://github.com/atom-community/atom)
 37. [brackets](https://github.com/adobe/brackets)
 38. [zed](https://github.com/zedapp/zed)
 39. [LightTable](https://github.com/LightTable/LightTable)
