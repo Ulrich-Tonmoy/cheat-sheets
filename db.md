@@ -11,30 +11,32 @@
 
 #### Connect
 
-```
-    import mongoose from 'mongoose';
+```js
+import mongoose from "mongoose";
 
-    const connectionString = "string from mongodb atlas"
+const connectionString = "string from mongodb atlas";
 
-    mongoose.connect(connectionString, {
-    useNewUrlParser: true,
-    useCreateIndex: true,
-    useFindAndModify: false,
-    useUnifiedTopology: true,
+mongoose.connect(connectionString, {
+  useNewUrlParser: true,
+  useCreateIndex: true,
+  useFindAndModify: false,
+  useUnifiedTopology: true,
 });
 ```
 
 #### Defining a schema
 
-    const userSchema = new mongoose.Schema({
-      fullName: {
-        type: String,
-        maxlength: 20,
-        required: [true, "Name cant be Empty"]
-        },
-      phone: Number,
-      verified: {type: Boolean, default: false}
-    });
+```js
+const userSchema = new mongoose.Schema({
+  fullName: {
+    type: String,
+    maxlength: 20,
+    required: [true, "Name cant be Empty"],
+  },
+  phone: Number,
+  verified: { type: Boolean, default: false },
+});
+```
 
 ##### SchemaTypes
 
@@ -58,41 +60,59 @@ A model is a constructor compiled from a schema. Model instances represent a col
 
 ##### Create a model
 
-    const User = mongoose.model('User', userSchema);
+```js
+const User = mongoose.model("User", userSchema);
 
-    const u = User.create({fullName: "Name", phone: 0123456789, verified: true})
+const u = User.create({ fullName: "Name", phone: 0123456789, verified: true });
+
+const u = User.insert({ fullName: "Name", phone: 0123456789, verified: true });
+```
 
 ##### $find all
 
-    User.find({});
+```js
+User.find({});
+```
 
 ##### $find by name
 
-    User.find({ fullName: "Name" });
+```js
+User.find({ fullName: "Name" });
+```
 
 ##### $find by multiple values
 
-    User.find({ fullName: "Name", id: "123" });
+```js
+User.find({ fullName: "Name", id: "123" });
+```
 
 ##### $find one by id
 
-    User.findOne({ _id: id });
-
-##### $delete one by id
-
-    User.findOneAndDelete({ _id: id });
+```js
+User.findOne({ _id: id });
+```
 
 ##### $update one by id
 
-    User.findOneAndUpdate({ _id: id }, updateData, {
-      new: true,
-      runValidators: true,
-      overwrite: true // it will remove all the old data without default values and add the new data under the id
-    });
+```js
+User.findOneAndUpdate({ _id: id }, updateData, {
+  new: true,
+  runValidators: true,
+  overwrite: true, // it will remove all the old data without default values and add the new data under the id
+});
+```
 
 ##### $delete one by id
 
-    User.findByIdAndRemove(id);
+```js
+User.findOneAndDelete({ _id: id });
+```
+
+##### $delete one by id
+
+```js
+User.findByIdAndRemove(id);
+```
 
 # SQL
 
