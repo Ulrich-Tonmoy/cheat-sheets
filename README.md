@@ -12,7 +12,7 @@
 8. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
 9. [Project Management](./dev-tools-list.md#project-management)
 10. [Code Editors](./dev-tools-list.md#code-editors)
-11. [Programming Languages](./dev-tools-list.md#programming-languages
+11. [Programming Languages](./dev-tools-list.md#programming-languages)
 12. [Learning Materials](./dev-tools-list.md#learning-materials)
 
 # 🔗Other Links🔗
