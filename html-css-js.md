@@ -530,6 +530,66 @@ program.
 
 # CSS
 
+## CSS Selectors
+
+### Basic
+
+| Name      | CSS          |
+| --------- | ------------ |
+| Universal | \*{}         |
+| Type      | div{}        |
+| Class     | .className{} |
+| Id        | #idName{}    |
+
+### Combination
+
+| Name             | CSS        |
+| ---------------- | ---------- |
+| Descendent       | div a {}   |
+| Direct Child     | div > a {} |
+| General Sibling  | div ~ a {} |
+| Adjacent sibling | div + a {} |
+| Or               | div, a {}  |
+| And              | div.c {}   |
+
+### Attribute
+
+| Name       | CSS      |
+| ---------- | -------- |
+| Has        | [a]      |
+| Exact      | [a="1"]  |
+| Begin With | [a^="1"] |
+| Ends With  | [a$="1"] |
+| Substring  | [a*="1"] |
+
+### Pseudo Element
+
+| Name   | CSS            |
+| ------ | -------------- |
+| Before | div::before {} |
+| After  | div::after {}  |
+
+### Pseudo Class
+
+| Name             | CSS                         |
+| ---------------- | --------------------------- |
+| Hover            | button::hover {}            |
+| Focus            | button::focus {}            |
+| Required         | input::required {}          |
+| Checked          | input::checked {}           |
+| Disabled         | input::disabled {}          |
+| First Child      | div::first-child {}         |
+| Last Child       | div::last-child {}          |
+| Nth Child        | div::nth-child(2n) {}       |
+| Nth Last Child   | div::nth-last-child(3) {}   |
+| Only Child       | div::only-child {}          |
+| First of Type    | div::first-of-type {}       |
+| Last of Type     | div::last-of-type {}        |
+| Nth of Type      | div::nth-of-type(2n) {}     |
+| Nth Last of Type | div::nth-last-of-type(2) {} |
+| Only of Type     | div::only-of-type {}        |
+| Not              | div::not(span) {}           |
+
 ```css
 .html {
   cursor: url("image.png"), auto; /*Set image as cursor*/
