@@ -46,7 +46,6 @@
   - [Free API](#free-api)
   - [Course](#course)
 
-- [Project Management](#project-management)
 - [Other Apps](#other-apps)
 - [Game Dev Tool Repos](#game-dev-tool-repos)
   - [Native](#native)
@@ -59,6 +58,7 @@
   - [Web Engine](#web-engine)
 - [Programming Languages](#programming-languages)
 - [Code Editors](#code-editors)
+- [Markdown Editors](#markdown-editors)
 - [Web Framework and Tools](#web-framework-and-tools)
 - [Native App Framework](#native-app-framework)
 - [Other Tools](#other-tools)
@@ -640,12 +640,6 @@
 - ## Course
   1. [Cloud Fundamentals: AWS Services for C# Developers](https://nickchapsas.com/p/cloud-fundamentals-aws-services-for-c-developers)
 
-# Project Management
-
-1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/)
-2. [logseq](https://logseq.com/) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://anytype.io/) - [focalboard](https://www.focalboard.com/)
-3. [stashpad](https://www.stashpad.com/) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
-
 # Other Apps
 
 1. [windirstat](https://windirstat.net/index.html)
@@ -875,7 +869,7 @@
 
 # Code Editors
 
-1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/zed) - [Atom](https://github.com/atom/atom) - [Pulsar](https://github.com/pulsar-edit/pulsar) - [Atom Community](https://github.com/atom-community/atom)
+1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/zed) - [Atom](https://github.com/atom/atom) - [Pulsar](https://github.com/pulsar-edit/pulsar) - [Atom Community](https://github.com/atom-community/atom) - [Sublime Text](https://www.sublimetext.com/)
 2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite)
 3. [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia) - [Gitpod](https://github.com/gitpod-io/gitpod) - [Cursor](https://github.com/getcursor/cursor)
 4. [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [NvChad](https://github.com/NvChad/NvChad) - [SpaceVim](https://gitlab.com/SpaceVim/SpaceVim) - [kakoune](https://github.com/mawww/kakoune)
@@ -898,6 +892,12 @@
 8. [Brackets](https://github.com/brackets-cont/brackets) - [brackets](https://github.com/adobe/brackets)
 9. [LimeText](https://github.com/limetext/lime) - [LimeText](https://github.com/limetext/backend)
 10. [alm](https://github.com/alm-tools/alm) - [zed](https://github.com/zedapp/zed) - [Caret](https://github.com/thomaswilburn/Caret)
+
+# Markdown Editors
+
+1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/) - [evernote](https://evernote.com/download) - [squidnotes](https://www.squidnotes.com/) - [stashpad](https://www.stashpad.com/)
+2. [logseq](https://github.com/logseq/logseq) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [anytype](https://github.com/anyproto/anytype-ts) - [focalboard](https://github.com/mattermost/focalboard) - [joplin](https://github.com/laurent22/joplin/)
+3. [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
 
 # Web Framework and Tools
 
