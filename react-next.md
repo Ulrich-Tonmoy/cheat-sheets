@@ -4,17 +4,21 @@
 
 1. #### Getting Started
    - [Vite (For creating react projects)](https://vitejs.dev/guide/)
-   - [Next JS (React Framework)](https://nextjs.org/docs/getting-started/installation)
+   - [Next JS (React Framework)](https://nextjs.org/)
+   - [Remix (React Framework)](https://remix.run/)
+   - [Astro (Has React addons)](https://astro.build/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Auth
    - [Clerk](https://clerk.com/)
+   - [Kinde](https://kinde.com/)
 3. #### Routing
    - [React Router Dom](https://reactrouter.com/en/main)
    - [TanStack Router](https://tanstack.com/router/v1)
 4. #### Client State Management
    - [Redux Toolkit](https://redux-toolkit.js.org/)
    - [Zustand](https://zustand-demo.pmnd.rs/)
+   - [Jotai](https://jotai.org/)
 5. #### Server State Management
    - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
    - [TanStack Query](https://tanstack.com/query/latest)
@@ -38,12 +42,14 @@
    - [styled-components](https://styled-components.com/)
    - [Emotion](https://emotion.sh/docs/introduction)
 9. #### UI Component
+   - [shadcn/ui](https://ui.shadcn.com/)
+   - [park-ui](https://park-ui.com/)
+   - [aceternity](https://ui.aceternity.com/)
    - [Ant Design](https://ant.design/)
    - [MUI](https://mui.com/)
    - [Mantine](https://mantine.dev/)
    - [Chakra UI](https://chakra-ui.com/)
    - [daisyUI](https://daisyui.com/)
-   - [shadcn/ui](https://ui.shadcn.com/)
    - [headlessui](https://headlessui.com/)
    - [blueprintjs](https://blueprintjs.com/docs/)
    - [React Suite](https://rsuitejs.com/)
