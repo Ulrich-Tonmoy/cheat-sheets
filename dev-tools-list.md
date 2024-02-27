@@ -677,6 +677,7 @@
 2. [Godot Dynamic Inventory System](https://github.com/alfredbaudisch/GodotDynamicInventorySystem)
 3. [Godello](https://github.com/alfredbaudisch/Godello)
 4. [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. [Godot-Orchestrator](https://github.com/Vahera/godot-orchestrator)
 5. [material-maker](https://github.com/RodZill4/material-maker)
 6. [Horizontal-Filesystem-Like-Unity](https://github.com/newjoker6/Horizontal-Filesystem-Like-Unity)
 7. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
