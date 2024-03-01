@@ -95,6 +95,7 @@
     - [Tauri](https://tauri.app/)
     - [nativescript](https://nativescript.org/)
 19. #### Other Libraries
+    - [million](https://million.dev/)
     - [dnd kit](https://dndkit.com/)
     - [react-dnd](https://react-dnd.github.io/react-dnd/about)
     - [react-dropzone](https://react-dropzone.js.org/)
