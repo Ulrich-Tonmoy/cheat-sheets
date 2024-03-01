@@ -592,16 +592,6 @@ console.log(nextBiggest(arr));
 ```
 
 ```html
-<!-- Will clamp the text to max line 3 -->
-<div className="line-clamp-3">text</div>
-```
-
-```html
-<!-- Will clamp the text to max line 3 -->
-<div className="line-clamp-3">text</div>
-```
-
-```html
-<!-- Will clamp the text to max line 3 -->
-<div className="line-clamp-3">text</div>
+<!-- button focus rings -->
+<button className="size-8 bg-red-500 ring-4 ring-green-500">Click</button>
 ```
