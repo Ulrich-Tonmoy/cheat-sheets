@@ -1,5 +1,10 @@
 # React & Next
 
+- [React Ecosystem](#react-ecosystem)
+- [React Best Practices](#react-best-practices)
+- [Interview Questions](#interview-questions)
+- [Tailwind CSS](#tailwind-css)
+
 ## React Ecosystem
 
 1. #### Getting Started
@@ -177,7 +182,7 @@ function App() {
 }
 ```
 
-## React - Best Practices
+## React Best Practices
 
 ### The best way to filter using useSearchParam
 
@@ -200,7 +205,7 @@ export default function App() {
               prev.set("q", e.target.value);
               return prev;
             },
-            { replace: true }
+            { replace: true },
           )
         }
       />
@@ -558,4 +563,45 @@ console.log(nextBiggest(arr));
 <Suspense fallback={<Loading />}>
   <SomeComponent />
 </Suspense>
+```
+
+# Tailwind CSS
+
+```html
+<!-- Will clamp the text to max line <3> or give value -->
+<div className="line-clamp-3">text</div>
+
+<!-- Will clamp the text to max 1 line -->
+<div className="truncate">text</div>
+```
+
+```html
+<!-- put space between children without flex box -->
+<div className="divide-y-8">
+  <div className="size-8"></div>
+  <div className="size-8"></div>
+  <div className="size-8"></div>
+</div>
+```
+
+```html
+<!-- gradient -->
+<div
+  className="h-48 w-full bg-gradient-to-r from-red-500 to-green-500 via-white from-20%"
+></div>
+```
+
+```html
+<!-- Will clamp the text to max line 3 -->
+<div className="line-clamp-3">text</div>
+```
+
+```html
+<!-- Will clamp the text to max line 3 -->
+<div className="line-clamp-3">text</div>
+```
+
+```html
+<!-- Will clamp the text to max line 3 -->
+<div className="line-clamp-3">text</div>
 ```
