@@ -10,6 +10,8 @@
 1. #### Getting Started
    - [Vite (For creating react projects)](https://vitejs.dev/guide/)
    - [Next JS (React Framework)](https://nextjs.org/)
+   - [Waku (React Framework)](https://waku.gg/)
+   - [Next JS (React Framework)](https://nextjs.org/)
    - [Remix (React Framework)](https://remix.run/)
    - [Astro (Has React addons)](https://astro.build/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
@@ -32,11 +34,7 @@
 6. #### Form Handling
    - [React Hook Form](https://react-hook-form.com/)
    - [Formik](https://formik.org/docs/overview)
-7. #### Testing
-   - [Vitest](https://vitest.dev/)
-   - [Playwright](https://playwright.dev/)
-   - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-8. #### Styling
+7. #### Styling
    - [Tailwind CSS](https://tailwindcss.com/)
      - [flowbite](https://flowbite.com/)
      - [tailblocks](https://tailblocks.cc/)
@@ -46,7 +44,7 @@
      - [merakiui](https://merakiui.com/)
    - [styled-components](https://styled-components.com/)
    - [Emotion](https://emotion.sh/docs/introduction)
-9. #### UI Component
+8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/)
    - [aceternity](https://ui.aceternity.com/)
    - [park-ui](https://park-ui.com/)
@@ -58,19 +56,26 @@
    - [headlessui](https://headlessui.com/)
    - [blueprintjs](https://blueprintjs.com/docs/)
    - [React Suite](https://rsuitejs.com/)
-10. #### Animation
-    - [react-spring](https://www.react-spring.dev/)
-    - [Framer Motion](https://www.framer.com/motion/)
-11. #### Data Visualization/Chart
+9. #### Animation
+   - [react-spring](https://www.react-spring.dev/)
+   - [Framer Motion](https://www.framer.com/motion/)
+10. #### Data Visualization/Chart
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
-12. #### Table
+    - [d3js](https://d3js.org/)
+11. #### Table
     - [TanStack Table](https://tanstack.com/table/v8)
+12. #### HTTP
+    - [Axios](https://axios-http.com/docs/intro)
 13. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-14. #### DevTools
+14. #### Testing
+    - [Vitest](https://vitest.dev/)
+    - [Playwright](https://playwright.dev/)
+    - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+15. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
@@ -82,25 +87,26 @@
     - [CSS Peeper (chrome link)](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
     - [CSS Viewer for Google Chrome (chrome link)](https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag)
     - [Project Naptha (chrome link)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
-15. #### Documentation Apps
+16. #### Documentation Apps
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-16. #### Component Dev Env
+17. #### Component Dev Env
     - [Storybook](https://storybook.js.org/)
-17. #### Type Checking
+18. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-18. #### Mobile Apps
+19. #### Mobile Apps
     - [React Native](https://reactnative.dev/)
     - [Tauri](https://tauri.app/)
     - [nativescript](https://nativescript.org/)
-19. #### Other Libraries
+20. #### Other Libraries
     - [million](https://million.dev/)
     - [dnd kit](https://dndkit.com/)
     - [react-dnd](https://react-dnd.github.io/react-dnd/about)
     - [react-dropzone](https://react-dropzone.js.org/)
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
+    - [Refine](https://refine.dev/)
 
 ### Fundamental building blocks of React, known as primitives:
 
