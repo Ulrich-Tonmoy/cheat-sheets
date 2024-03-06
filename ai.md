@@ -29,6 +29,10 @@
 
 - # Image Video Audio Gen Tools
 
+  - ## 3D Gen
+
+    1. [TripoSR](https://github.com/VAST-AI-Research/TripoSR)
+
   - ## Voice Gen
 
     1. [elevenlabs](https://elevenlabs.io/)
