@@ -902,7 +902,7 @@
 # Markdown Editors
 
 1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/) - [evernote](https://evernote.com/download) - [squidnotes](https://www.squidnotes.com/) - [stashpad](https://www.stashpad.com/)
-2. [logseq](https://github.com/logseq/logseq) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [anytype](https://github.com/anyproto/anytype-ts) - [focalboard](https://github.com/mattermost/focalboard) - [joplin](https://github.com/laurent22/joplin/)
+2. [trilium](https://github.com/zadam/trilium) - [logseq](https://github.com/logseq/logseq) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [anytype](https://github.com/anyproto/anytype-ts) - [focalboard](https://github.com/mattermost/focalboard) - [joplin](https://github.com/laurent22/joplin/)
 3. [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext)
 4. [typethings](https://github.com/pheralb/typethings) - [mediocre](https://github.com/nilaysavant/mediocre) - [Typability](https://github.com/SimonShiki/Typability) - [NoteMark](https://github.com/gionathas/NoteMark)
 
