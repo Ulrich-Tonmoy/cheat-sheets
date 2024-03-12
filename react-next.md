@@ -1,6 +1,7 @@
 # React & Next
 
 - [React Ecosystem](#react-ecosystem)
+- [Next Open Source Projects](#next-open-source-projects)
 - [React Best Practices](#react-best-practices)
 - [Interview Questions](#interview-questions)
 - [Tailwind CSS](#tailwind-css)
@@ -192,6 +193,20 @@ function App() {
   );
 }
 ```
+
+## Next Open Source Projects
+
+1. [plane](https://github.com/makeplane/plane)
+2. [twenty](https://github.com/twentyhq/twenty)
+3. [rallly](https://github.com/lukevella/rallly)
+4. [infisical](https://github.com/Infisical/infisical)
+5. [supabase](https://github.com/supabase/supabase)
+6. [dailydotdev](https://github.com/dailydotdev/apps)
+7. [formbricks](https://github.com/formbricks/formbricks)
+8. [dub](https://github.com/dubinc/dub)
+9. [inbox-zero](https://github.com/elie222/inbox-zero)
+10. [civitai](https://github.com/civitai/civitai)
+11. [cal.com](https://github.com/calcom/cal.com)
 
 ## React Best Practices
 
