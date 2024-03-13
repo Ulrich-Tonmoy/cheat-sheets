@@ -696,6 +696,8 @@
 9. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
 10. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
 11. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
+12. [ufbx](https://github.com/ufbx/ufbx)
+12. [FBX2glTF](https://github.com/godotengine/FBX2glTF)
 12. [Terrain3D](https://github.com/TokisanGames/Terrain3D)
 13. [dialogic](https://github.com/coppolaemilio/dialogic)
 14. [grider](https://github.com/alfredbaudisch/grider)
