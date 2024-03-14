@@ -691,6 +691,7 @@
 4. [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 5. [Godot-Orchestrator](https://github.com/Vahera/godot-orchestrator)
 6. [godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme)
+7. [hoodie](https://github.com/GreenCrowDev/hoodie)
 7. [material-maker](https://github.com/RodZill4/material-maker)
 8. [Asset-Drawer](https://github.com/newjoker6/Asset-Drawer)
 9. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
