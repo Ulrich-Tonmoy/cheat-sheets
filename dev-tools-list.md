@@ -488,10 +488,7 @@
 
 - ## SVG
 
-  1. [fffuel](https://fffuel.co/)
-  2. [nnneon](https://fffuel.co/nnneon/)
-  3. [ccclaymoji](https://fffuel.co/ccclaymoji/)
-  4. [bbblurry](https://fffuel.co/bbblurry/)
+  1. [fffuel](https://fffuel.co/) collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
   5. [getwaves](https://getwaves.io/)
   6. [blobmaker](https://www.blobmaker.app/)
   7. [svgwave](https://svgwave.in/)
