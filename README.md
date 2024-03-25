@@ -56,7 +56,10 @@
 37. [Mathway](https://www.mathway.com/Algebra)
 38. [discudemy](https://www.discudemy.com/)
 39. [texttohandwriting](https://texttohandwriting.com/)
-40. [opensourcealternative](https://www.opensourcealternative.to/)
+40. [opensourcealternative](https://www.opensourcealternative.to/)1. [codecademy cheat sheets](https://www.codecademy.com/resources/cheatsheets/all)
+41. [awesome-cheat sheets](https://lecoupa.github.io/awesome-cheatsheets/)
+42. [Rico's cheat sheets](https://devhints.io/)
+43. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 # 🔗Job🔗
 
