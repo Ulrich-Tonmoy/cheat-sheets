@@ -1106,12 +1106,14 @@
 
 1. [git](https://github.com/git/git)
 2. [linux](https://github.com/torvalds/linux)
-3. [ImHex](https://github.com/WerWolv/ImHex)
-4. [flatnotes](https://github.com/dullage/flatnotes)
-5. [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-6. [PowerToys](https://github.com/microsoft/PowerToys)
-7. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-8. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+3. [FreeBSD](https://github.com/freebsd/freebsd-src)
+4. [ReactOS](https://github.com/reactos/reactos)
+5. [ImHex](https://github.com/WerWolv/ImHex)
+6. [flatnotes](https://github.com/dullage/flatnotes)
+7. [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+8. [PowerToys](https://github.com/microsoft/PowerToys)
+9. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+10. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 
 # Learning Materials
 
