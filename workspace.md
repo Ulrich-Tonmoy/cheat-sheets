@@ -88,7 +88,17 @@ Linux:
 1. Create a snippet then goto [snippet-generator](https://snippet-generator.app/) and convert your snippet for VS Code.
 2. From Setting Icon select `User Snippets` and select whether you want it to be a global or language specific then give a trigger and save it.
 
-# Neovim
+# [Neovim](https://neovim.io/)
+
+## Configs
+
+- [NvChad](https://nvchad.com/docs/quickstart/install)
+- [AstroNvim](https://astronvim.com/)
+- [LunarVim](https://www.lunarvim.org/)
+- [SpaceVim](https://spacevim.org/quick-start-guide/)
+- [LazyVim](https://www.lazyvim.org/)
+
+### [Vim Tutor (vimschool)](https://vimschool.netlify.app/introduction/)
 
 # Windows
 
