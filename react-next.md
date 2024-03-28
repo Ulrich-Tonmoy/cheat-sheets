@@ -1,12 +1,13 @@
 # React & Next
 
 - [React Ecosystem](#react-ecosystem)
+- [Folder Structure](#folder-structure)
 - [Next Open Source Projects](#next-open-source-projects)
 - [React Best Practices](#react-best-practices)
 - [Interview Questions](#interview-questions)
 - [Tailwind CSS](#tailwind-css)
 
-## React Ecosystem
+# React Ecosystem
 
 1. #### Getting Started
    - [Vite (For creating react projects)](https://vitejs.dev/guide/)
@@ -207,7 +208,117 @@ function App() {
 }
 ```
 
-## Next Open Source Projects
+# Folder Structure
+
+### Level 1:
+
+```
+└── src/
+    ├── assets/
+    ├── api/
+    ├── configs/
+    ├── components/
+    │   ├── SignUpForm.tsx
+    │   ├── Employees.tsx
+    │   ├── PaymentForm.tsx
+    │   └── Button.tsx
+    ├── hooks/
+    │   ├── usePayment.ts
+    │   ├── useUpdateEmployee.ts
+    │   ├── useEmployees.ts
+    │   └── useAuth.tsx
+    ├── lib/
+    ├── services/
+    ├── states/
+    ├── utils/
+    ├── main.tsx
+    └── App.tsx
+```
+
+### Level 2:
+
+```
+└── src/
+    ├── assets/
+    ├── api/
+    ├── configs/
+    ├── components/
+    │   ├── auth/
+    │   │   └── SignUpForm.tsx
+    │   ├── payment/
+    │   │   └── PaymentForm.tsx
+    │   ├── common/
+    │   │   └── Button.tsx
+    │   └── employees/
+    │       ├── EmployeeList.tsx
+    │       └── EmployeeSummary.tsx
+    ├── hooks/
+    │   ├── auth/
+    │   │   └── useAuth.ts
+    │   ├── payment/
+    │   │   └── usePayment.ts
+    │   └── employees/
+    │       ├── useEmployees.ts
+    │       └── useUpdateEmployee.ts
+    ├── lib/
+    ├── services/
+    ├── states/
+    ├── utils/
+    ├── main.tsx
+    └── App.tsx
+```
+
+### Level 3:
+
+```
+└── src/
+    ├── assets/
+    ├── core/
+    │   ├── services/
+    │   ├── store/
+    │   ├── api/
+    │   └── ...
+    ├── modules/
+    │   ├── payment/
+    │   │   ├── components/
+    │   │   │   └── PaymentForm.tsx
+    │   │   ├── hooks/
+    │   │   │   └── usePayment.ts
+    │   │   ├── index.tsx
+    │   │   └── ...
+    │   ├── auth/
+    │   │   ├── components/
+    │   │   │   └── SignUpForm.tsx
+    │   │   ├── index.tsx
+    │   │   └── ...
+    │   ├── employees/
+    │   │   ├── components/
+    │   │   │   ├── EmployeeList.tsx
+    │   │   │   └── EmployeeSummary.tsx
+    │   │   ├── hooks/
+    │   │   │   ├── useEmployees.ts
+    │   │   │   └── useUpdateEmployee.ts
+    │   │   ├── index.tsx
+    │   │   └── ...
+    │   └── ...
+    ├── shared/
+    │   ├── components/
+    │   │   └── Button.tsx
+    │   ├── constants/
+    │   ├── enums/
+    │   ├── hooks/
+    │   │   └── useAuth.ts
+    │   ├── models/
+    │   ├── types/
+    │   ├── utils/
+    │   └── ...
+    └── ...
+```
+
+> [!Note]
+> These are just to give you an idea about how to structure you project and not the absolute you should always follow.
+
+# Next Open Source Projects
 
 1. [plane](https://github.com/makeplane/plane)
 2. [twenty](https://github.com/twentyhq/twenty)
@@ -221,7 +332,7 @@ function App() {
 10. [civitai](https://github.com/civitai/civitai)
 11. [cal.com](https://github.com/calcom/cal.com)
 
-## React Best Practices
+# React Best Practices
 
 ### The best way to filter using useSearchParam
 
