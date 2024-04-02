@@ -39,9 +39,7 @@
 
 ## VS Code Profiles
 
-- [Web & C# & Rust](./assets/workspace/vs-code/profiles/Web.code-profile)
-- [C/C++ & Zig](./assets/workspace/vs-code/profiles/Clang.code-profile)
-- [Python](./assets/workspace/vs-code/profiles/Python.code-profile)
+- [Dev Profile](./assets/workspace/vs-code/profiles/Dev.code-profile)
 
 ## VS Code Style
 
