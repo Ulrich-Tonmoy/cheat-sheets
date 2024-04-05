@@ -39,7 +39,8 @@
 
 ## VS Code Profiles
 
-- [Dev Profile](./assets/workspace/vs-code/profiles/Dev.code-profile)
+- [Main Profile](./assets/workspace/vs-code/profiles/Main.code-profile)
+- [UI Modded Profile](./assets/workspace/vs-code/profiles/UI-Mod.code-profile)
 
 ## VS Code Style
 
