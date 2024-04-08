@@ -21,6 +21,7 @@
 2. #### Auth
    - [Clerk](https://clerk.com/)
    - [Kinde](https://kinde.com/)
+   - [AuthKit](https://www.authkit.com/)
    - [next-auth](https://next-auth.js.org/)
 3. #### Routing
    - [React Router Dom](https://reactrouter.com/en/main)
