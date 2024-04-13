@@ -80,6 +80,7 @@
    - [React Slick Carousel](https://react-slick.neostack.com/)
 
 10. #### Drag and Drop
+    - [pragmatic-drag-and-drop](https://atlassian.design/components/pragmatic-drag-and-drop/about)
     - [dnd kit](https://dndkit.com/)
     - [react-dnd](https://react-dnd.github.io/react-dnd/about)
     - [react-dropzone](https://react-dropzone.js.org/)
