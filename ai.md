@@ -172,6 +172,8 @@
 
 # Google Colab
 
+## [Lightning AI (Colab ALternative)](https://lightning.ai/)
+
 # **Increase Google Colab RAM**
 
 Paste the code in colab and run
