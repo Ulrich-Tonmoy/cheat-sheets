@@ -13,7 +13,6 @@
    - [Vite (For creating react projects)](https://vitejs.dev/guide/)
    - [Next JS (React Framework)](https://nextjs.org/)
    - [Waku (React Framework)](https://waku.gg/)
-   - [Next JS (React Framework)](https://nextjs.org/)
    - [Remix (React Framework)](https://remix.run/)
    - [Astro (Has React addons)](https://astro.build/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
