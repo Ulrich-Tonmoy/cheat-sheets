@@ -50,6 +50,9 @@
      - [merakiui](https://merakiui.com/)
    - [styled-components](https://styled-components.com/)
    - [Emotion](https://emotion.sh/docs/introduction)
+   - [98.css](https://jdan.github.io/98.css/)
+   - [XP.css](https://botoxparty.github.io/XP.css/)
+   - [7.css](https://khang-nd.github.io/7.css/)
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/)
    - [aceternity](https://ui.aceternity.com/)
