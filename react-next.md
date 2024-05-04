@@ -77,6 +77,7 @@
    - [react-svgr](https://react-svgr.com/)
    - [react-player](https://cookpete.github.io/react-player/)
    - [React Slick Carousel](https://react-slick.neostack.com/)
+   - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
 
 10. #### Drag and Drop
     - [pragmatic-drag-and-drop](https://atlassian.design/components/pragmatic-drag-and-drop/about)
