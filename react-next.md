@@ -54,7 +54,10 @@
    - [XP.css](https://botoxparty.github.io/XP.css/)
    - [7.css](https://khang-nd.github.io/7.css/)
 8. #### UI Component
+   - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
    - [shadcn/ui](https://ui.shadcn.com/)
+   - [platejs](https://platejs.org/)
+   - [NextUI](https://nextui.org/)
    - [aceternity](https://ui.aceternity.com/)
    - [xyflow](https://www.xyflow.com/) node-based UIs
    - [ark-ui](https://ark-ui.com/)
