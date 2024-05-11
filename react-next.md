@@ -54,11 +54,11 @@
    - [XP.css](https://botoxparty.github.io/XP.css/)
    - [7.css](https://khang-nd.github.io/7.css/)
 8. #### UI Component
-   - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
    - [shadcn/ui](https://ui.shadcn.com/)
    - [platejs](https://platejs.org/)
-   - [NextUI](https://nextui.org/)
+   - [magicui](https://magicui.design/docs/installation)
    - [aceternity](https://ui.aceternity.com/)
+   - [NextUI](https://nextui.org/)
    - [xyflow](https://www.xyflow.com/) node-based UIs
    - [ark-ui](https://ark-ui.com/)
    - [headlessui](https://headlessui.com/)
@@ -145,8 +145,9 @@
     - [Tauri](https://tauri.app/)
     - [nativescript](https://nativescript.org/)
 25. #### Other Libraries
-    - [Refine](https://refine.dev/)
+    - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
     - [million](https://million.dev/)
+    - [Refine](https://refine.dev/)
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
     - [payloadcms](https://payloadcms.com/)
