@@ -12,6 +12,7 @@
 1. #### Getting Started
    - [Vite (For creating react projects)](https://vitejs.dev/guide/)
    - [Next JS (React Framework)](https://nextjs.org/)
+   - [React Admin (React Framework)](https://marmelab.com/react-admin/)
    - [Waku (React Framework)](https://waku.gg/)
    - [Remix (React Framework)](https://remix.run/)
    - [Astro (Has React addons)](https://astro.build/)
