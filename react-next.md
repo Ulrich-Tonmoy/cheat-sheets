@@ -14,7 +14,6 @@
    - [Next JS (React Framework)](https://nextjs.org/)
    - [React Admin (React Framework)](https://marmelab.com/react-admin/)
    - [Waku (React Framework)](https://waku.gg/)
-   - [Remix (React Framework)](https://remix.run/)
    - [Astro (Has React addons)](https://astro.build/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
@@ -24,7 +23,7 @@
    - [AuthKit](https://workos.com/)
    - [next-auth](https://next-auth.js.org/)
 3. #### Routing
-   - [React Router Dom](https://reactrouter.com/en/main)
+   - [React Router (Remix)](https://reactrouter.com/en/main)
    - [TanStack Router](https://tanstack.com/router/v1)
 4. #### Client State Management
    - [Redux Toolkit](https://redux-toolkit.js.org/)
