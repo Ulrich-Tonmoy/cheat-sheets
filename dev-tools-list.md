@@ -77,6 +77,7 @@
   5. [Game Maker’s Toolkit](https://itch.io/jam/gmtk-jam-2022)
   6. [Weekly Game Jam](https://weeklygamejam.itch.io)
   7. [JS 13K Games](https://js13kgames.com)
+  8. [React Jam](https://reactjam.com/)
 
 - ## Game Engine
 
