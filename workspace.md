@@ -7,11 +7,11 @@
 
 # Workspace tools
 
-- [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-- [VS Code](https://code.visualstudio.com/) - [Neovim](https://neovim.io/) - [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/) - [NotepadNext](https://github.com/dail8859/NotepadNext) - [Obsidian](https://obsidian.md/) - [Logseq](https://logseq.com/)
 - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop) - [GitButler](https://github.com/gitbutlerapp/gitbutler) - [windirstat](https://windirstat.net/)
 - [nvm windows](https://github.com/coreybutler/nvm-windows) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Opera](https://www.opera.com/) - [Potplayer](https://potplayer.daum.net/) - [Obsidian](https://obsidian.md/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Opera](https://www.opera.com/) - [Potplayer](https://potplayer.daum.net/)
 
 - ## MS 365
 - [Office Customization Tool](https://config.office.com/deploymentsettings) & [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117)
@@ -30,10 +30,9 @@
 
 - ## Terminal
 - [Monaspace](https://monaspace.githubnext.com/) - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
-- [WSL](https://apps.microsoft.com/detail/windows-subsystem-for-linux/9P9TQF7MRM4R) - [Terminal](https://apps.microsoft.com/detail/windows-terminal/9N0DX20HK701) - [Powershell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D)
+- [WSL](https://apps.microsoft.com/detail/windows-subsystem-for-linux/9P9TQF7MRM4R) - [Terminal](https://apps.microsoft.com/detail/windows-terminal/9N0DX20HK701) - [Powershell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D) - [Oh My Posh](https://ohmyposh.dev/) - [Oh My ZSH](https://ohmyz.sh/)
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/) - [Terminal Splash](https://terminalsplash.com/) - [Dracula Theme](https://draculatheme.com/windows-terminal)
 - [Starship](https://starship.rs/) - [starship.toml](./assets/workspace/vs-code/terminal/starship.toml) -> `C:\Users\{Name}\.config`
-- [Oh My Posh](https://ohmyposh.dev/) - [Oh My ZSH](https://ohmyz.sh/)
 
 # VS Code
 
@@ -87,7 +86,12 @@ Linux:
 1. Create a snippet then goto [snippet-generator](https://snippet-generator.app/) and convert your snippet for VS Code.
 2. From Setting Icon select `User Snippets` and select whether you want it to be a global or language specific then give a trigger and save it.
 
-# [Neovim](https://neovim.io/)
+# Neovim
+
+## Editor
+
+- [NeoVim](https://neovim.io/)
+- [Helix](https://helix-editor.com/)
 
 ## Configs
 
