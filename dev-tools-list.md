@@ -81,11 +81,11 @@
 
 - ## Game Engine
 
-  1. [Unreal Engine](https://www.unrealengine.com/en-US/download) - [Godot](https://godotengine.org/download/windows/) - [RenPy](https://www.renpy.org/) | [Core](https://www.coregames.com) - [The Mirror](https://www.themirror.space/)
-  2. [Unity](https://unity.com/download) || [Stride](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Cry Engine](https://www.cryengine.com/) - [Unigine](https://unigine.com/) - [o3de](https://o3de.org/)
-  3. [Rogue Engine](https://rogueengine.io/) - [PlayCanvas](https://playcanvas.com/) - [Cocos Creator](https://www.cocos.com/en/creator) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
-  4. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [Stencyl](https://www.stencyl.com/)
-  5. [rpginabox](https://www.rpginabox.com/) - [falco3d](https://falco3d.com/) - [coppercube](https://www.ambiera.com/coppercube/)
+  1. [Unreal Engine](https://www.unrealengine.com/en-US/download) | [Core](https://www.coregames.com) - [Godot](https://godotengine.org/download/windows/) | [The Mirror](https://www.themirror.space/) - [RenPy](https://www.renpy.org/) - [Unity](https://unity.com/download)
+  2. [Cry Engine](https://www.cryengine.com/) - [O3DE](https://o3de.org/) - [Unigine](https://unigine.com/) - [Evergine](https://evergine.com/) - [Cocos Creator](https://www.cocos.com/en/creator)
+  3. [Stride](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Falco Engine](https://falco3d.com/) - [Cave Engine](https://unidaystudio.itch.io/cave-engine) - [coppercube](https://www.ambiera.com/coppercube/)
+  4. [Rogue Engine](https://rogueengine.io/) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
+  5. [Scratch](https://scratch.mit.edu) - [Microsoft microbit](https://makecode.microbit.org) - [Stencyl](https://www.stencyl.com/) - [rpginabox](https://www.rpginabox.com/) - [buildbox](https://signup.buildbox.com/)
 
 - ## Game Framework and Library
 
@@ -93,8 +93,7 @@
   2. JS [Babylon JS](https://www.babylonjs.com/) - [Three JS](https://threejs.org/) - [Theatre JS](https://www.theatrejs.com/) - [PlayCanvas](https://playcanvas.com/) - [aframe](https://aframe.io/) - [Phaser](https://phaser.io/) - [Pixi JS](https://github.com/pixijs/pixijs) - [Excalibur](https://github.com/excaliburjs/Excalibur)
   3. Python [Ursina](https://github.com/pokepetter/ursina) - [PyGame](https://www.pygame.org/news) - [Pyglet](https://pyglet.org/) - [Panda3d](https://www.panda3d.org/)
   4. C# [MonoGame](https://www.monogame.net/) - [FNA](https://fna-xna.github.io/)
-  5. Lua [love2d](https://love2d.org/)
-  6. Rust [bevy](https://bevyengine.org/)
+  5. Lua [love2d](https://love2d.org/) - Rust [bevy](https://bevyengine.org/)
 
 - ## UI Inspiration for Games
 
@@ -666,7 +665,7 @@
 ### Game Engines
 
 1. Tools: [Blender](https://github.com/blender/blender) - [blockbench](https://github.com/JannisX11/blockbench) - [Gimp](https://github.com/GNOME/gimp) - [LDtk](https://github.com/deepnight/ldtk) - [Tiled](https://github.com/mapeditor/tiled) - [DPaint-js](https://github.com/steffest/DPaint-js) - [Krita](https://github.com/KDE/krita) - [Inkscape](https://gitlab.com/inkscape/inkscape) - [Aseprite](https://github.com/aseprite/aseprite)
-2. [Godot](https://github.com/godotengine/godot) - [the-mirror](https://github.com/the-mirror-gdp/the-mirror) - [Renpy](https://github.com/renpy/renpy) - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - [defold](https://github.com/defold/defold) - [o3de](https://github.com/o3de/o3de) - [stride](https://github.com/stride3d/stride) - [cocos-engine](https://github.com/cocos/cocos-engine) - [cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+2. [Godot](https://github.com/godotengine/godot) - [the-mirror](https://github.com/the-mirror-gdp/the-mirror) - [Renpy](https://github.com/renpy/renpy) - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - [defold](https://github.com/defold/defold) - [o3de](https://github.com/o3de/o3de) - [stride](https://github.com/stride3d/stride) - [cocos-engine](https://github.com/cocos/cocos-engine) - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - [The-Forge](https://github.com/ConfettiFX/The-Forge)
 3. [MonoGame](https://github.com/MonoGame/MonoGame) - [FNA](https://github.com/FNA-XNA/FNA) - [ursina](https://github.com/pokepetter/ursina) - [pygame](https://github.com/pygame/pygame) - [pygame-ce](https://github.com/pygame-community/pygame-ce) - [pyglet](https://github.com/pyglet/pyglet) - [panda3d](https://github.com/panda3d/panda3d) - [Bevy](https://github.com/bevyengine/bevy) - [love2d](https://github.com/love2d/love)
 4. C/C++ Lib: [raylib](https://github.com/raysan5/raylib) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [imgui](https://github.com/ocornut/imgui) - [glm](https://github.com/g-truc/glm) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [JoltPhysics](https://github.com/jrouwe/JoltPhysics) - [bullet3](https://github.com/bulletphysics/bullet3) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt)
 5. C/C++ Lib: [MTuner](https://github.com/milostosic/MTuner) - [cr](https://github.com/fungos/cr) - [backward-cpp](https://github.com/bombela/backward-cpp) - [rapidjson](https://github.com/Tencent/rapidjson) - [emscripten](https://github.com/emscripten-core/emscripten) - [filesystem](https://github.com/gulrak/filesystem) - [watchman](https://github.com/facebook/watchman) - [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - [allegro5](https://github.com/liballeg/allegro5) - [nCine](https://github.com/nCine/nCine) - [steam-audio](https://github.com/ValveSoftware/steam-audio)
