@@ -922,7 +922,8 @@
 
 1. [Obsidian](https://obsidian.md/) - [Notion](https://www.notion.so/) - [Evernote](https://evernote.com/download) - [Milanote](https://milanote.com/) - [Trello](https://trello.com/) - [Squidnotes](https://www.squidnotes.com/) - [Stashpad](https://www.stashpad.com/)
 2. [Logseq](https://github.com/logseq/logseq) - [Joplin](https://github.com/laurent22/joplin/) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [Anytype](https://github.com/anyproto/anytype-ts) - [Trilium](https://github.com/zadam/trilium) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [Focalboard](https://github.com/mattermost/focalboard)
-3. [Outline](https://github.com/outline/outline) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability)
+3. [Foam](https://github.com/foambubble/foam) - [Outline](https://github.com/outline/outline) - [Zettlr](https://github.com/Zettlr/Zettlr)
+4. [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability)
 
 # Web Framework and Tools
 
