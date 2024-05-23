@@ -920,9 +920,9 @@
 
 # Markdown Editors
 
-1. [obsidian](https://obsidian.md/) - [notion](https://www.notion.so/) - [trello](https://trello.com/) - [milanote](https://milanote.com/) - [evernote](https://evernote.com/download) - [squidnotes](https://www.squidnotes.com/) - [stashpad](https://www.stashpad.com/)
-2. [trilium](https://github.com/zadam/trilium) - [logseq](https://github.com/logseq/logseq) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [anytype](https://github.com/anyproto/anytype-ts) - [focalboard](https://github.com/mattermost/focalboard) - [joplin](https://github.com/laurent22/joplin/)
-3. [outline](https://github.com/outline/outline) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext) - [typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability)
+1. [Obsidian](https://obsidian.md/) - [Notion](https://www.notion.so/) - [Evernote](https://evernote.com/download) - [Milanote](https://milanote.com/) - [Trello](https://trello.com/) - [Squidnotes](https://www.squidnotes.com/) - [Stashpad](https://www.stashpad.com/)
+2. [Logseq](https://github.com/logseq/logseq) - [Joplin](https://github.com/laurent22/joplin/) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [Anytype](https://github.com/anyproto/anytype-ts) - [Trilium](https://github.com/zadam/trilium) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [Focalboard](https://github.com/mattermost/focalboard)
+3. [Outline](https://github.com/outline/outline) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability)
 
 # Web Framework and Tools
 
