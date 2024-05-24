@@ -10,11 +10,12 @@
 # React Ecosystem
 
 1. #### Getting Started
-   - [Vite (For creating react projects)](https://vitejs.dev/guide/)
-   - [Next JS (React Framework)](https://nextjs.org/)
-   - [React Admin (React Framework)](https://marmelab.com/react-admin/)
+   - [Vite (For react projects)](https://vitejs.dev/guide/)
+   - [Next JS (Full-stack React Framework)](https://nextjs.org/)
+   - [React Admin (B2B React Framework)](https://marmelab.com/react-admin/)
+   - [Refine (B2B React Framework)](https://refine.dev/)
    - [Waku (React Framework)](https://waku.gg/)
-   - [Astro (Has React addons)](https://astro.build/)
+   - [Astro (Content-based Website)](https://astro.build/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Auth
@@ -147,7 +148,7 @@
 25. #### Other Libraries
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
     - [million](https://million.dev/)
-    - [Refine](https://refine.dev/)
+    - [avvvatars](https://avvvatars.com/)
     - [Supabase](https://supabase.com/)
     - [appwrite](https://appwrite.io/)
     - [payloadcms](https://payloadcms.com/)
