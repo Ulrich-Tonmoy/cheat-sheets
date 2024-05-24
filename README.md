@@ -10,7 +10,7 @@
 6. [Native App Dev Framework List](./dev-tools-list.md#native-app-framework)
 7. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
 8. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
-9. [Markdown Editors](./dev-tools-list.md#markdown-editors)
+9. [Note-taking Apps](./dev-tools-list.md#note-taking-apps)
 10. [Code Editors](./dev-tools-list.md#code-editors)
 11. [Programming Languages](./dev-tools-list.md#programming-languages)
 12. [Learning Materials](./dev-tools-list.md#learning-materials)

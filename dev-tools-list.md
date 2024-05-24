@@ -58,7 +58,7 @@
   - [Web Engine](#web-engine)
 - [Programming Languages](#programming-languages)
 - [Code Editors](#code-editors)
-- [Markdown Editors](#markdown-editors)
+- [Note-taking Apps](#note-taking-apps)
 - [Web Framework and Tools](#web-framework-and-tools)
 - [Native App Framework](#native-app-framework)
 - [Other Tools](#other-tools)
@@ -918,7 +918,11 @@
 9. [LimeText](https://github.com/limetext/lime) - [LimeText](https://github.com/limetext/backend)
 10. [alm](https://github.com/alm-tools/alm) - [zed](https://github.com/zedapp/zed) - [Caret](https://github.com/thomaswilburn/Caret)
 
-# Markdown Editors
+# Note-taking Apps
+
+<div align="center">
+    <img src="./assets/note-apps.png" alt="Note Taking Apps" title="Note Taking Apps" width="400"/>
+</div>
 
 1. [Obsidian](https://obsidian.md/) - [Notion](https://www.notion.so/) - [Evernote](https://evernote.com/download) - [Milanote](https://milanote.com/) - [Trello](https://trello.com/) - [Squidnotes](https://www.squidnotes.com/) - [Stashpad](https://www.stashpad.com/)
 2. [Logseq](https://github.com/logseq/logseq) - [Joplin](https://github.com/laurent22/joplin/) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [Anytype](https://github.com/anyproto/anytype-ts) - [Trilium](https://github.com/zadam/trilium) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [Focalboard](https://github.com/mattermost/focalboard)
