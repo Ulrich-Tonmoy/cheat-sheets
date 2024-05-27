@@ -532,9 +532,9 @@ program.
 
 <p align="center">
   <img src="./assets/web/css/display.png" alt="display" title="display" width="300px"/>
-  <img src="./assets/web/css/flexbox.jpg" alt="flexbox" title="flexbox" width="300px"/>
   <img src="./assets/web/css/selectors.png" alt="selectors" title="selectors" width="300px"/>
   <img src="./assets/web/css/grid.png" alt="grid" title="grid" width="300px"/>
+  <img src="./assets/web/css/flexbox.jpg" alt="flexbox" title="flexbox" width="300px"/>
 </p>
 
 ## CSS Selectors
