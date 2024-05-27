@@ -530,6 +530,13 @@ program.
 
 # CSS
 
+<p align="center">
+  <img src="./assets/web/css/display.png" alt="display" title="display" width="300px"/>
+  <img src="./assets/web/css/flexbox.jpg" alt="flexbox" title="flexbox" width="300px"/>
+  <img src="./assets/web/css/selectors.png" alt="selectors" title="selectors" width="300px"/>
+  <img src="./assets/web/css/grid.png" alt="grid" title="grid" width="300px"/>
+</p>
+
 ## CSS Selectors
 
 ### Basic
@@ -754,6 +761,7 @@ p {
 38. [Hide the Source Code of a Web Page](#hide-source-code)
 
 <img src="./assets/web/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
+
 <p align="left">
   <img src="./assets/web/js/array.jpg" alt="array" width="300px"/>
   <img src="./assets/web/js/hoisting in js.png" alt="hoisting" width="300px"/>
