@@ -2,18 +2,18 @@
 
 ## 🔗Template & Shortcut snippets and useful tools link🔗
 
-1. [Game Dev Tools](./dev-tools-list.md) - [Unity](./unity.md)
+1. [Game Dev Tools](./tools-list.md) - [Unity](./unity.md)
 2. [HTML CSS & JavaScript](./html-css-js.md)
-3. [Web Dev Tools](./dev-tools-list.md) - [Npm & Nvm](./nvm-npm.md)
+3. [Web Dev Tools](./tools-list.md) - [Npm & Nvm](./nvm-npm.md)
 4. [React](./react-next.md) - [Angular](./angular.md)
 5. [Asp.Net](./asp.net.md) - [Mongoose](./db.md#mongodb) - [SQL](./db.md#sql)
-6. [Native App Dev Framework List](./dev-tools-list.md#native-app-framework)
+6. [Native App Dev Framework List](./tools-list.md#native-app-framework)
 7. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
 8. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
-9. [Note-taking Apps](./dev-tools-list.md#note-taking-apps)
-10. [Code Editors](./dev-tools-list.md#code-editors)
-11. [Programming Languages](./dev-tools-list.md#programming-languages)
-12. [Learning Materials](./dev-tools-list.md#learning-materials)
+9. [Note-taking Apps](./tools-list.md#note-taking-apps)
+10. [Code Editors](./tools-list.md#code-editors)
+11. [Programming Languages](./tools-list.md#programming-languages)
+12. [Learning Materials](./tools-list.md#learning-materials)
 
 # 🔗Other Links🔗
 
