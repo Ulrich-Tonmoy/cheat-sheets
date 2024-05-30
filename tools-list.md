@@ -816,6 +816,9 @@
 31. [Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)
 32. [Moments](https://github.com/Chman/Moments)
 33. [odin-serializer](https://github.com/TeamSirenix/odin-serializer)
+34. [Unified-Universal-Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur)
+35. [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
+36. [Post-Processing-Scan](https://github.com/MirzaBeig/Post-Processing-Scan)
 
 ### Other Tools
 
