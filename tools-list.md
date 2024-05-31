@@ -981,7 +981,7 @@
 
 1. [Obsidian](https://obsidian.md/) - [Notion](https://www.notion.so/) - [Evernote](https://evernote.com/download) - [Milanote](https://milanote.com/) - [Trello](https://trello.com/) - [Squidnotes](https://www.squidnotes.com/) - [Stashpad](https://www.stashpad.com/)
 2. [Logseq](https://github.com/logseq/logseq) - [Joplin](https://github.com/laurent22/joplin/) - [Anytype](https://github.com/anyproto/anytype-ts) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [Focalboard](https://github.com/mattermost/focalboard)
-3. [Capacities](https://capacities.io/) - [Foam](https://github.com/foambubble/foam) - [Outline](https://github.com/outline/outline) - [Zettlr](https://github.com/Zettlr/Zettlr) - [Tana](https://tana.inc/)
+3. [Capacities](https://capacities.io/) - [Scrintal](https://scrintal.com/) - [Foam](https://github.com/foambubble/foam) - [Outline](https://github.com/outline/outline) - [Zettlr](https://github.com/Zettlr/Zettlr) - [Tana](https://tana.inc/)
 4. [Trilium](https://github.com/zadam/trilium) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan)
 
 # Web Framework and Tools
