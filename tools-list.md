@@ -62,6 +62,7 @@
 - [Native App Framework](#native-app-framework)
 - [Other Tools](#other-tools)
 - [Learning Materials](#learning-materials)
+- [Other Repos](#other-repos)
 
 # <p align="center">🔖Game Dev Tool Links📝</p>
 
@@ -1165,18 +1166,13 @@
 1. [Muon](https://github.com/ImVexed/muon)
 2. [Wails](https://github.com/wailsapp/wails)
 
-# Other Tools
+# Other Repos
 
-1. [git](https://github.com/git/git)
+1. [git](https://github.com/git/git) - [Grace](https://github.com/ScottArbeit/Grace)
 2. [linux](https://github.com/torvalds/linux)
 3. [FreeBSD](https://github.com/freebsd/freebsd-src)
 4. [ReactOS](https://github.com/reactos/reactos)
 5. [ImHex](https://github.com/WerWolv/ImHex)
-6. [flatnotes](https://github.com/dullage/flatnotes)
-7. [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-8. [PowerToys](https://github.com/microsoft/PowerToys)
-9. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-10. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 
 # Learning Materials
 
@@ -1216,3 +1212,12 @@
 34. [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 35. [anime-chan](https://github.com/rocktimsaikia/anime-chan)
 36. [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+6. [Files](https://github.com/files-community/Files)
+7. [tokei](https://github.com/XAMPPRocky/tokei)
+8. [durdraw](https://github.com/cmang/durdraw)
+9. [jscpd](https://github.com/kucherenko/jscpd)
+10. [web2pdf](https://github.com/dvcoolarun/web2pdf)
+11. [bebop](https://github.com/betwixt-labs/bebop)
+12. [flatnotes](https://github.com/dullage/flatnotes)
+13. [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+14. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
