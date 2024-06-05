@@ -142,9 +142,11 @@
 23. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-24. #### Mobile Apps
-    - [React Native](https://reactnative.dev/)
+24. #### Mobile/Desktop Apps
     - [Tauri](https://tauri.app/)
+    - [React Native](https://reactnative.dev/)
+    - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
+    - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
     - [nativescript](https://nativescript.org/)
 25. #### Other Libraries
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
