@@ -18,6 +18,7 @@
 
 1. [Puter Desktop in Browser](https://puter.com/) - [Geek Typer](https://geektyper.com/)
 2. [opensourcealternative](https://www.opensourcealternative.to/) - [ToolFinder (Find Productivity Apps)](https://toolfinder.co/)
+3. [OpenSauced (Search for Open Source Repos)](https://app.opensauced.pizza/)
 3. [ossinsight collections](https://ossinsight.io/collections/) - [plrank](https://plrank.com/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [PYPL](https://pypl.github.io/PYPL.html)
 4. [killedby (A graveyard for discontinued products)](https://killedby.tech/)
 5. [cobalt (Video Downloader)](https://cobalt.tools/) - [cobalt](https://github.com/imputnet/cobalt)
