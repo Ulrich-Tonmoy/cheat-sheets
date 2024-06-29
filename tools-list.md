@@ -295,11 +295,12 @@
   1. [CapCut](https://www.capcut.com/)
   2. [Clipchamp](https://clipchamp.com/en/)
   3. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-  4. [Shotcut](https://shotcut.org/)
-  5. [Lightworks](https://lwks.com/)
-  6. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
-  7. [kdenlive](https://kdenlive.org/en/)
-  8. [filmora](https://filmora.wondershare.com/)
+  4. [Pikimov (Online)](https://pikimov.com/)
+  5. [Shotcut](https://shotcut.org/)
+  6. [Lightworks](https://lwks.com/)
+  7. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
+  8. [kdenlive](https://kdenlive.org/en/)
+  9. [filmora](https://filmora.wondershare.com/)
 
 - ## Game Dev AI Tools
 
