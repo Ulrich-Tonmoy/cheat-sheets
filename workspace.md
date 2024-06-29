@@ -15,18 +15,15 @@
 
 - ## MS 365
 - [Office Customization Tool](https://config.office.com/deploymentsettings) & [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117)
-
 - For the config that comes with Office Deployment Tool
-
   ```properties
   ./setup.exe /configure ./configuration-office2021Enterprise.xml
   ```
-
 - For downloaded config from Office Customization Tool
-
   ```properties
   setup /configure configuration.xml
   ```
+- [LibreOffice](https://www.libreoffice.org/) - [WPS](https://www.wps.com/) - [FreeOffice](https://www.freeoffice.com/) - [OfficeSuite](https://officesuite.com/)
 
 - ## Terminal
 - [Monaspace](https://monaspace.githubnext.com/) - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
