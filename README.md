@@ -102,9 +102,11 @@
 # 🔗Job🔗
 
 1. [remoteok](https://remoteok.com/)
-2. [joblist](https://joblist.app/)
-3. [weworkremotely](https://weworkremotely.com/)
-4. [authenticjobs](https://authenticjobs.com/)
-5. [remote](https://remote.co/)
-6. [remotive](https://remotive.com/)
-7. [workingnomads](https://www.workingnomads.com/jobs)
+2. [Japan Dev](https://japan-dev.com/)
+3. [Tokyo Dev](https://www.tokyodev.com/)
+4. [joblist](https://joblist.app/)
+5. [weworkremotely](https://weworkremotely.com/)
+6. [authenticjobs](https://authenticjobs.com/)
+7. [remote](https://remote.co/)
+8. [remotive](https://remotive.com/)
+9. [workingnomads](https://www.workingnomads.com/jobs)
