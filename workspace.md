@@ -21,7 +21,7 @@
   ```
 - For downloaded config from Office Customization Tool
   ```properties
-  setup /configure configuration.xml
+  ./setup /configure ./configuration.xml
   ```
 - [LibreOffice](https://www.libreoffice.org/) - [WPS](https://www.wps.com/) - [FreeOffice](https://www.freeoffice.com/) - [OfficeSuite](https://officesuite.com/)
 
