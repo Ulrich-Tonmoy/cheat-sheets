@@ -111,3 +111,5 @@
 8. [remote](https://remote.co/)
 9. [Remotive](https://remotive.com/)
 10. [WorkingNomads](https://www.workingnomads.com/jobs)
+
+- [markdown-resume maker](https://www.junian.dev/markdown-resume/)
