@@ -31,6 +31,11 @@
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/) - [Terminal Splash](https://terminalsplash.com/) - [Dracula Theme](https://draculatheme.com/windows-terminal)
 - [Starship](https://starship.rs/) - [starship.toml](./assets/workspace/vs-code/terminal/starship.toml) -> `C:\Users\{Name}\.config`
 
+  - For Powershell
+    - In the Document folder create a Folder name `PowerShell`.
+    - Inside the folder Create a file name `Microsoft.PowerShell_profile.ps1` with `ps1` extension
+    - And paste `Invoke-Expression (&starship init powershell)` in the `Microsoft.PowerShell_profile.ps1`
+
 # VS Code
 
 ## VS Code Profiles
