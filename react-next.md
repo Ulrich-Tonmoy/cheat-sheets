@@ -97,6 +97,7 @@
 11. #### Animation
     - [react-spring](https://www.react-spring.dev/)
     - [Framer Motion](https://www.framer.com/motion/)
+    - [GSAP](https://gsap.com/resources/React/)
 12. #### Data Visualization/Chart
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
