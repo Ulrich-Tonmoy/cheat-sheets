@@ -1,9 +1,10 @@
 # GIT
 
-- ## [Git Commit Patterns](#git-commit-patterns)
-- ## [Git Commands](#git-commands)
+- [Git Commit Patterns](#git-commit-patterns)
+  - [Example with Emoji](#example-with-emoji)
+- [Git Commands](#git-commands)
 
-## Git Commit Patterns
+# Git Commit Patterns
 
 <img alt="git commit patterns" src="./assets/git/1.png"/>
 <img alt="git commit patterns" src="./assets/git/2.png"/>
