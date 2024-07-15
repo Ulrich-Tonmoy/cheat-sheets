@@ -25,7 +25,7 @@
 7. [cobalt (Video Downloader)](https://cobalt.tools/) - [cobalt](https://github.com/imputnet/cobalt)
 8. [Search Anime by Image](https://trace.moe/)
 9. [Wayback Machine](https://archive.org/web/)
-10. [Take Me To A Useless Website](https://theuselessweb.com/)
+10. [whitescreen](https://www.whitescreen.online/)
 11. [timezones (Have multiple Timezone to compare)](https://www.timezones.digital/)
 12. [witeboard](https://witeboard.com/) - [tldraw](https://www.tldraw.com/) - [excalidraw](https://excalidraw.com/)
 13. [mermaid](https://mermaid.live/)
