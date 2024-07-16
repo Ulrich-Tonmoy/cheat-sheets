@@ -35,6 +35,7 @@
     - In the Document folder create a Folder name `PowerShell`.
     - Inside the folder Create a file name `Microsoft.PowerShell_profile.ps1` with `ps1` extension
     - And paste `Invoke-Expression (&starship init powershell)` in the `Microsoft.PowerShell_profile.ps1`
+    - PowerShell log data `%APPDATA%\Microsoft\Windows\PowerShell\PSReadline\`
 
 # VS Code
 
