@@ -78,17 +78,19 @@
    - [Chakra UI](https://chakra-ui.com/)
    - [blueprintjs](https://blueprintjs.com/docs/)
    - [React Suite](https://rsuitejs.com/)
-9. Other UI libs
-
+9. #### Other UI libs
+   - [floating-ui](https://floating-ui.com/)
+   - [fullcalendar](https://fullcalendar.io/)
    - [react-hot-toast](https://react-hot-toast.com/)
    - [react-toastify](https://fkhadra.github.io/react-toastify/introduction)
+   - [sweetalert2](https://sweetalert2.github.io/)
+   - [maska (input masking)](https://beholdr.github.io/maska/v3/#/)
    - [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/)
    - [skeletonreact](https://skeletonreact.com/)
    - [react-svgr](https://react-svgr.com/)
    - [react-player](https://cookpete.github.io/react-player/)
    - [React Slick Carousel](https://react-slick.neostack.com/)
    - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
-
 10. #### Drag and Drop
     - [pragmatic-drag-and-drop](https://atlassian.design/components/pragmatic-drag-and-drop/about)
     - [dnd kit](https://dndkit.com/)
@@ -96,37 +98,38 @@
     - [react-dropzone](https://react-dropzone.js.org/)
     - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
     - [react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree)
+    - [Sortable](https://sortablejs.github.io/Sortable/)
 11. #### Animation
     - [react-spring](https://www.react-spring.dev/)
     - [Framer Motion](https://www.framer.com/motion/)
     - [GSAP](https://gsap.com/resources/React/)
-    - [driver.js (tours, highlights)](https://driverjs.com/)
-12. #### Data Visualization/Chart
+12. #### Data Visualization/Chart/Table
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
     - [d3js](https://d3js.org/)
     - [tremor](https://www.tremor.so/)
-13. #### Table
     - [TanStack Table](https://tanstack.com/table/v8)
-    - [tremor](https://www.tremor.so/)
-14. #### PDF
+    - [ag-grid](https://www.ag-grid.com/)
+    - [tabulator](https://tabulator.info/)
+13. #### PDF
     - [react-pdf](https://react-pdf.org/)
-15. #### Tour Guide
+14. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
-16. #### HTTP
+    - [driver.js](https://driverjs.com/)
+15. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
-17. #### AI
+16. #### AI
     - [copilotkit](https://www.copilotkit.ai/)
-18. #### Internationalization
+17. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-19. #### Testing
+18. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-20. #### DevTools
+19. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
@@ -138,21 +141,21 @@
     - [CSS Peeper (chrome link)](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
     - [CSS Viewer for Google Chrome (chrome link)](https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag)
     - [Project Naptha (chrome link)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
-21. #### Documentation Apps
+20. #### Documentation Apps
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-22. #### Component Dev Env
+21. #### Component Dev Env
     - [Storybook](https://storybook.js.org/)
-23. #### Type Checking
+22. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-24. #### Mobile/Desktop Apps
+23. #### Mobile/Desktop Apps
     - [Tauri](https://tauri.app/)
     - [React Native](https://reactnative.dev/)
     - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
     - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
     - [nativescript](https://nativescript.org/)
-25. #### Other Libraries
+24. #### Other Libraries
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
     - [million](https://million.dev/)
     - [avvvatars](https://avvvatars.com/)
@@ -163,6 +166,7 @@
     - [react-markdown](https://remarkjs.github.io/react-markdown/)
     - [react-tweet](https://react-tweet.vercel.app/)
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/)
+    - [luxon](https://moment.github.io/luxon/#/)
     - [craft.js](https://github.com/prevwong/craft.js)
 
 ### Fundamental building blocks of React, known as primitives:
