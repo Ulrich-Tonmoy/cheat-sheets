@@ -5,7 +5,7 @@
 1. [Game Dev Tools](./tools-list.md) - [Unity](./unity.md)
 2. [HTML CSS & JavaScript (Learning)](./html-css-js.md)
 3. [Web Dev Links](./tools-list.md#web) - [Icons](./tools-list.md#icons) - [Npm & Nvm](./nvm-npm.md)
-4. [Web Framework & Tools](./tools-list.md#web-framework-and-tools) - [React](./react-next.md) - [Angular](./angular.md)
+4. [Web Framework & Tools](./tools-list.md#web-framework-and-tools) - [React Next Angular](./react-next-angular.md)
 5. [Asp.Net](./asp.net.md) - [Mongoose](./db.md#mongodb) - [SQL](./db.md#sql)
 6. [Native App Dev Framework List](./tools-list.md#native-app-framework)
 7. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
