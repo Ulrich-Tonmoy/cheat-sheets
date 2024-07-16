@@ -717,6 +717,31 @@ p {
 }
 ```
 
+```css
+/* Animate hiding and showing with auto height */
+.body {
+  height: 0;
+  transition: height 0.5s;
+}
+.body.show {
+  height: calc-size(auto);
+}
+```
+
+```css
+/* Starting style animation */
+.box {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  transition: scale 1s;
+
+  @starting-style {
+    scale: 0;
+  }
+}
+```
+
 # JS
 
 ### Table of Contents
