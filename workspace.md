@@ -244,6 +244,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - `recent`
 - `prefetch`
 - `%AppData%`
-- `shell:appsfolder`
+- `%LocalAppData%`
 - `shell:startup`
+- `shell:appsfolder`
 - `shell:common startup`
