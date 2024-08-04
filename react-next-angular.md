@@ -131,6 +131,12 @@
 14. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
+    - [introjs](https://introjs.com/)
+    - [onborda](https://www.onborda.dev/)
+    - [tourguidejs](https://tourguidejs.com/)
+    - [flows](https://flows.sh/)
+    - [shepherdjs](https://shepherdjs.dev/)
+    - [bootstraptour](https://bootstraptour.com/)
 15. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
 16. #### AI
