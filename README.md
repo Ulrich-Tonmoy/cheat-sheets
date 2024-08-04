@@ -6,13 +6,13 @@
 2. [HTML CSS & JavaScript (Learning)](./html-css-js.md)
 3. [Web Dev Links](./tools-list.md#web) - [Icons](./tools-list.md#icons) - [Npm & Nvm](./nvm-npm.md)
 4. [Web Framework & Tools](./tools-list.md#web-framework-and-tools) - [React Next Angular](./react-next-angular.md)
-5. [Asp.Net](./asp.net.md) - [Mongoose](./db.md#mongodb) - [SQL](./db.md#sql)
+5. [Asp.Net](./backend.md#aspnet) - [Mongoose](./backend.md#mongodb) - [SQL](./backend.md#sql)
 6. [Native App Dev Framework List](./tools-list.md#native-app-framework)
-7. [Git](./git.md) - [VS Code](./vs-code.md) - [Windows](./windows.md)
+7. [Git](./git.md) - [VS Code](./workspace.md#vs-coded) - [Windows](./workspace.md#windows)
 8. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
-9. [Note-taking Apps](./tools-list.md#note-taking-apps)
-10. [Code Editors](./tools-list.md#code-editors)
-11. [Programming Languages](./tools-list.md#programming-languages)
+9. [Note-taking Apps](./tools-list.md#note-taking-apps) - [Code Editors](./tools-list.md#code-editors)
+10. [Programming Languages](./tools-list.md#programming-languages)
+11. [All Tools](./tools-list.md)
 
 # 🔗Other Links🔗
 

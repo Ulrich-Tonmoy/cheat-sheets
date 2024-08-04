@@ -1,4 +1,10 @@
-# **ASP.NET**
+# **Backend**
+
+- [ASP.NET](#aspnet)
+- [MongoDb](#mongodb)
+- [SQL](#sql)
+
+# ASP.NET
 
 - [C#](#csharp)
 - [Entity Framework](#entity-framework)
@@ -6,9 +12,9 @@
 - [Library List](#library-list)
 - [Links](#links)
 
-# CSharp
+## CSharp
 
-## Polymorphism
+### Polymorphism
 
 - **Method Overriding:**
   Method overriding allows a derived class with `override` to provide a specific implementation of a method that is already defined in its base class with `virtual`. This enables you to invoke the method on objects of the derived class through a reference to the base class, and the overridden method will be executed based on the actual type of the object at runtime.
@@ -19,7 +25,7 @@
 - **Method Overloading:**
   Method overloading allows you to define multiple methods with the same name but with different parameter lists. This enables you to provide different implementations of a method based on the number or types of parameters passed to it.
 
-## Encapsulation
+### Encapsulation
 
 - **Access Modifiers:**
 
@@ -29,13 +35,13 @@
   - `internal:` The member is accessible within the same assembly.
   - `protected internal:` The member is accessible within the same assembly or from within a derived class located in any assembly.
 
-## Class types
+### Class types
 
 - **Abstract Class:** An abstract class is designed to be a base class for other classes. It cannot be instantiated on its own (i.e. that cannot create an object). It allows you to define common functionality in the base class that can be shared by its derived classes. Can have none abstract in the body.
 - **Static Class:** Can not create object of static class. In this type of class all methods, variables etc should be static. Static class can be access globally. Use for any Math operations, file manipulation, string manipulation, Configuration etc.
 - **Interface:** An interface in C# is a contract that defines a set of method and property signatures. It outlines a common set of behaviors that classes must implement, promoting code consistency, polymorphism, and flexibility in software design.
 
-## Abstract Class vs Interface
+### Abstract Class vs Interface
 
 Abstract classes can contain abstract methods, which are methods without implementation also contain non-abstract methods. Abstract methods must be implemented in any non-abstract derived class. Non-abstract methods can have implementations and will be inherited by derived classes.
 
@@ -47,9 +53,9 @@ An interface in is a contract that defines a set of methods, properties, and eve
 - Abstract classes can have fields and properties, while interfaces can only have properties.
 - Abstract classes are typically used for creating a base class for other classes to inherit from, while interfaces are used for defining a contract that classes must implement.
 
-# Entity Framework
+## Entity Framework
 
-## EF Core ALL Relationships
+### EF Core ALL Relationships
 
 - 1:1
 
@@ -120,9 +126,9 @@ An interface in is a contract that defines a set of methods, properties, and eve
   }
   ```
 
-# Configuration
+## Configuration
 
-## Rate Limiter
+### Rate Limiter
 
 ```cs
 // program.cs
@@ -146,7 +152,7 @@ public class WeatherController: Controller
 }
 ```
 
-# Library List
+## Library List
 
 - [uno](https://github.com/unoplatform/uno)
 - [QuestPDF](https://github.com/QuestPDF/QuestPDF)
@@ -156,7 +162,7 @@ public class WeatherController: Controller
 - [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 - [Ryujinx](https://github.com/Ryujinx/Ryujinx)
 
-# Links
+## Links
 
 - ### Tools
 
@@ -170,3 +176,125 @@ public class WeatherController: Controller
   - [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech/videos)
   - [Nick Chapsas](https://www.youtube.com/@nickchapsas/videos)
   - [ Patrick God](https://www.youtube.com/@PatrickGod/videos)
+
+# MongoDb
+
+#### Install
+
+    $ npm i mongoose
+
+#### Connect
+
+```js
+import mongoose from "mongoose";
+
+const connectionString = "string from mongodb atlas";
+
+mongoose.connect(connectionString, {
+  useNewUrlParser: true,
+  useCreateIndex: true,
+  useFindAndModify: false,
+  useUnifiedTopology: true,
+});
+```
+
+#### Defining a schema
+
+```js
+const userSchema = new mongoose.Schema({
+  fullName: {
+    type: String,
+    maxlength: 20,
+    required: [true, "Name cant be Empty"],
+  },
+  phone: Number,
+  verified: { type: Boolean, default: false },
+});
+```
+
+##### SchemaTypes
+
+- String
+- Number
+- Date
+- Buffer
+- Boolean
+- Mixed
+- ObjectId
+- Array
+
+For more
+[SchemaTypes](http://mongoosejs.com/docs/schematypes.html)
+
+#### Query
+
+[all query](https://mongoosejs.com/docs/api/query.html)
+
+A model is a constructor compiled from a schema. Model instances represent a collection of documents.
+
+##### Create a model
+
+```js
+const User = mongoose.model("User", userSchema);
+
+const u = User.create({ fullName: "Name", phone: 0123456789, verified: true });
+
+const u = User.insert({ fullName: "Name", phone: 0123456789, verified: true });
+```
+
+##### $find all
+
+```js
+User.find({});
+```
+
+##### $find by name
+
+```js
+User.find({ fullName: "Name" });
+```
+
+##### $find by multiple values
+
+```js
+User.find({ fullName: "Name", id: "123" });
+```
+
+##### $find one by id
+
+```js
+User.findOne({ _id: id });
+```
+
+##### $update one by id
+
+```js
+User.findOneAndUpdate({ _id: id }, updateData, {
+  new: true,
+  runValidators: true,
+  overwrite: true, // it will remove all the old data without default values and add the new data under the id
+});
+```
+
+##### $delete one by id
+
+```js
+User.findOneAndDelete({ _id: id });
+```
+
+##### $delete one by id
+
+```js
+User.findByIdAndRemove(id);
+```
+
+# SQL
+
+![](./assets/backend/SQL-1.jpg)
+![](./assets/backend/SQL-2.jpg)
+![](./assets/backend/SQL-3.jpg)
+![](./assets/backend/SQL-4.jpg)
+![](./assets/backend/SQL-5.jpg)
+![](./assets/backend/SQL-6.jpg)
+![](./assets/backend/SQL-7.jpg)
+![](./assets/backend/SQL-8.jpg)
