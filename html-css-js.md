@@ -746,7 +746,7 @@ p {
 
 ### Table of Contents
 
-1. [Generate a random number in a given range](#How-to-generate-a-random-number-in-a-given-range)
+1. [Generate a random number in a given range](#how-to-generate-a-random-number-in-a-given-range)
 2. [Find the difference between two arrays](#How-to-find-the-difference-between-two-arrays)
 3. [Convert truthy/falsy to boolean(true/false)](#Convert-truthy-falsy-to-boolean)
 4. [Repeat a string](#Repeat-a-string)
@@ -784,6 +784,14 @@ p {
 36. [UUID and Date](#uuid-and-date)
 37. [Discriminating Union](#discriminating-union)
 38. [Hide the Source Code of a Web Page](#hide-source-code)
+39. [Swapping Values](#swapping-values)
+40. [Copy to Clipboard](#copy-to-clipboard)
+41. [Destructuring Aliases](#destructuring-aliases)
+42. [Get Value as Data Type](#get-value-as-data-type)
+43. [Remove Duplicates from Array](#remove-duplicates-from-array)
+44. [Compare Two Arrays by Value](#compare-two-arrays-by-value)
+45. [Shuffling Array](#shuffling-array)
+46. [Comma Operator](#comma-operator)
 
 <img src="./assets/web/js/es6_cheatsheet.jpg" alt="cheatsheet" width="330px" align="right"/>
 
@@ -1219,7 +1227,7 @@ console.log(globalThis) //get the global this depends on your environment
 
 **[⬆ Back to Top](#table-of-contents)**
 
-# The second argument of JSON.stringify lets you cherry-pick 🍒 keys to serialize.
+### The second argument of JSON.stringify lets you cherry-pick 🍒 keys to serialize.
 
 ```javascript
 const user = {
@@ -1727,6 +1735,113 @@ document.addEventListener("keydown", e => {
   }
 });
 </script>
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Swapping Values
+
+```js
+let array = [1, 2, 3, 4, 5];
+[array[0], array[4]] = [array[4], array[0]];
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Copy to Clipboard
+
+```js
+function copyToClipBoard(str) {
+  const element = document.createElement("textarea");
+  element.value = str;
+  document.body.appendChild(element);
+  element.select();
+  document.execCommand("copy");
+  document.body.removeChild(element);
+}
+
+function handleClick() {
+  let text = document.querySelector("#text");
+  copyToClipBoard(text.innerText);
+}
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Destructuring Aliases
+
+```js
+const language = {
+  name: "JavaScript",
+  founded: 1995,
+  founder: "Brendan Eich",
+};
+
+const { name: languageName, founder: creatorName } = language;
+console.log(languageName, creatorName); // Output: JavaScript Brendan Eich
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Get Value as Data Type
+
+```js
+const element = document.querySelector("#number").valueAsNumber;
+console.log(typeof element); // Output: number
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Remove Duplicates from Array
+
+```js
+const array = [1, 2, 2, 2, 3, 5, 6, 5];
+console.log([...new Set(array)]); // Output: [1, 2, 3, 5, 6]
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Compare Two Arrays by Value
+
+```js
+const hasSameElements = (a, b) => {
+  return a.length === b.length && a.every((v, i) => v === b[i]);
+};
+
+console.log(hasSameElements([1, 2], [1, 2])); // Output: true
+console.log(hasSameElements([1, 2], [2, 1])); // Output: false
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Shuffling Array
+
+```js
+const numbers = [1, 2, 3, 4, 5, 6];
+console.log(numbers.sort(() => Math.random() - 0.5)); // Output: [3, 5, 1, 6, 4, 2] (example, output may vary)
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Comma Operator
+
+```js
+let x = 1;
+x = (x++, x);
+console.log(x); // Output: 2
+
+let y = (2, 3);
+console.log(y); // Output: 3
+
+let a = [[1, 2, 3, 4], [3, 4, 5], [5, 6], [7]];
+for (let i = 0, j = 3; i <= 3; i++, j--) {
+  console.log("a[" + i + "][" + j + "] = " + a[i][j]);
+  // Output:
+  // a[0][3] = 4
+  // a[1][2] = 5
+  // a[2][1] = 6
+  // a[3][0] = 7
+}
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
