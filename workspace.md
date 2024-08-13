@@ -7,22 +7,39 @@
 
 # Workspace tools
 
-- [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/) - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop)
-- [Notepad++](https://notepad-plus-plus.org/downloads/) - [NotepadNext](https://github.com/dail8859/NotepadNext) - [Obsidian](https://obsidian.md/) - [Logseq](https://logseq.com/)
+- [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/)- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop)
+- [Notepad++](https://notepad-plus-plus.org/downloads/) - [Notion](https://www.notion.so/download) - [Obsidian](https://obsidian.md/) - [Logseq](https://logseq.com/)
 - [PowerToys](https://github.com/microsoft/PowerToys) - [GitButler](https://github.com/gitbutlerapp/gitbutler) - [UniGetUI](https://github.com/marticliment/WingetUI) - [windirstat](https://windirstat.net/)
 - [nvm windows](https://github.com/coreybutler/nvm-windows) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Opera](https://www.opera.com/) - [Arc](https://arc.net/) - [Potplayer](https://potplayer.daum.net/)
 
 - ## MS 365
-- [Office Customization Tool](https://config.office.com/deploymentsettings) & [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117)
-- For the config that comes with Office Deployment Tool
-  ```properties
-  ./setup.exe /configure ./configuration-office2021Enterprise.xml
+- [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
+- Download `Office Deployment Tool` extract to a folder by double clicking the exe.
+- Remove all xml & create a `configuration.xml` file and paste the bellow:
+  ```xml
+  <Configuration>
+    <Add OfficeClientEdition="64"  Channel="PerpetualVL2024">
+      <Product ID="ProPlus2024Volume" PIDKEY="2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2" >
+          <Language ID="en-us" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Publisher" />
+      </Product>
+    </Add>
+    <RemoveMSI />
+    <Property Name="AUTOACTIVATE" Value="1" />
+  </Configuration>
   ```
-- For downloaded config from Office Customization Tool
+- Then run the terminal as admin and run the below command:
+
   ```properties
   ./setup /configure ./configuration.xml
   ```
+
 - [LibreOffice](https://www.libreoffice.org/) - [WPS](https://www.wps.com/) - [FreeOffice](https://www.freeoffice.com/) - [OfficeSuite](https://officesuite.com/)
 
 - ## Terminal
