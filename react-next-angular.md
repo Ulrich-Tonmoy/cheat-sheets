@@ -139,6 +139,10 @@
     - [bootstraptour](https://bootstraptour.com/)
 15. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
+    - [Ky](https://github.com/sindresorhus/ky)
+    - [Better Fetch](https://github.com/bekacru/better-fetch)
+    - [Wretch](https://github.com/elbywan/wretch)
+    - [Ofetch](https://github.com/unjs/ofetch)
 16. #### AI
     - [copilotkit](https://www.copilotkit.ai/)
 17. #### Internationalization
