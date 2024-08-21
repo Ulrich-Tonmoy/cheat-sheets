@@ -96,9 +96,10 @@
    - [React Slick Carousel](https://react-slick.neostack.com/)
    - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
 10. #### Drag and Drop
+    - [dnd kit](https://dndkit.com/)
+    - [react-mosaic](https://nomcopter.github.io/react-mosaic//)
     - [swapy](https://swapy.tahazsh.com/)
     - [pragmatic-drag-and-drop](https://atlassian.design/components/pragmatic-drag-and-drop/about)
-    - [dnd kit](https://dndkit.com/)
     - [react-dnd](https://react-dnd.github.io/react-dnd/about)
     - [react-dropzone](https://react-dropzone.js.org/)
     - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
@@ -129,9 +130,16 @@
     - [TanStack Table](https://tanstack.com/table/v8)
     - [ag-grid](https://www.ag-grid.com/)
     - [tabulator](https://tabulator.info/)
-13. #### PDF
+13. #### PDF/Doc
     - [react-pdf](https://react-pdf.org/)
-14. #### Tour Guide
+    - [react-pdf](https://projects.wojtekmaj.pl/react-pdf/)
+    - [pdfme](https://github.com/pdfme/pdfme)
+    - [pdfkit](https://github.com/foliojs/pdfkit)
+    - [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
+    - [react-doc-viewer](https://github.com/cyntler/react-doc-viewer)
+14. #### Markdown/Rich Text Editor
+    - [react-markdown](https://remarkjs.github.io/react-markdown/)
+15. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
     - [introjs](https://introjs.com/)
@@ -140,16 +148,18 @@
     - [flows](https://flows.sh/)
     - [shepherdjs](https://shepherdjs.dev/)
     - [bootstraptour](https://bootstraptour.com/)
-15. #### HTTP
+16. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
     - [Ky](https://github.com/sindresorhus/ky)
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
-16. #### Terminal
-    - [Xterm.js](https://github.com/xtermjs/xterm.js)
-17. #### AI
-    - [copilotkit](https://www.copilotkit.ai/)
+17. #### Date Time
+    - [luxon](https://moment.github.io/luxon/#/)
+    - [dayjs](https://github.com/iamkun/dayjs)
+    - [date-fns](https://github.com/date-fns/date-fns)
+    - [spacetime](https://github.com/spencermountain/spacetime)
+    - [moment](https://github.com/moment/moment/)
 18. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
@@ -158,7 +168,33 @@
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-20. #### DevTools
+20. #### Documentation Apps
+    - [Docusaurus](https://docusaurus.io/)
+    - [Nextra](https://nextra.site/)
+21. #### Type Checking
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [JSDoc](https://jsdoc.app/)
+22. #### Mobile/Desktop Apps
+    - [Tauri](https://tauri.app/)
+    - [React Native](https://reactnative.dev/)
+    - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
+    - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
+    - [nativescript](https://nativescript.org/)
+23. #### Other Libraries
+    - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
+    - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
+    - [Storybook](https://storybook.js.org/) Build UIs without the grunt work.
+    - [copilotkit](https://www.copilotkit.ai/) CopilotKit is the simplest way to integrate production-ready Copilots into any product.
+    - [million](https://million.dev/) Speed up your website by 70%.
+    - [avvvatars](https://avvvatars.com/) Free UI Avatars for Your Next Project.
+    - [Supabase](https://supabase.com/) Supabase is an open source Firebase alternative.
+    - [appwrite](https://appwrite.io/) Add Authentication, Databases, Functions, Storage, and Messaging to your projects using the frameworks and languages of your choice.
+    - [payloadcms](https://payloadcms.com/) Power anything from websites to internal tools with the open-source backend & modern admin UI that you truly own.
+    - [watermelondb](https://watermelondb.dev/) Build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast ⚡️.
+    - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
+    - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
+    - [craft.js](https://github.com/prevwong/craft.js) A React Framework for building extensible drag and drop page editors.
+24. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
@@ -170,33 +206,6 @@
     - [CSS Peeper (chrome link)](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
     - [CSS Viewer for Google Chrome (chrome link)](https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag)
     - [Project Naptha (chrome link)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
-21. #### Documentation Apps
-    - [Docusaurus](https://docusaurus.io/)
-    - [Nextra](https://nextra.site/)
-22. #### Component Dev Env
-    - [Storybook](https://storybook.js.org/)
-23. #### Type Checking
-    - [TypeScript](https://www.typescriptlang.org/)
-    - [JSDoc](https://jsdoc.app/)
-24. #### Mobile/Desktop Apps
-    - [Tauri](https://tauri.app/)
-    - [React Native](https://reactnative.dev/)
-    - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
-    - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
-    - [nativescript](https://nativescript.org/)
-25. #### Other Libraries
-    - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
-    - [million](https://million.dev/)
-    - [avvvatars](https://avvvatars.com/)
-    - [Supabase](https://supabase.com/)
-    - [appwrite](https://appwrite.io/)
-    - [payloadcms](https://payloadcms.com/)
-    - [watermelondb](https://watermelondb.dev/)
-    - [react-markdown](https://remarkjs.github.io/react-markdown/)
-    - [react-tweet](https://react-tweet.vercel.app/)
-    - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/)
-    - [luxon](https://moment.github.io/luxon/#/)
-    - [craft.js](https://github.com/prevwong/craft.js)
 
 ### Fundamental building blocks of React, known as primitives:
 
