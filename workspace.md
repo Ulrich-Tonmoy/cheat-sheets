@@ -266,4 +266,5 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - `shell:startup`
 - `shell:appsfolder`
 - `shell:common startup`
+- `SystemPropertiesAdvanced` to see windows users list
 - `chrome.exe --user-data-dir="c:/ChromeDevSession"`
