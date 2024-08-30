@@ -3,13 +3,11 @@
 ## 🔗Template & Shortcut snippets and useful tools link🔗
 
 1. [🔖Game Dev Tools🎮](./game-dev.md)
-2. [HTML](./frontend.md#html) - [CSS](./frontend.md#css) - [JS](./frontend.md#js) - [React Next Angular](./frontend.md)
-3. [Web Dev Links](./tools-list.md#web) - [Icons](./tools-list.md#icons) - [Npm & Nvm](./nvm-npm.md)
-4. [Asp.Net](./backend.md#aspnet) - [Mongoose](./backend.md#mongodb) - [SQL](./backend.md#sql)
-5. [Native App Dev Framework List](./other-tools.md#native-app-framework)
-6. [Git](./git.md) - [VS Code](./workspace.md#vs-coded) - [Windows](./workspace.md#windows)
-7. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
-8. [Note-taking Apps](./other-tools.md#note-taking-apps) - [Code Editors](./other-tools.md#code-editors) - [Programming Languages](./other-tools.md#programming-languages)
+2. [Frontend](./web-dev.md#frontend) - [Backend](./web-dev.md#backend) - [Useful Links](./web-dev.md#useful-links)
+3. [Native App Dev Framework List](./other-tools.md#native-app-framework)
+4. [Git](./git.md) - [VS Code](./workspace.md#vs-coded) - [Windows](./workspace.md#windows)
+5. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
+6. [Note-taking Apps](./other-tools.md#note-taking-apps) - [Code Editors](./other-tools.md#code-editors) - [Programming Languages](./other-tools.md#programming-languages)
 
 # 🔗Image Video Pdf🔗
 
