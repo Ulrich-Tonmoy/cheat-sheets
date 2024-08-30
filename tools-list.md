@@ -1,6 +1,6 @@
 # <p align="center">🎮Free Game App & Web Dev Tool Links‍💻</p>
 
-- [Game Dev Tools](#game)
+- [🔖Game Dev Tool Links📝](#game-dev-tool-links)
   - [Game Jam](#game-jam)
   - [Game Engine](#game-engine)
   - [Game Framework & Library](#game-framework-and-library)
@@ -34,7 +34,7 @@
   - [Other Tools](#other-tools)
   - [Websites for Blender User](#websites-for-blender-user)
   - [Other Game Dev Links](#other-game-dev-links)
-- [Web Dev Tools](#web)
+- [🔖Web Dev Tool Links📝](#web-dev-tool-links)
   - [Frontend Framework](#frontend-framework)
   - [Frontend UI Libraries](#frontend-ui-libraries)
   - [Other Frontend Libraries](#other-frontend-libraries)
