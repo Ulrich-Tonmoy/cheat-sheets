@@ -5,14 +5,11 @@
 1. [🔖Game Dev Tools🎮](./game-dev.md)
 2. [HTML](./frontend.md#html) - [CSS](./frontend.md#css) - [JS](./frontend.md#js) - [React Next Angular](./frontend.md)
 3. [Web Dev Links](./tools-list.md#web) - [Icons](./tools-list.md#icons) - [Npm & Nvm](./nvm-npm.md)
-4. [Web Framework & Tools](./tools-list.md#web-framework-and-tools)
-5. [Asp.Net](./backend.md#aspnet) - [Mongoose](./backend.md#mongodb) - [SQL](./backend.md#sql)
-6. [Native App Dev Framework List](./tools-list.md#native-app-framework)
-7. [Git](./git.md) - [VS Code](./workspace.md#vs-coded) - [Windows](./workspace.md#windows)
-8. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
-9. [Note-taking Apps](./tools-list.md#note-taking-apps) - [Code Editors](./tools-list.md#code-editors)
-10. [Programming Languages](./tools-list.md#programming-languages)
-11. [All Tools](./tools-list.md)
+4. [Asp.Net](./backend.md#aspnet) - [Mongoose](./backend.md#mongodb) - [SQL](./backend.md#sql)
+5. [Native App Dev Framework List](./other-tools.md#native-app-framework)
+6. [Git](./git.md) - [VS Code](./workspace.md#vs-coded) - [Windows](./workspace.md#windows)
+7. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
+8. [Note-taking Apps](./other-tools.md#note-taking-apps) - [Code Editors](./other-tools.md#code-editors) - [Programming Languages](./other-tools.md#programming-languages)
 
 # 🔗Image Video Pdf🔗
 
