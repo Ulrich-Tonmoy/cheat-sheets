@@ -3,7 +3,7 @@
 ## 🔗Template & Shortcut snippets and useful tools link🔗
 
 1. [🔖Game Dev Tools🎮](./game-dev.md)
-2. [Frontend](./web-dev.md#frontend) - [Backend](./web-dev.md#backend) - [Useful Links](./web-dev.md#useful-links)
+2. [Frontend](./web-dev.md#frontend) - [Backend](./web-dev.md#backend) - [Useful Links](./web-dev.md#useful-links) - [NVM & NPM](./nvm-npm.md)
 3. [Native App Dev Framework List](./other-tools.md#native-app-framework)
 4. [Git](./git.md) - [VS Code](./workspace.md#vs-coded) - [Windows](./workspace.md#windows)
 5. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
