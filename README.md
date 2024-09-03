@@ -9,7 +9,7 @@
 5. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
 6. [Note-taking Apps](./other-tools.md#note-taking-apps) - [Code Editors](./other-tools.md#code-editors) - [Programming Languages](./other-tools.md#programming-languages)
 
-# 🔗Image Video Pdf🔗
+# Tools🔗
 
 1. [downloaderto (Video Downloader)](https://downloaderto.com/engf/)
 2. [cobalt (Video Downloader)](https://cobalt.tools/) - [cobalt](https://github.com/imputnet/cobalt)
@@ -20,6 +20,7 @@
 7. [Ico to Png](https://cloudconvert.com/)
 8. [tinywow](https://tinywow.com/)
 9. [unscreen](https://www.unscreen.com/) - [Remove Bg](https://www.remove.bg/) - [Erase Img Bg](https://www.magiceraser.io/)
+10. [download-directory](https://download-directory.github.io/) - [DownGit](https://downgit.github.io/#/home) - [Github Folder Downloader](https://abdurraahimm.github.io/github-folder-downloader/)
 
 # 🔗Other Links🔗
 
@@ -27,7 +28,7 @@
 2. [opensourcealternative](https://www.opensourcealternative.to/) - [ToolFinder (Find Productivity Apps)](https://toolfinder.co/)
 3. [OpenSauced (Search for Open Source Repos)](https://app.opensauced.pizza/)
 4. [codefinder (Search for github Repos)](https://codefinder.dev/)
-5. [ossinsight collections](https://ossinsight.io/collections/) - [plrank](https://plrank.com/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [PYPL](https://pypl.github.io/PYPL.html)
+5. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [plrank](https://plrank.com/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [PYPL](https://pypl.github.io/PYPL.html)
 6. [killedby (A graveyard for discontinued products)](https://killedby.tech/)
 7. [Search Anime by Image](https://trace.moe/)
 8. [Wayback Machine](https://archive.org/web/)

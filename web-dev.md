@@ -2,12 +2,14 @@
 
 - [Frontend](#frontend)
   - [Useful Links](#useful-links)
-    - [Frontend Framework List](#frontend-framework-list)
+    - [Frontend Frameworks](#frontend-frameworks)
+    - [Mock Up Tools](#mock-up-tools)
     - [Code Screenshots](#code-screenshots)
     - [Games to learn JavaScript](#games-to-learn-javascript)
     - [Top 3 Regex Tools](#top-3-regex-tools)
     - [Js Links](#js-links)
     - [CSS Links](#css-links)
+    - [SVG Tools](#svg)
     - [Colors](#colors)
     - [Typography](#typography)
     - [Loader](#loader)
@@ -19,7 +21,7 @@
     - [Videos & Images](#videos-&-images)
     - [Info](#info)
     - [Free API](#free-api)
-    - [Course](#course)
+    - [Next Open Source Projects](#next-open-source-projects)
     - [Other Tools](#other-tools)
   - [React](#react)
     - [React Ecosystem](#react-ecosystem)
@@ -48,13 +50,12 @@
       - [Other Libraries](#other-libraries)
       - [DevTools](#devtools)
     - [Folder Structure](#folder-structure)
-    - [Next Open Source Projects](#next-open-source-projects)
     - [React Best Practices](#react-best-practices)
     - [Interview Questions](#interview-questions)
-    - [Tailwind CSS](#tailwind-css)
   - [Angular](#angular)
   - [HTML Snippet](#html-snippet)
   - [CSS Snippet](#css-snippet)
+  - [Tailwind CSS](#tailwind-css)
   - [JS/TS Snippet](#js-snippet)
 - [Backend](#backend)
   - [Backend Framework and Database](#backend-framework-and-database)
@@ -71,7 +72,7 @@
 
 # Useful Links
 
-- ## Frontend Framework
+- ## Frontend Frameworks
 
   1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [Astro](https://github.com/withastro/astro) - [Remix](https://github.com/remix-run/remix) - [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [umi](https://github.com/umijs/umi)
   2. [Angular](https://github.com/angular/angular)
@@ -81,17 +82,13 @@
   6. [htmx](https://github.com/bigskysoftware/htmx)
   7. [Vue](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
   8. [Svelte](https://github.com/sveltejs/svelte) - [Kit](https://github.com/sveltejs/kit)
-  9. [Nuejs](https://github.com/nuejs/nuejs)
-  10. [Yew](https://github.com/yewstack/yew)
-  11. [neo.mjs](https://github.com/neomjs/neo)
-  12. [Stimulus](https://github.com/hotwired/stimulus)
-  13. [Hibiki HTML](https://github.com/dashborg/hibiki)
-
-- ## Other links
-
-  1. [cdnjs](https://cdnjs.com/)
-  2. [Download Git repo folder](https://downgit.github.io/#/home)
-  3. [SRI Hash Generator](https://www.srihash.org/)
+  9. [riot](https://github.com/riot/riot)
+  10. [Alpine.js](https://github.com/alpinejs/alpine)
+  11. [Nuejs](https://github.com/nuejs/nuejs)
+  12. [Yew](https://github.com/yewstack/yew)
+  13. [neo.mjs](https://github.com/neomjs/neo)
+  14. [Stimulus](https://github.com/hotwired/stimulus)
+  15. [Hibiki HTML](https://github.com/dashborg/hibiki)
 
 - ## Mock Up Tools
 
@@ -144,13 +141,6 @@
   11. [animejs](https://animejs.com/)
   12. [popper](https://popper.js.org/)
   13. [tweenjs](https://github.com/tweenjs/tween.js/)
-
-- ## Top JS Notification Libraries
-
-  1. [React Toastify](https://github.com/fkhadra/react-toastify#readme)
-  2. [Sweetalert](https://sweetalert.js.org/)
-  3. [Notie](https://jaredreich.com/notie/)
-  4. [React Hot Toast](https://react-hot-toast.com/)
 
 - ## CSS Links
 
@@ -302,6 +292,7 @@
   13. [getbootstrap](https://icons.getbootstrap.com)
   14. [svgrepo](https://www.svgrepo.com/)
   15. [copyicon](https://copyicon.com/)
+  16. [uilogos](https://uilogos.co/)
 
 - ## 3d icons
 
@@ -334,39 +325,41 @@
 
 - ## Info
 
-  1. [css-timeline](https://css-timeline.vercel.app/)
-  2. [screensizemap](https://screensizemap.com/)
-  3. [css-ruler](https://katydecorah.com/css-ruler/)
-  4. [bada55](http://bada55.io/)
-  5. [whocanuse](https://www.whocanuse.com/)
-  6. [caniemail](https://www.caniemail.com/)
-  7. [unused-css](https://unused-css.com/)
-  8. [gallery](https://component.gallery/)
-  9. [design-systems-recent](https://designsystemsrepo.com/design-systems-recent/)
-  10. [checklist](https://www.checklist.design/)
-  11. [glyphs](https://css-tricks.com/snippets/html/glyphs/)
-  12. [css-tricks](https://css-tricks.com/)
-  13. [htmlwasher](https://www.htmlwasher.com/)
-  14. [caniuse](https://caniuse.com/)
-  15. [validator](https://validator.w3.org/)
-  16. [imagecompressor](https://imagecompressor.com/)
-  17. [websitedownloader](https://websitedownloader.io/)
-  18. [builtwith](https://builtwith.com/)
-  19. [measure](https://web.dev/measure/)
-  20. [gitignore](https://www.toptal.com/developers/gitignore)
-  21. [devhints](https://devhints.io/)
-  22. [metatags](https://metatags.io/)
-  23. [frontendchecklist](https://frontendchecklist.io/)
-  24. [overapi](https://overapi.com/)
-  25. [devdocs](https://devdocs.io/)
-  26. [codebeautify](https://codebeautify.org/)
-  27. [tinypng](https://tinypng.com/)
-  28. [it-tools](https://it-tools.tech/)
-  29. [favicon](https://www.favicon.cc/)
-  30. [jsoncrack](https://jsoncrack.com/)
-  31. [gtmetrix](https://gtmetrix.com/)
-  32. [pingdom](https://tools.pingdom.com/)
-  33. [tinyjpg](https://tinyjpg.com/)
+  1. [cdnjs](https://cdnjs.com/)
+  2. [SRI Hash Generator](https://www.srihash.org/)
+  3. [css-timeline](https://css-timeline.vercel.app/)
+  4. [screensizemap](https://screensizemap.com/)
+  5. [css-ruler](https://katydecorah.com/css-ruler/)
+  6. [bada55](http://bada55.io/)
+  7. [whocanuse](https://www.whocanuse.com/)
+  8. [caniemail](https://www.caniemail.com/)
+  9. [unused-css](https://unused-css.com/)
+  10. [gallery](https://component.gallery/)
+  11. [design-systems-recent](https://designsystemsrepo.com/design-systems-recent/)
+  12. [checklist](https://www.checklist.design/)
+  13. [glyphs](https://css-tricks.com/snippets/html/glyphs/)
+  14. [css-tricks](https://css-tricks.com/)
+  15. [htmlwasher](https://www.htmlwasher.com/)
+  16. [caniuse](https://caniuse.com/)
+  17. [validator](https://validator.w3.org/)
+  18. [imagecompressor](https://imagecompressor.com/)
+  19. [websitedownloader](https://websitedownloader.io/)
+  20. [builtwith](https://builtwith.com/)
+  21. [measure](https://web.dev/measure/)
+  22. [gitignore](https://www.toptal.com/developers/gitignore)
+  23. [devhints](https://devhints.io/)
+  24. [metatags](https://metatags.io/)
+  25. [frontendchecklist](https://frontendchecklist.io/)
+  26. [overapi](https://overapi.com/)
+  27. [devdocs](https://devdocs.io/)
+  28. [codebeautify](https://codebeautify.org/)
+  29. [tinypng](https://tinypng.com/)
+  30. [it-tools](https://it-tools.tech/)
+  31. [favicon](https://www.favicon.cc/)
+  32. [jsoncrack](https://jsoncrack.com/)
+  33. [gtmetrix](https://gtmetrix.com/)
+  34. [pingdom](https://tools.pingdom.com/)
+  35. [tinyjpg](https://tinyjpg.com/)
 
 - ## Free API
 
@@ -381,36 +374,35 @@
   9. [breakingbadapi](https://breakingbadapi.com/documentation)
   10. [random-data-api](https://random-data-api.com/documentation)
 
-- ## Course
+- ## Next Open Source Projects
 
-  1. [Cloud Fundamentals: AWS Services for C# Developers](https://nickchapsas.com/p/cloud-fundamentals-aws-services-for-c-developers)
+  1. [plane](https://github.com/makeplane/plane)
+  2. [twenty](https://github.com/twentyhq/twenty)
+  3. [rallly](https://github.com/lukevella/rallly)
+  4. [infisical](https://github.com/Infisical/infisical)
+  5. [supabase](https://github.com/supabase/supabase)
+  6. [dailydotdev](https://github.com/dailydotdev/apps)
+  7. [formbricks](https://github.com/formbricks/formbricks)
+  8. [dub](https://github.com/dubinc/dub)
+  9. [inbox-zero](https://github.com/elie222/inbox-zero)
+  10. [civitai](https://github.com/civitai/civitai)
+  11. [cal.com](https://github.com/calcom/cal.com)
 
 - ## Other Tools
 
-  1. [Vite](https://github.com/vitejs/vite)
-  2. [Turbo](https://github.com/vercel/turbo)
-  3. [esbuild](https://github.com/evanw/esbuild)
-  4. [Rollup](https://github.com/rollup/rollup)
-  5. [Partytown](https://github.com/BuilderIO/partytown)
-  6. [hoppscotch](https://github.com/hoppscotch/hoppscotch)
-  7. [Danfo.js](https://github.com/javascriptdata/danfojs)
-  8. [meilisearch](https://github.com/meilisearch/meilisearch)
-  9. [zincsearch](https://github.com/zincsearch/zincsearch)
-  10. [trpc](https://github.com/trpc/trpc)
-  11. [motionity](https://github.com/alyssaxuu/motionity)
-  12. [gecko-dev](https://github.com/mozilla/gecko-dev)
-  13. [responsively-app](https://github.com/responsively-org/responsively-app)
-  14. [mockoon](https://github.com/mockoon/mockoon)
-  15. [BuilderIO](https://github.com/BuilderIO/builder)
-  16. [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
-  17. [e2b](https://github.com/e2b-dev/e2b)
-  18. [Alpine.js](https://github.com/alpinejs/alpine)
-  19. [arrow-js](https://github.com/justin-schroeder/arrow-js)
-  20. [Playwright](https://github.com/microsoft/playwright)
-  21. [uvicorn](https://github.com/encode/uvicorn)
-  22. [Servo](https://github.com/servo/servo)
-  23. [WebKit](https://github.com/WebKit/WebKit)
-  24. [Chromium](https://github.com/chromium/chromium)
+  1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia)
+  2. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
+  3. [chartdb](https://github.com/chartdb/chartdb)
+  4. [Partytown](https://github.com/BuilderIO/partytown)
+  5. [mockoon](https://github.com/mockoon/mockoon)
+  6. [trpc](https://github.com/trpc/trpc)
+  7. [responsively-app](https://github.com/responsively-org/responsively-app)
+  8. [BuilderIO](https://github.com/BuilderIO/builder) - [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
+  9. [e2b](https://github.com/e2b-dev/e2b)
+  10. [arrow-js](https://github.com/justin-schroeder/arrow-js)
+  11. [uvicorn](https://github.com/encode/uvicorn)
+  12. [motionity](https://github.com/alyssaxuu/motionity)
+  13. [Danfo.js](https://github.com/javascriptdata/danfojs)
 
 # React
 
@@ -463,6 +455,9 @@
    - [98.css](https://jdan.github.io/98.css/)
    - [XP.css](https://botoxparty.github.io/XP.css/)
    - [7.css](https://khang-nd.github.io/7.css/)
+   - [Simple.css](https://github.com/kevquirk/simple.css)
+   - [twin.macro](https://github.com/ben-rogerson/twin.macro)
+   - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/)
    - [platejs](https://platejs.org/)
@@ -478,22 +473,25 @@
    - [ariakit](https://ariakit.org/)
    - [park-ui](https://park-ui.com/)
    - [daisyUI](https://daisyui.com/)
-   - [Fluent UI]([Fluent UI](https://github.com/microsoft/fluentui))
+   - [Fluent UI](https://github.com/microsoft/fluentui)
    - [evergreen](https://evergreen.segment.com/)
    - [Ant Design](https://ant.design/)
    - [MUI](https://mui.com/)
+   - [PrimeReact](https://github.com/primefaces/primereact)
    - [Mantine](https://mantine.dev/)
    - [Chakra UI](https://chakra-ui.com/)
    - [React Bootstrap](https://react-bootstrap.github.io/)
    - [blueprintjs](https://blueprintjs.com/docs/)
    - [React Suite](https://rsuitejs.com/)
+   - [Gestalt](https://github.com/pinterest/gestalt)
+   - [grommet](https://github.com/grommet/grommet)
 9. #### Other UI libs
    - [visx](<[visx](https://github.com/airbnb/visx)>)
    - [floating-ui](https://floating-ui.com/)
    - [fullcalendar](https://fullcalendar.io/)
    - [react-hot-toast](https://react-hot-toast.com/)
    - [react-toastify](https://fkhadra.github.io/react-toastify/introduction)
-   - [sweetalert2](https://sweetalert2.github.io/)
+   - [sweetalert2](https://sweetalert2.github.io/) - [Sweetalert](https://sweetalert.js.org/)
    - [maska (input masking)](https://beholdr.github.io/maska/v3/#/)
    - [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/)
    - [skeletonreact](https://skeletonreact.com/)
@@ -501,18 +499,7 @@
    - [react-player](https://cookpete.github.io/react-player/)
    - [React Slick Carousel](https://react-slick.neostack.com/)
    - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
-   - ## Frontend UI Libraries
-     1. [PrimeReact](https://github.com/primefaces/primereact)
-     2. [Emotion](https://github.com/emotion-js/emotion)
-     3. [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
-     4. [React Virtualized](https://github.com/bvaughn/react-virtualized)
-     5. [React Motion](https://github.com/chenglou/react-motion)
-     6. [Theme UI](https://github.com/system-ui/theme-ui)
-     7. [Simple.css](https://github.com/kevquirk/simple.css)
-     8. [riot](https://github.com/riot/riot)
-     9. [Gestalt](https://github.com/pinterest/gestalt)
-     10. [grommet](https://github.com/grommet/grommet)
-     11. [twin.macro](https://github.com/ben-rogerson/twin.macro)
+   - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
 10. #### Drag and Drop
     - [dnd kit](https://dndkit.com/)
     - [react-mosaic](https://nomcopter.github.io/react-mosaic//)
@@ -548,6 +535,7 @@
     - [TanStack Table](https://tanstack.com/table/v8)
     - [ag-grid](https://www.ag-grid.com/)
     - [tabulator](https://tabulator.info/)
+    - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 13. #### PDF Doc
     - [react-pdf](https://react-pdf.org/)
     - [react-pdf](https://projects.wojtekmaj.pl/react-pdf/)
@@ -740,20 +728,6 @@
 
 > [!Note]
 > These are just to give you an idea about how to structure you project and not the absolute you should always follow.
-
-# Next Open Source Projects
-
-1. [plane](https://github.com/makeplane/plane)
-2. [twenty](https://github.com/twentyhq/twenty)
-3. [rallly](https://github.com/lukevella/rallly)
-4. [infisical](https://github.com/Infisical/infisical)
-5. [supabase](https://github.com/supabase/supabase)
-6. [dailydotdev](https://github.com/dailydotdev/apps)
-7. [formbricks](https://github.com/formbricks/formbricks)
-8. [dub](https://github.com/dubinc/dub)
-9. [inbox-zero](https://github.com/elie222/inbox-zero)
-10. [civitai](https://github.com/civitai/civitai)
-11. [cal.com](https://github.com/calcom/cal.com)
 
 # React Best Practices
 
@@ -1217,37 +1191,6 @@ console.log(nextBiggest(arr));
 <Suspense fallback={<Loading />}>
   <SomeComponent />
 </Suspense>
-```
-
-# Tailwind CSS
-
-```html
-<!-- Will clamp the text to max line <3> or give value -->
-<div className="line-clamp-3">text</div>
-
-<!-- Will clamp the text to max 1 line -->
-<div className="truncate">text</div>
-```
-
-```html
-<!-- put space between children without flex box -->
-<div className="divide-y-8">
-  <div className="size-8"></div>
-  <div className="size-8"></div>
-  <div className="size-8"></div>
-</div>
-```
-
-```html
-<!-- gradient -->
-<div
-  className="h-48 w-full bg-gradient-to-r from-red-500 to-green-500 via-white from-20%"
-></div>
-```
-
-```html
-<!-- button focus rings -->
-<button className="size-8 bg-red-500 ring-4 ring-green-500">Click</button>
 ```
 
 # Angular
@@ -2998,6 +2941,37 @@ p {
     scale: 0;
   }
 }
+```
+
+# Tailwind CSS
+
+```html
+<!-- Will clamp the text to max line <3> or give value -->
+<div className="line-clamp-3">text</div>
+
+<!-- Will clamp the text to max 1 line -->
+<div className="truncate">text</div>
+```
+
+```html
+<!-- put space between children without flex box -->
+<div className="divide-y-8">
+  <div className="size-8"></div>
+  <div className="size-8"></div>
+  <div className="size-8"></div>
+</div>
+```
+
+```html
+<!-- gradient -->
+<div
+  className="h-48 w-full bg-gradient-to-r from-red-500 to-green-500 via-white from-20%"
+></div>
+```
+
+```html
+<!-- button focus rings -->
+<button className="size-8 bg-red-500 ring-4 ring-green-500">Click</button>
 ```
 
 # JS Snippet
