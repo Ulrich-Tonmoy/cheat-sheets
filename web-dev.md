@@ -2344,6 +2344,22 @@ document.designMode = "on";
 </head>
 ```
 
+```html
+<!-- Group the options -->
+<select>
+  <optgroup label="Fruit">
+    <option>Apple</option>
+    <option>Mango</option>
+    <option>Banana</option>
+  </optgroup>
+  <optgroup label="Car">
+    <option>Bugatti</option>
+    <option>Lamborgini</option>
+    <option>Koenigseg</option>
+  </optgroup>
+</select>
+```
+
 ## Useful HTML attributes you may not know
 
 1. Dialog/Modal
