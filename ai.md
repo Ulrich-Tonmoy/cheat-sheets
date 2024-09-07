@@ -11,6 +11,12 @@
 
 # 🤖AI🤖
 
+- ## AI-powered software development platform
+
+  1. [Replit](https://replit.com/)
+  2. [Devin AI](https://preview.devin.ai/)
+  3. [Cursor](https://www.cursor.com/)
+
 - ## Chat GPT Alternative
 
   1. [Bai Chat](https://chatbot.theb.ai)
