@@ -131,10 +131,10 @@
 # Other Repos
 
 1. [Git](https://github.com/git/git) - [Grace](https://github.com/ScottArbeit/Grace)
-2. [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity)
-3. [Android](https://android.googlesource.com/) - [OpenHarmony](https://gitee.com/openharmony)
-4. [Linux](https://github.com/torvalds/linux) - [NixOS](https://github.com/NixOS/nixpkgs) - [Arch Linux](https://gitlab.archlinux.org/archlinux/)
-5. [FreeBSD](https://github.com/freebsd/freebsd-src) - [OpenBSD](https://github.com/openbsd/src) - [NetBSD](https://github.com/NetBSD/src)
+2. [Linux](https://github.com/torvalds/linux) - [NixOS](https://github.com/NixOS/nixpkgs) - [Arch](https://gitlab.archlinux.org/archlinux/) - [Kali](https://gitlab.com/kalilinux) - [Android](https://android.googlesource.com/)
+3. [OpenHarmony](https://gitee.com/openharmony) - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - [XNU](https://github.com/apple-oss-distributions/xnu)
+4. [FreeBSD](https://github.com/freebsd/freebsd-src) - [NetBSD](https://github.com/NetBSD/src) - [OpenBSD](https://github.com/openbsd/src) - [DragonFlyBSD](https://gitweb.dragonflybsd.org/dragonfly.git)
+5. [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity) - [ravynOS](https://github.com/ravynsoft/ravynos) - [skiftOS](https://github.com/skift-org/skift) - [RedoxOS](https://gitlab.redox-os.org/redox-os/redox)
 6. [Chromium](https://github.com/chromium/chromium) - [gecko-dev](https://github.com/mozilla/gecko-dev) - [WebKit](https://github.com/WebKit/WebKit) - [Servo](https://github.com/servo/servo)
 7. [Vite](https://github.com/vitejs/vite) - [Turbo](https://github.com/vercel/turbo) - [esbuild](https://github.com/evanw/esbuild) - [Rollup](https://github.com/rollup/rollup) - [Rolldown](https://github.com/rolldown/rolldown)
 8. [ImHex](https://github.com/WerWolv/ImHex)
