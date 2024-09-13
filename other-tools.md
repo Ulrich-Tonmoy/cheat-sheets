@@ -135,7 +135,7 @@
 3. [OpenHarmony](https://gitee.com/openharmony) - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - [XNU](https://github.com/apple-oss-distributions/xnu)
 4. [FreeBSD](https://github.com/freebsd/freebsd-src) - [NetBSD](https://github.com/NetBSD/src) - [OpenBSD](https://github.com/openbsd/src) - [DragonFlyBSD](https://gitweb.dragonflybsd.org/dragonfly.git)
 5. [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity) - [ravynOS](https://github.com/ravynsoft/ravynos) - [skiftOS](https://github.com/skift-org/skift) - [RedoxOS](https://gitlab.redox-os.org/redox-os/redox)
-6. [Chromium](https://github.com/chromium/chromium) - [gecko-dev](https://github.com/mozilla/gecko-dev) - [WebKit](https://github.com/WebKit/WebKit) - [Servo](https://github.com/servo/servo)
+6. [Chromium](https://github.com/chromium/chromium) - [gecko-dev](https://github.com/mozilla/gecko-dev) - [WebKit](https://github.com/WebKit/WebKit) - [Servo](https://github.com/servo/servo) - [Verso](https://github.com/versotile-org/verso)
 7. [Vite](https://github.com/vitejs/vite) - [Turbo](https://github.com/vercel/turbo) - [esbuild](https://github.com/evanw/esbuild) - [Rollup](https://github.com/rollup/rollup) - [Rolldown](https://github.com/rolldown/rolldown)
 8. [ImHex](https://github.com/WerWolv/ImHex)
 9. [Files](https://github.com/files-community/Files)

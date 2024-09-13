@@ -2,64 +2,62 @@
 
 ## NVM (Node Version Manager for using multiple node version in same machine)
 
--   Download from [here](https://github.com/coreybutler/nvm-windows)
+- Download from [here](https://github.com/coreybutler/nvm-windows)
 
--   To see version of nvm.
-    ```properties
-    nvm version
-    ```
-    or
-    ```properties
-    nvm v
-    ```
--   Show if node is running in 32 or 64 bit mode. Specify 32 or 64 to override the default architecture.
-    ```properties
-    nvm arch [32|64]
-    ```
--   To see all the node versions available for installation.
-    ```properties
-    nvm list available
-    ```
--   To install the latest version of node.
-    ```properties
-    nvm install latest
-    ```
--   To install the LTS version of node.
-    ```properties
-    nvm install lts
-    ```
--   Install a specific version of node.
-    ```properties
-    nvm install <version>
-    ```
-    example
-    ```properties
-    nvm install 18.3.0
-    ```
--   Uninstall a specific version.
-    ```properties
-    nvm uninstall <version>
-    ```
-    example
-    ```properties
-    nvm uninstall 18.3.0
-    ```
--   See all the installed node version.
-    ```properties
-    nvm ls
-    ```
--   To specify or change the current active version.
-    ```properties
-    nvm use <version>
-    ```
-    example
-    ```properties
-    nvm use 18.3.0
-    ```
--   To see active version name/no.
-    ```properties
-    nvm current
-    ```
+- To see version of nvm.
+  ```properties
+  nvm version
+  <!-- or -->
+  nvm v
+  ```
+- Show if node is running in 32 or 64 bit mode. Specify 32 or 64 to override the default architecture.
+  ```properties
+  nvm arch [32|64]
+  ```
+- To see all the node versions available for installation.
+  ```properties
+  nvm list available
+  ```
+- To install the latest version of node.
+  ```properties
+  nvm install latest
+  ```
+- To install the LTS version of node.
+  ```properties
+  nvm install lts
+  ```
+- Install a specific version of node.
+  ```properties
+  nvm install <version>
+  ```
+  example
+  ```properties
+  nvm install 18.3.0
+  ```
+- Uninstall a specific version.
+  ```properties
+  nvm uninstall <version>
+  ```
+  example
+  ```properties
+  nvm uninstall 18.3.0
+  ```
+- See all the installed node version.
+  ```properties
+  nvm ls
+  ```
+- To specify or change the current active version.
+  ```properties
+  nvm use <version>
+  ```
+  example
+  ```properties
+  nvm use 18.3.0
+  ```
+- To see active version name/no.
+  ```properties
+  nvm current
+  ```
 
 ## 8 Useful Npm Commands
 
