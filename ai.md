@@ -35,6 +35,10 @@
 
 - # Image Video Audio Gen Tools
 
+  - ## Chat with PDF
+
+    1. [NotebookLM](https://notebooklm.google/)
+
   - ## 3D Gen
 
     1. [TripoSR](https://github.com/VAST-AI-Research/TripoSR)
