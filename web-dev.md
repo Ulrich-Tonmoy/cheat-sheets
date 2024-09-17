@@ -390,7 +390,7 @@
 
 - ## Other Tools
 
-  1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia)
+  1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app)
   2. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
   3. [chartdb](https://github.com/chartdb/chartdb)
   4. [Partytown](https://github.com/BuilderIO/partytown)
