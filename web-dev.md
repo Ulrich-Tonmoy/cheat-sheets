@@ -530,6 +530,7 @@
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
+    - [RacingBars](https://racing-bars.hatemhosny.dev/)
     - [d3js](https://d3js.org/)
     - [tremor](https://www.tremor.so/)
     - [TanStack Table](https://tanstack.com/table/v8)
