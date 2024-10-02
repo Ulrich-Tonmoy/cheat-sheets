@@ -339,10 +339,12 @@
   3. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
   4. [Pikimov (Online)](https://pikimov.com/)
   5. [Shotcut](https://shotcut.org/)
-  6. [Lightworks](https://lwks.com/)
-  7. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
-  8. [kdenlive](https://kdenlive.org/en/)
-  9. [filmora](https://filmora.wondershare.com/)
+  6. [LosslessCut](https://github.com/mifi/lossless-cut)
+  7. [HandBrake](https://handbrake.fr/)
+  8. [Lightworks](https://lwks.com/)
+  9. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
+  10. [kdenlive](https://kdenlive.org/en/)
+  11. [filmora](https://filmora.wondershare.com/)
 
 - ## Game Dev AI Tools
 
