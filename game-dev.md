@@ -350,10 +350,11 @@
 
   1. [ArtBreeder](https://www.artbreeder.com)
   2. [Skybox Generator](https://skybox.blockadelabs.com/)
-
-- ## AI Gen Game Audio
-
-  1. [voice.ai](https://voice.ai/)
+  3. [voice.ai (Audio Gen)](https://voice.ai/)
+  4. [Tensor Art](https://tensor.art/)
+  5. [Mesh (3d)](https://www.mesh.ai/)
+  6. [Sloyd (3D)](https://www.sloyd.ai/)
+  7. [Rodin](https://hyperhuman.deemos.com/rodin)
 
 - ## Game Audio
 
