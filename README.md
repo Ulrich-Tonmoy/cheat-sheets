@@ -20,7 +20,7 @@
 7. [temp mail](https://temp-mail.org/) - [yop mail](https://yopmail.com/) - [temporary-phone-number](https://anonymsms.com/temporary-phone-number/)
 8. [downloaderto (Video Downloader)](https://downloaderto.com/engf/) - [cobalt (Video Downloader)](https://cobalt.tools/)
 9. [download-directory](https://download-directory.github.io/) - [DownGit](https://downgit.github.io/#/home) - [Github Folder Downloader](https://abdurraahimm.github.io/github-folder-downloader/)
-10. [Webp to Png](https://picflow.com/convert/webp-to-png) - [Jpg to Png](https://jpg2png.com/) - [Cloud Convert](https://cloudconvert.com/) - [tinywow](https://tinywow.com/)
+10. [Webp to Png](https://picflow.com/convert/webp-to-png) - [Jpg to Png](https://jpg2png.com/) - [SVG](https://svgoptimizer.com/) - [Cloud Convert](https://cloudconvert.com/) - [tinywow](https://tinywow.com/)
 11. [unscreen](https://www.unscreen.com/) - [Remove Bg](https://www.remove.bg/) - [Erase Img Bg](https://www.magiceraser.io/) - [Profile Pic Maker](https://pfpmaker.com/)
 12. [killedby (A graveyard for discontinued products)](https://killedby.tech/)
 13. [timezones (Have multiple Timezone to compare)](https://www.timezones.digital/)
