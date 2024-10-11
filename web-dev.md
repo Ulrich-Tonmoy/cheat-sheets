@@ -486,7 +486,8 @@
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
 9. #### Other UI libs
-   - [visx](<[visx](https://github.com/airbnb/visx)>)
+   - [player](https://player.style/) Video and audio player themes built with Media Chrome
+   - [visx](https://github.com/airbnb/visx)
    - [floating-ui](https://floating-ui.com/)
    - [fullcalendar](https://fullcalendar.io/)
    - [react-hot-toast](https://react-hot-toast.com/)
