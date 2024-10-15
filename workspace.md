@@ -126,6 +126,15 @@ Linux:
 
 # Windows
 
+## Check and Toggle Recall
+
+- Open up the Terminal (as Admin) and type in this command
+- Check If Recall Is ON : `Dism /Online /Get-Featureinfo /Featurename:Recall`
+
+- Depending on your preference these commands can either ENABLE or DISABLE the software.
+- Disable RECALL: `Dism /Online /Disable-Feature /Featurename:Recall`
+- Enable RECALL: `Dism /Online /Enable-Feature /Featurename:Recall`
+
 ## Old Context Menu In Windows 11
 
 - Manually
