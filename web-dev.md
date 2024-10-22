@@ -82,13 +82,14 @@
   6. [htmx](https://github.com/bigskysoftware/htmx)
   7. [Vue](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
   8. [Svelte](https://github.com/sveltejs/svelte) - [Kit](https://github.com/sveltejs/kit)
-  9. [riot](https://github.com/riot/riot)
-  10. [Alpine.js](https://github.com/alpinejs/alpine)
-  11. [Nuejs](https://github.com/nuejs/nuejs)
-  12. [Yew](https://github.com/yewstack/yew)
-  13. [neo.mjs](https://github.com/neomjs/neo)
-  14. [Stimulus](https://github.com/hotwired/stimulus)
-  15. [Hibiki HTML](https://github.com/dashborg/hibiki)
+  9. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
+  10. [riot](https://github.com/riot/riot)
+  11. [Alpine.js](https://github.com/alpinejs/alpine)
+  12. [Nuejs](https://github.com/nuejs/nuejs)
+  13. [Yew](https://github.com/yewstack/yew)
+  14. [neo.mjs](https://github.com/neomjs/neo)
+  15. [Stimulus](https://github.com/hotwired/stimulus)
+  16. [Hibiki HTML](https://github.com/dashborg/hibiki)
 
 - ## Mock Up Tools
 
@@ -487,6 +488,7 @@
    - [grommet](https://github.com/grommet/grommet)
 9. #### Other UI libs
    - [player](https://player.style/) Video and audio player themes built with Media Chrome
+   - [uiverse](https://uiverse.io/buttons) Button designs
    - [visx](https://github.com/airbnb/visx)
    - [floating-ui](https://floating-ui.com/)
    - [fullcalendar](https://fullcalendar.io/)

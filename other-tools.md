@@ -104,12 +104,13 @@
 - ### Rust
 
 1. [Tauri](https://github.com/tauri-apps/tauri)
-2. [Slint](https://github.com/slint-ui/slint)
-3. [Druid](https://github.com/linebender/druid)
-4. [EGUI](https://github.com/emilk/egui)
-5. [Iced](https://github.com/iced-rs/iced)
-6. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
-7. [Dioxus](https://github.com/DioxusLabs/dioxus)
+2. [Pake](https://github.com/tw93/Pake)
+3. [Slint](https://github.com/slint-ui/slint)
+4. [Druid](https://github.com/linebender/druid)
+5. [EGUI](https://github.com/emilk/egui)
+6. [Iced](https://github.com/iced-rs/iced)
+7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
+8. [Dioxus](https://github.com/DioxusLabs/dioxus)
 
 - ### Dart
 
