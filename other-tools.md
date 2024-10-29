@@ -17,10 +17,10 @@
 # Code Editors
 
 1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/zed) - [Atom](https://github.com/atom/atom) - [Pulsar](https://github.com/pulsar-edit/pulsar) - [Atom Community](https://github.com/atom-community/atom) - [Sublime Text](https://www.sublimetext.com/)
-2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite)
+2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite)
 3. [Cursor](https://github.com/getcursor/cursor) - [Gitpod](https://github.com/gitpod-io/gitpod) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
 4. [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [NvChad](https://github.com/NvChad/NvChad) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [LunarVim](https://github.com/LunarVim/LunarVim) - [SpaceVim](https://gitlab.com/SpaceVim/SpaceVim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [kakoune](https://github.com/mawww/kakoune)
-5. [Helix](https://github.com/helix-editor/helix) - [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [tmux](https://github.com/tmux/tmux)
+5. [Helix](https://github.com/helix-editor/helix) - [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [tmux](https://github.com/tmux/tmux) - [Moe](https://github.com/fox0430/moe)
 6. [Luthetus.Ide](https://github.com/Luthetus/Luthetus.Ide) - [MonoDevelop](https://github.com/mono/monodevelop) - [Komodo Edit](https://github.com/Komodo/KomodoEdit) - [Open Komodo IDE](https://github.com/ActiveState/OpenKomodoIDE)
 7. [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor) - [focus](https://github.com/focus-editor/focus)
 8. [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
@@ -112,22 +112,16 @@
 7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
 8. [Dioxus](https://github.com/DioxusLabs/dioxus)
 
-- ### Dart
-
-1. [Flutter](https://github.com/flutter/flutter)
-
-- ### Haxe
-
-1. [Haxe](https://github.com/HaxeFoundation/haxe)
-
-- ### Kotlin
-
-1. [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
-
 - ### GO
 
 1. [Muon](https://github.com/ImVexed/muon)
 2. [Wails](https://github.com/wailsapp/wails)
+
+- ### Dart - [Flutter](https://github.com/flutter/flutter)
+
+- ### Haxe - [Haxe](https://github.com/HaxeFoundation/haxe)
+
+- ### Kotlin - [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 # Other Repos
 
