@@ -4296,7 +4296,8 @@ public class WeatherController: Controller
   - [I❤️.NET](https://ilovedotnet.org/)
   - [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech/videos)
   - [Nick Chapsas](https://www.youtube.com/@nickchapsas/videos)
-  - [ Patrick God](https://www.youtube.com/@PatrickGod/videos)
+  - [Patrick God](https://www.youtube.com/@PatrickGod/videos)
+  - [Netcode-Hub](https://www.youtube.com/@Netcode-Hub/videos)
 
 # MongoDb
 
