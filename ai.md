@@ -11,19 +11,28 @@
 
 # 🤖AI🤖
 
-- ## AI-powered software development platform
+- ## AI-Powered Software Development Platform-IDE
 
-  1. [Replit](https://replit.com/)
-  2. [Devin AI](https://preview.devin.ai/)
-  3. [Cursor](https://www.cursor.com/)
-  4. [Windsurf](https://codeium.com/windsurf)
+  1. [V0](https://v0.dev/)
+  2. [Bolt](https://bolt.new/)
+  3. [Replit](https://replit.com/)
+  4. [Devin AI](https://preview.devin.ai/)
+  5. [Cursor](https://www.cursor.com/)
+  6. [Windsurf](https://codeium.com/windsurf)
+  7. [Aide](https://aide.dev/)
+  8. [Supermaven](https://supermaven.com/)
 
 - ## Chat GPT Alternative
 
-  1. [Bai Chat](https://chatbot.theb.ai)
-  2. [HuggingChat](https://huggingface.co/chat/)
-  3. [You](https://you.com/)
-  4. [Ora AI](https://ora.ai/)
+  1. [Gemini](https://gemini.google.com/)
+  2. [Copilot](https://copilot.microsoft.com/)
+  3. [Claude](https://claude.ai/)
+  4. [Perplexity](https://www.perplexity.ai/)
+  5. [Zapier](https://zapier.com/central)
+  6. [Bai Chat](https://chatbot.theb.ai)
+  7. [You](https://you.com/)
+  8. [HuggingChat](https://huggingface.co/chat/)
+  9. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
