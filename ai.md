@@ -22,14 +22,14 @@
   7. [Aide](https://aide.dev/)
   8. [Supermaven](https://supermaven.com/)
 
-- ## Chat GPT Alternative
+- ## [Chat GPT](https://chatgpt.com/) Alternative
 
   1. [Gemini](https://gemini.google.com/)
   2. [Copilot](https://copilot.microsoft.com/)
-  3. [Claude](https://claude.ai/)
-  4. [Perplexity](https://www.perplexity.ai/)
-  5. [Zapier](https://zapier.com/central)
-  6. [Bai Chat](https://chatbot.theb.ai)
+  3. [Bai Chat](https://chatbot.theb.ai)
+  4. [Claude](https://claude.ai/)
+  5. [Perplexity](https://www.perplexity.ai/)
+  6. [Zapier](https://zapier.com/central)
   7. [You](https://you.com/)
   8. [HuggingChat](https://huggingface.co/chat/)
   9. [Ora AI](https://ora.ai/)
