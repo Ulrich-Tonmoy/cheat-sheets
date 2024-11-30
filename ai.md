@@ -19,8 +19,9 @@
   4. [Devin AI](https://preview.devin.ai/)
   5. [Cursor](https://www.cursor.com/)
   6. [Windsurf](https://codeium.com/windsurf)
-  7. [Aide](https://aide.dev/)
-  8. [Supermaven](https://supermaven.com/)
+  7. [Marscode](https://www.marscode.com/)
+  8. [Aide](https://aide.dev/)
+  9. [Supermaven](https://supermaven.com/)
 
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
