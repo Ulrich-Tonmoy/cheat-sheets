@@ -11,7 +11,7 @@
 
 # 🤖AI🤖
 
-- ## AI-Powered Software Development Platform-IDE
+- ## AI-Powered Software Development Platform/IDE
 
   1. [V0](https://v0.dev/)
   2. [Bolt](https://bolt.new/)
@@ -19,9 +19,10 @@
   4. [Devin AI](https://preview.devin.ai/)
   5. [Cursor](https://www.cursor.com/)
   6. [Windsurf](https://codeium.com/windsurf)
-  7. [Marscode](https://www.marscode.com/)
-  8. [Aide](https://aide.dev/)
-  9. [Supermaven](https://supermaven.com/)
+  7. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  8. [Marscode](https://www.marscode.com/)
+  9. [Aide](https://aide.dev/)
+  10. [Supermaven](https://supermaven.com/)
 
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
