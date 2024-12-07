@@ -100,7 +100,7 @@ Linux:
 }
 ```
 
-8. Copy and paste the css inside of the [`codingphase-style.css`](./assets/workspace/vs-code/codingphase-style.css) file and replace the styles inside the `synthWaveStyles.css` file
+8. Copy and paste the css inside of the [`codingphase-style.txt`](./assets/workspace/vs-code/codingphase-style.txt) file and replace the styles inside the `synthWaveStyles.css` file
 
 # Creating VS Code Snippets
 
