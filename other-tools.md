@@ -16,29 +16,29 @@
 
 # Code Editors
 
+0. [AI Editors](./ai.md#ai-powered-software-development-platformide)
 1. [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/zed) - [Atom](https://github.com/atom/atom) - [Pulsar](https://github.com/pulsar-edit/pulsar) - [Atom Community](https://github.com/atom-community/atom) - [Sublime Text](https://www.sublimetext.com/)
-2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite)
-3. [Cursor](https://github.com/getcursor/cursor) - [Gitpod](https://github.com/gitpod-io/gitpod) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
-4. [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [NvChad](https://github.com/NvChad/NvChad) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [LunarVim](https://github.com/LunarVim/LunarVim) - [SpaceVim](https://gitlab.com/SpaceVim/SpaceVim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [kakoune](https://github.com/mawww/kakoune)
-5. [Helix](https://github.com/helix-editor/helix) - [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [tmux](https://github.com/tmux/tmux) - [Moe](https://github.com/fox0430/moe)
-6. [Luthetus.Ide](https://github.com/Luthetus/Luthetus.Ide) - [MonoDevelop](https://github.com/mono/monodevelop) - [Komodo Edit](https://github.com/Komodo/KomodoEdit) - [Open Komodo IDE](https://github.com/ActiveState/OpenKomodoIDE)
-7. [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor) - [focus](https://github.com/focus-editor/focus)
-8. [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
-9. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor)
-10. [Monaco Editor](https://github.com/microsoft/monaco-editor) - [React Monaco Editor](https://github.com/react-monaco-editor/react-monaco-editor) - [Monaco Editor React](https://github.com/suren-atoyan/monaco-react) - [overleaf](https://github.com/overleaf/overleaf)
+2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
+3. [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [NvChad](https://github.com/NvChad/NvChad) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [LunarVim](https://github.com/LunarVim/LunarVim) - [SpaceVim](https://gitlab.com/SpaceVim/SpaceVim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [kakoune](https://github.com/mawww/kakoune)
+4. [Helix](https://github.com/helix-editor/helix) - [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [tmux](https://github.com/tmux/tmux) - [Moe](https://github.com/fox0430/moe)
+5. [Luthetus.Ide](https://github.com/Luthetus/Luthetus.Ide) - [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
+6. [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor) - [focus](https://github.com/focus-editor/focus)
+7. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor)
+8. [Monaco Editor](https://github.com/microsoft/monaco-editor) - [React Monaco Editor](https://github.com/react-monaco-editor/react-monaco-editor) - [Monaco Editor React](https://github.com/suren-atoyan/monaco-react) - [overleaf](https://github.com/overleaf/overleaf)
 
 # Code Editors(Archive)
 
-1. [oni2](https://github.com/onivim/oni2) - [Ox editor](https://github.com/curlpipe/ox) - [zee](https://github.com/zee-editor/zee) - [vim.wasm](https://github.com/rhysd/vim.wasm)
-2. [Rust ❤️ Emacs](https://github.com/remacs/remacs) - [slap](https://github.com/slap-editor/slap)
-3. [howl](https://github.com/howl-editor/howl) - [LightTable](https://github.com/LightTable/LightTable)
-4. [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)
-5. [TextMate](https://github.com/textmate/textmate)
-6. [Xi editor](https://github.com/xi-editor/xi-editor)
-7. [Text editor](https://github.com/JonSeijo/text-editor)
-8. [Brackets](https://github.com/brackets-cont/brackets) - [brackets](https://github.com/adobe/brackets)
-9. [LimeText](https://github.com/limetext/lime) - [LimeText](https://github.com/limetext/backend)
-10. [alm](https://github.com/alm-tools/alm) - [zed](https://github.com/zedapp/zed) - [Caret](https://github.com/thomaswilburn/Caret)
+1. [MonoDevelop](https://github.com/mono/monodevelop) - [Komodo Edit](https://github.com/Komodo/KomodoEdit) - [Open Komodo IDE](https://github.com/ActiveState/OpenKomodoIDE)
+2. [oni2](https://github.com/onivim/oni2) - [Ox editor](https://github.com/curlpipe/ox) - [zee](https://github.com/zee-editor/zee) - [vim.wasm](https://github.com/rhysd/vim.wasm)
+3. [Rust ❤️ Emacs](https://github.com/remacs/remacs) - [slap](https://github.com/slap-editor/slap)
+4. [howl](https://github.com/howl-editor/howl) - [LightTable](https://github.com/LightTable/LightTable)
+5. [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)
+6. [TextMate](https://github.com/textmate/textmate)
+7. [Xi editor](https://github.com/xi-editor/xi-editor)
+8. [Text editor](https://github.com/JonSeijo/text-editor)
+9. [Brackets](https://github.com/brackets-cont/brackets) - [brackets](https://github.com/adobe/brackets)
+10. [LimeText](https://github.com/limetext/lime) - [LimeText](https://github.com/limetext/backend)
+11. [alm](https://github.com/alm-tools/alm) - [zed](https://github.com/zedapp/zed) - [Caret](https://github.com/thomaswilburn/Caret)
 
 # Note-taking Apps
 
