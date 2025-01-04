@@ -13,6 +13,7 @@
 - [nvm windows](https://github.com/coreybutler/nvm-windows) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/)
 - [Tor](https://www.torproject.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Brave](https://brave.com/) - [Opera](https://www.opera.com/) - [Arc](https://arc.net/) - [Zen](https://www.zen-browser.app/) - [Ladybird](https://ladybird.org/) - [Servo](https://servo.org/)
 - [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/)
+- [TinyTask](https://tinytask.net/)
 
 - ## MS 365
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
