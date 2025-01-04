@@ -27,7 +27,7 @@
 
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
-  1. [Gemini](https://gemini.google.com/)
+  1. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
   2. [Copilot](https://copilot.microsoft.com/)
   3. [Bai Chat](https://chatbot.theb.ai)
   4. [Claude](https://claude.ai/)
