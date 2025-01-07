@@ -54,74 +54,67 @@
 
 # Native App Framework
 
-- ### C#
-
-1. [Godot](https://github.com/godotengine/godot)
-2. [.NET MAUI](https://github.com/dotnet/maui)
-3. [WPF](https://github.com/dotnet/wpf)
-4. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
-5. [Uno](https://github.com/unoplatform/uno)
-
-- ### C/C++
-
-1. [ImGui](https://github.com/ocornut/imgui)
-2. [Qt Base](https://github.com/qt/qtbase)
-3. [GTK](https://github.com/GNOME/gtk) - [GTK](https://gitlab.gnome.org/GNOME/gtk)
-4. [gtkmm](https://github.com/GNOME/gtkmm) - [gtkmm](https://gitlab.gnome.org/GNOME/gtkmm)
-5. [Ultralight](https://github.com/ultralight-ux/Ultralight)
-6. [wxWidgets](https://github.com/wxWidgets/wxWidgets)
-7. [FLTK](https://github.com/fltk/fltk)
-8. [U++](https://github.com/ultimatepp/ultimatepp)
-9. [SFML](https://github.com/SFML/SFML)
-10. [JUCE](https://github.com/juce-framework/JUCE)
-11. [webview](https://github.com/webview/webview)
-12. [cegui](https://github.com/cegui/cegui)
-13. [cef](https://bitbucket.org/chromiumembedded/cef/src/master/)
-
-- ### Python
-
-1. [Toga](https://github.com/beeware/toga)
-2. [Flet](https://github.com/flet-dev/flet)
-3. [Kivy](https://github.com/kivy/kivy)
-4. [Phoenix](https://github.com/wxWidgets/Phoenix)
-5. [pywebview](https://github.com/r0x0r/pywebview)
-6. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-7. [Eel](https://github.com/python-eel/Eel)
-8. [abstra](https://github.com/abstra-app/abstra-lib)
-
+- ### XR
+  1. [Lens Studio](https://ar.snap.com/lens-studio)
+  2. [Android Studio](https://developer.android.com/studio)
 - ### JS
-
-1. [React Native](https://github.com/facebook/react-native)
-2. [Tauri](https://github.com/tauri-apps/tauri)
-3. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
-4. [Sciter ](https://github.com/c-smile/sciter-sdk)
-5. [Electron](https://github.com/electron/electron)
-6. [Gluon](https://github.com/gluon-framework/gluon)
-7. [NW.js](https://github.com/nwjs/nw.js)
-8. [NodeGui](https://github.com/nodegui/nodegui)
-9. [Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs)
-
+  1. [React Native](https://github.com/facebook/react-native)
+  2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
+  3. [Tauri](https://github.com/tauri-apps/tauri)
+  4. [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
+  5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
+  6. [Sciter ](https://github.com/c-smile/sciter-sdk)
+  7. [Gluon](https://github.com/gluon-framework/gluon)
+  8. [NW.js](https://github.com/nwjs/nw.js)
+  9. [NodeGui](https://github.com/nodegui/nodegui)
+  10. [Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs)
+- ### C#
+  1. [Godot](https://github.com/godotengine/godot)
+  2. [.NET MAUI](https://github.com/dotnet/maui)
+  3. [WPF](https://github.com/dotnet/wpf)
+  4. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+  5. [Uno](https://github.com/unoplatform/uno)
+- ### C/C++
+  1. [ImGui](https://github.com/ocornut/imgui)
+  2. [Qt Base](https://github.com/qt/qtbase)
+  3. [GTK](https://github.com/GNOME/gtk) - [GTK](https://gitlab.gnome.org/GNOME/gtk)
+  4. [gtkmm](https://github.com/GNOME/gtkmm) - [gtkmm](https://gitlab.gnome.org/GNOME/gtkmm)
+  5. [Ultralight](https://github.com/ultralight-ux/Ultralight)
+  6. [wxWidgets](https://github.com/wxWidgets/wxWidgets)
+  7. [FLTK](https://github.com/fltk/fltk)
+  8. [U++](https://github.com/ultimatepp/ultimatepp)
+  9. [SFML](https://github.com/SFML/SFML)
+  10. [JUCE](https://github.com/juce-framework/JUCE)
+  11. [webview](https://github.com/webview/webview)
+  12. [cegui](https://github.com/cegui/cegui)
+  13. [cef](https://bitbucket.org/chromiumembedded/cef/src/master/)
+- ### Python
+  1. [Toga](https://github.com/beeware/toga)
+  2. [Flet](https://github.com/flet-dev/flet)
+  3. [Kivy](https://github.com/kivy/kivy)
+  4. [Phoenix](https://github.com/wxWidgets/Phoenix)
+  5. [pywebview](https://github.com/r0x0r/pywebview)
+  6. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+  7. [Eel](https://github.com/python-eel/Eel)
+  8. [abstra](https://github.com/abstra-app/abstra-lib)
 - ### Rust
-
-1. [Tauri](https://github.com/tauri-apps/tauri)
-2. [Pake](https://github.com/tw93/Pake)
-3. [Slint](https://github.com/slint-ui/slint)
-4. [Druid](https://github.com/linebender/druid)
-5. [EGUI](https://github.com/emilk/egui)
-6. [Iced](https://github.com/iced-rs/iced)
-7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
-8. [Dioxus](https://github.com/DioxusLabs/dioxus)
-
+  1. [Tauri](https://github.com/tauri-apps/tauri)
+  2. [Pake](https://github.com/tw93/Pake)
+  3. [Slint](https://github.com/slint-ui/slint)
+  4. [Druid](https://github.com/linebender/druid)
+  5. [EGUI](https://github.com/emilk/egui)
+  6. [Iced](https://github.com/iced-rs/iced)
+  7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
+  8. [Dioxus](https://github.com/DioxusLabs/dioxus)
 - ### GO
-
-1. [Muon](https://github.com/ImVexed/muon)
-2. [Wails](https://github.com/wailsapp/wails)
-
-- ### Dart - [Flutter](https://github.com/flutter/flutter)
-
-- ### Haxe - [Haxe](https://github.com/HaxeFoundation/haxe)
-
-- ### Kotlin - [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
+  1. [Muon](https://github.com/ImVexed/muon)
+  2. [Wails](https://github.com/wailsapp/wails)
+- ### Dart
+  1. [Flutter](https://github.com/flutter/flutter)
+- ### Haxe
+  1. [Haxe](https://github.com/HaxeFoundation/haxe)
+- ### Kotlin
+  1. [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 # Other Repos
 
