@@ -278,7 +278,7 @@
 
 - ## Icons
 
-  1. [techicons](https://techicons.dev/) - [macosicongallery](https://www.macosicongallery.com/)
+  1. [techicons](https://techicons.dev/) - [macosicongallery](https://www.macosicongallery.com/) - [macosicons](https://macosicons.com/)
   2. [feathericons](https://feathericons.com/)
   3. [iconify](https://icon-sets.iconify.design/)
   4. [lordicon](https://lordicon.com/)
