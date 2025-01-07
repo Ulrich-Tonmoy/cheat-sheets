@@ -353,6 +353,7 @@
   5. [Mesh (3d)](https://www.mesh.ai/)
   6. [Sloyd (3D)](https://www.sloyd.ai/)
   7. [Rodin](https://hyperhuman.deemos.com/rodin)
+  8. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
 
 - ## Game Audio
 
