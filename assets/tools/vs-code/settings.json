@@ -1,0 +1,21 @@
+{
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Tonmoy/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+  ],
+  "workbench.colorTheme": "Outrun Electric Meets Synthwave",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontWeight": "normal",
+  "terminal.external.linuxExec": "iterm",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "terminal.integrated.fontSize": 16,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block-outline",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true
+}
