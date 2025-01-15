@@ -31,7 +31,7 @@
   2. [Copilot](https://copilot.microsoft.com/)
   3. [Bai Chat](https://chatbot.theb.ai)
   4. [Claude](https://claude.ai/)
-  5. [Perplexity](https://www.perplexity.ai/)
+  5. [Perplexity](https://www.perplexity.ai/) For Search or Research
   6. [Zapier](https://zapier.com/central)
   7. [You](https://you.com/)
   8. [HuggingChat](https://huggingface.co/chat/)
