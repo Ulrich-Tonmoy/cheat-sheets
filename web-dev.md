@@ -485,6 +485,7 @@
    - [React Suite](https://rsuitejs.com/)
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
+   - [21st.dev](https://21st.dev/)
 9. #### Other UI libs
    - [player](https://player.style/) Video and audio player themes built with Media Chrome
    - [uiverse](https://uiverse.io/buttons) Button designs
