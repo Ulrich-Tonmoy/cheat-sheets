@@ -17,13 +17,14 @@
   2. [Bolt](https://bolt.new/)
   3. [Replit](https://replit.com/)
   4. [Devin AI](https://preview.devin.ai/)
-  5. [Cursor](https://www.cursor.com/)
-  6. [Windsurf](https://codeium.com/windsurf)
-  7. [PearAI](https://trypear.ai/)
-  8. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  9. [Marscode](https://www.marscode.com/)
-  10. [Aide](https://aide.dev/)
-  11. [Supermaven](https://supermaven.com/)
+  5. [Trae](https://www.trae.ai/)
+  6. [Cursor](https://www.cursor.com/)
+  7. [Windsurf](https://codeium.com/windsurf)
+  8. [PearAI](https://trypear.ai/)
+  9. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  10. [Marscode](https://www.marscode.com/)
+  11. [Aide](https://aide.dev/)
+  12. [Supermaven](https://supermaven.com/)
 
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
