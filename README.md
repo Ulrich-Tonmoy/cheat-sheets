@@ -14,7 +14,7 @@
 1. [Puter (Desktop in Browser)](https://puter.com/) - [daedalOS](https://dustinbrett.com/) - [Geek Typer](https://geektyper.com/) - [whitescreen](https://www.whitescreen.online/)
 2. [opensourcealternative](https://www.opensourcealternative.to/) - [alternativeto](https://alternativeto.net/) - [ToolFinder](https://toolfinder.co/) - [thenextaitool](https://thenextaitool.com/)
 3. [OpenSauced](https://app.opensauced.pizza/) - [Code Finder](https://codefinder.dev/) - [Search Anime by Image](https://trace.moe/)
-4. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [plrank](https://plrank.com/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [PYPL](https://pypl.github.io/PYPL.html)
+4. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [plangs](https://plangs.page/) - [languish](https://tjpalmer.github.io/languish/) - [plrank](https://plrank.com/) - [PYPL](https://pypl.github.io/PYPL.html)
 5. [witeboard](https://witeboard.com/) - [tldraw](https://www.tldraw.com/) - [excalidraw](https://excalidraw.com/) - [mermaid](https://mermaid.live/) - [Tiermaker](https://tiermaker.com/) - [Diagram](https://app.dgrm.net/)
 6. [Snapdrop](https://snapdrop.net/) - [Sharedrop.me](https://sharedrop.me/) - [Sharedrop.io](https://www.sharedrop.io/)
 7. [temp mail](https://temp-mail.org/) - [yop mail](https://yopmail.com/) - [temporary-phone-number](https://anonymsms.com/temporary-phone-number/)
