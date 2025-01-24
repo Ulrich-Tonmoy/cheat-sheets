@@ -89,6 +89,26 @@
 | Accessibility                           | :wheelchair: `:wheelchair:`                               |
 | Move/rename repository                  | :truck: `:truck:`                                         |
 
+## Rewrite Git History
+
+- Open your `.gitconfig` file in `C:\Users\<user name>\.gitconfig`
+- Paste the bellow file at the end to make `notepad++` as your default editor for git
+  ```properties
+  [core]
+  editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar
+  ```
+- Then open your local repository in terminal and run bellow command
+  ```properties
+  git checkout main
+  git rebase -i --root
+  ```
+- It will open the commit history in `notepad++`
+- Remove the commit you want to remove or sort then close the file
+- Then run the below command in the terminal
+  ```properties
+  git push --force
+  ```
+
 ## Cache clear
 
 - If after adding .env to gitignore still it gets added to the commit then try this command <br/>
