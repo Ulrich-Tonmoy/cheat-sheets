@@ -583,6 +583,7 @@
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
 19. #### Testing
+    - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
