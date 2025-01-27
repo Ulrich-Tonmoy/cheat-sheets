@@ -43,6 +43,7 @@
       - [HTTP](#http)
       - [Date Time](#date-time)
       - [Internationalization](#internationalization)
+      - [Rendering Performance](#rendering-performance)
       - [Testing](#testing)
       - [Documentation](#documentation)
       - [Type Checking](#type-checking)
@@ -582,30 +583,32 @@
 18. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-19. #### Testing
+19. #### Rendering Performance
+    - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
+    - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
+20. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-20. #### Documentation
+21. #### Documentation
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-21. #### Type Checking
+22. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-22. #### Mobile and Desktop Apps
+23. #### Mobile and Desktop Apps
     - [Tauri](https://tauri.app/)
     - [React Native](https://reactnative.dev/)
     - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
     - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
     - [nativescript](https://nativescript.org/)
-23. #### Other Libraries
+24. #### Other Libraries
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
     - [Storybook](https://storybook.js.org/) Build UIs without the grunt work.
     - [copilotkit](https://www.copilotkit.ai/) CopilotKit is the simplest way to integrate production-ready Copilots into any product.
-    - [million](https://million.dev/) Speed up your website by 70%.
     - [avvvatars](https://avvvatars.com/) Free UI Avatars for Your Next Project.
     - [Supabase](https://supabase.com/) Supabase is an open source Firebase alternative.
     - [appwrite](https://appwrite.io/) Add Authentication, Databases, Functions, Storage, and Messaging to your projects using the frameworks and languages of your choice.
@@ -615,7 +618,7 @@
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [craft.js](https://github.com/prevwong/craft.js) A React Framework for building extensible drag and drop page editors.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-24. #### DevTools
+25. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
