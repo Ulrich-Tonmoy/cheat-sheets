@@ -1,5 +1,6 @@
 - [AI](#ai)
 
+  - [AI-Powered Software Development Platform/IDE](#ai-powered-software-development-platformide)
   - [Chat GPT Alternative](#chat-gpt-alternative)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Image Video Audio Gen Tools](#image-video-audio-gen-tools)
@@ -17,14 +18,17 @@
   2. [Bolt](https://bolt.new/)
   3. [Replit](https://replit.com/)
   4. [Devin AI](https://preview.devin.ai/)
-  5. [Trae](https://www.trae.ai/)
-  6. [Cursor](https://www.cursor.com/)
-  7. [Windsurf](https://codeium.com/windsurf)
-  8. [PearAI](https://trypear.ai/)
-  9. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  10. [Marscode](https://www.marscode.com/)
-  11. [Aide](https://aide.dev/)
-  12. [Supermaven](https://supermaven.com/)
+  5. [Blackbox](https://www.blackbox.ai/)
+  6. [Lovable](https://lovable.dev/)
+  7. [Cursor](https://www.cursor.com/)
+  8. [Windsurf](https://codeium.com/windsurf)
+  9. [Trae](https://www.trae.ai/)
+  10. [Supermaven](https://supermaven.com/)
+  11. [PearAI](https://trypear.ai/)
+  12. [Marscode](https://www.marscode.com/)
+  13. [Aide](https://aide.dev/)
+  14. [Qodo](https://www.qodo.ai/)
+  15. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
 
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
