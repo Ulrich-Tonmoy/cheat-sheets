@@ -48,6 +48,7 @@
       - [Documentation](#documentation)
       - [Type Checking](#type-checking)
       - [Mobile and Desktop Apps](#mobile-and-desktop-apps)
+      - [Visual Editors](#visual-editors)
       - [Other Libraries](#other-libraries)
       - [DevTools](#devtools)
     - [Folder Structure](#folder-structure)
@@ -604,7 +605,11 @@
     - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
     - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
     - [nativescript](https://nativescript.org/)
-24. #### Other Libraries
+24. #### Visual Editors
+    - [Onlook](https://github.com/onlook-dev/onlook)
+    - [Codux](https://www.codux.com/)
+    - [Framer](https://www.framer.com/)
+25. #### Other Libraries
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
     - [Storybook](https://storybook.js.org/) Build UIs without the grunt work.
@@ -618,7 +623,7 @@
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [craft.js](https://github.com/prevwong/craft.js) A React Framework for building extensible drag and drop page editors.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-25. #### DevTools
+26. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
