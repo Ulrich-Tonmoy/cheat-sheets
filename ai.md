@@ -3,6 +3,7 @@
   - [AI-Powered Software Development Platform/IDE](#ai-powered-software-development-platformide)
   - [Chat GPT Alternative](#chat-gpt-alternative)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
+  - [Locally Running LLM](#locally-running-llm)
   - [Image Video Audio Gen Tools](#image-video-audio-gen-tools)
   - [Useful Use Cases of ChatGPT](#useful-use-cases-of-chatgpt)
   - [Top Free Courses on LLM](#top-free-courses-on-llm)
@@ -51,6 +52,12 @@
   4. [Quora Poe](https://poe.com/)
   5. [Chat LLM Hugging Face](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
   6. [Open Assistant](https://open-assistant.io/)
+
+- ## Locally Running LLM
+
+  1. [LM Studio](https://lmstudio.ai/)
+  2. [ollama](https://ollama.com/)
+  3. [Jan](https://jan.ai/)
 
 - # Image Video Audio Gen Tools
 
