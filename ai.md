@@ -19,8 +19,8 @@
   2. [Bolt](https://bolt.new/)
   3. [Replit](https://replit.com/)
   4. [Devin AI](https://preview.devin.ai/)
-  5. [Blackbox](https://www.blackbox.ai/)
-  6. [Lovable](https://lovable.dev/)
+  5. [Lovable](https://lovable.dev/)
+  6. [Blackbox](https://www.blackbox.ai/)
   7. [Cursor](https://www.cursor.com/)
   8. [Windsurf](https://codeium.com/windsurf)
   9. [Trae](https://www.trae.ai/)
@@ -33,16 +33,17 @@
 
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
-  1. [DeepSeek](https://www.deepseek.com/)
-  2. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
-  3. [Copilot](https://copilot.microsoft.com/)
-  4. [Bai Chat](https://chatbot.theb.ai)
-  5. [Claude](https://claude.ai/)
-  6. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  7. [Zapier](https://zapier.com/central)
-  8. [You](https://you.com/)
-  9. [HuggingChat](https://huggingface.co/chat/)
-  10. [Ora AI](https://ora.ai/)
+  1. [Qwen](https://chat.qwenlm.ai/)
+  2. [DeepSeek](https://www.deepseek.com/)
+  3. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
+  4. [Copilot](https://copilot.microsoft.com/)
+  5. [Bai Chat](https://chatbot.theb.ai)
+  6. [Claude](https://claude.ai/)
+  7. [Perplexity](https://www.perplexity.ai/) For Search or Research
+  8. [Zapier](https://zapier.com/central)
+  9. [You](https://you.com/)
+  10. [HuggingChat](https://huggingface.co/chat/)
+  11. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
