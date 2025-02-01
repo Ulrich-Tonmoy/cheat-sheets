@@ -114,4 +114,7 @@
 15. [WorkingNomads](https://www.workingnomads.com/jobs)
 16. [tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
 
-- [markdown-resume maker](https://www.junian.dev/markdown-resume/)
+# 🔗Markdown Resumer Maker🔗
+
+- [markdown-resume](https://www.junian.dev/markdown-resume/)
+- [ohmycv](https://ohmycv.app/)
