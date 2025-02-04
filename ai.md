@@ -34,7 +34,7 @@
 - ## [Chat GPT](https://chatgpt.com/) Alternative
 
   1. [Qwen](https://chat.qwenlm.ai/)
-  2. [DeepSeek](https://www.deepseek.com/)
+  2. [DeepSeek](https://www.deepseek.com/) - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
   3. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
   4. [Copilot](https://copilot.microsoft.com/)
   5. [Bai Chat](https://chatbot.theb.ai)
