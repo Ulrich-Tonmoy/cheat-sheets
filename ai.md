@@ -1,7 +1,7 @@
 - [AI](#ai)
 
   - [AI-Powered Software Development Platform/IDE](#ai-powered-software-development-platformide)
-  - [Chat GPT Alternative](#chat-gpt-alternative)
+  - [Chat AI](#chat-ai)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
   - [Image Video Audio Gen Tools](#image-video-audio-gen-tools)
@@ -14,7 +14,6 @@
 # 🤖AI🤖
 
 - ## AI-Powered Software Development Platform/IDE
-
   1. [V0](https://v0.dev/)
   2. [Bolt](https://bolt.new/)
   3. [Replit](https://replit.com/)
@@ -30,20 +29,20 @@
   13. [Aide](https://aide.dev/)
   14. [Qodo](https://www.qodo.ai/)
   15. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- ## Chat AI
 
-- ## [Chat GPT](https://chatgpt.com/) Alternative
-
-  1. [Qwen](https://chat.qwenlm.ai/)
-  2. [DeepSeek](https://www.deepseek.com/) - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-  3. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
-  4. [Copilot](https://copilot.microsoft.com/)
-  5. [Bai Chat](https://chatbot.theb.ai)
-  6. [Claude](https://claude.ai/)
-  7. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  8. [Zapier](https://zapier.com/central)
-  9. [You](https://you.com/)
-  10. [HuggingChat](https://huggingface.co/chat/)
-  11. [Ora AI](https://ora.ai/)
+  1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
+  2. [Qwen](https://chat.qwenlm.ai/)
+  3. [DeepSeek](https://www.deepseek.com/) - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+  4. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
+  5. [Copilot](https://copilot.microsoft.com/)
+  6. [Bai Chat](https://chatbot.theb.ai)
+  7. [Claude](https://claude.ai/)
+  8. [Perplexity](https://www.perplexity.ai/) For Search or Research
+  9. [Zapier](https://zapier.com/central)
+  10. [You](https://you.com/)
+  11. [HuggingChat](https://huggingface.co/chat/)
+  12. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
