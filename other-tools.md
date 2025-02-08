@@ -333,7 +333,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
   2. [Android Studio](https://developer.android.com/studio)
 - ### JS
   1. [React Native](https://github.com/facebook/react-native) - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
-  2. [Tauri](https://github.com/tauri-apps/tauri) - [Bevy Tauri Example](https://github.com/sunxfancy/BevyTauriExample)
+  2. [Tauri](https://github.com/tauri-apps/tauri)
   3. [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
   4. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
   5. [NW.js](https://github.com/nwjs/nw.js)
