@@ -1,6 +1,7 @@
 - [AI](#ai)
 
-  - [AI-Powered Software Development Platform/IDE](#ai-powered-software-development-platformide)
+  - [AI Web Editor Platform](#ai-web-editor-platform)
+  - [AI Editors](#ai-editors)
   - [Chat AI](#chat-ai)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
@@ -13,22 +14,31 @@
 
 # 🤖AI🤖
 
-- ## AI-Powered Software Development Platform/IDE
+- ## AI Web Editor Platform
   1. [V0](https://v0.dev/)
   2. [Bolt](https://bolt.new/)
   3. [Replit](https://replit.com/)
   4. [Devin AI](https://preview.devin.ai/)
   5. [Lovable](https://lovable.dev/)
   6. [Blackbox](https://www.blackbox.ai/)
-  7. [Cursor](https://www.cursor.com/)
-  8. [Windsurf](https://codeium.com/windsurf)
-  9. [Trae](https://www.trae.ai/)
-  10. [Supermaven](https://supermaven.com/)
-  11. [PearAI](https://trypear.ai/)
-  12. [Marscode](https://www.marscode.com/)
-  13. [Aide](https://aide.dev/)
-  14. [Qodo](https://www.qodo.ai/)
-  15. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  7. [Softgen](https://softgen.ai/)
+  8. [Project IDX](https://idx.dev/)
+  9. [Tempo Labs](https://www.tempolabs.ai/)
+  10. [Wrapifai](https://wrapifai.com/)
+  11. [Databutton](https://databutton.com/)
+  12. [webdraw](https://webdraw.com/)
+- ## AI Editors
+  1. [Cursor](https://www.cursor.com/)
+  2. [Windsurf](https://codeium.com/windsurf)
+  3. [Trae](https://www.trae.ai/)
+  4. [PearAI](https://trypear.ai/)
+  5. [Supermaven](https://supermaven.com/)
+  6. [Marscode](https://www.marscode.com/)
+  7. [Aide](https://aide.dev/)
+  8. [Qodo](https://www.qodo.ai/)
+  9. [Continue](https://www.continue.dev/)
+  10. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  11. [MarsX](https://marsx.dev/)
 - ## Chat AI
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
