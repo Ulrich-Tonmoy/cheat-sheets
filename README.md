@@ -11,7 +11,7 @@
 
 # 🔗Other Tools Link🔗
 
-1. [Puter (Desktop in Browser)](https://puter.com/) - [daedalOS](https://dustinbrett.com/) - [Geek Typer](https://geektyper.com/) - [whitescreen](https://www.whitescreen.online/)
+1. [Puter (Desktop in Browser)](https://puter.com/) - [daedalOS](https://dustinbrett.com/) - [Geek Typer](https://geektyper.com/) - [whitescreen](https://www.whitescreen.online/) - [ZTYPE](https://zty.pe/)
 2. [opensourcealternative](https://www.opensourcealternative.to/) - [alternativeto](https://alternativeto.net/) - [ToolFinder](https://toolfinder.co/) - [thenextaitool](https://thenextaitool.com/)
 3. [OpenSauced](https://app.opensauced.pizza/) - [Code Finder](https://codefinder.dev/) - [Search Anime by Image](https://trace.moe/) - [Tiermaker](https://tiermaker.com/)
 4. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [plangs](https://plangs.page/) - [languish](https://tjpalmer.github.io/languish/) - [plrank](https://plrank.com/) - [PYPL](https://pypl.github.io/PYPL.html)
