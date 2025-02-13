@@ -13,6 +13,7 @@
   - [UI Inspiration for Games](#ui-inspiration-for-games)
   - [3d Modeling APP](#3d-modeling-app)
   - [Online 3d Modeling APP](#online-3d-modeling-app)
+  - [Image to 3D AI](#image-to-3d-ai)
   - [3d Animation APP](#3d-animation-app)
   - [2d Art APP](#2d-art-app)
   - [Online 2d Art APP](#online-2d-art-app)
@@ -208,6 +209,15 @@
   5. [womp](https://womp.com/)
   6. [sculptgl](https://stephaneginier.com/sculptgl/)
 
+- ## Image to 3D AI
+
+  1. [Tripo 3d](https://www.tripo3d.ai/)
+  2. [Rodin 3d](https://hyper3d.ai/)
+  3. [Trellis 3d](https://trellis3d.net/)
+  4. [TRELLIS](https://github.com/microsoft/TRELLIS)
+  5. [fal-ai/trellis](https://fal.ai/models/fal-ai/trellis)
+  6. [huggingface TRELLIS](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
+
 - ## 3d Animation App
 
   1. [Actor Core AUTO RIG](https://actorcore.reallusion.com/)
@@ -359,8 +369,7 @@
   4. [Tensor Art](https://tensor.art/)
   5. [Mesh (3d)](https://www.mesh.ai/)
   6. [Sloyd (3D)](https://www.sloyd.ai/)
-  7. [Rodin](https://hyperhuman.deemos.com/rodin)
-  8. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
+  7. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
 
 - ## Game Audio
 
