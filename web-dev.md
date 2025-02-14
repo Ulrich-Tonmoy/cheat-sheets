@@ -280,26 +280,28 @@
 
   1. [avatars](https://avatars.dicebear.com/)
   2. [avamake](https://avamake.com/)
+  3. [avvvatars](https://avvvatars.com/)
 
 - ## Icons
 
   1. [techicons](https://techicons.dev/) - [macosicongallery](https://www.macosicongallery.com/) - [macosicons](https://macosicons.com/)
   2. [svgl](https://svgl.app/)
-  3. [feathericons](https://feathericons.com/)
-  4. [iconify](https://icon-sets.iconify.design/)
-  5. [lordicon](https://lordicon.com/)
-  6. [flaticon](https://www.flaticon.com/)
-  7. [fontawesome](https://fontawesome.com/icons)
-  8. [iconmonstr](https://iconmonstr.com/)
-  9. [thenounproject](https://thenounproject.com/)
-  10. [icons8](https://icons8.com/)
-  11. [tablericons](https://tablericons.com)
-  12. [heroicons](https://heroicons.com/)
-  13. [boxicons](https://boxicons.com/)
-  14. [getbootstrap](https://icons.getbootstrap.com)
-  15. [svgrepo](https://www.svgrepo.com/)
-  16. [copyicon](https://copyicon.com/)
-  17. [uilogos](https://uilogos.co/)
+  3. [vscode-codicons](https://github.com/microsoft/vscode-codicons)
+  4. [feathericons](https://feathericons.com/)
+  5. [iconify](https://icon-sets.iconify.design/)
+  6. [lordicon](https://lordicon.com/)
+  7. [flaticon](https://www.flaticon.com/)
+  8. [fontawesome](https://fontawesome.com/icons)
+  9. [iconmonstr](https://iconmonstr.com/)
+  10. [thenounproject](https://thenounproject.com/)
+  11. [icons8](https://icons8.com/)
+  12. [tablericons](https://tablericons.com)
+  13. [heroicons](https://heroicons.com/)
+  14. [boxicons](https://boxicons.com/)
+  15. [getbootstrap](https://icons.getbootstrap.com)
+  16. [svgrepo](https://www.svgrepo.com/)
+  17. [copyicon](https://copyicon.com/)
+  18. [uilogos](https://uilogos.co/)
 
 - ## 3d icons
 
@@ -523,7 +525,6 @@
     - [React Slick Carousel](https://react-slick.neostack.com/)
     - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
     - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
-    - [avvvatars](https://avvvatars.com/) Free UI Avatars for Your Next Project.
 12. #### Drag and Drop
     - [dnd kit](https://dndkit.com/)
     - [react-mosaic](https://nomcopter.github.io/react-mosaic//)
