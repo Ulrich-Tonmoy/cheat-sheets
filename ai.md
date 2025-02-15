@@ -35,11 +35,12 @@
   4. [PearAI](https://trypear.ai/)
   5. [Supermaven](https://supermaven.com/)
   6. [Marscode](https://www.marscode.com/)
-  7. [Aide](https://aide.dev/)
-  8. [Qodo](https://www.qodo.ai/)
-  9. [Continue](https://www.continue.dev/)
-  10. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  11. [MarsX](https://marsx.dev/)
+  7. [Cline](https://cline.bot/) - [OpenRouter](https://openrouter.ai/)
+  8. [Aide](https://aide.dev/)
+  9. [Qodo](https://www.qodo.ai/)
+  10. [Continue](https://www.continue.dev/)
+  11. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  12. [MarsX](https://marsx.dev/)
 - ## Chat AI
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
