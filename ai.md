@@ -36,11 +36,12 @@
   5. [Supermaven](https://supermaven.com/)
   6. [Marscode](https://www.marscode.com/)
   7. [Cline](https://cline.bot/) - [OpenRouter](https://openrouter.ai/)
-  8. [Aide](https://aide.dev/)
+  8. [Augment Code](https://www.augmentcode.com/)
   9. [Qodo](https://www.qodo.ai/)
-  10. [Continue](https://www.continue.dev/)
-  11. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  12. [MarsX](https://marsx.dev/)
+  10. [Aide](https://aide.dev/)
+  11. [Continue](https://www.continue.dev/)
+  12. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  13. [MarsX](https://marsx.dev/)
 - ## Chat AI
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
