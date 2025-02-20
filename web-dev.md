@@ -4158,7 +4158,7 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   8. [Drizzle](https://github.com/drizzle-team/drizzle-orm) - [Prisma](https://github.com/prisma/prisma) - [Sequelize](https://github.com/sequelize/sequelize)
   9. [MongoDB](https://github.com/mongodb/mongo) - [Mongoose](https://github.com/Automattic/mongoose)
   10. [SurrealDB](https://github.com/surrealdb/surrealdb)
-  11. [Redis](https://github.com/redis/redis)
+  11. [Redis](https://github.com/redis/redis) - [Dragonfly](https://github.com/dragonflydb/dragonfly)
   12. [CockroachDB](https://github.com/cockroachdb/cockroach)
   13. [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
   14. [Neo4j](https://github.com/neo4j/neo4j)
