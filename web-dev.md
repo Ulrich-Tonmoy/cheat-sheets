@@ -29,8 +29,7 @@
       - [Backend as a Service/Local First DB](#backend-as-a-servicelocal-first-db)
       - [Auth](#auth)
       - [Routing](#routing)
-      - [Client State Management](#client-state-management)
-      - [Server State Management](#server-state-management)
+      - [State Management](#state-management)
       - [Form](#form)
       - [Schema Validator](#schema-validator)
       - [Styling](#styling)
@@ -446,26 +445,25 @@
 4. #### Routing
    - [React Router (Remix)](https://reactrouter.com/en/main)
    - [TanStack Router](https://tanstack.com/router/v1)
-5. #### Client State Management
+5. #### State Management
    - [Redux Toolkit](https://redux-toolkit.js.org/)
    - [Zustand](https://zustand-demo.pmnd.rs/)
    - [Jotai](https://jotai.org/)
    - [mobx](https://mobx.js.org/)
-6. #### Server State Management
-   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
    - [TanStack Query](https://tanstack.com/query/latest)
-   - [swr](https://swr.vercel.app/)
+   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
    - [Apollo Client](https://www.apollographql.com/docs/react/)
-7. #### Form
+   - [swr](https://swr.vercel.app/)
+6. #### Form
    - [React Hook Form](https://react-hook-form.com/)
    - [TanStack Form](https://tanstack.com/form/latest)
    - [Formik](https://formik.org/docs/overview)
-8. #### Schema Validator
+7. #### Schema Validator
    - [Standard Schema](https://standardschema.dev/)
    - [Valibot](https://valibot.dev/)
    - [ArkType](https://arktype.io/)
    - [Zod](https://zod.dev/)
-9. #### Styling
+8. #### Styling
    - [Tailwind CSS](https://tailwindcss.com/)
      - [flowbite](https://flowbite.com/)
      - [Keep React](https://react.keepdesign.io/)
@@ -484,34 +482,34 @@
    - [Simple.css](https://github.com/kevquirk/simple.css)
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
-10. #### UI Component
-    - [shadcn/ui](https://ui.shadcn.com/) - [originui](https://originui.com/)
-    - [magicui](https://magicui.design/docs/installation)
-    - [aceternity](https://ui.aceternity.com/)
-    - [NextUI](https://nextui.org/)
-    - [eldoraui](https://www.eldoraui.site/)
-    - [xyflow](https://www.xyflow.com/) node-based UIs - [Drawflow](https://github.com/jerosoler/Drawflow)
-    - [ark-ui](https://ark-ui.com/)
-    - [headlessui](https://headlessui.com/)
-    - [react-aria](https://react-spectrum.adobe.com/react-aria/)
-    - [radix](https://www.radix-ui.com/)
-    - [ariakit](https://ariakit.org/)
-    - [park-ui](https://park-ui.com/)
-    - [daisyUI](https://daisyui.com/)
-    - [Fluent UI](https://github.com/microsoft/fluentui)
-    - [evergreen](https://evergreen.segment.com/)
-    - [Ant Design](https://ant.design/)
-    - [MUI](https://mui.com/)
-    - [PrimeReact](https://github.com/primefaces/primereact)
-    - [Mantine](https://mantine.dev/)
-    - [Chakra UI](https://chakra-ui.com/)
-    - [React Bootstrap](https://react-bootstrap.github.io/)
-    - [blueprintjs](https://blueprintjs.com/docs/)
-    - [React Suite](https://rsuitejs.com/)
-    - [Gestalt](https://github.com/pinterest/gestalt)
-    - [grommet](https://github.com/grommet/grommet)
-    - [21st.dev](https://21st.dev/)
-11. #### Other UI libs
+9. #### UI Component
+   - [shadcn/ui](https://ui.shadcn.com/) - [originui](https://originui.com/)
+   - [magicui](https://magicui.design/docs/installation)
+   - [aceternity](https://ui.aceternity.com/)
+   - [NextUI](https://nextui.org/)
+   - [eldoraui](https://www.eldoraui.site/)
+   - [xyflow](https://www.xyflow.com/) node-based UIs - [Drawflow](https://github.com/jerosoler/Drawflow)
+   - [ark-ui](https://ark-ui.com/)
+   - [headlessui](https://headlessui.com/)
+   - [react-aria](https://react-spectrum.adobe.com/react-aria/)
+   - [radix](https://www.radix-ui.com/)
+   - [ariakit](https://ariakit.org/)
+   - [park-ui](https://park-ui.com/)
+   - [daisyUI](https://daisyui.com/)
+   - [Fluent UI](https://github.com/microsoft/fluentui)
+   - [evergreen](https://evergreen.segment.com/)
+   - [Ant Design](https://ant.design/)
+   - [MUI](https://mui.com/)
+   - [PrimeReact](https://github.com/primefaces/primereact)
+   - [Mantine](https://mantine.dev/)
+   - [Chakra UI](https://chakra-ui.com/)
+   - [React Bootstrap](https://react-bootstrap.github.io/)
+   - [blueprintjs](https://blueprintjs.com/docs/)
+   - [React Suite](https://rsuitejs.com/)
+   - [Gestalt](https://github.com/pinterest/gestalt)
+   - [grommet](https://github.com/grommet/grommet)
+   - [21st.dev](https://21st.dev/)
+10. #### Other UI libs
     - [player](https://player.style/) Video and audio player themes built with Media Chrome
     - [uiverse](https://uiverse.io/buttons) Button designs
     - [visx](https://github.com/airbnb/visx)
@@ -528,7 +526,7 @@
     - [React Slick Carousel](https://react-slick.neostack.com/)
     - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
     - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
-12. #### Drag and Drop
+11. #### Drag and Drop
     - [dnd kit](https://dndkit.com/)
     - [react-mosaic](https://nomcopter.github.io/react-mosaic//)
     - [swapy](https://swapy.tahazsh.com/)
@@ -538,7 +536,7 @@
     - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
     - [react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree)
     - [Sortable](https://sortablejs.github.io/Sortable/)
-13. #### Animation
+12. #### Animation
     - [react-spring](https://www.react-spring.dev/)
     - [Framer Motion](https://www.framer.com/motion/)
     - [GSAP](https://gsap.com/resources/React/)
@@ -554,7 +552,7 @@
     - [vivus](https://maxwellito.github.io/vivus/)
     - [lottie](https://airbnb.io/lottie/#/)
     - [popmotion](https://popmotion.io/)
-14. #### Data Visualization Chart Table
+13. #### Data Visualization Chart Table
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
@@ -565,14 +563,14 @@
     - [ag-grid](https://www.ag-grid.com/)
     - [tabulator](https://tabulator.info/)
     - [React Virtualized](https://github.com/bvaughn/react-virtualized)
-15. #### PDF Doc
+14. #### PDF Doc
     - [react-pdf](https://react-pdf.org/)
     - [react-pdf](https://projects.wojtekmaj.pl/react-pdf/)
     - [pdfme](https://github.com/pdfme/pdfme)
     - [pdfkit](https://github.com/foliojs/pdfkit)
     - [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
     - [react-doc-viewer](https://github.com/cyntler/react-doc-viewer)
-16. #### Markdown Rich Text Editor
+15. #### Markdown Rich Text Editor
     - [MDXEditor](https://mdxeditor.dev/)
     - [quill](https://quilljs.com/)
     - [platejs](https://platejs.org/)
@@ -583,7 +581,7 @@
     - [tiptap](https://tiptap.dev/)
     - [ckeditor5](https://ckeditor.com/ckeditor-5/)
     - [Muyu](https://github.com/marktext/muya)
-17. #### Tour Guide
+16. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
     - [introjs](https://introjs.com/)
@@ -592,49 +590,49 @@
     - [flows](https://flows.sh/)
     - [shepherdjs](https://shepherdjs.dev/)
     - [bootstraptour](https://bootstraptour.com/)
-18. #### HTTP
+17. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
     - [Ky](https://github.com/sindresorhus/ky)
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
-19. #### Date Time
+18. #### Date Time
     - [luxon](https://moment.github.io/luxon/#/)
     - [dayjs](https://github.com/iamkun/dayjs)
     - [date-fns](https://github.com/date-fns/date-fns)
     - [spacetime](https://github.com/spencermountain/spacetime)
     - [moment](https://github.com/moment/moment/)
-20. #### Internationalization
+19. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-21. #### Rendering Performance
+20. #### Rendering Performance
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
-22. #### Testing
+21. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-23. #### Documentation
+22. #### Documentation
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-24. #### Type Checking
+23. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-25. #### Mobile and Desktop Apps
+24. #### Mobile and Desktop Apps
     - [Tauri](https://tauri.app/)
     - [React Native](https://reactnative.dev/)
     - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
     - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
     - [nativescript](https://nativescript.org/)
-26. #### Visual Editors
+25. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [craft.js](https://github.com/prevwong/craft.js)
-27. #### Other Libraries
+26. #### Other Libraries
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) is a library that enables real-time, bidirectional communication between web clients and servers.
@@ -644,7 +642,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-28. #### DevTools
+27. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
