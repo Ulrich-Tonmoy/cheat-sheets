@@ -45,17 +45,19 @@
 - ## Chat AI
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
-  2. [Qwen](https://chat.qwenlm.ai/)
-  3. [DeepSeek](https://www.deepseek.com/) - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-  4. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
-  5. [Copilot](https://copilot.microsoft.com/)
-  6. [Bai Chat](https://chatbot.theb.ai)
-  7. [Claude](https://claude.ai/)
-  8. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  9. [Zapier](https://zapier.com/central)
-  10. [You](https://you.com/)
-  11. [HuggingChat](https://huggingface.co/chat/)
-  12. [Ora AI](https://ora.ai/)
+  2. [Claude](https://claude.ai/)
+  3. [DeepSeek](https://www.deepseek.com/)
+  4. [Chat GPT](https://chatgpt.com/)
+  5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
+  6. [Qwen](https://chat.qwenlm.ai/)
+  7. [Grok](https://x.ai/)
+  8. [Copilot](https://copilot.microsoft.com/)
+  9. [Bai Chat](https://chatbot.theb.ai)
+  10. [Perplexity](https://www.perplexity.ai/) For Search or Research
+  11. [Zapier](https://zapier.com/central)
+  12. [You](https://you.com/)
+  13. [HuggingChat](https://huggingface.co/chat/)
+  14. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
