@@ -3026,6 +3026,16 @@ p {
 <button className="size-8 bg-red-500 ring-4 ring-green-500">Click</button>
 ```
 
+```js
+// To style the console
+console.log(
+  "%c Demo status: %c loaded ",
+  "background: #ddd; color: #000; padding: 4px; border-radius: 2px",
+  "background: #6f6; color: #000; padding: 4px; border-radius: 2px; margin-left: 1ch",
+);
+// It will make the Demo status white and loaded green background
+```
+
 # JS Snippet
 
 ### Table of Contents
