@@ -17,7 +17,7 @@
 4. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [plangs](https://plangs.page/) - [languish](https://tjpalmer.github.io/languish/) - [plrank](https://plrank.com/) - [PYPL](https://pypl.github.io/PYPL.html)
 5. [witeboard](https://witeboard.com/) - [tldraw](https://www.tldraw.com/) - [excalidraw](https://excalidraw.com/) - [mermaid](https://mermaid.live/) - [Diagram](https://app.dgrm.net/) - [Eraser](https://app.eraser.io/)
 6. [Snapdrop](https://snapdrop.net/) - [Sharedrop.me](https://sharedrop.me/) - [Sharedrop.io](https://www.sharedrop.io/)
-7. [temp mail](https://temp-mail.org/) - [yop mail](https://yopmail.com/) - [temporary-phone-number](https://anonymsms.com/temporary-phone-number/)
+7. [temp-mail](https://temp-mail.org/) - [yopmail](https://yopmail.com/) - [anonymsms](https://anonymsms.com/temporary-phone-number/) - [receive-smss](https://receive-smss.com/) - [receive-sms](https://receive-sms.cc/) - [smstome](https://smstome.com/)
 8. [downloaderto (Video Downloader)](https://downloaderto.com/engf/) - [cobalt (Video Downloader)](https://cobalt.tools/)
 9. [download-directory](https://download-directory.github.io/) - [DownGit](https://downgit.github.io/#/home) - [Github Folder Downloader](https://abdurraahimm.github.io/github-folder-downloader/)
 10. [Webp to Png](https://picflow.com/convert/webp-to-png) - [Jpg to Png](https://jpg2png.com/) - [SVG](https://svgoptimizer.com/) - [Cloud Convert](https://cloudconvert.com/) - [tinywow](https://tinywow.com/)
