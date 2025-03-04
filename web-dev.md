@@ -26,7 +26,6 @@
   - [React](#react)
     - [React Ecosystem](#react-ecosystem)
       - [Getting Started](#getting-started)
-      - [Backend as a Service/Local First DB](#backend-as-a-servicelocal-first-db)
       - [Auth](#auth)
       - [Routing](#routing)
       - [State Management](#state-management)
@@ -61,7 +60,8 @@
   - [Tailwind CSS](#tailwind-css)
   - [JS/TS Snippet](#js-snippet)
 - [Backend](#backend)
-  - [Backend Framework and Database](#backend-framework-and-database)
+  - [Backend Framework](#backend-framework)
+  - [Backend as a Service and Database](#backend-as-a-service-and-database)
   - [ASP.NET](#aspnet)
     - [C#](#csharp)
     - [Entity Framework](#entity-framework)
@@ -424,28 +424,15 @@
    - [Astro (Content-based Website)](https://astro.build/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
-2. #### Backend as a Service/Local First DB
-   - [Firebase](https://firebase.google.com/)
-   - [Supabase](https://github.com/supabase/supabase)
-   - [Nhost](https://github.com/nhost/nhost)
-   - [appwrite](https://github.com/appwrite/appwrite)
-   - [PocketBase](https://github.com/pocketbase/pocketbase)
-   - [TinyBase](https://tinybase.org/)
-   - [Dexie.js](https://dexie.org/)
-   - [Electric](https://electric-sql.com/)
-   - [watermelondb](https://watermelondb.dev/)
-   - [teable](https://github.com/teableio/teable)
-   - [Sanity](https://github.com/sanity-io/sanity)
-   - [payloadcms](https://payloadcms.com/)
-3. #### Auth
+2. #### Auth
    - [Clerk](https://clerk.com/)
    - [Kinde](https://kinde.com/)
    - [AuthKit](https://workos.com/)
    - [next-auth](https://next-auth.js.org/)
-4. #### Routing
+3. #### Routing
    - [React Router (Remix)](https://reactrouter.com/en/main)
    - [TanStack Router](https://tanstack.com/router/v1)
-5. #### State Management
+4. #### State Management
    - [Redux Toolkit](https://redux-toolkit.js.org/)
    - [Zustand](https://zustand-demo.pmnd.rs/)
    - [Jotai](https://jotai.org/)
@@ -454,16 +441,16 @@
    - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
    - [Apollo Client](https://www.apollographql.com/docs/react/)
    - [swr](https://swr.vercel.app/)
-6. #### Form
+5. #### Form
    - [React Hook Form](https://react-hook-form.com/)
    - [TanStack Form](https://tanstack.com/form/latest)
    - [Formik](https://formik.org/docs/overview)
-7. #### Schema Validator
+6. #### Schema Validator
    - [Standard Schema](https://standardschema.dev/)
    - [Valibot](https://valibot.dev/)
    - [ArkType](https://arktype.io/)
    - [Zod](https://zod.dev/)
-8. #### Styling
+7. #### Styling
    - [Tailwind CSS](https://tailwindcss.com/)
      - [flowbite](https://flowbite.com/)
      - [Keep React](https://react.keepdesign.io/)
@@ -482,7 +469,7 @@
    - [Simple.css](https://github.com/kevquirk/simple.css)
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
-9. #### UI Component
+8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [originui](https://originui.com/)
    - [magicui](https://magicui.design/docs/installation)
    - [aceternity](https://ui.aceternity.com/)
@@ -509,24 +496,24 @@
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
    - [21st.dev](https://21st.dev/)
-10. #### Other UI libs
-    - [player](https://player.style/) Video and audio player themes built with Media Chrome
-    - [uiverse](https://uiverse.io/buttons) Button designs
-    - [visx](https://github.com/airbnb/visx)
-    - [floating-ui](https://floating-ui.com/)
-    - [fullcalendar](https://fullcalendar.io/)
-    - [react-hot-toast](https://react-hot-toast.com/)
-    - [react-toastify](https://fkhadra.github.io/react-toastify/introduction)
-    - [sweetalert2](https://sweetalert2.github.io/) - [Sweetalert](https://sweetalert.js.org/)
-    - [maska (input masking)](https://beholdr.github.io/maska/v3/#/)
-    - [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/)
-    - [skeletonreact](https://skeletonreact.com/)
-    - [react-svgr](https://react-svgr.com/)
-    - [react-player](https://cookpete.github.io/react-player/)
-    - [React Slick Carousel](https://react-slick.neostack.com/)
-    - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
-    - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
-11. #### Drag and Drop
+9. #### Other UI libs
+   - [player](https://player.style/) Video and audio player themes built with Media Chrome
+   - [uiverse](https://uiverse.io/buttons) Button designs
+   - [visx](https://github.com/airbnb/visx)
+   - [floating-ui](https://floating-ui.com/)
+   - [fullcalendar](https://fullcalendar.io/)
+   - [react-hot-toast](https://react-hot-toast.com/)
+   - [react-toastify](https://fkhadra.github.io/react-toastify/introduction)
+   - [sweetalert2](https://sweetalert2.github.io/) - [Sweetalert](https://sweetalert.js.org/)
+   - [maska (input masking)](https://beholdr.github.io/maska/v3/#/)
+   - [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/)
+   - [skeletonreact](https://skeletonreact.com/)
+   - [react-svgr](https://react-svgr.com/)
+   - [react-player](https://cookpete.github.io/react-player/)
+   - [React Slick Carousel](https://react-slick.neostack.com/)
+   - [coolshapes-react](https://github.com/realvjy/coolshapes-react)
+   - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
+10. #### Drag and Drop
     - [dnd kit](https://dndkit.com/)
     - [react-mosaic](https://nomcopter.github.io/react-mosaic//)
     - [swapy](https://swapy.tahazsh.com/)
@@ -536,7 +523,7 @@
     - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
     - [react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree)
     - [Sortable](https://sortablejs.github.io/Sortable/)
-12. #### Animation
+11. #### Animation
     - [react-spring](https://www.react-spring.dev/)
     - [Framer Motion](https://www.framer.com/motion/)
     - [GSAP](https://gsap.com/resources/React/)
@@ -552,7 +539,7 @@
     - [vivus](https://maxwellito.github.io/vivus/)
     - [lottie](https://airbnb.io/lottie/#/)
     - [popmotion](https://popmotion.io/)
-13. #### Data Visualization Chart Table
+12. #### Data Visualization Chart Table
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
@@ -563,14 +550,14 @@
     - [ag-grid](https://www.ag-grid.com/)
     - [tabulator](https://tabulator.info/)
     - [React Virtualized](https://github.com/bvaughn/react-virtualized)
-14. #### PDF Doc
+13. #### PDF Doc
     - [react-pdf](https://react-pdf.org/)
     - [react-pdf](https://projects.wojtekmaj.pl/react-pdf/)
     - [pdfme](https://github.com/pdfme/pdfme)
     - [pdfkit](https://github.com/foliojs/pdfkit)
     - [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
     - [react-doc-viewer](https://github.com/cyntler/react-doc-viewer)
-15. #### Markdown Rich Text Editor
+14. #### Markdown Rich Text Editor
     - [MDXEditor](https://mdxeditor.dev/)
     - [quill](https://quilljs.com/)
     - [platejs](https://platejs.org/)
@@ -581,7 +568,7 @@
     - [tiptap](https://tiptap.dev/)
     - [ckeditor5](https://ckeditor.com/ckeditor-5/)
     - [Muyu](https://github.com/marktext/muya)
-16. #### Tour Guide
+15. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
     - [introjs](https://introjs.com/)
@@ -590,49 +577,49 @@
     - [flows](https://flows.sh/)
     - [shepherdjs](https://shepherdjs.dev/)
     - [bootstraptour](https://bootstraptour.com/)
-17. #### HTTP
+16. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
     - [Ky](https://github.com/sindresorhus/ky)
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
-18. #### Date Time
+17. #### Date Time
     - [luxon](https://moment.github.io/luxon/#/)
     - [dayjs](https://github.com/iamkun/dayjs)
     - [date-fns](https://github.com/date-fns/date-fns)
     - [spacetime](https://github.com/spencermountain/spacetime)
     - [moment](https://github.com/moment/moment/)
-19. #### Internationalization
+18. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-20. #### Rendering Performance
+19. #### Rendering Performance
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
-21. #### Testing
+20. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-22. #### Documentation
+21. #### Documentation
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-23. #### Type Checking
+22. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-24. #### Mobile and Desktop Apps
+23. #### Mobile and Desktop Apps
     - [Tauri](https://tauri.app/)
     - [React Native](https://reactnative.dev/)
     - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
     - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
     - [nativescript](https://nativescript.org/)
-25. #### Visual Editors
+24. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [craft.js](https://github.com/prevwong/craft.js)
-26. #### Other Libraries
+25. #### Other Libraries
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) is a library that enables real-time, bidirectional communication between web clients and servers.
@@ -642,7 +629,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-27. #### DevTools
+26. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
@@ -4154,7 +4141,7 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   - [MongoDb](#mongodb)
   - [SQL](#sql)
 
-- ## Backend Framework and Database
+- ## Backend Framework
 
   1. [ASP.NET](https://github.com/dotnet/aspnetcore)
   2. [Express](https://github.com/expressjs/express) - [fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest)
@@ -4163,14 +4150,20 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   5. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi)
   6. [phoenix](https://github.com/phoenixframework/phoenix)
   7. [Amplication](https://github.com/amplication/amplication)
-  8. [Drizzle](https://github.com/drizzle-team/drizzle-orm) - [Prisma](https://github.com/prisma/prisma) - [Sequelize](https://github.com/sequelize/sequelize)
-  9. [MongoDB](https://github.com/mongodb/mongo) - [Mongoose](https://github.com/Automattic/mongoose)
-  10. [SurrealDB](https://github.com/surrealdb/surrealdb)
-  11. [Redis](https://github.com/redis/redis) - [Dragonfly](https://github.com/dragonflydb/dragonfly)
-  12. [CockroachDB](https://github.com/cockroachdb/cockroach)
-  13. [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
-  14. [Neo4j](https://github.com/neo4j/neo4j)
-  15. [NocoDB](https://github.com/nocodb/nocodb)
+
+- ## Backend as a Service and Database
+  1. BaaS: [Firebase](https://firebase.google.com/) - [Supabase](https://github.com/supabase/supabase) - [Nhost](https://github.com/nhost/nhost) - [Appwrite](https://github.com/appwrite/appwrite)
+  2. BaaS: [Neon](https://github.com/neondatabase/neon) - [PocketBase](https://github.com/pocketbase/pocketbase) - [SurrealDB](https://github.com/surrealdb/surrealdb)
+  3. ORM: [Drizzle](https://github.com/drizzle-team/drizzle-orm) - [Prisma](https://github.com/prisma/prisma) - [Sequelize](https://github.com/sequelize/sequelize) - [Mongoose](https://github.com/Automattic/mongoose)
+  4. Document: [MongoDB](https://github.com/mongodb/mongo) - [Couchbase](https://www.couchbase.com/) - [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
+  5. Key-Val: [Redis](https://github.com/redis/redis) - [Dragonfly](https://github.com/dragonflydb/dragonfly) - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - [Riak](https://riak.com/)
+  6. Column: [ClickHouse](https://clickhouse.com/) - [Apache Cassandra](https://cassandra.apache.org/)
+  7. Graph: [Neo4j](https://github.com/neo4j/neo4j) - Vector: [Pinecone](https://www.pinecone.io/) - [Weaviate](https://weaviate.io/)
+  8. Time-Series: [InfluxDB](https://www.influxdata.com/) - [Timescale](https://www.timescale.com/)
+  9. Spreadsheet: [Teable](https://github.com/teableio/teable) - Airtable: [NocoDB](https://github.com/nocodb/nocodb)
+  10. Local-first: [TinyBase](https://tinybase.org/) - [Dexie.js](https://dexie.org/) - [Electric](https://electric-sql.com/) - [watermelondb](https://watermelondb.dev/)
+  11. CMS: [Sanity](https://github.com/sanity-io/sanity) - [payloadcms](https://payloadcms.com/)
+  12. [CockroachDB](https://github.com/cockroachdb/cockroach) - [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 
 # ASP.NET
 
