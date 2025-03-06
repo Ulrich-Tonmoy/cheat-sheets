@@ -5,7 +5,11 @@
   - [Chat AI](#chat-ai)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
-  - [Image Video Audio Gen Tools](#image-video-audio-gen-tools)
+  - [Voice Gen](#voice-gen)
+  - [Video Gen](#video-gen)
+  - [Image Gen AI Websites](#image-gen-ai-websites)
+  - [Image Generator](#image-generator)
+  - [Others](#ithers)
   - [Useful Use Cases of ChatGPT](#useful-use-cases-of-chatgpt)
   - [Top Free Courses on LLM](#top-free-courses-on-llm)
   - [Useful AI Git Repos](#Useful-AI-Git-Repos)
@@ -52,7 +56,7 @@
   2. [Claude](https://claude.ai/)
   3. [DeepSeek](https://www.deepseek.com/)
   4. [Chat GPT](https://chatgpt.com/)
-  5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/)
+  5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
   6. [Qwen](https://chat.qwenlm.ai/)
   7. [Grok](https://x.ai/)
   8. [Copilot](https://copilot.microsoft.com/)
@@ -78,74 +82,70 @@
   2. [ollama](https://ollama.com/)
   3. [Jan](https://jan.ai/)
 
-- # Image Video Audio Gen Tools
+- ## 3D Gen
 
-  - ## Chat with PDF
+  1. [TripoSR](https://github.com/VAST-AI-Research/TripoSR)
 
-    1. [NotebookLM](https://notebooklm.google/)
+- ## Voice Gen
 
-  - ## 3D Gen
+  1. [elevenlabs](https://elevenlabs.io/)
+  2. [onlinetonegenerator](https://onlinetonegenerator.com/)
+  3. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
+  4. [voicebooking](https://www.voicebooking.com/)
+  5. [naturalreaders](https://www.naturalreaders.com/online/)
+  6. [voicemaker](https://voicemaker.in/)
+  7. [play.ht](https://play.ht/)
+  8. [musicfy](https://musicfy.lol/)
+  9. [heygen](https://www.heygen.com/)
 
-    1. [TripoSR](https://github.com/VAST-AI-Research/TripoSR)
+- ## Video Gen
 
-  - ## Voice Gen
+  1. [Wan](https://wan.video/)
+  2. [Lumen5](https://lumen5.com/)
+  3. [synthesia](https://www.synthesia.io/)
+  4. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+  5. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+  6. [runwayml](https://runwayml.com/)
+  7. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
-    1. [elevenlabs](https://elevenlabs.io/)
-    2. [onlinetonegenerator](https://onlinetonegenerator.com/)
-    3. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
-    4. [voicebooking](https://www.voicebooking.com/)
-    5. [naturalreaders](https://www.naturalreaders.com/online/)
-    6. [voicemaker](https://voicemaker.in/)
-    7. [play.ht](https://play.ht/)
-    8. [musicfy](https://musicfy.lol/)
-    9. [heygen](https://www.heygen.com/)
+- ## Image Gen AI Websites
 
-  - ## Video Gen
+  1. [Plagground ai](https://playgroundai.com/)
+  2. [Seaart ai](https://seaart.ai/)
+  3. [Civitai](https://civitai.com//)
+  4. [mage.space](https://www.mage.space/)
+  5. [instantart](https://instantart.io/)
+  6. [clipdrop](https://clipdrop.co/)
 
-    1.  [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
-    2.  [Lumen5](https://lumen5.com/)
-    3.  [synthesia](https://www.synthesia.io/)
-    4.  [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
-    5.  [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
-    6.  [runwayml](https://runwayml.com/)
+- ## Image Generator
 
-  - ## Image Gen AI Websites
+  1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
+  2. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+  3. [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
+  4. [Anything V3 (huggingface)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
+  5. [Waifu-Diffusion (huggingface)](https://huggingface.co/hakurei/waifu-diffusion)
+  6. [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
+  7. [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
+  8. [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
+  9. [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
+  10. [Craiyon (Formerly DALL-E Mini))](https://www.craiyon.com/)
+  11. [DGSpitzer (huggingface))](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space)
+  12. [leonardo](https://leonardo.ai/)
 
-    1. [Plagground ai](https://playgroundai.com/)
-    2. [Seaart ai](https://seaart.ai/)
-    3. [Civitai](https://civitai.com//)
-    4. [mage.space](https://www.mage.space/)
-    5. [instantart](https://instantart.io/)
-    6. [clipdrop](https://clipdrop.co/)
+- ## Others
 
-  - ## Image Generator
-
-    1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
-    2. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-    3. [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
-    4. [Anything V3 (huggingface)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
-    5. [Waifu-Diffusion (huggingface)](https://huggingface.co/hakurei/waifu-diffusion)
-    6. [Waifu-Diffusion-Demo (huggingface)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
-    7. [Waifu-Diffusion (replicate)](https://replicate.com/cjwbw/waifu-diffusion)
-    8. [InvokeAI a GUI Toolkit for Stable Diffusion](https://github.com/invoke-ai/InvokeAI)
-    9. [Point-E (huggingface)](https://huggingface.co/spaces/openai/point-e)
-    10. [Craiyon (Formerly DALL-E Mini))](https://www.craiyon.com/)
-    11. [DGSpitzer (huggingface))](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space)
-    12. [leonardo](https://leonardo.ai/)
-
-  - ## Others
-    1. [QR Code Gen - qrcraft](https://www.qrcraft.xyz/qr)
-    2. [Drawing to Image - stable-doodle](https://clipdrop.co/stable-doodle)
-    3. [Drawing Tool - autodraw](https://www.autodraw.com/)
-    4. [Combine two Image - ostagram](https://www.ostagram.me/)
-    5. [Video Face Swap - unboring](https://reface.ai/unboring)
-    6. [Video full body Swap ](https://wonderdynamics.com/)
-    7. [Text to Environment - skybox](https://skybox.blockadelabs.com/)
-    8. [Gif Face swpa - misgif](https://misgif.app/)
-    9. [resumetrick](https://resumetrick.com/)
-    10. [3D model generator Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
-    11. [roomai](https://roomai.com/)
-    12. [mylensai](https://opentools.ai/tools/mylensai)
+  1. [QR Code Gen - qrcraft](https://www.qrcraft.xyz/qr)
+  2. [Drawing to Image - stable-doodle](https://clipdrop.co/stable-doodle)
+  3. [Drawing Tool - autodraw](https://www.autodraw.com/)
+  4. [Combine two Image - ostagram](https://www.ostagram.me/)
+  5. [Video Face Swap - unboring](https://reface.ai/unboring)
+  6. [Video full body Swap ](https://wonderdynamics.com/)
+  7. [Text to Environment - skybox](https://skybox.blockadelabs.com/)
+  8. [Gif Face swpa - misgif](https://misgif.app/)
+  9. [resumetrick](https://resumetrick.com/)
+  10. [3D model generator Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
+  11. [roomai](https://roomai.com/)
+  12. [mylensai](https://opentools.ai/tools/mylensai)
 
 - ## Useful Use Cases of ChatGPT
 
