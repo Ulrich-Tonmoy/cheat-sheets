@@ -68,7 +68,7 @@
 
 - ## Game Framework and Library
 
-  1. C++ [raylib](https://github.com/raysan5/raylib) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [Orx](https://github.com/orx/orx) - [Allegro](https://github.com/liballeg/allegro5)
+  1. C++ [Raylib](https://www.raylib.com/) - [SDL](https://libsdl.org/) - [SFML](https://www.sfml-dev.org/) - [GLFW](https://www.glfw.org/) - [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - [Orx](https://github.com/orx/orx) - [Allegro](https://liballeg.org/)
   2. C# [MonoGame](https://www.monogame.net/) - [FNA](https://fna-xna.github.io/)
   3. JS [Babylon JS](https://www.babylonjs.com/) - [Three JS](https://threejs.org/) - [Theatre JS](https://www.theatrejs.com/) - [PlayCanvas](https://playcanvas.com/) - [aframe](https://aframe.io/) - [Phaser](https://phaser.io/) - [Pixi JS](https://github.com/pixijs/pixijs) - [Excalibur](https://github.com/excaliburjs/Excalibur) - [kaplayjs](https://kaplayjs.com/)
   4. Python [Ursina](https://github.com/pokepetter/ursina) - [PyGame](https://www.pygame.org/news) - [Pyglet](https://pyglet.org/) - [Panda3d](https://www.panda3d.org/)
