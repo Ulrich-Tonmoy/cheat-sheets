@@ -611,6 +611,7 @@
     - [JSDoc](https://jsdoc.app/)
 23. #### Mobile and Desktop Apps
     - [Tauri](https://tauri.app/)
+    - [Lynx](https://lynxjs.org/)
     - [React Native](https://reactnative.dev/)
     - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
     - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)

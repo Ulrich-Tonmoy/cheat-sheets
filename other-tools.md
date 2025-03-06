@@ -334,14 +334,15 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
   2. [Android Studio](https://developer.android.com/studio)
 - ### JS
   1. [React Native](https://github.com/facebook/react-native) - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
-  2. [Tauri](https://github.com/tauri-apps/tauri)
-  3. [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
-  4. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
-  5. [NW.js](https://github.com/nwjs/nw.js)
-  6. [NodeGui](https://github.com/nodegui/nodegui) - [React NodeGui](https://github.com/nodegui/react-nodegui)
-  7. [Sciter ](https://github.com/c-smile/sciter-sdk)
-  8. [Gluon](https://github.com/gluon-framework/gluon)
-  9. [Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs)
+  2. [Lynx](https://github.com/lynx-family/lynx)
+  3. [Tauri](https://github.com/tauri-apps/tauri)
+  4. [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
+  5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
+  6. [NW.js](https://github.com/nwjs/nw.js)
+  7. [NodeGui](https://github.com/nodegui/nodegui) - [React NodeGui](https://github.com/nodegui/react-nodegui)
+  8. [Sciter ](https://github.com/c-smile/sciter-sdk)
+  9. [Gluon](https://github.com/gluon-framework/gluon)
+  10. [Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs)
 - ### Zig
   1. [Electrobun](https://github.com/blackboardsh/electrobun)
 - ### C#
