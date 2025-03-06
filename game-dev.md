@@ -55,8 +55,8 @@
   2. [Unigine](https://unigine.com/) - [Cry Engine](https://www.cryengine.com/) - [O3DE](https://o3de.org/) - [Ultra Engine](https://www.ultraengine.com/) - [Evergine](https://evergine.com/) - [Cocos Creator](https://www.cocos.com/en/creator)
   3. [Stride](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Falco Engine](https://falco3d.com/) - [Cave Engine](https://unidaystudio.itch.io/cave-engine) - [coppercube](https://www.ambiera.com/coppercube/)
   4. [Wonderland Engine](https://wonderlandengine.com/) - [GameMaker](https://gamemaker.io/) - [Construct](https://www.construct.net/) - [GDevelop](https://gdevelop.io/) - [ct.js](https://ctjs.rocks/)
-  5. [Rogue Engine](https://rogueengine.io/) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev)
-  6. [Scratch](https://scratch.mit.edu) - [Scrap](https://github.com/Grisshink/scrap) - [Microsoft microbit](https://makecode.microbit.org) - [Blockly Games](https://blockly.games/)
+  5. [Rogue Engine](https://rogueengine.io/) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev) - [Galacean](https://www.galacean.com/engine/en/) - [LayaAir 3](https://www.layaair.com/)
+  6. [Scratch](https://scratch.mit.edu) - [Scrap](https://github.com/Grisshink/scrap) - [microbit](https://makecode.microbit.org) - [MakeCode Arcade](https://arcade.makecode.com/) - [Blockly Games](https://blockly.games/)
   7. [Stencyl](https://www.stencyl.com/) - [RPG Maker](https://www.rpgmakerweb.com/) - [rpginabox](https://www.rpginabox.com/) - [buildbox](https://signup.buildbox.com/)
 
   - ### Experimental Cyberspace
@@ -70,7 +70,7 @@
 
   1. C++ [raylib](https://github.com/raysan5/raylib) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [Orx](https://github.com/orx/orx) - [Allegro](https://github.com/liballeg/allegro5)
   2. C# [MonoGame](https://www.monogame.net/) - [FNA](https://fna-xna.github.io/)
-  3. JS [Babylon JS](https://www.babylonjs.com/) - [Three JS](https://threejs.org/) - [Theatre JS](https://www.theatrejs.com/) - [PlayCanvas](https://playcanvas.com/) - [aframe](https://aframe.io/) - [Phaser](https://phaser.io/) - [Pixi JS](https://github.com/pixijs/pixijs) - [Excalibur](https://github.com/excaliburjs/Excalibur)
+  3. JS [Babylon JS](https://www.babylonjs.com/) - [Three JS](https://threejs.org/) - [Theatre JS](https://www.theatrejs.com/) - [PlayCanvas](https://playcanvas.com/) - [aframe](https://aframe.io/) - [Phaser](https://phaser.io/) - [Pixi JS](https://github.com/pixijs/pixijs) - [Excalibur](https://github.com/excaliburjs/Excalibur) - [kaplayjs](https://kaplayjs.com/)
   4. Python [Ursina](https://github.com/pokepetter/ursina) - [PyGame](https://www.pygame.org/news) - [Pyglet](https://pyglet.org/) - [Panda3d](https://www.panda3d.org/)
   5. Lua [love2d](https://love2d.org/) - [lovr](https://lovr.org/) - [Solar2D](https://solar2d.com/) - [Gideros](https://www.gideros.rocks/)
   6. Rust [bevy](https://bevyengine.org/) - [Bevy Tauri Example](https://github.com/sunxfancy/BevyTauriExample) - [Fyrox Game Engine](https://fyrox.rs/)
@@ -100,8 +100,8 @@
   1.  [GDevelop](https://github.com/4ian/GDevelop) - [ct-js](https://github.com/ct-js/ct-js) - [nunuStudio](https://github.com/tentone/nunuStudio) - [microstudio](https://github.com/pmgl/microstudio)
   2.  [Babylon.js](https://github.com/BabylonJS/Babylon.js) - [playcanvas](https://github.com/playcanvas/engine) - [aframe](https://github.com/aframevr/aframe) - [react-xr](https://github.com/pmndrs/react-xr)
   3.  [phaser](https://github.com/photonstorm/phaser) - [Excalibur](https://github.com/excaliburjs/Excalibur) - [pixijs](https://github.com/pixijs/pixijs) - [kaplay](https://github.com/kaplayjs/kaplay) | [kaboom](https://github.com/replit/kaboom)
-  4.  [three.js](https://github.com/mrdoob/three.js) - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-  5.  [melonJS](https://github.com/melonjs/melonJS) - [LittleJS](https://github.com/KilledByAPixel/LittleJS) - [ige](https://github.com/Irrelon/ige) - [ir-engine](https://github.com/ir-engine/ir-engine)
+  4.  [three.js](https://github.com/mrdoob/three.js) - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - [theatre](https://github.com/theatre-js/theatre)
+  5.  [melonJS](https://github.com/melonjs/melonJS) - [LittleJS](https://github.com/KilledByAPixel/LittleJS) - [ige](https://github.com/Irrelon/ige) - [ir-engine](https://github.com/ir-engine/ir-engine) - [stage.js](https://github.com/piqnt/stage.js)
 
 - ## Web Other Tool Repos
 
