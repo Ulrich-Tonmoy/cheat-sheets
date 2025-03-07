@@ -5,12 +5,11 @@
   - [Chat AI](#chat-ai)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
-  - [Voice Gen](#voice-gen)
   - [Video Gen](#video-gen)
+  - [Voice Gen](#voice-gen)
   - [Image Gen AI Websites](#image-gen-ai-websites)
   - [Image Generator](#image-generator)
-  - [Others](#ithers)
-  - [Useful Use Cases of ChatGPT](#useful-use-cases-of-chatgpt)
+  - [Others](#others)
   - [Top Free Courses on LLM](#top-free-courses-on-llm)
   - [Useful AI Git Repos](#Useful-AI-Git-Repos)
 
@@ -54,19 +53,17 @@
 - ## Chat AI
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
-  2. [Claude](https://claude.ai/)
-  3. [DeepSeek](https://www.deepseek.com/)
-  4. [Chat GPT](https://chatgpt.com/)
-  5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
-  6. [Qwen](https://chat.qwenlm.ai/)
-  7. [Grok](https://x.ai/)
-  8. [Copilot](https://copilot.microsoft.com/)
-  9. [Bai Chat](https://chatbot.theb.ai)
-  10. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  11. [Zapier](https://zapier.com/central)
-  12. [You](https://you.com/)
-  13. [HuggingChat](https://huggingface.co/chat/)
-  14. [Ora AI](https://ora.ai/)
+  2. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
+  3. [Claude](https://claude.ai/) - [Chat GPT](https://chatgpt.com/) - [Grok](https://x.ai/)
+  4. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
+  5. [Copilot](https://copilot.microsoft.com/)
+  6. [Perplexity](https://www.perplexity.ai/) For Search or Research
+  7. [Bai Chat](https://chatbot.theb.ai)
+  8. [monica](https://monica.im/)
+  9. [Zapier](https://zapier.com/central)
+  10. [You](https://you.com/)
+  11. [HuggingChat](https://huggingface.co/chat/)
+  12. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
@@ -81,11 +78,19 @@
 
   1. [LM Studio](https://lmstudio.ai/)
   2. [ollama](https://ollama.com/)
-  3. [Jan](https://jan.ai/)
+  3. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  4. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  5. [Jan](https://jan.ai/)
 
-- ## 3D Gen
+- ## Video Gen
 
-  1. [TripoSR](https://github.com/VAST-AI-Research/TripoSR)
+  1. [Wan](https://wan.video/)
+  2. [Lumen5](https://lumen5.com/)
+  3. [synthesia](https://www.synthesia.io/)
+  4. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+  5. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+  6. [runwayml](https://runwayml.com/)
+  7. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
 - ## Voice Gen
 
@@ -98,16 +103,6 @@
   7. [play.ht](https://play.ht/)
   8. [musicfy](https://musicfy.lol/)
   9. [heygen](https://www.heygen.com/)
-
-- ## Video Gen
-
-  1. [Wan](https://wan.video/)
-  2. [Lumen5](https://lumen5.com/)
-  3. [synthesia](https://www.synthesia.io/)
-  4. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
-  5. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
-  6. [runwayml](https://runwayml.com/)
-  7. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
 - ## Image Gen AI Websites
 
@@ -144,42 +139,10 @@
   7. [Text to Environment - skybox](https://skybox.blockadelabs.com/)
   8. [Gif Face swpa - misgif](https://misgif.app/)
   9. [resumetrick](https://resumetrick.com/)
-  10. [3D model generator Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
-  11. [roomai](https://roomai.com/)
-  12. [mylensai](https://opentools.ai/tools/mylensai)
-
-- ## Useful Use Cases of ChatGPT
-
-  1. Rapid creation of content based on current events, trends, and analytics. <br>
-     Example: “Generate a caption & prompt for Midjourney to create a post for Instagram [Username] using yesterday’s news for [Topic]. Finally, utilizing the last week’s engagement statistics, recommend a posting time.
-
-     <br>
-     <img alt="html structure" src="./assets/ai/1.png" width="360px"/>
-     <br>
-
-  2. Job hunting. <br>
-     Example: “Find a list of remote [Field] jobs that fit my profile, with a pay range of $70k-90k. Using that list, edit my resume & cover letter for each job listing. And lastly, submit each application and use Excel sheets to keep track of each application.”
-  3. Plan your trip with up-to-the-minute information. <br>
-     Example: “Find me the quickest flight from [Location] to [Loaction] within 27 hours. Once landed, book a hotel under $200 in [Location] that also has a hot tub, 2 beds, and is near the city”
-  4. Find the most recent trends. <br>
-     Example: “Give me a list of trends forming within the last week in the [Topic]. Using that list, create multiple visuals and a presentation for [company] on Google Slides about how [Topic] is the next big thing”
-
-     <br>
-     <img alt="html structure" src="./assets/ai/2.png" width="360px"/>
-     <br>
-
-  5. Discover the best discounts on the web. <br>
-     Example: “Search for the three lowest priced [items] across all e-commerce websites. Show me the best options with over 4.5 ratings, that ship to [Location].”
-  6. Updates on the stock market in real-time. <br>
-     Example: “What’s the current price of all the stocks in my [portfolio]? How has its value changed in the last 7 days?”
-  7. Summarization. <br>
-     Example: “Summarize the following [Article] in a paragraph. Then, send that summary to my boss on his [email]”
-  8. Explore the most current literature, media, and online resources. <br>
-     Example: “Conduct market research on [Website #1] and compare it to our [Website #2]. Give me a list of ways to improve our website and a step-by-step plan to achieve it.”
-  9. Create new promotional plans every day. <br>
-     Example: “Generate an SEO strategy for [company] around the [Topic].”
-  10. Personal Portfolio Manager. <br>
-      Example: “Using data from the latest Snowflake, Google, and Amazon earnings, generate graphs predicting each company’s growth within [Topic]. Then, provide me a thesis on each stock and how they fit within my portfolio.”
+  10. [3D model generator - Shap-E](https://huggingface.co/spaces/hysts/Shap-E)
+  11. [3D model generator - TripoSR](https://github.com/VAST-AI-Research/TripoSR)
+  12. [roomai](https://roomai.com/)
+  13. [mylensai](https://opentools.ai/tools/mylensai)
 
 - ## Top Free Courses on LLM
 
@@ -191,8 +154,6 @@
   6. [Jay Alammar’s Article Series on Large Language Models](https://jalammar.github.io/illustrated-transformer/) - or - [Applying massive language models in the real world with Cohere
      ](https://jalammar.github.io/applying-large-language-models-cohere/)
   7. [Understanding Large Language Models - A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-
-![Secure AI Development](./assets/ai/cheat-sheet-secure-ai-development.jpg)
 
 - ## Useful AI Git Repos
   1. [autogen-agi](https://github.com/metamind-ai/autogen-agi)
