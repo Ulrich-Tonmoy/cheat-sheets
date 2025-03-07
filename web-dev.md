@@ -47,7 +47,6 @@
       - [Testing](#testing)
       - [Documentation](#documentation)
       - [Type Checking](#type-checking)
-      - [Mobile and Desktop Apps](#mobile-and-desktop-apps)
       - [Visual Editors](#visual-editors)
       - [Other Libraries](#other-libraries)
       - [DevTools](#devtools)
@@ -609,19 +608,12 @@
 22. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-23. #### Mobile and Desktop Apps
-    - [Tauri](https://tauri.app/)
-    - [Lynx](https://lynxjs.org/)
-    - [React Native](https://reactnative.dev/)
-    - [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
-    - [Electron](https://www.electronjs.org/) - [Electron Vite](https://electron-vite.github.io/) - [Electron Vite](https://electron-vite.org/)
-    - [nativescript](https://nativescript.org/)
-24. #### Visual Editors
+23. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [craft.js](https://github.com/prevwong/craft.js)
-25. #### Other Libraries
+24. #### Other Libraries
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) is a library that enables real-time, bidirectional communication between web clients and servers.
@@ -631,7 +623,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-26. #### DevTools
+25. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
