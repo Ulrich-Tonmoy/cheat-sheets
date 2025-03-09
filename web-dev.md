@@ -583,6 +583,7 @@
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
+    - [Alova](https://github.com/alovajs/alova)
 17. #### Date Time
     - [luxon](https://moment.github.io/luxon/#/)
     - [dayjs](https://github.com/iamkun/dayjs)
@@ -4155,7 +4156,7 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   7. Graph: [Neo4j](https://github.com/neo4j/neo4j) - Vector: [Pinecone](https://www.pinecone.io/) - [Weaviate](https://weaviate.io/)
   8. Time-Series: [InfluxDB](https://www.influxdata.com/) - [Timescale](https://www.timescale.com/)
   9. Spreadsheet: [Teable](https://github.com/teableio/teable) - Airtable: [NocoDB](https://github.com/nocodb/nocodb)
-  10. Local-first: [TinyBase](https://tinybase.org/) - [Dexie.js](https://dexie.org/) - [Electric](https://electric-sql.com/) - [watermelondb](https://watermelondb.dev/)
+  10. Local-first: [TinyBase](https://tinybase.org/) - [Dexie.js](https://dexie.org/) - [Electric](https://electric-sql.com/) - [watermelondb](https://watermelondb.dev/) - [RxDB](https://rxdb.info/)
   11. CMS: [Sanity](https://github.com/sanity-io/sanity) - [payloadcms](https://payloadcms.com/)
   12. [CockroachDB](https://github.com/cockroachdb/cockroach) - [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 
