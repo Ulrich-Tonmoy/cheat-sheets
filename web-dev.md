@@ -568,6 +568,7 @@
     - [tiptap](https://tiptap.dev/)
     - [ckeditor5](https://ckeditor.com/ckeditor-5/)
     - [Muyu](https://github.com/marktext/muya)
+    - [shiki](https://github.com/shikijs/shiki)
 15. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
