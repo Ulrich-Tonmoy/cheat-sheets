@@ -614,6 +614,7 @@
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
+    - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
 24. #### Other Libraries
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
