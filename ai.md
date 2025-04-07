@@ -94,15 +94,16 @@
 
 - ## Voice Gen
 
-  1. [elevenlabs](https://elevenlabs.io/)
-  2. [onlinetonegenerator](https://onlinetonegenerator.com/)
-  3. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
-  4. [voicebooking](https://www.voicebooking.com/)
-  5. [naturalreaders](https://www.naturalreaders.com/online/)
-  6. [voicemaker](https://voicemaker.in/)
-  7. [play.ht](https://play.ht/)
-  8. [musicfy](https://musicfy.lol/)
-  9. [heygen](https://www.heygen.com/)
+  1. [allvoicelab](https://www.allvoicelab.com/)
+  2. [elevenlabs](https://elevenlabs.io/)
+  3. [onlinetonegenerator](https://onlinetonegenerator.com/)
+  4. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
+  5. [voicebooking](https://www.voicebooking.com/)
+  6. [naturalreaders](https://www.naturalreaders.com/online/)
+  7. [voicemaker](https://voicemaker.in/)
+  8. [play.ht](https://play.ht/)
+  9. [musicfy](https://musicfy.lol/)
+  10. [heygen](https://www.heygen.com/)
 
 - ## Image Gen AI Websites
 
