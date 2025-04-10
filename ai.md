@@ -21,16 +21,16 @@
 
   1. [v0](https://v0.dev/)
   2. [Bolt](https://bolt.new/)
-  3. [IDE by Bind AI](https://www.getbind.co/)
-  4. [Aide](https://aide.dev/)
-  5. [Replit](https://replit.com/)
-  6. [Devin AI](https://preview.devin.ai/)
-  7. [Tempo Labs](https://www.tempolabs.ai/)
-  8. [rork](https://rork.app/) - [a0](https://a0.dev/) - [appacella](https://www.appacella.com/) - [makeway](https://makeway.app/)
-  9. [Lovable](https://lovable.dev/)
-  10. [Blackbox](https://www.blackbox.ai/)
-  11. [Softgen](https://softgen.ai/)
-  12. [Project IDX](https://idx.dev/)
+  3. [Lovable](https://lovable.dev/)
+  4. [Replit](https://replit.com/)
+  5. [Firebase Studio](https://firebase.studio/) - [Project IDX](https://idx.dev/)
+  6. [IDE by Bind AI](https://www.getbind.co/)
+  7. [Aide](https://aide.dev/)
+  8. [Devin AI](https://preview.devin.ai/)
+  9. [Tempo Labs](https://www.tempolabs.ai/)
+  10. [rork](https://rork.app/) - [a0](https://a0.dev/) - [appacella](https://www.appacella.com/) - [makeway](https://makeway.app/)
+  11. [Blackbox](https://www.blackbox.ai/)
+  12. [Softgen](https://softgen.ai/)
   13. [Wrapifai](https://wrapifai.com/)
   14. [Databutton](https://databutton.com/)
   15. [webdraw](https://webdraw.com/)
@@ -57,13 +57,14 @@
   3. [Claude](https://claude.ai/) - [Chat GPT](https://chatgpt.com/) - [Grok](https://x.ai/)
   4. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
   5. [Copilot](https://copilot.microsoft.com/)
-  6. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  7. [Bai Chat](https://chatbot.theb.ai)
-  8. [monica](https://monica.im/)
-  9. [Zapier](https://zapier.com/central)
-  10. [You](https://you.com/)
-  11. [HuggingChat](https://huggingface.co/chat/)
-  12. [Ora AI](https://ora.ai/)
+  6. [pentestgpt](https://pentestgpt.ai/) For learning Ethical hacking
+  7. [Perplexity](https://www.perplexity.ai/) For Search or Research
+  8. [Bai Chat](https://chatbot.theb.ai)
+  9. [monica](https://monica.im/)
+  10. [Zapier](https://zapier.com/central)
+  11. [You](https://you.com/)
+  12. [HuggingChat](https://huggingface.co/chat/)
+  13. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
