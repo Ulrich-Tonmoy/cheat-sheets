@@ -48,8 +48,10 @@
   8. [Augment Code](https://www.augmentcode.com/)
   9. [Qodo](https://www.qodo.ai/)
   10. [Continue](https://www.continue.dev/)
-  11. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  12. [MarsX](https://marsx.dev/)
+  11. [Void](https://github.com/voideditor/void)
+  12. [Tabby](https://github.com/TabbyML/tabby)
+  13. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  14. [MarsX](https://marsx.dev/)
 
 - ## Chat AI
 
