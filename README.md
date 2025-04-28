@@ -12,8 +12,8 @@
 # 🔗Other Tools Link🔗
 
 1. [Puter (Desktop in Browser)](https://puter.com/) - [daedalOS](https://dustinbrett.com/) - [Geek Typer](https://geektyper.com/) - [whitescreen](https://www.whitescreen.online/) - [ZTYPE](https://zty.pe/)
-2. [opensourcealternative](https://www.opensourcealternative.to/) - [alternativeto](https://alternativeto.net/) - [ToolFinder](https://toolfinder.co/) - [thenextaitool](https://thenextaitool.com/)
-3. [OpenSauced](https://app.opensauced.pizza/) - [Code Finder](https://codefinder.dev/) - [Search Anime by Image](https://trace.moe/) - [Tiermaker](https://tiermaker.com/)
+2. [opensourcealternative](https://www.opensourcealternative.to/) - [alternativeto](https://alternativeto.net/) - [openalternative](https://openalternative.co/) - [thenextaitool](https://thenextaitool.com/)
+3. [ToolFinder](https://toolfinder.co/) - [Code Finder](https://codefinder.dev/) - [Search Anime by Image](https://trace.moe/) - [Tiermaker](https://tiermaker.com/)
 4. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [plangs](https://plangs.page/) - [languish](https://tjpalmer.github.io/languish/) - [plrank](https://plrank.com/) - [PYPL](https://pypl.github.io/PYPL.html)
 5. [witeboard](https://witeboard.com/) - [tldraw](https://www.tldraw.com/) - [excalidraw](https://excalidraw.com/) - [mermaid](https://mermaid.live/) - [Diagram](https://app.dgrm.net/) - [Eraser](https://app.eraser.io/)
 6. [Snapdrop](https://snapdrop.net/) - [Sharedrop.me](https://sharedrop.me/) - [Sharedrop.io](https://www.sharedrop.io/)
