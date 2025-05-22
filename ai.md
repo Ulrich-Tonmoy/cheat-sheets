@@ -23,7 +23,7 @@
   2. [Bolt](https://bolt.new/)
   3. [Chef](https://chef.convex.dev/)
   4. [Lovable](https://lovable.dev/)
-  5. [Firebase Studio](https://firebase.studio/) - [Project IDX](https://idx.dev/)
+  5. [Firebase Studio](https://firebase.studio/) - [Stitch](https://stitch.withgoogle.com/)
   6. [Replit](https://replit.com/)
   7. [IDE by Bind AI](https://www.getbind.co/)
   8. [Aide](https://aide.dev/)
@@ -35,6 +35,7 @@
   14. [Wrapifai](https://wrapifai.com/)
   15. [Databutton](https://databutton.com/)
   16. [webdraw](https://webdraw.com/)
+  17. [Colab](https://colab.research.google.com/)
 
 - ## AI Editors
 
@@ -89,12 +90,13 @@
 - ## Video Gen
 
   1. [Wan](https://wan.video/)
-  2. [Lumen5](https://lumen5.com/)
-  3. [synthesia](https://www.synthesia.io/)
-  4. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
-  5. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
-  6. [runwayml](https://runwayml.com/)
-  7. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
+  2. [Veo](https://deepmind.google/models/veo/)
+  3. [Lumen5](https://lumen5.com/)
+  4. [synthesia](https://www.synthesia.io/)
+  5. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+  6. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+  7. [runwayml](https://runwayml.com/)
+  8. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
 - ## Voice Gen
 
