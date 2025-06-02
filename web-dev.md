@@ -591,6 +591,7 @@
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
+    - [ForesightJS](https://foresightjs.com/)
 20. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
