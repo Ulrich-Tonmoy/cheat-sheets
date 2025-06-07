@@ -30,12 +30,13 @@
   9. [Devin AI](https://preview.devin.ai/)
   10. [Tempo Labs](https://www.tempolabs.ai/)
   11. [rork](https://rork.app/) - [a0](https://a0.dev/) - [appacella](https://www.appacella.com/) - [makeway](https://makeway.app/)
-  12. [Blackbox](https://www.blackbox.ai/)
-  13. [Softgen](https://softgen.ai/)
-  14. [Wrapifai](https://wrapifai.com/)
-  15. [Databutton](https://databutton.com/)
-  16. [webdraw](https://webdraw.com/)
-  17. [Colab](https://colab.research.google.com/)
+  12. [builder.io](https://www.builder.io/)
+  13. [Blackbox](https://www.blackbox.ai/)
+  14. [Softgen](https://softgen.ai/)
+  15. [Wrapifai](https://wrapifai.com/)
+  16. [Databutton](https://databutton.com/)
+  17. [webdraw](https://webdraw.com/)
+  18. [Colab](https://colab.research.google.com/)
 
 - ## AI Editors
 
