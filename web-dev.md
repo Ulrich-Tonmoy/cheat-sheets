@@ -397,7 +397,7 @@
   5. [mockoon](https://github.com/mockoon/mockoon)
   6. [trpc](https://github.com/trpc/trpc)
   7. [responsively-app](https://github.com/responsively-org/responsively-app)
-  8. [BuilderIO](https://github.com/BuilderIO/builder) - [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
+  8. [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
   9. [e2b](https://github.com/e2b-dev/e2b)
   10. [arrow-js](https://github.com/justin-schroeder/arrow-js)
   11. [uvicorn](https://github.com/encode/uvicorn)
@@ -410,11 +410,13 @@
 
 1. #### Getting Started
    - [Vite (For react projects)](https://vitejs.dev/guide/)
+   - [bun init (For react projects)](https://bun.sh/docs/cli/init)
    - [Next JS (Full-stack React Framework)](https://nextjs.org/)
-   - [React Admin (B2B React Framework)](https://marmelab.com/react-admin/)
-   - [Refine (B2B React Framework)](https://refine.dev/)
+   - [bhvr (Full-stack React-Hono Framework)](https://bhvr.dev/)
    - [Waku (React Framework)](https://waku.gg/)
    - [Astro (Content-based Website)](https://astro.build/)
+   - [React Admin (B2B React Framework)](https://marmelab.com/react-admin/)
+   - [Refine (B2B React Framework)](https://refine.dev/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Auth
