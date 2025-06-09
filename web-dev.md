@@ -637,13 +637,11 @@
 
 # Folder Structure
 
-### Level 1:
+### 1:
 
 ```
 └── src/
     ├── assets/
-    ├── api/
-    ├── configs/
     ├── components/
     │   ├── SignUpForm.tsx
     │   ├── Employees.tsx
@@ -655,30 +653,53 @@
     │   ├── useEmployees.ts
     │   └── useAuth.tsx
     ├── lib/
+    │   ├── constants/
+    │   ├── helpers/
+    │   └── types/
+    ├── pages/
+    │   ├── Admin/
+    │   │   └── ...
+    │   ├── Auth/
+    │   │   └── ...
+    │   └── ...
     ├── services/
-    ├── states/
-    ├── utils/
+    │   ├── authService.ts
+    │   └── axios.ts
     ├── main.tsx
     └── App.tsx
 ```
 
-### Level 2:
+### 2:
 
 ```
 └── src/
     ├── assets/
-    ├── api/
-    ├── configs/
-    ├── components/
-    │   ├── auth/
-    │   │   └── SignUpForm.tsx
-    │   ├── payment/
-    │   │   └── PaymentForm.tsx
-    │   ├── common/
-    │   │   └── Button.tsx
-    │   └── employees/
-    │       ├── EmployeeList.tsx
-    │       └── EmployeeSummary.tsx
+    ├── app/
+    │   ├── components/
+    │   │   ├── AppLayout/
+    │   │   ├── ContextProvider/
+    │   │   ├── Utils/
+    │   │   ├── UI/
+    │   │   │   ├── Buttons/
+    │   │   │   └── Inputs/
+    │   │   ├── Layout/
+    │   │   ├── Loader.tsx
+    │   │   └── ...
+    │   ├── features/
+    │   │   ├── Admin/
+    │   │   │   └── ...
+    │   │   ├── Auth/
+    │   │   │   └── ...
+    │   │   └── ...
+    │   ├── pages/
+    │   │   ├── Admin/
+    │   │   │   └── ...
+    │   │   ├── Auth/
+    │   │   │   └── ...
+    │   │    └── ...
+    │   ├── routes/
+    │   │   ├── AppRoutes.tsx
+    │   │   └── ...
     ├── hooks/
     │   ├── auth/
     │   │   └── useAuth.ts
@@ -688,14 +709,21 @@
     │       ├── useEmployees.ts
     │       └── useUpdateEmployee.ts
     ├── lib/
+    │   ├── configs/
+    │   │   ├── store.ts
+    │   │   ├── theme.ts
+    │   │   ├── i18n.ts
+    │   │   └── ...
+    │   ├── constants/
+    │   ├── helpers/
+    │   └── types/
     ├── services/
-    ├── states/
-    ├── utils/
-    ├── main.tsx
-    └── App.tsx
+    │   ├── authService.ts
+    │   └── axios.ts
+    └── main.tsx
 ```
 
-### Level 3:
+### 3:
 
 ```
 └── src/
@@ -703,7 +731,7 @@
     ├── core/
     │   ├── services/
     │   ├── store/
-    │   ├── api/
+    │   ├── configs/
     │   └── ...
     ├── modules/
     │   ├── payment/
@@ -739,6 +767,8 @@
     │   ├── types/
     │   ├── utils/
     │   └── ...
+    ├── App.tsx (with routes)
+    ├── main.tsx
     └── ...
 ```
 
