@@ -465,7 +465,7 @@
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
-   - [shadcn/ui](https://ui.shadcn.com/) - [originui](https://originui.com/)
+   - [shadcn/ui](https://ui.shadcn.com/) - [Animate UI](https://animate-ui.com/) - [originui](https://originui.com/)
    - [magicui](https://magicui.design/docs/installation)
    - [aceternity](https://ui.aceternity.com/)
    - [NextUI](https://nextui.org/)
