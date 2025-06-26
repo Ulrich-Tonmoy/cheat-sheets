@@ -54,6 +54,10 @@
     - [React Best Practices](#react-best-practices)
     - [Interview Questions](#interview-questions)
   - [Angular](#angular)
+    - [Component Libraries](#angular-component-libraries)
+    - [Angular Cli](#angular-cli)
+  - [Vue](#vue)
+    - [Component Libraries](#vue-component-libraries)
   - [HTML Snippet](#html-snippet)
   - [CSS Snippet](#css-snippet)
   - [Tailwind CSS](#tailwind-css)
@@ -1241,17 +1245,18 @@ console.log(nextBiggest(arr));
 
 # Angular
 
-## Component Libraries
+## Angular Component Libraries
 
-1. [Angular Material](https://material.angular.io/)
-2. [NG Bootstrap](https://ng-bootstrap.github.io/#/home)
-3. [NGX-Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
-4. [PrimeNG](https://primeng.org/)
-5. [ApexCharts](https://apexcharts.com/angular-chart-demos/)
-6. [Nebular](https://akveo.github.io/nebular/)
-7. [Clarity](https://clarity.design/)
-8. [Core UI](https://coreui.io/angular/)
-9. [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/getting-started)
+1. [Kendo UI](https://www.telerik.com/kendo-angular-ui)
+2. [Angular Material](https://material.angular.io/)
+3. [NG Bootstrap](https://ng-bootstrap.github.io/#/home)
+4. [NGX-Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
+5. [PrimeNG](https://primeng.org/)
+6. [ApexCharts](https://apexcharts.com/angular-chart-demos/)
+7. [Nebular](https://akveo.github.io/nebular/)
+8. [Clarity](https://clarity.design/)
+9. [Core UI](https://coreui.io/angular/)
+10. [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/getting-started)
 
 ## Angular CLI
 
@@ -2250,6 +2255,13 @@ console.log(nextBiggest(arr));
     An HTTP interceptor returns the observable of the event stream.
 
     Observable<HttpEvent\<any>>
+
+# Vue
+
+## Vue Component Libraries
+
+- [Vuetify](https://vuetifyjs.com/en/)
+- [PrimeVue](https://primevue.org/)
 
 # HTML Snippet
 
