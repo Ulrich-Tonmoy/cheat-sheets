@@ -1,7 +1,5 @@
 - [AI](#ai)
 
-  - [AI Web Editor Platform](#ai-web-editor-platform)
-  - [AI Editors](#ai-editors)
   - [Chat AI](#chat-ai)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
@@ -16,44 +14,6 @@
 - [Google Colab](#google-colab)
 
 # 🤖AI🤖
-
-- ## AI Web Editor Platform
-
-  1. [v0](https://v0.dev/)
-  2. [Bolt](https://bolt.new/)
-  3. [Chef](https://chef.convex.dev/)
-  4. [MetaGPTX](https://mgx.dev/)
-  5. [Lovable](https://lovable.dev/)
-  6. [Firebase Studio](https://firebase.studio/) - [Stitch](https://stitch.withgoogle.com/)
-  7. [Replit](https://replit.com/)
-  8. [IDE by Bind AI](https://www.getbind.co/)
-  9. [Aide](https://aide.dev/)
-  10. [Devin AI](https://preview.devin.ai/)
-  11. [Tempo Labs](https://www.tempolabs.ai/)
-  12. [rork](https://rork.app/) - [a0](https://a0.dev/) - [appacella](https://www.appacella.com/) - [makeway](https://makeway.app/)
-  13. [builder.io](https://www.builder.io/)
-  14. [Blackbox](https://www.blackbox.ai/)
-  15. [Softgen](https://softgen.ai/)
-  16. [Wrapifai](https://wrapifai.com/)
-  17. [Databutton](https://databutton.com/)
-  18. [webdraw](https://webdraw.com/)
-  19. [Colab](https://colab.research.google.com/)
-
-- ## AI Editors
-
-  1. [Cursor](https://www.cursor.com/)
-  2. [Windsurf](https://codeium.com/windsurf)
-  3. [Trae](https://www.trae.ai/)
-  4. [Cline](https://cline.bot/) - [OpenRouter](https://openrouter.ai/)
-  5. [Augment Code](https://www.augmentcode.com/)
-  6. [PearAI](https://trypear.ai/)
-  7. [Supermaven](https://supermaven.com/)
-  8. [Qodo](https://www.qodo.ai/)
-  9. [Continue](https://www.continue.dev/)
-  10. [Void](https://github.com/voideditor/void)
-  11. [Tabby](https://github.com/TabbyML/tabby)
-  12. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  13. [MarsX](https://marsx.dev/)
 
 - ## Chat AI
 
