@@ -426,6 +426,7 @@
 2. #### Auth
    - [Clerk](https://clerk.com/)
    - [Kinde](https://kinde.com/)
+   - [Better-Auth](https://www.better-auth.com/)
    - [AuthKit](https://workos.com/)
    - [next-auth](https://next-auth.js.org/)
 3. #### Routing
