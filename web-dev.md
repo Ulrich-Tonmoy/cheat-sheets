@@ -471,6 +471,7 @@
    - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [Animate UI](https://animate-ui.com/) - [originui](https://originui.com/)
+   - [React Bits](https://reactbits.dev/) Animated React components
    - [magicui](https://magicui.design/docs/installation)
    - [aceternity](https://ui.aceternity.com/)
    - [NextUI](https://nextui.org/)
