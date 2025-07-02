@@ -380,8 +380,9 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
   3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [Electrobun](https://github.com/blackboardsh/electrobun)
   4. [Electron⚡️Vite](https://electron-vite.github.io/) - [electron-vite](https://electron-vite.org/)
   5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - [NW.js](https://github.com/nwjs/nw.js) - [NodeGui](https://github.com/nodegui/nodegui)
-  6. [Sciter JS](https://gitlab.com/sciter-engine/sciter-js-sdk)
-  7. [Gluon](https://github.com/gluon-framework/gluon)
+  6. [Capacitor](https://github.com/ionic-team/capacitor) - [Ionic](https://github.com/ionic-team/ionic-framework)
+  7. [Sciter JS](https://gitlab.com/sciter-engine/sciter-js-sdk)
+  8. [Gluon](https://github.com/gluon-framework/gluon)
 - ### C#
   1. [Godot](https://github.com/godotengine/godot)
   2. [.NET MAUI](https://github.com/dotnet/maui)
