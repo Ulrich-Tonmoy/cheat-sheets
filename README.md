@@ -27,7 +27,7 @@
 13. [timezones (Have multiple Timezone to compare)](https://www.timezones.digital/)
 14. [Prankshit - Fake Screenshot Generator](https://prankshit.com/)
 15. [Window view around the world](https://www.window-swap.com/Window) - [TV Garden](https://tv.garden/)
-16. [Wayback Machine](https://archive.org/web/)
+16. [Wayback Machine](https://archive.org/web/) - [de🔸digger (Find public files in Google Drive)](https://www.dedigger.com/)
 17. [Have I Been Pwned](https://haveibeenpwned.com/)
 18. [myheritage](https://www.myheritage.com/deep-nostalgia)
 19. [theuselessweb](https://theuselessweb.com/)
