@@ -470,7 +470,7 @@
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
-   - [shadcn/ui](https://ui.shadcn.com/) - [radix](https://www.radix-ui.com/)
+   - [shadcn/ui](https://ui.shadcn.com/) - [radix](https://www.radix-ui.com/) - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [React Bits](https://reactbits.dev/) - [Aceternity](https://ui.aceternity.com/)
    - [Animate UI](https://animate-ui.com/) - [originui](https://originui.com/)
    - [magicui](https://magicui.design/docs/installation)
