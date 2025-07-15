@@ -19,18 +19,19 @@
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
   2. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
-  3. [Claude](https://claude.ai/) - [Chat GPT](https://chatgpt.com/) - [Grok](https://x.ai/)
-  4. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
-  5. [Mistral](https://chat.mistral.ai/)
-  6. [Copilot](https://copilot.microsoft.com/)
-  7. [pentestgpt](https://pentestgpt.ai/) For learning Ethical hacking
-  8. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  9. [Bai Chat](https://chatbot.theb.ai)
-  10. [monica](https://monica.im/)
-  11. [Zapier](https://zapier.com/central)
-  12. [You](https://you.com/)
-  13. [HuggingChat](https://huggingface.co/chat/)
-  14. [Ora AI](https://ora.ai/)
+  3. [Claude](https://claude.ai/) - [Grok](https://x.ai/)
+  4. [Chat GPT](https://chatgpt.com/) - [Free ChatGPT Acc](https://chatgptplus.cn/)
+  5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
+  6. [Mistral](https://chat.mistral.ai/)
+  7. [Copilot](https://copilot.microsoft.com/)
+  8. [pentestgpt](https://pentestgpt.ai/) For learning Ethical hacking
+  9. [Perplexity](https://www.perplexity.ai/) For Search or Research
+  10. [Bai Chat](https://chatbot.theb.ai)
+  11. [monica](https://monica.im/)
+  12. [Zapier](https://zapier.com/central)
+  13. [You](https://you.com/)
+  14. [HuggingChat](https://huggingface.co/chat/)
+  15. [Ora AI](https://ora.ai/)
 
 - ## Free AI and LLMs Playgrounds
 
