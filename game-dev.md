@@ -361,6 +361,7 @@
   9. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
   10. [kdenlive](https://kdenlive.org/en/)
   11. [filmora](https://filmora.wondershare.com/)
+  12. [Friction](https://github.com/friction2d/friction)
 
 - ## Game Dev AI Tools
 
