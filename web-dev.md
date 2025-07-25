@@ -130,16 +130,17 @@
 
 - ## Js Links
 
-  1. [swiperjs](https://swiperjs.com/)
-  2. [kute](https://thednp.github.io/kute.js/)
-  3. [emailjs](https://www.emailjs.com/)
-  4. [turnjs](http://turnjs.com/)
-  5. [leafletjs](https://leafletjs.com/)
-  6. [particles](https://vincentgarreau.com/particles.js/)
-  7. [desandro](https://masonry.desandro.com/)
-  8. [konvajs](https://konvajs.org/)
-  9. [popper](https://popper.js.org/)
-  10. [tweenjs](https://github.com/tweenjs/tween.js/)
+  1. [JavaScript Visualizer 9000](https://www.jsv9000.app/)
+  2. [swiperjs](https://swiperjs.com/)
+  3. [kute](https://thednp.github.io/kute.js/)
+  4. [emailjs](https://www.emailjs.com/)
+  5. [turnjs](http://turnjs.com/)
+  6. [leafletjs](https://leafletjs.com/)
+  7. [particles](https://vincentgarreau.com/particles.js/)
+  8. [desandro](https://masonry.desandro.com/)
+  9. [konvajs](https://konvajs.org/)
+  10. [popper](https://popper.js.org/)
+  11. [tweenjs](https://github.com/tweenjs/tween.js/)
 
 - ## CSS Links
 
@@ -494,6 +495,7 @@
    - [21st.dev](https://21st.dev/)
 9. #### Other UI libs
    - [player](https://player.style/) Video and audio player themes built with Media Chrome
+   - [Wavesurfer.js](https://wavesurfer.xyz/) Audio visualizer
    - [react-player](https://cookpete.github.io/react-player/)
    - [xyflow](https://www.xyflow.com/) node-based UIs - [Drawflow](https://github.com/jerosoler/Drawflow)
    - [uiverse](https://uiverse.io/buttons) Button designs
