@@ -453,6 +453,7 @@
    - [Zod](https://zod.dev/)
 7. #### Styling
    - [Tailwind CSS](https://tailwindcss.com/)
+     - [patterncraft](https://patterncraft.fun/)
      - [flowbite](https://flowbite.com/)
      - [Keep React](https://react.keepdesign.io/)
      - [tailblocks](https://tailblocks.cc/)
