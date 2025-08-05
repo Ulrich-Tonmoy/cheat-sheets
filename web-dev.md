@@ -38,6 +38,7 @@
       - [Animation](#animation)
       - [Data Visualization/Chart/Table](#data-visualization-chart-table)
       - [PDF Doc](#pdf-doc)
+      - [Payment Methods](#payment-methods)
       - [Markdown/Rich Text Editor](#markdown-rich-text-editor)
       - [Tour Guide](#tour-guide)
       - [HTTP](#http)
@@ -422,12 +423,13 @@
    - [Astro (Content-based Website)](https://astro.build/)
    - [React Admin (B2B React Framework)](https://marmelab.com/react-admin/)
    - [Refine (B2B React Framework)](https://refine.dev/)
+   - [Better T Stack (Modern CLI for scaffolding end-to-end type-safe TypeScript projects)](https://better-t-stack.dev/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Auth
    - [Clerk](https://clerk.com/)
-   - [Kinde](https://kinde.com/)
    - [Better-Auth](https://www.better-auth.com/)
+   - [Kinde](https://kinde.com/)
    - [AuthKit](https://workos.com/)
    - [next-auth](https://next-auth.js.org/)
 3. #### Routing
@@ -557,7 +559,12 @@
     - [pdfkit](https://github.com/foliojs/pdfkit)
     - [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
     - [react-doc-viewer](https://github.com/cyntler/react-doc-viewer)
-14. #### Markdown Rich Text Editor
+14. #### Payment Methods
+    - [Stripe](https://stripe.com/)
+    - [Clerk](https://clerk.com/billing)
+    - [SSLCOMMERZ](https://sslcommerz.com/payment-gateway/)
+    - [bKash](https://developer.bka.sh/)
+15. #### Markdown Rich Text Editor
     - [MDXEditor](https://mdxeditor.dev/)
     - [quill](https://quilljs.com/)
     - [platejs](https://platejs.org/)
@@ -569,7 +576,7 @@
     - [ckeditor5](https://ckeditor.com/ckeditor-5/)
     - [Muyu](https://github.com/marktext/muya)
     - [shiki](https://github.com/shikijs/shiki)
-15. #### Tour Guide
+16. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
     - [introjs](https://introjs.com/)
@@ -578,46 +585,46 @@
     - [flows](https://flows.sh/)
     - [shepherdjs](https://shepherdjs.dev/)
     - [bootstraptour](https://bootstraptour.com/)
-16. #### HTTP
+17. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
     - [Ky](https://github.com/sindresorhus/ky)
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
     - [Alova](https://github.com/alovajs/alova)
-17. #### Date Time
+18. #### Date Time
     - [luxon](https://moment.github.io/luxon/#/)
     - [dayjs](https://github.com/iamkun/dayjs)
     - [date-fns](https://github.com/date-fns/date-fns)
     - [spacetime](https://github.com/spencermountain/spacetime)
     - [moment](https://github.com/moment/moment/)
-18. #### Internationalization
+19. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-19. #### Rendering Performance
+20. #### Rendering Performance
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
     - [ForesightJS](https://foresightjs.com/)
-20. #### Testing
+21. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-21. #### Documentation
+22. #### Documentation
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-22. #### Type Checking
+23. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-23. #### Visual Editors
+24. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
-24. #### Other Libraries
+25. #### Other Libraries
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) is a library that enables real-time, bidirectional communication between web clients and servers.
@@ -627,7 +634,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-25. #### DevTools
+26. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
