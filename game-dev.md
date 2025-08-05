@@ -24,6 +24,7 @@
   - [Texture Material Shader](#texture-material-shader)
   - [2d Assets](#2d-assets)
   - [Logo maker](#logo-maker)
+  - [VFX](#vfx)
   - [Video Editor](#video-editor)
   - [Game Dev AI Tools](#game-dev-ai-tools)
   - [Game Audio App](#game-audio-app)
@@ -347,6 +348,13 @@
   1. [TheHoth](https://logomaker.thehoth.com)
   2. [Logomakr](https://logomakr.com)
   3. [game-icons](https://game-icons.net/)
+
+- ## VFX
+
+  1. [Elemental Suite](https://jangafx.com/) - IlluGen | EmberGen | LiquiGen | GeoGen
+  2. [Houdini](https://www.sidefx.com/products/houdini/)
+  3. [Cinema 4D](https://www.maxon.net/en/product-detail/cinema-4d)
+  4. [Harmony](https://www.toonboom.com/products/harmony)
 
 - ## Video Editor
 
