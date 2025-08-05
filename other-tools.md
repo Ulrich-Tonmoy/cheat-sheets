@@ -10,6 +10,7 @@
 - [Code Editors](#code-editors)
 - [Note-taking Apps](#note-taking-apps)
 - [Native App Framework](#native-app-framework)
+- [Other Tools](#other-tools)
 - [Other Repos](#other-repos)
 
 # Workspace tools
@@ -429,6 +430,10 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
   1. [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
 - ### Dart
   1. [Flutter](https://github.com/flutter/flutter)
+
+# Other Tools
+
+1. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
 
 # Other Repos
 
