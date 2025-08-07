@@ -440,8 +440,8 @@
    - [Zustand](https://zustand-demo.pmnd.rs/)
    - [Jotai](https://jotai.org/)
    - [mobx](https://mobx.js.org/)
+   - [effector](https://effector.dev/)
    - [TanStack Query](https://tanstack.com/query/latest)
-   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
    - [Apollo Client](https://www.apollographql.com/docs/react/)
    - [swr](https://swr.vercel.app/)
 5. #### Form
