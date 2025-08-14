@@ -71,5 +71,13 @@
   - [React Navigation](https://github.com/react-navigation/react-navigation)
   - [FlashList](https://github.com/shopify/flash-list)
   - [Legend](https://github.com/LegendApp/legend-list)
+  - [React Native Fast Shimmer](https://github.com/callstack/react-native-fast-shimmer)
+  - [React Native Screen Transitions](https://github.com/eds2002/react-native-screen-transitions)
+  - [expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient)
+- ## Animation
+  - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
+  - [Nativewind](https://www.nativewind.dev/)
   - [Unistyles](https://www.unistyl.es/)
+- ## Dev Tools
+  - [Rozenite](https://github.com/callstackincubator/rozenite)
