@@ -19,7 +19,7 @@
 - [Zen](https://www.zen-browser.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Brave](https://brave.com/) - [Ladybird](https://ladybird.org/) - [Servo](https://servo.org/)
 - [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys) - [UniGetUI](https://github.com/marticliment/WingetUI)
 - [RectifyPad](https://github.com/Lixkote/RectifyPad) - [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - [YASB Reborn](https://github.com/amnweb/yasb) - [Lively Wallpaper](https://apps.microsoft.com/detail/9ntm2qc6qws7)
-- [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [Windhawk](https://windhawk.net/)
+- [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [Windhawk](https://windhawk.net/) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [Loaf](https://github.com/DinoChan/Loaf)
 - [Crapfixer](https://github.com/builtbybel/Crapfixer) - [Microsoft PC Manager](https://pcmanager.microsoft.com/en-us) - [TinyTask](https://tinytask.net/) - [windirstat](https://windirstat.net/) - [Partition Wizard](https://www.partitionwizard.com/download.html)
 
 - ## MS 365
@@ -171,8 +171,25 @@ Linux:
 
 - Open Registry Editor (Search it in the windows search)
 - In the Registry Editor put the bellow link in the nav it will take you to folder name AnyCode just delete the folder
-- HKEY_CLASSES_ROOT\Directory\Background\shell\AnyCode
-- HKEY_CLASSES_ROOT\Directory\shell\AnyCode
+- `HKEY_CLASSES_ROOT\Directory\Background\shell\AnyCode`
+- `HKEY_CLASSES_ROOT\Directory\shell\AnyCode`
+
+## Hide Web Search in Start Search
+
+- Open Registry Editor (Search it in the windows search)
+- In the Registry Editor put the bellow link in the nav it will take you to folder name System
+- `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer`
+- If doesn't exist then go to the below path
+- `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\`
+- In Windows add New Key Name `Explorer`
+- Then while the System selected on the right add new DWORD(32-bit) named `DisableSearchBoxSuggestions` value `1`
+
+## Get Startup/Shutdown Time Info About Services
+
+- Open Registry Editor (Search it in the windows search)
+- In the Registry Editor put the bellow link in the nav it will take you to folder name System
+- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System`
+- Then while the System selected on the right add new DWORD(32-bit) named `VerboseStatus` value `1`
 
 ## Clean Run recent lists
 
