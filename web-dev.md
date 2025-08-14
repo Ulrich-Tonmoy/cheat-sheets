@@ -529,7 +529,7 @@
     - [GSAP](https://gsap.com/resources/React/)
     - [Framer Motion](https://www.framer.com/motion/)
     - [react-spring](https://www.react-spring.dev/)
-    - [remotion](https://www.remotion.dev/)
+    - [Remotion](https://www.remotion.dev/) - [Motion Canvas](https://motioncanvas.io/)
     - [theatrejs](https://www.theatrejs.com/)
     - [threejs](https://threejs.org/)
     - [typed-js](https://mattboldt.com/demos/typed-js/)
