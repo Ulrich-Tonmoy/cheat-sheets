@@ -99,6 +99,15 @@
 50. [anime-chan](https://github.com/rocktimsaikia/anime-chan)
 51. [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
+# Programming Challenge Platforms
+
+1. [Codecrafters](https://app.codecrafters.io/catalog)
+2. [Boot.Dev](https://www.boot.dev/)
+3. [Coddy Tech](https://coddy.tech/)
+4. [codingame](https://www.codingame.com/start/)
+5. [Leetcode](https://leetcode.com/)
+6. [codeforces](https://codeforces.com/)
+
 # 🔗Job🔗
 
 1. [Japan Dev](https://japan-dev.com/)
