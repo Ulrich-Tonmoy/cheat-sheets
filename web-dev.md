@@ -51,9 +51,7 @@
       - [Visual Editors](#visual-editors)
       - [Other Libraries](#other-libraries)
       - [DevTools](#devtools)
-    - [Folder Structure](#folder-structure)
     - [React Best Practices](#react-best-practices)
-    - [Interview Questions](#interview-questions)
   - [Angular](#angular)
     - [Component Libraries](#angular-component-libraries)
     - [Angular Cli](#angular-cli)
@@ -455,7 +453,7 @@
    - [Zod](https://zod.dev/)
 7. #### Styling
    - [Tailwind CSS](https://tailwindcss.com/)
-     - [patterncraft](https://patterncraft.fun/)
+     - [patterncraft](https://patterncraft.fun/) for background
      - [flowbite](https://flowbite.com/)
      - [Keep React](https://react.keepdesign.io/)
      - [tailblocks](https://tailblocks.cc/)
@@ -474,20 +472,31 @@
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
-   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [radix](https://www.radix-ui.com/) - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
-   - [React Bits](https://reactbits.dev/) - [Aceternity](https://ui.aceternity.com/)
-   - [Animate UI](https://animate-ui.com/) - [originui](https://originui.com/)
-   - [skiper-ui](https://skiper-ui.com/) - [magicui](https://magicui.design/docs/installation)
-   - [MUI](https://mui.com/) - [Chakra UI](https://chakra-ui.com/)
-   - [Ant Design](https://ant.design/) - [Mantine](https://mantine.dev/)
-   - [Fluent UI](https://github.com/microsoft/fluentui) - [daisyUI](https://daisyui.com/)
-   - [HeroUI](https://www.heroui.com/)
+   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [radix](https://www.radix-ui.com/)
+     - [ReUI](https://reui.io/)
+     - [Tailark](https://tailark.com/)
+     - [motion-primitives](https://motion-primitives.com/)
+     - [kokonut UI](https://kokonutui.com/)
+     - [Smooth UI](https://smoothui.dev/)
+     - [cult-ui](https://www.cult-ui.com/)
+     - [Aceternity](https://ui.aceternity.com/)
+     - [Animate UI](https://animate-ui.com/)
+     - [originui](https://originui.com/)
+     - [scrollx-ui](https://scrollx-ui.vercel.app/)
+     - [skiper-ui](https://skiper-ui.com/)
+     - [magicui](https://magicui.design/docs/installation)
+     - [eldoraui](https://www.eldoraui.site/)
+     - [21st.dev](https://21st.dev/)
+     - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
+   - [React Bits](https://reactbits.dev/)
+   - [MUI Material UI](https://mui.com/)
+   - [Ark UI](https://ark-ui.com/) - [Chakra UI](https://chakra-ui.com/) - [Park UI](https://park-ui.com/)
+   - [Ant Design](https://ant.design/) - [Mantine](https://mantine.dev/) - [daisyUI](https://daisyui.com/)
+   - [HeroUI](https://www.heroui.com/) - [Fluent UI](https://github.com/microsoft/fluentui)
+   - [KendoReact](https://www.telerik.com/kendo-react-ui) - [Syncfusion React](https://www.syncfusion.com/react-components)
    - [headlessui](https://headlessui.com/)
    - [react-aria](https://react-spectrum.adobe.com/react-aria/)
-   - [eldoraui](https://www.eldoraui.site/)
-   - [ark-ui](https://ark-ui.com/)
    - [ariakit](https://ariakit.org/)
-   - [park-ui](https://park-ui.com/)
    - [evergreen](https://evergreen.segment.com/)
    - [PrimeReact](https://github.com/primefaces/primereact)
    - [React Bootstrap](https://react-bootstrap.github.io/)
@@ -495,7 +504,6 @@
    - [React Suite](https://rsuitejs.com/)
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
-   - [21st.dev](https://21st.dev/)
 9. #### Other UI libs
    - [player](https://player.style/) Video and audio player themes built with Media Chrome
    - [Wavesurfer.js](https://wavesurfer.xyz/) Audio visualizer
@@ -646,146 +654,6 @@
     - [CSS Peeper (chrome link)](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
     - [CSS Viewer for Google Chrome (chrome link)](https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag)
     - [Project Naptha (chrome link)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
-
-# Folder Structure
-
-### 1:
-
-```
-└── src/
-    ├── assets/
-    ├── components/
-    │   ├── SignUpForm.tsx
-    │   ├── Employees.tsx
-    │   ├── PaymentForm.tsx
-    │   └── Button.tsx
-    ├── hooks/
-    │   ├── usePayment.ts
-    │   ├── useUpdateEmployee.ts
-    │   ├── useEmployees.ts
-    │   └── useAuth.tsx
-    ├── lib/
-    │   ├── constants/
-    │   ├── helpers/
-    │   └── types/
-    ├── pages/
-    │   ├── Admin/
-    │   │   └── ...
-    │   ├── Auth/
-    │   │   └── ...
-    │   └── ...
-    ├── services/
-    │   ├── authService.ts
-    │   └── axios.ts
-    ├── main.tsx
-    └── App.tsx
-```
-
-### 2:
-
-```
-└── src/
-    ├── assets/
-    ├── app/
-    │   ├── components/
-    │   │   ├── AppLayout/
-    │   │   ├── ContextProvider/
-    │   │   ├── Utils/
-    │   │   ├── UI/
-    │   │   │   ├── Buttons/
-    │   │   │   └── Inputs/
-    │   │   ├── Layout/
-    │   │   ├── Loader.tsx
-    │   │   └── ...
-    │   ├── features/
-    │   │   ├── Admin/
-    │   │   │   └── ...
-    │   │   ├── Auth/
-    │   │   │   └── ...
-    │   │   └── ...
-    │   ├── pages/
-    │   │   ├── Admin/
-    │   │   │   └── ...
-    │   │   ├── Auth/
-    │   │   │   └── ...
-    │   │    └── ...
-    │   ├── routes/
-    │   │   ├── AppRoutes.tsx
-    │   │   └── ...
-    ├── hooks/
-    │   ├── auth/
-    │   │   └── useAuth.ts
-    │   ├── payment/
-    │   │   └── usePayment.ts
-    │   └── employees/
-    │       ├── useEmployees.ts
-    │       └── useUpdateEmployee.ts
-    ├── lib/
-    │   ├── configs/
-    │   │   ├── store.ts
-    │   │   ├── theme.ts
-    │   │   ├── i18n.ts
-    │   │   └── ...
-    │   ├── constants/
-    │   ├── helpers/
-    │   └── types/
-    ├── services/
-    │   ├── authService.ts
-    │   └── axios.ts
-    └── main.tsx
-```
-
-### 3:
-
-```
-└── src/
-    ├── assets/
-    ├── core/
-    │   ├── services/
-    │   ├── store/
-    │   ├── configs/
-    │   └── ...
-    ├── modules/
-    │   ├── payment/
-    │   │   ├── components/
-    │   │   │   └── PaymentForm.tsx
-    │   │   ├── hooks/
-    │   │   │   └── usePayment.ts
-    │   │   ├── index.tsx
-    │   │   └── ...
-    │   ├── auth/
-    │   │   ├── components/
-    │   │   │   └── SignUpForm.tsx
-    │   │   ├── index.tsx
-    │   │   └── ...
-    │   ├── employees/
-    │   │   ├── components/
-    │   │   │   ├── EmployeeList.tsx
-    │   │   │   └── EmployeeSummary.tsx
-    │   │   ├── hooks/
-    │   │   │   ├── useEmployees.ts
-    │   │   │   └── useUpdateEmployee.ts
-    │   │   ├── index.tsx
-    │   │   └── ...
-    │   └── ...
-    ├── shared/
-    │   ├── components/
-    │   │   └── Button.tsx
-    │   ├── constants/
-    │   ├── enums/
-    │   ├── hooks/
-    │   │   └── useAuth.ts
-    │   ├── models/
-    │   ├── types/
-    │   ├── utils/
-    │   └── ...
-    ├── App.tsx (with routes)
-    ├── main.tsx
-    └── ...
-```
-
-> [!Note]
-> These are just to give you an idea about how to structure you project and not the absolute you should always follow.
 
 # React Best Practices
 
@@ -1211,8 +1079,6 @@ const Message = () => {
 "2" === 2 ? true : false; // false
 ```
 
-# Interview Questions
-
 ### Find 2nd largest number in array
 
 ```js
@@ -1221,11 +1087,11 @@ function nextBiggest(arr) {
     result = 0;
 
   for (const value of arr) {
-    const nr = Number(value);
-    if (nr > max) {
-      [result, max] = [max, nr]; // save previous max
-    } else if (nr < max && nr > result) {
-      result = nr; // new second biggest
+    const val = Number(value);
+    if (val > max) {
+      [result, max] = [max, val]; // save previous max
+    } else if (val < max && val > result) {
+      result = val; // new second biggest
     }
   }
   return result;
@@ -1246,9 +1112,26 @@ console.log(nextBiggest(arr));
 ### Suspense
 
 ```js
-<Suspense fallback={<Loading />}>
-  <SomeComponent />
-</Suspense>
+async function TodoList() {
+  const todos = await getTodos();
+
+  return (
+    <div className="mt-8 flex flex-col gap-4">
+      todos.map((todo) => (
+      <Card key="{todo.id}">
+        <CardHeader>
+          <CardTitle className="text-2xl font-bold">{todo.title}</CardTitle>
+        </CardHeader>
+        <CardContent>{todo.description}</CardContent>
+      </Card>
+      ))}
+    </div>
+  );
+}
+
+<Suspense fallback={<div>Loading...</div>}>
+  <TodoList />
+</Suspense>;
 ```
 
 # Angular
@@ -4206,7 +4089,7 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   9. Spreadsheet: [Teable](https://github.com/teableio/teable) - Airtable: [NocoDB](https://github.com/nocodb/nocodb)
   10. Local-first: [TinyBase](https://tinybase.org/) - [Dexie.js](https://dexie.org/) - [Electric](https://electric-sql.com/) - [watermelondb](https://watermelondb.dev/) - [RxDB](https://rxdb.info/)
   11. CMS: [Sanity](https://github.com/sanity-io/sanity) - [payloadcms](https://payloadcms.com/)
-  12. [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - [CockroachDB](https://github.com/cockroachdb/cockroach)
+  12. [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - [CockroachDB](https://github.com/cockroachdb/cockroach) - [DuckDB](https://github.com/duckdb/duckdb)
 
 # ASP.NET
 
