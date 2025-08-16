@@ -481,6 +481,7 @@
      - [cult-ui](https://www.cult-ui.com/)
      - [Aceternity](https://ui.aceternity.com/)
      - [Animate UI](https://animate-ui.com/)
+     - [AI SDK](https://ai-sdk.dev/)
      - [originui](https://originui.com/)
      - [scrollx-ui](https://scrollx-ui.vercel.app/)
      - [skiper-ui](https://skiper-ui.com/)
