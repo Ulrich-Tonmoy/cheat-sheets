@@ -19,8 +19,8 @@
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
   2. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
-  3. [Claude](https://claude.ai/) - [Grok](https://x.ai/)
-  4. [Chat GPT](https://chatgpt.com/) - [Free ChatGPT Acc](https://chatgptplus.cn/)
+  3. [Claude](https://claude.ai/) - [Grok](https://x.ai/) - [Chat GPT](https://chatgpt.com/)
+  4. [Free ChatGPT Acc](https://chatgptplus.cn/) - [ChatGPT Free](https://chatgptfree.ai/)
   5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
   6. [Mistral](https://chat.mistral.ai/)
   7. [Copilot](https://copilot.microsoft.com/)
