@@ -222,13 +222,14 @@
 - ## 3d Animation App
 
   1. [Actor Core AUTO RIG](https://actorcore.reallusion.com/)
-  2. [Mixamo](https://www.mixamo.com)
-  3. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
-  4. [Cascadeur](https://cascadeur.com/)
-  5. [deepmotion](https://www.deepmotion.com/)
-  6. [plask](https://plask.ai/)
-  7. [radicalmotion](https://radicalmotion.com/)
-  8. [AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
+  2. [Mesh2Motion](https://mesh2motion.org/)
+  3. [Mixamo](https://www.mixamo.com)
+  4. [Mixamo Character Animation Combiner](https://nilooy.github.io/character-animation-combiner)
+  5. [Cascadeur](https://cascadeur.com/)
+  6. [deepmotion](https://www.deepmotion.com/)
+  7. [plask](https://plask.ai/)
+  8. [radicalmotion](https://radicalmotion.com/)
+  9. [AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
 
 - ## 2d Art APP
 
