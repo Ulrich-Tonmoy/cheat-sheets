@@ -80,12 +80,12 @@
 - ## Frontend Frameworks
 
   1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [Astro](https://github.com/withastro/astro) - [Remix](https://github.com/remix-run/remix) - [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [umi](https://github.com/umijs/umi)
-  2. [Angular](https://github.com/angular/angular)
-  3. [Solid](https://github.com/solidjs/solid) - [Solid Start](https://github.com/solidjs/solid-start)
-  4. [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
-  5. [Preact](https://github.com/preactjs/preact)
-  6. [htmx](https://github.com/bigskysoftware/htmx)
-  7. [Vue](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
+  2. [Vue](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
+  3. [Angular](https://github.com/angular/angular)
+  4. [Solid](https://github.com/solidjs/solid) - [Solid Start](https://github.com/solidjs/solid-start)
+  5. [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
+  6. [Preact](https://github.com/preactjs/preact)
+  7. [htmx](https://github.com/bigskysoftware/htmx)
   8. [Svelte](https://github.com/sveltejs/svelte) - [Kit](https://github.com/sveltejs/kit)
   9. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
   10. [riot](https://github.com/riot/riot)
@@ -2154,6 +2154,12 @@ async function TodoList() {
 
 - [Vuetify](https://vuetifyjs.com/en/)
 - [PrimeVue](https://primevue.org/)
+- [Flowbite](https://flowbite-vue.com/)
+- [Element Plus](https://element-plus.org/en-US/)
+- [Naïve UI](https://www.naiveui.com/en-US/os-theme)
+- [Equal UI](https://equal-ui.github.io/Equal/)
+- [Buefy](https://buefy.org/)
+- [BootstrapVue](https://bootstrap-vue.org/)
 
 # HTML Snippet
 
