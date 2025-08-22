@@ -323,7 +323,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 7. [Replit](https://replit.com/)
 8. [IDE by Bind AI](https://www.getbind.co/)
 9. [Aide](https://aide.dev/)
-10. [Devin AI](https://preview.devin.ai/)
+10. [Devin AI](https://devin.ai/) - [CodeRabbit](https://www.coderabbit.ai/)
 11. [Tempo Labs](https://www.tempolabs.ai/)
 12. [rork](https://rork.app/) - [a0](https://a0.dev/) - [appacella](https://www.appacella.com/) - [makeway](https://makeway.app/)
 13. [builder.io](https://www.builder.io/)
