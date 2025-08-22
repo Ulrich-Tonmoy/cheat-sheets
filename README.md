@@ -94,11 +94,12 @@
 44. [computer-science](https://github.com/ossu/computer-science)
 45. [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 46. [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-47. [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-48. [data-science](https://github.com/ossu/data-science)
-49. [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-50. [anime-chan](https://github.com/rocktimsaikia/anime-chan)
-51. [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+47. [system-design-primer](https://github.com/donnemartin/system-design-primer)
+48. [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+49. [data-science](https://github.com/ossu/data-science)
+50. [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+51. [anime-chan](https://github.com/rocktimsaikia/anime-chan)
+52. [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
 # Programming Challenge Platforms
 
