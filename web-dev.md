@@ -281,7 +281,7 @@
 - ## Icons
 
   1. [techicons](https://techicons.dev/) - [macosicongallery](https://www.macosicongallery.com/) - [macosicons](https://macosicons.com/)
-  2. [svgl](https://svgl.app/)
+  2. [svgl](https://svgl.app/) - [AnimateIcons](https://animateicons.vercel.app/)
   3. [vscode-codicons](https://github.com/microsoft/vscode-codicons)
   4. [feathericons](https://feathericons.com/)
   5. [iconify](https://icon-sets.iconify.design/)
