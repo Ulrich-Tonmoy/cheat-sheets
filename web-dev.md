@@ -2161,6 +2161,10 @@ async function TodoList() {
 - [Buefy](https://buefy.org/)
 - [BootstrapVue](https://bootstrap-vue.org/)
 
+## Vue Store
+
+- [Pinia](https://pinia.vuejs.org/)
+
 # HTML Snippet
 
 <p align="center">
