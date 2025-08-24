@@ -79,17 +79,17 @@
 
 - ## Frontend Frameworks
 
-  1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [Astro](https://github.com/withastro/astro) - [Remix](https://github.com/remix-run/remix) - [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [umi](https://github.com/umijs/umi)
-  2. [Vue](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
-  3. [Angular](https://github.com/angular/angular)
+  1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [TanStack Start](https://tanstack.com/start/latest) - [Astro](https://github.com/withastro/astro)
+  2. [Remix](https://github.com/remix-run/remix) - [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [umi](https://github.com/umijs/umi)
+  3. [Vue.js](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
   4. [Solid](https://github.com/solidjs/solid) - [Solid Start](https://github.com/solidjs/solid-start)
-  5. [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
-  6. [Preact](https://github.com/preactjs/preact)
-  7. [htmx](https://github.com/bigskysoftware/htmx)
-  8. [Svelte](https://github.com/sveltejs/svelte) - [Kit](https://github.com/sveltejs/kit)
-  9. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
-  10. [riot](https://github.com/riot/riot)
-  11. [Alpine.js](https://github.com/alpinejs/alpine)
+  5. [Svelte](https://github.com/sveltejs/svelte) - [Svelte Kit](https://github.com/sveltejs/kit)
+  6. [Preact](https://github.com/preactjs/preact) - [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
+  7. [Angular](https://github.com/angular/angular)
+  8. [htmx](https://github.com/bigskysoftware/htmx)
+  9. [Alpine.js](https://github.com/alpinejs/alpine)
+  10. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
+  11. [riot](https://github.com/riot/riot)
   12. [Nuejs](https://github.com/nuejs/nuejs)
   13. [Yew](https://github.com/yewstack/yew)
   14. [neo.mjs](https://github.com/neomjs/neo)
@@ -4083,12 +4083,12 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
 
 - ## Backend Framework
 
-  1. [ASP.NET](https://github.com/dotnet/aspnetcore)
-  2. [Express](https://github.com/expressjs/express) - [fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest)
-  3. [Elysia](https://github.com/elysiajs/elysia) - [Hono](https://github.com/honojs/hono) - [H3](https://github.com/unjs/h3) - [Hattip](https://github.com/hattipjs/hattip)
-  4. [Fresh](https://github.com/denoland/fresh) - [Skip](https://github.com/SkipLabs/skip) - [koa](https://github.com/koajs/koa)
-  5. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi)
-  6. [phoenix](https://github.com/phoenixframework/phoenix)
+  1. [ASP.NET Core](https://github.com/dotnet/aspnetcore)
+  2. [Express](https://github.com/expressjs/express) - [Fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest) - [Hono](https://github.com/honojs/hono) - [Elysia](https://github.com/elysiajs/elysia)
+  3. [Fresh](https://github.com/denoland/fresh) - [H3](https://github.com/unjs/h3) - [Skip](https://github.com/SkipLabs/skip) - [koa](https://github.com/koajs/koa) - [Hattip](https://github.com/hattipjs/hattip)
+  4. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi) - [Flask](https://github.com/pallets/flask)
+  5. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber)
+  6. [Phoenix](https://github.com/phoenixframework/phoenix)
   7. [Amplication](https://github.com/amplication/amplication)
 
 - ## Backend as a Service and Database
