@@ -537,6 +537,7 @@
 11. #### Animation
     - [GSAP](https://gsap.com/resources/React/)
     - [Framer Motion](https://www.framer.com/motion/)
+    - [SSGOI](https://ssgoi.dev/en) Build native app-like page transitions for the web.
     - [react-spring](https://www.react-spring.dev/)
     - [Remotion](https://www.remotion.dev/) - [Motion Canvas](https://motioncanvas.io/)
     - [theatrejs](https://www.theatrejs.com/)
@@ -554,6 +555,8 @@
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
+    - [Headless Chart](https://headless-chart.pages.dev/)
+    - [Flitter](https://flitter.dev/) A JavaScript rendering engine for next-level web graphics.
     - [RacingBars](https://racing-bars.hatemhosny.dev/)
     - [d3js](https://d3js.org/)
     - [tremor](https://www.tremor.so/)
