@@ -81,3 +81,7 @@
   - [Unistyles](https://www.unistyl.es/)
 - ## Dev Tools
   - [Rozenite](https://github.com/callstackincubator/rozenite)
+
+# Go Libraries
+
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea)
