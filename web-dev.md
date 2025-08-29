@@ -506,6 +506,8 @@
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
 9. #### Other UI libs
+   - [Ink](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
+   - [OpenTUI](https://github.com/sst/opentui) TypeScript library for building terminal user interfaces (TUIs).
    - [player](https://player.style/) Video and audio player themes built with Media Chrome
    - [Wavesurfer.js](https://wavesurfer.xyz/) Audio visualizer
    - [react-player](https://cookpete.github.io/react-player/)
