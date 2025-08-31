@@ -1,7 +1,11 @@
+- [🔖Web Dev Tools](#🔖web-dev-tools)
+- [Native App Dev Tool Links](#native-app-dev-tool-links)
+
 # <p align="center">🔖Web Dev Tools</></p>
 
 - [Frontend](#frontend)
   - [Useful Links](#useful-links)
+    - [JavaScript Runtime](#javascript-runtime)
     - [Frontend Frameworks](#frontend-frameworks)
     - [Mock Up Tools](#mock-up-tools)
     - [Code Screenshots](#code-screenshots)
@@ -76,6 +80,30 @@
 # Frontend
 
 # Useful Links
+
+- ## JavaScript Runtime
+
+  1. [Bun](https://github.com/oven-sh/bun)
+  2. [Node.js](https://github.com/nodejs/node)
+  3. [Deno](https://github.com/denoland/deno/)
+  4. [LLRT](https://github.com/awslabs/llrt)
+  5. [WinterJS](https://github.com/wasmerio/winterjs)
+  6. [txiki.js](https://github.com/saghul/txiki.js/)
+  7. [Bare](https://github.com/holepunchto/bare)
+  8. [Kaluma](https://github.com/kaluma-project/kaluma)
+  9. [QuickJS](https://github.com/quickjs-ng/quickjs)
+  10. [QuickJS](https://github.com/bellard/quickjs)
+  11. [Hermes](https://github.com/facebook/hermes)
+  12. [PrimJS](https://github.com/lynx-family/primjs)
+  13. [V8](https://github.com/v8/v8)
+  14. [JavaScriptCore](https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore)
+  15. [SpiderMonkey](https://github.com/mozilla-firefox/firefox/tree/main/js/src)
+  16. [JerryScript](https://github.com/jerryscript-project/jerryscript)
+  17. [mJS](https://github.com/cesanta/mjs)
+  18. [Espruino](https://github.com/espruino/Espruino)
+  19. [Boa](https://github.com/boa-dev/boa)
+  20. [Rhino](https://github.com/mozilla/rhino)
+  21. [Nashorn](https://github.com/openjdk/nashorn)
 
 - ## Frontend Frameworks
 
@@ -579,15 +607,15 @@
     - [SSLCOMMERZ](https://sslcommerz.com/payment-gateway/)
     - [bKash](https://developer.bka.sh/)
 15. #### Markdown Rich Text Editor
+    - [blocksuite](https://blocksuite.io/)
+    - [platejs](https://platejs.org/)
+    - [blocknotejs](https://www.blocknotejs.org/)
+    - [ckeditor5](https://ckeditor.com/ckeditor-5/)
     - [MDXEditor](https://mdxeditor.dev/)
     - [quill](https://quilljs.com/)
-    - [platejs](https://platejs.org/)
     - [editorjs](https://editorjs.io/)
-    - [blocknotejs](https://www.blocknotejs.org/)
-    - [blocksuite](https://blocksuite.io/)
     - [yoopta](https://yoopta.dev/)
     - [tiptap](https://tiptap.dev/)
-    - [ckeditor5](https://ckeditor.com/ckeditor-5/)
     - [Muyu](https://github.com/marktext/muya)
     - [shiki](https://github.com/shikijs/shiki)
 16. #### Tour Guide
@@ -4089,9 +4117,10 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   2. [Express](https://github.com/expressjs/express) - [Fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest) - [Hono](https://github.com/honojs/hono) - [Elysia](https://github.com/elysiajs/elysia)
   3. [Fresh](https://github.com/denoland/fresh) - [H3](https://github.com/unjs/h3) - [Skip](https://github.com/SkipLabs/skip) - [koa](https://github.com/koajs/koa) - [Hattip](https://github.com/hattipjs/hattip)
   4. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi) - [Flask](https://github.com/pallets/flask)
-  5. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber)
-  6. [Phoenix](https://github.com/phoenixframework/phoenix)
-  7. [Amplication](https://github.com/amplication/amplication)
+  5. [Jetzig](https://github.com/jetzig-framework/jetzig) - [Zine](https://github.com/kristoff-it/zine)
+  6. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber)
+  7. [Phoenix](https://github.com/phoenixframework/phoenix)
+  8. [Amplication](https://github.com/amplication/amplication)
 
 - ## Backend as a Service and Database
   1. BaaS: [Firebase](https://firebase.google.com/) - [Appwrite](https://github.com/appwrite/appwrite) - [Supabase](https://github.com/supabase/supabase) - [Neon](https://github.com/neondatabase/neon) - [Nhost](https://github.com/nhost/nhost)
@@ -4396,3 +4425,98 @@ User.findByIdAndRemove(id);
 ![](./assets/web/backend/SQL-6.jpg)
 ![](./assets/web/backend/SQL-7.jpg)
 ![](./assets/web/backend/SQL-8.jpg)
+
+# <p align="center">Native App Dev Tool Links</p>
+
+- [Native App Framework](#native-app-framework)
+- [React Native Libraries](#react-native-libraries)
+- [Go Libraries](#go-libraries)
+- [Python Libraries](#python-libraries)
+
+# Native App Framework
+
+- ### XR
+  1. [Lens Studio](https://ar.snap.com/lens-studio)
+  2. [Android Studio](https://developer.android.com/studio)
+- ### JavaScript/TypeScript
+  1. [React Native](https://github.com/facebook/react-native) - [Lynx](https://github.com/lynx-family/lynx) - [NativeScript](https://github.com/NativeScript/NativeScript)
+  2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
+  3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [Electrobun](https://github.com/blackboardsh/electrobun)
+  4. [Electron⚡️Vite](https://electron-vite.github.io/) - [electron-vite](https://electron-vite.org/)
+  5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - [NW.js](https://github.com/nwjs/nw.js) - [NodeGui](https://github.com/nodegui/nodegui)
+  6. [Capacitor](https://github.com/ionic-team/capacitor) - [Ionic](https://github.com/ionic-team/ionic-framework)
+  7. [Sciter JS](https://gitlab.com/sciter-engine/sciter-js-sdk)
+  8. [Gluon](https://github.com/gluon-framework/gluon)
+- ### C#
+  1. [Godot](https://github.com/godotengine/godot)
+  2. [.NET MAUI](https://github.com/dotnet/maui)
+  3. [WPF](https://github.com/dotnet/wpf)
+  4. [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+  5. [Uno](https://github.com/unoplatform/uno)
+- ### C/C++
+  1. [Qt Base](https://github.com/qt/qtbase)
+  2. [GTK](https://github.com/GNOME/gtk) - [gtkmm](https://github.com/GNOME/gtkmm)
+  3. [Ultralight](https://github.com/ultralight-ux/Ultralight)
+  4. [Molybden](https://teamdev.com/molybden/)
+  5. [webview](https://github.com/webview/webview)
+  6. [wxWidgets](https://github.com/wxWidgets/wxWidgets)
+  7. [FLTK](https://github.com/fltk/fltk)
+  8. [JUCE](https://github.com/juce-framework/JUCE)
+  9. [U++](https://github.com/ultimatepp/ultimatepp)
+  10. [cegui](https://github.com/cegui/cegui)
+  11. [cef](https://bitbucket.org/chromiumembedded/cef/src/master/)
+- ### Python
+  1. [Toga](https://github.com/beeware/toga)
+  2. [Flet](https://github.com/flet-dev/flet)
+  3. [Kivy](https://github.com/kivy/kivy)
+  4. [Phoenix](https://github.com/wxWidgets/Phoenix)
+  5. [pywebview](https://github.com/r0x0r/pywebview)
+  6. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+  7. [Eel](https://github.com/python-eel/Eel)
+  8. [abstra](https://github.com/abstra-app/abstra-lib)
+- ### Rust
+  1. [Floem](https://github.com/lapce/floem)
+  2. [Pake](https://github.com/tw93/Pake)
+  3. [Slint](https://github.com/slint-ui/slint)
+  4. [Druid](https://github.com/linebender/druid)
+  5. [EGUI](https://github.com/emilk/egui)
+  6. [Iced](https://github.com/iced-rs/iced)
+  7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
+  8. [Dioxus](https://github.com/DioxusLabs/dioxus)
+- ### GO
+  1. [Wails](https://github.com/wailsapp/wails)
+  2. [Muon](https://github.com/ImVexed/muon)
+- ### Haxe
+  1. [Haxe](https://github.com/HaxeFoundation/haxe)
+- ### Kotlin
+  1. [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
+- ### Dart
+  1. [Flutter](https://github.com/flutter/flutter)
+
+# React Native Libraries
+
+- ## Getting Started
+  - [Expo](https://expo.dev/)
+- ## UI
+  - [React Navigation](https://github.com/react-navigation/react-navigation)
+  - [FlashList](https://github.com/shopify/flash-list)
+  - [Legend](https://github.com/LegendApp/legend-list)
+  - [React Native Fast Shimmer](https://github.com/callstack/react-native-fast-shimmer)
+  - [React Native Screen Transitions](https://github.com/eds2002/react-native-screen-transitions)
+  - [expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient)
+- ## Animation
+  - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
+- ## Style
+  - [Nativewind](https://www.nativewind.dev/)
+  - [Unistyles](https://www.unistyl.es/)
+- ## Dev Tools
+  - [Rozenite](https://github.com/callstackincubator/rozenite)
+
+# Go Libraries
+
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea)
+
+# Python Libraries
+
+- [uv](https://github.com/astral-sh/uv)
+- [manim](https://github.com/ManimCommunity/manim)
