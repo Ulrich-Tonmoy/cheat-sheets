@@ -48,6 +48,7 @@
       - [HTTP](#http)
       - [Date Time](#date-time)
       - [Internationalization](#internationalization)
+      - [Analytics](#analytics)
       - [Rendering Performance](#rendering-performance)
       - [Testing](#testing)
       - [Documentation](#documentation)
@@ -643,30 +644,41 @@
 19. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-20. #### Rendering Performance
+20. #### Analytics
+    - [Sentry](https://github.com/getsentry/sentry)
+    - [Metabase](https://github.com/metabase/metabase)
+    - [PostHog](https://github.com/PostHog/posthog)
+    - [OpenObserve](https://github.com/openobserve/openobserve)
+    - [Plausible Analytics](https://github.com/plausible/analytics)
+    - [Matomo](https://github.com/Matomo-org/matomo)
+    - [Umami](https://github.com/umami-software/umami)
+    - [GoAccess](https://github.com/allinurl/goaccess)
+    - [OpenReplay](https://github.com/openreplay/openreplay/)
+    - [Countly](https://github.com/countly/countly-server)
+21. #### Rendering Performance
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
     - [ForesightJS](https://foresightjs.com/)
-21. #### Testing
+22. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-22. #### Documentation
+23. #### Documentation
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
-23. #### Type Checking
+24. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-24. #### Visual Editors
+25. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
-25. #### Other Libraries
+26. #### Other Libraries
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) is a library that enables real-time, bidirectional communication between web clients and servers.
@@ -676,7 +688,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-26. #### DevTools
+27. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
