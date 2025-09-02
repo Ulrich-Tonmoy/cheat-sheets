@@ -3,9 +3,9 @@
 ## 🔗Template & Shortcut snippets and useful tools link🔗
 
 1. [🔖Game Dev Tools🎮](./game-dev.md)
-2. [Frontend](./app-web-dev.md#frontend) - [Backend](./app-web-dev.md#backend) - [Useful Links](./app-web-dev.md#useful-links) - [NVM & NPM](./nvm-npm.md)
+2. [Frontend](./app-web-dev.md#frontend) - [Backend](./app-web-dev.md#backend) - [Useful Links](./app-web-dev.md#useful-links) - [NVM](./cli.md#nvm) - [NPM](./cli.md#npm)
 3. [Native App Dev Framework List](./app-web-dev.md#native-app-framework)
-4. [Git](./git.md) - [VS Code](./other-tools.md#vs-code) - [Windows](./other-tools.md#windows)
+4. [Git](./cli.md) - [VS Code](./other-tools.md#vs-code) - [Windows](./other-tools.md#windows)
 5. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
 6. [Code Editors](./other-tools.md#code-editors) - [AI Code Editors](./other-tools.md#ai-code-editors) - [AI-Powered App Builders](./other-tools.md#ai-powered-app-builders)
 7. [Note-taking Apps](./other-tools.md#note-taking-apps) - [Programming Languages](./other-tools.md#programming-languages)
