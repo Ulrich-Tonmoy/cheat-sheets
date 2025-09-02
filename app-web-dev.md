@@ -4516,6 +4516,7 @@ User.findByIdAndRemove(id);
   - [React Native Fast Shimmer](https://github.com/callstack/react-native-fast-shimmer)
   - [React Native Screen Transitions](https://github.com/eds2002/react-native-screen-transitions)
   - [expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient)
+  - [react-native-animated-glow](https://github.com/realimposter/react-native-animated-glow)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
