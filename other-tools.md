@@ -9,7 +9,6 @@
 - [AI Code Editors](#ai-code-editors)
 - [Code Editors](#code-editors)
 - [Note-taking Apps](#note-taking-apps)
-- [Other Tools](#other-tools)
 - [Other Repos](#other-repos)
 
 # Workspace tools
@@ -392,24 +391,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 4. [Foam](https://github.com/foambubble/foam) - [Trilium](https://github.com/zadam/trilium) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability) - [Zettlr](https://github.com/Zettlr/Zettlr)
 5. [Focalboard](https://github.com/mattermost/focalboard) - [Pine](https://github.com/lukakerr/Pine) - [MiaoYan](https://github.com/tw93/MiaoYan)
 
-# Other Tools
-
-1. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
-
 # Other Repos
 
-1. [Git](https://github.com/git/git) - [Jujutsu](https://github.com/jj-vcs/jj) - [Grace](https://github.com/ScottArbeit/Grace) - [LLVM](https://github.com/llvm/llvm-project) - [GCC](https://github.com/gcc-mirror/gcc) - [SQLite](https://github.com/sqlite/sqlite) - [fossil-mirror](https://github.com/drhsqlite/fossil-mirror)
+1. [Git](https://github.com/git/git) - [Jujutsu](https://github.com/jj-vcs/jj) - [Grace](https://github.com/ScottArbeit/Grace) - [SQLite](https://github.com/sqlite/sqlite) - [fossil-mirror](https://github.com/drhsqlite/fossil-mirror)
 2. [Linux](https://github.com/torvalds/linux) - [NetBSD](https://github.com/NetBSD/src) - [FreeBSD](https://github.com/freebsd/freebsd-src) - [OpenBSD](https://github.com/openbsd/src) - [Android](https://android.googlesource.com/) - [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity) - [XenevaOS](https://github.com/manaskamal/XenevaOS)
 3. [MS-DOS](https://github.com/microsoft/MS-DOS) - [ravynOS](https://github.com/ravynsoft/ravynos) - [DragonFlyBSD](https://gitweb.dragonflybsd.org/dragonfly.git) - [skiftOS](https://github.com/skift-org/skift) - [RedoxOS](https://gitlab.redox-os.org/redox-os/redox) - [XNU](https://github.com/apple-oss-distributions/xnu)
-4. [Chromium](https://github.com/chromium/chromium) - [gecko-dev](https://github.com/mozilla/gecko-dev) - [WebKit](https://github.com/WebKit/WebKit) - [Servo](https://github.com/servo/servo) - [Verso](https://github.com/versotile-org/verso)
-5. [Vite](https://github.com/vitejs/vite) - [Turbo](https://github.com/vercel/turbo) - [esbuild](https://github.com/evanw/esbuild) - [Rollup](https://github.com/rollup/rollup) - [Rolldown](https://github.com/rolldown/rolldown)
-6. [LibreOffice](https://github.com/LibreOffice/core)
-7. [ImHex](https://github.com/WerWolv/ImHex)
-8. [tokei](https://github.com/XAMPPRocky/tokei)
-9. [durdraw](https://github.com/cmang/durdraw)
-10. [jscpd](https://github.com/kucherenko/jscpd)
-11. [web2pdf](https://github.com/dvcoolarun/web2pdf)
-12. [bebop](https://github.com/betwixt-labs/bebop)
-13. [flatnotes](https://github.com/dullage/flatnotes)
-14. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
-15. [telegraf](https://github.com/telegraf/telegraf) - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+4. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
+5. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
+6. [ImHex](https://github.com/WerWolv/ImHex)
