@@ -102,10 +102,11 @@
   16. [JerryScript](https://github.com/jerryscript-project/jerryscript)
   17. [mJS](https://github.com/cesanta/mjs)
   18. [Espruino](https://github.com/espruino/Espruino)
-  19. [Servo](https://github.com/servo/servo) - [Verso](https://github.com/versotile-org/verso)
-  20. [Boa](https://github.com/boa-dev/boa)
-  21. [Rhino](https://github.com/mozilla/rhino)
-  22. [Nashorn](https://github.com/openjdk/nashorn)
+  19. [Flow](https://github.com/MultiboxLabs/flow-browser) - [Ladybird](https://github.com/LadybirdBrowser/ladybird)
+  20. [Servo](https://github.com/servo/servo) - [Verso](https://github.com/versotile-org/verso)
+  21. [Boa](https://github.com/boa-dev/boa)
+  22. [Rhino](https://github.com/mozilla/rhino)
+  23. [Nashorn](https://github.com/openjdk/nashorn)
 
 - ## Frontend Frameworks
 
@@ -504,6 +505,9 @@
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [radix](https://www.radix-ui.com/)
      - [React Bits](https://reactbits.dev/)
+     - [React Wheel Picker](https://react-wheel-picker.chanhdai.com/)
+     - [shadcn-prose](https://shadcn-prose.vercel.app/)
+     - [spaceman-rta](https://spaceman-rta-vite.netlify.app/)
      - [Aceternity](https://ui.aceternity.com/)
      - [Tailark](https://tailark.com/)
      - [AI Elements](https://ai-sdk.dev/elements/overview)
@@ -518,6 +522,8 @@
      - [cult-ui](https://www.cult-ui.com/)
      - [skiper-ui](https://skiper-ui.com/)
      - [eldoraui](https://www.eldoraui.site/)
+     - [MynaUI](https://mynaui.com/)
+     - [Cook](https://cook.engage-dev.com/)
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [MUI Material UI](https://mui.com/)
@@ -584,6 +590,7 @@
     - [lottie](https://airbnb.io/lottie/#/)
     - [popmotion](https://popmotion.io/)
 12. #### Data Visualization Chart Table
+    - [EvilCharts](https://evilcharts.com/)
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
