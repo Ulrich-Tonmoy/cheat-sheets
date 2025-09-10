@@ -7,6 +7,7 @@
 - [Programming Languages](#programming-languages)
 - [AI-Powered App Builders](#ai-powered-app-builders)
 - [AI Code Editors](#ai-code-editors)
+- [AI CLI](#ai-cli)
 - [Code Editors](#code-editors)
 - [Note-taking Apps](#note-taking-apps)
 - [Other Repos](#other-repos)
@@ -353,6 +354,13 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 12. [Tabby](https://github.com/TabbyML/tabby)
 13. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
 14. [MarsX](https://marsx.dev/)
+
+# AI CLI
+
+1. [Claude Code](https://github.com/anthropics/claude-code)
+2. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+3. [OpenAI Codex](https://github.com/openai/codex)
+4. [Qwen Code](https://github.com/QwenLM/qwen-code)
 
 # Code Editors
 
