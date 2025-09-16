@@ -17,7 +17,7 @@
 - [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/) - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop)
 - [nvm](https://github.com/nvm-sh/nvm) - [nvm windows](https://github.com/coreybutler/nvm-windows) - [bun](https://bun.sh/) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/) - [GitButler](https://github.com/gitbutlerapp/gitbutler)
 - [Zen](https://www.zen-browser.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Brave](https://brave.com/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Servo](https://servo.org/)
-- [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys) - [UniGetUI](https://github.com/marticliment/WingetUI)
+- [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vicinae](https://github.com/vicinaehq/vicinae) - [UniGetUI](https://github.com/marticliment/WingetUI)
 - [RectifyPad](https://github.com/Lixkote/RectifyPad) - [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [Superfile](https://github.com/yorukot/superfile)
 - [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - [YASB Reborn](https://github.com/amnweb/yasb) - [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [Windhawk](https://windhawk.net/) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [Loaf](https://github.com/DinoChan/Loaf)
 - [Sparkle](https://github.com/Parcoil/Sparkle) - [Crapfixer](https://github.com/builtbybel/Crapfixer) - [Microsoft PC Manager](https://pcmanager.microsoft.com/en-us) - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
@@ -50,7 +50,7 @@
   ./setup /configure ./configuration.xml
   ```
 
-- [LibreOffice](https://www.libreoffice.org/) - [WPS](https://www.wps.com/) - [FreeOffice](https://www.freeoffice.com/) - [OfficeSuite](https://officesuite.com/)
+- [LibreOffice](https://www.libreoffice.org/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [FreeOffice](https://www.freeoffice.com/) - [OfficeSuite](https://officesuite.com/)
 
 - ## Terminal
 - [Monaspace](https://monaspace.githubnext.com/) - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
