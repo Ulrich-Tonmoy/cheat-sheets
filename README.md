@@ -114,16 +114,17 @@
 
 1. [Japan Dev](https://japan-dev.com/)
 2. [Tokyo Dev](https://www.tokyodev.com/)
-3. [RemoteOk](https://remoteok.com/)
-4. [4dayweek](https://4dayweek.io/)
-5. [javascript.jobs](https://javascript.jobs/remote)
-6. [weworkremotely](https://weworkremotely.com/categories/remote-front-end-programming-jobs#job-listings)
-7. [cord](https://cord.co/)
-8. [remote](https://remote.co/)
-9. [Remotive](https://remotive.com/)
-10. [WorkingNomads](https://www.workingnomads.com/jobs)
-11. [Remote Jobs Site Links](https://github.com/remoteintech/remote-jobs)
-12. [tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+3. [Relocate.me](https://relocate.me/)
+4. [RemoteOk](https://remoteok.com/)
+5. [4dayweek](https://4dayweek.io/)
+6. [javascript.jobs](https://javascript.jobs/remote)
+7. [weworkremotely](https://weworkremotely.com/categories/remote-front-end-programming-jobs#job-listings)
+8. [cord](https://cord.co/)
+9. [remote](https://remote.co/)
+10. [Remotive](https://remotive.com/)
+11. [WorkingNomads](https://www.workingnomads.com/jobs)
+12. [Remote Jobs Site Links](https://github.com/remoteintech/remote-jobs)
+13. [tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
 
 # 🔗Markdown Resumer Maker🔗
 
