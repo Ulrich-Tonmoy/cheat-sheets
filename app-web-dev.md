@@ -4142,7 +4142,7 @@ for (let i = 0, j = 3; i <= 3; i++, j--) {
   2. [Express](https://github.com/expressjs/express) - [Fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest) - [Hono](https://github.com/honojs/hono) - [Elysia](https://github.com/elysiajs/elysia) - [Encore](https://github.com/encoredev/encore)
   3. [Fresh](https://github.com/denoland/fresh) - [H3](https://github.com/unjs/h3) - [Skip](https://github.com/SkipLabs/skip) - [koa](https://github.com/koajs/koa) - [Hattip](https://github.com/hattipjs/hattip)
   4. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi) - [Flask](https://github.com/pallets/flask)
-  5. [Jetzig](https://github.com/jetzig-framework/jetzig) - [Zine](https://github.com/kristoff-it/zine)
+  5. [Jetzig](https://github.com/jetzig-framework/jetzig) - [Zap](https://github.com/zigzap/zap) - [zinc](https://github.com/zon-dev/zinc) - [http.zig](https://github.com/karlseguin/http.zig) - [Zine](https://github.com/kristoff-it/zine)
   6. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber)
   7. [Phoenix](https://github.com/phoenixframework/phoenix)
   8. [Amplication](https://github.com/amplication/amplication) - [Motia](https://github.com/MotiaDev/motia)
