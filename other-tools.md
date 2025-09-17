@@ -372,6 +372,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 6. [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor) - [focus](https://github.com/focus-editor/focus)
 7. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor)
 8. [Monaco Editor](https://github.com/microsoft/monaco-editor) - [React Monaco Editor](https://github.com/react-monaco-editor/react-monaco-editor) - [Monaco Editor React](https://github.com/suren-atoyan/monaco-react) - [overleaf](https://github.com/overleaf/overleaf)
+9. [loom](https://github.com/dexter-xD/loom)
 
 # Code Editors(Archive)
 
