@@ -428,19 +428,20 @@
 - ## Other Tools
 
   1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) -- [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
-  2. [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase Studio](https://github.com/outerbase/studio) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql)
-  3. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
-  4. [chartdb](https://github.com/chartdb/chartdb)
-  5. [Partytown](https://github.com/BuilderIO/partytown)
-  6. [mockoon](https://github.com/mockoon/mockoon)
-  7. [trpc](https://github.com/trpc/trpc)
-  8. [responsively-app](https://github.com/responsively-org/responsively-app)
-  9. [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
-  10. [e2b](https://github.com/e2b-dev/e2b)
-  11. [arrow-js](https://github.com/justin-schroeder/arrow-js)
-  12. [uvicorn](https://github.com/encode/uvicorn)
-  13. [motionity](https://github.com/alyssaxuu/motionity)
-  14. [Danfo.js](https://github.com/javascriptdata/danfojs)
+  2. [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
+  3. [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase Studio](https://github.com/outerbase/studio) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql)
+  4. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
+  5. [chartdb](https://github.com/chartdb/chartdb)
+  6. [Partytown](https://github.com/BuilderIO/partytown)
+  7. [mockoon](https://github.com/mockoon/mockoon)
+  8. [trpc](https://github.com/trpc/trpc)
+  9. [responsively-app](https://github.com/responsively-org/responsively-app)
+  10. [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
+  11. [e2b](https://github.com/e2b-dev/e2b)
+  12. [arrow-js](https://github.com/justin-schroeder/arrow-js)
+  13. [uvicorn](https://github.com/encode/uvicorn)
+  14. [motionity](https://github.com/alyssaxuu/motionity)
+  15. [Danfo.js](https://github.com/javascriptdata/danfojs)
 
 # React
 
