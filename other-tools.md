@@ -341,9 +341,9 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 # AI Code Editors
 
 1. [Cursor](https://www.cursor.com/)
-2. [Windsurf](https://codeium.com/windsurf)
-3. [Trae](https://www.trae.ai/)
-4. [Kiro](https://kiro.dev/)
+2. [Trae](https://www.trae.ai/)
+3. [Kiro](https://kiro.dev/)
+4. [Windsurf](https://codeium.com/windsurf)
 5. [Augment Code](https://www.augmentcode.com/) - [OpenRouter](https://openrouter.ai/)
 6. [Kilo Code](https://github.com/Kilo-Org/kilocode) - [Cline](https://cline.bot/) - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 7. [PearAI](https://trypear.ai/)
@@ -357,10 +357,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 
 # AI CLI
 
-1. [Claude Code](https://github.com/anthropics/claude-code)
-2. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
-3. [OpenAI Codex](https://github.com/openai/codex)
-4. [Qwen Code](https://github.com/QwenLM/qwen-code)
+1. [ClaudeCode](https://github.com/anthropics/claude-code)
+2. [OpenCode](https://github.com/sst/opencode)
+3. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+4. [OpenAI Codex](https://github.com/openai/codex)
+5. [QwenCode](https://github.com/QwenLM/qwen-code)
 
 # Code Editors
 
