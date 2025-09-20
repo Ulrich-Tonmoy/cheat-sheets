@@ -2211,6 +2211,15 @@ async function TodoList() {
 
 ## Vue Component Libraries
 
+- [shadcn-vue](https://www.shadcn-vue.com/)
+- [Nuxt UI](https://ui4.nuxt.com/) - [Reka UI](https://reka-ui.com/)
+- [Vue Bits](https://vue-bits.dev/)
+- [Inspira UI](https://inspira-ui.com/)
+- [UI Thing](https://ui-thing.behonbaker.com/)
+- [Stunning UI](https://www.stunningui.com/)
+- [Nuxtlify](https://www.nuxtlify.com/)
+- [VueBlocks](https://www.vue-blocks.dev/)
+- [LandiNuxt](https://www.landinuxt.com/)
 - [Vuetify](https://vuetifyjs.com/en/)
 - [PrimeVue](https://primevue.org/)
 - [Flowbite](https://flowbite-vue.com/)
