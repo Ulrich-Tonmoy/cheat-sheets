@@ -2863,6 +2863,19 @@ li::marker {
 }
 ```
 
+### Scroll behavior
+
+```css
+html {
+  /* To stop scrolling whole page instead of section */
+  overscroll-behavior: none;
+}
+.scroolable-section {
+  /* To make scroll bouncy */
+  overscroll-behavior: contain;
+}
+```
+
 ### Scroll Snap
 
 ```css
