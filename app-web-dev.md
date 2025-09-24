@@ -515,6 +515,7 @@
      - [Aceternity](https://ui.aceternity.com/)
      - [Forge UI](https://forgeui.in/)
      - [Tailark](https://tailark.com/)
+     - [Spectrum UI](https://ui.spectrumhq.in/)
      - [AI Elements](https://ai-sdk.dev/elements/overview)
      - [Magic UI](https://magicui.design/docs/installation)
      - [Origin UI](https://originui.com/)
