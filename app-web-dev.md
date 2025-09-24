@@ -4483,6 +4483,8 @@ User.findByIdAndRemove(id);
 
 # Native App Framework
 
+- [Inno Setup](https://github.com/jrsoftware/issrc) installation builder for Windows applications.
+
 - ### XR
   1. [Lens Studio](https://ar.snap.com/lens-studio)
   2. [Android Studio](https://developer.android.com/studio)
