@@ -324,13 +324,16 @@
   9. [iconmonstr](https://iconmonstr.com/)
   10. [thenounproject](https://thenounproject.com/)
   11. [icons8](https://icons8.com/)
-  12. [tablericons](https://tablericons.com)
-  13. [heroicons](https://heroicons.com/)
-  14. [boxicons](https://boxicons.com/)
-  15. [getbootstrap](https://icons.getbootstrap.com)
-  16. [svgrepo](https://www.svgrepo.com/)
-  17. [copyicon](https://copyicon.com/)
-  18. [uilogos](https://uilogos.co/)
+  12. [iconpacks](https://www.iconpacks.net/)
+  13. [iconsax](https://iconsax.io/)
+  14. [iconarchive](https://www.iconarchive.com/)
+  15. [tablericons](https://tablericons.com)
+  16. [heroicons](https://heroicons.com/)
+  17. [boxicons](https://boxicons.com/)
+  18. [getbootstrap](https://icons.getbootstrap.com)
+  19. [svgrepo](https://www.svgrepo.com/)
+  20. [copyicon](https://copyicon.com/)
+  21. [uilogos](https://uilogos.co/)
 
 - ## 3d icons
 
