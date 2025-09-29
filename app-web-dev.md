@@ -1044,7 +1044,10 @@
 
 - ## Getting Started
   - [Expo](https://expo.dev/)
+  - [React Native](https://reactnative.dev/docs/getting-started-without-a-framework)
   - [Rock](https://www.rockjs.dev/)
+- ## Bundlers
+  - [Re.Pack](https://github.com/callstack/repack)
 - ## UI
   - [React Navigation](https://github.com/react-navigation/react-navigation)
   - [Flash List](https://github.com/shopify/flash-list)
@@ -1053,6 +1056,7 @@
   - [React Native Screen Transitions](https://github.com/eds2002/react-native-screen-transitions)
   - [expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient)
   - [react-native-animated-glow](https://github.com/realimposter/react-native-animated-glow)
+  - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
