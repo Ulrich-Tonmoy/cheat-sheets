@@ -18,10 +18,10 @@
 - [nvm](https://github.com/nvm-sh/nvm) - [nvm windows](https://github.com/coreybutler/nvm-windows) - [bun](https://bun.sh/) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/) - [GitButler](https://github.com/gitbutlerapp/gitbutler)
 - [Zen](https://www.zen-browser.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Brave](https://brave.com/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Servo](https://servo.org/) - [Helium](https://helium.computer/)
 - [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vicinae](https://github.com/vicinaehq/vicinae) - [UniGetUI](https://github.com/marticliment/WingetUI)
-- [RectifyPad](https://github.com/Lixkote/RectifyPad) - [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [Superfile](https://github.com/yorukot/superfile)
+- [RectifyPad](https://github.com/Lixkote/RectifyPad) - [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [Superfile](https://github.com/yorukot/superfile) - [CopyParty](https://github.com/9001/copyparty)
 - [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - [YASB Reborn](https://github.com/amnweb/yasb) - [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [Windhawk](https://windhawk.net/) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [Loaf](https://github.com/DinoChan/Loaf)
 - [Sparkle](https://github.com/Parcoil/Sparkle) - [Crapfixer](https://github.com/builtbybel/Crapfixer) - [Microsoft PC Manager](https://pcmanager.microsoft.com/en-us) - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - [winutil](https://github.com/ChrisTitusTech/winutil) - [Revo](https://www.revouninstaller.com/)
-- [TinyTask](https://tinytask.net/) - [windirstat](https://windirstat.net/) - [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
+- [Flameshot](https://github.com/flameshot-org/flameshot) - [TinyTask](https://tinytask.net/) - [windirstat](https://windirstat.net/) - [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
 
 - ## MS 365
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
@@ -411,3 +411,5 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 5. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
 6. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
 7. [ImHex](https://github.com/WerWolv/ImHex)
+8. [Modern Windows Message Box Generator](https://github.com/ThioJoe/Modern-Windows-Message-Box-Generator)
+9. [SVG Thumbnail Extension](https://github.com/ThioJoe/win-svg-thumbs-rust)
