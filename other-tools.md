@@ -341,6 +341,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 
 # AI Code Editors
 
+0. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 1. [Cursor](https://www.cursor.com/)
 2. [Trae](https://www.trae.ai/)
 3. [Kiro](https://kiro.dev/)
