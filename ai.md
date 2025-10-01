@@ -33,6 +33,11 @@
   14. [HuggingChat](https://huggingface.co/chat/)
   15. [Ora AI](https://ora.ai/)
 
+- ## AI Companion
+
+  1. [Project AIRI](https://github.com/moeru-ai/airi)
+  2. [Bella](https://github.com/Jackywine/Bella)
+
 - ## Free AI and LLMs Playgrounds
 
   1. [Chatbot Arena](https://chat.lmsys.org/)
@@ -44,6 +49,7 @@
 
 - ## Locally Running LLM
 
+  0. [Open WebUI](https://github.com/open-webui/open-webui)
   1. [LM Studio](https://lmstudio.ai/)
   2. [ollama](https://ollama.com/)
   3. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
