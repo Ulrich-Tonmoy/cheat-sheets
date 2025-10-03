@@ -1055,6 +1055,7 @@
 - ## Bundlers
   - [Re.Pack](https://github.com/callstack/repack)
 - ## UI
+  - [Tamagui](https://tamagui.dev/)
   - [React Navigation](https://github.com/react-navigation/react-navigation)
   - [Flash List](https://github.com/shopify/flash-list)
   - [Legend List](https://github.com/LegendApp/legend-list)
