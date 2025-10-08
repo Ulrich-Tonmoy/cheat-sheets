@@ -521,6 +521,7 @@
      - [cult-ui](https://www.cult-ui.com/)
      - [skiper-ui](https://skiper-ui.com/)
      - [eldoraui](https://www.eldoraui.site/)
+     - [Devsloka UI](https://ui.devsloka.in/)
      - [MynaUI](https://mynaui.com/)
      - [Cook](https://cook.engage-dev.com/)
      - [21st.dev](https://21st.dev/)
@@ -1052,8 +1053,6 @@
   - [Expo](https://expo.dev/)
   - [React Native](https://reactnative.dev/docs/getting-started-without-a-framework)
   - [Rock](https://www.rockjs.dev/)
-- ## Bundlers
-  - [Re.Pack](https://github.com/callstack/repack)
 - ## UI
   - [Tamagui](https://tamagui.dev/)
   - [React Navigation](https://github.com/react-navigation/react-navigation)
@@ -1064,12 +1063,18 @@
   - [expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient)
   - [react-native-animated-glow](https://github.com/realimposter/react-native-animated-glow)
   - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
+  - [react-native-enriched](https://github.com/software-mansion/react-native-enriched)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
   - [Nativewind](https://www.nativewind.dev/)
   - [Unistyles](https://www.unistyl.es/)
+  - [Uniwind](https://uniwind.dev/)
+- ## Other
+  - [Re.Pack](https://github.com/callstack/repack)
+  - [react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch)
 - ## Dev Tools
+  - [React Buoy Devtools](https://github.com/LovesWorking/react-native-buoy)
   - [Rozenite](https://github.com/callstackincubator/rozenite)
 
 # Go Libraries
