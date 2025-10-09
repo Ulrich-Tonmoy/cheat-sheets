@@ -612,8 +612,9 @@
     - [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
     - [react-doc-viewer](https://github.com/cyntler/react-doc-viewer)
 14. #### Payment Methods
-    - [Stripe](https://stripe.com/)
     - [Clerk](https://clerk.com/billing)
+    - [Stripe](https://stripe.com/)
+    - [Polar](https://polar.sh/)
     - [SSLCOMMERZ](https://sslcommerz.com/payment-gateway/)
     - [bKash](https://developer.bka.sh/)
 15. #### Markdown Rich Text Editor
