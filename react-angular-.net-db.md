@@ -8,8 +8,9 @@
   - [C#](#csharp)
   - [Entity Framework](#entity-framework)
   - [Configuration](#configuration)
-- [MongoDb](#mongodb)
-- [SQL](#sql)
+- [DB](#db)
+  - [MongoDb](#mongodb)
+  - [SQL](#sql)
 
 # React
 
@@ -1614,6 +1615,10 @@ public class WeatherController: Controller
     // HTTP Methods
 }
 ```
+
+# DB
+
+![Database](./assets/web/Database.png)
 
 # MongoDb
 
