@@ -5,6 +5,7 @@
 - [Neovim](#neovim)
 - [Windows](#windows)
 - [Programming Languages](#programming-languages)
+- [AI Code Reviewer](#ai-code-reviewer)
 - [AI-Powered App Builders](#ai-powered-app-builders)
 - [AI Code Editors](#ai-code-editors)
 - [AI CLI](#ai-cli)
@@ -313,9 +314,14 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 5. [vala](https://gitlab.gnome.org/GNOME/vala) - [red](https://github.com/red/red) - [D](https://github.com/dlang/dmd) - [Draco-lang](https://github.com/Draco-lang/Compiler) - [terra](https://github.com/terralang/terra) - [pharo](https://github.com/pharo-project/pharo) - [eo](https://github.com/objectionary/eo) - [rakudo](https://github.com/rakudo/rakudo) - [flix](https://github.com/flix/flix) - [effekt](https://github.com/effekt-lang/effekt) - [Idris2](https://github.com/idris-lang/Idris2) - [starlark](https://github.com/bazelbuild/starlark) - [starlark-go](https://github.com/google/starlark-go) - [starlark-rust](https://github.com/facebookexperimental/starlark-rust) - [koka](https://github.com/koka-lang/koka) - [ring](https://github.com/ring-lang/ring) - [ponyc](https://github.com/ponylang/ponyc) - [futhark](https://github.com/diku-dk/futhark) - [coq](https://github.com/coq/coq) - [cue](https://github.com/cue-lang/cue) - [chapel](https://github.com/chapel-lang/chapel) - [lux](https://github.com/LuxLang/lux) - [leo](https://github.com/AleoHQ/leo) - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - [BosqueLanguage](https://github.com/BosqueLanguage/BosqueCore) - [racket](https://github.com/racket/racket)
 6. [mono](https://github.com/mono/mono) - [Senegal](https://github.com/SenegalLang/Senegal) - [Crab](https://github.com/crablang/crab) - [purescript](https://github.com/purescript/purescript) - [LiveScript](https://github.com/gkz/LiveScript) - [coffeescript](https://github.com/jashkenas/coffeescript) - [elm](https://github.com/elm/compiler) - [kit](https://github.com/kitlang/kit) - [gravity](https://github.com/marcobambini/gravity) - [Vale](https://github.com/ValeLang/Vale) - [io](https://github.com/IoLanguage/io) - [eta](https://github.com/typelead/eta) - [goby](https://github.com/goby-lang/goby) - [gosu-lang](https://github.com/gosu-lang/gosu-lang) - [frege](https://github.com/Frege/frege) - [nu](https://github.com/programming-nu/nu) - [chavascript](https://github.com/ChavaScript/chavascript) - [wren](https://github.com/wren-lang/wren) - [muon](https://github.com/nickmqb/muon) - [wenyan](https://github.com/wenyan-lang/wenyan) - [skip](https://github.com/skiplang/skip) - [livecode](https://github.com/livecode/livecode) - [golo-lang](https://github.com/eclipse-archived/golo-lang)
 
+# AI Code Reviewer
+
+1. [CodeRabbit](https://www.coderabbit.ai/)
+2. [Greptile](https://www.greptile.com/)
+
 # AI-Powered App Builders
 
-0. [n8n](https://n8n.io/) - [CodeRabbit](https://www.coderabbit.ai/)
+0. [n8n](https://n8n.io/)
 1. [v0](https://v0.dev/)
 2. [Bolt](https://bolt.new/)
 3. [Chef](https://chef.convex.dev/)
