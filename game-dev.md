@@ -557,6 +557,7 @@
   35. [Unified-Universal-Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur)
   36. [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
   37. [Post-Processing-Scan](https://github.com/MirzaBeig/Post-Processing-Scan)
+  38. [Unity Toon Shader](https://github.com/Unity-Technologies/com.unity.toonshader)
 
 - ## Other Tools
 
