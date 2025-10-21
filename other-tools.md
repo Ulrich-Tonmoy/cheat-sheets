@@ -321,7 +321,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 
 # AI-Powered App Builders
 
-0. [n8n](https://n8n.io/)
+0. [n8n](https://n8n.io/) - [Sim](https://github.com/simstudioai/sim)
 1. [v0](https://v0.dev/)
 2. [Bolt](https://bolt.new/)
 3. [Chef](https://chef.convex.dev/)
