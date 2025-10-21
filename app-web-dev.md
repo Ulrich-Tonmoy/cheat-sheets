@@ -694,6 +694,7 @@
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) is a library that enables real-time, bidirectional communication between web clients and servers.
+    - [Media over QUIC](https://github.com/kixelated/moq)
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
     - [Storybook](https://storybook.js.org/) Build UIs without the grunt work.
     - [copilotkit](https://www.copilotkit.ai/) CopilotKit is the simplest way to integrate production-ready Copilots into any product.
