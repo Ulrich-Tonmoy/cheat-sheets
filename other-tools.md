@@ -355,13 +355,12 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 5. [Augment Code](https://www.augmentcode.com/) - [OpenRouter](https://openrouter.ai/)
 6. [Kilo Code](https://github.com/Kilo-Org/kilocode) - [Cline](https://cline.bot/) - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 7. [PearAI](https://trypear.ai/)
-8. [Supermaven](https://supermaven.com/)
-9. [Qodo](https://www.qodo.ai/)
-10. [Continue](https://www.continue.dev/)
-11. [Void](https://github.com/voideditor/void)
-12. [Tabby](https://github.com/TabbyML/tabby)
-13. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-14. [MarsX](https://marsx.dev/)
+8. [Qodo](https://www.qodo.ai/)
+9. [Continue](https://www.continue.dev/)
+10. [Void](https://github.com/voideditor/void)
+11. [Tabby](https://github.com/TabbyML/tabby)
+12. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+13. [MarsX](https://marsx.dev/)
 
 # AI CLI
 
