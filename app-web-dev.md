@@ -43,6 +43,8 @@
       - [Data Visualization/Chart/Table](#data-visualization-chart-table)
       - [PDF Doc](#pdf-doc)
       - [Payment Methods](#payment-methods)
+      - [Email Sending Service](#email-sending-service)
+      - [SMS Sending Service](#sms-sending-service)
       - [Markdown/Rich Text Editor](#markdown-rich-text-editor)
       - [Tour Guide](#tour-guide)
       - [HTTP](#http)
@@ -441,15 +443,16 @@
 # React Ecosystem
 
 1. #### Getting Started
+   - [Better T Stack (Modern CLI for scaffolding end-to-end type-safe TypeScript projects)](https://better-t-stack.dev/)
    - [Vite (For react projects)](https://vitejs.dev/guide/)
    - [bun init (For react projects)](https://bun.sh/docs/cli/init)
+   - [TanStack Start (Full-stack React Framework)](https://tanstack.com/start/latest)
    - [Next JS (Full-stack React Framework)](https://nextjs.org/)
    - [bhvr (Full-stack React-Hono Framework)](https://bhvr.dev/)
    - [Waku (React Framework)](https://waku.gg/)
    - [Astro (Content-based Website)](https://astro.build/)
    - [React Admin (B2B React Framework)](https://marmelab.com/react-admin/)
    - [Refine (B2B React Framework)](https://refine.dev/)
-   - [Better T Stack (Modern CLI for scaffolding end-to-end type-safe TypeScript projects)](https://better-t-stack.dev/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Auth
@@ -617,7 +620,24 @@
     - [Polar](https://polar.sh/)
     - [SSLCOMMERZ](https://sslcommerz.com/payment-gateway/)
     - [bKash](https://developer.bka.sh/)
-15. #### Markdown Rich Text Editor
+15. #### Email Sending Service
+    - [React Email](https://react.email/)
+    - [Resend](https://resend.com/) 100 emails/day (3,000/month), 1 domain. $20/month for 50k emails.
+    - [Brevo](https://www.brevo.com/) 300 emails/day (9,000/month), unlimited contacts. $25/month for 20k emails.
+    - [Sender](https://www.sender.net/) 15,000 emails/month, 2,500 subscribers. $8/month for 50k emails.
+    - [MailerLite](https://www.mailerlite.com/) 12,000 emails/month, 1,000 subscribers.
+    - [Mailchimp](https://mailchimp.com/) 1,000 emails/month (500/day), 500 contacts.
+    - [Mailgun](https://www.mailgun.com/) 100 emails/day (3,000/month). $35/month for 50k emails.
+    - [MailerSend](https://www.mailersend.com/) 3,000 emails/month. $25/month for 50k emails.
+    - [Omnisend](https://www.omnisend.com/) 500 emails/month, 250 subscribers.
+    - [Amazon SES](https://aws.amazon.com/ses/) 62,000 emails/month (first year, post-sandbox). $0.10/1k emails.
+16. #### SMS Sending Service
+    - [Twilio](https://www.twilio.com/en-us) $15.50 credit (~1,000 US SMS), unlimited test mode. $0.0075/outbound US SMS.
+    - [Textla](https://www.textla.com/) 100 credits trial (unlimited sends in trial), then 100/day free mode. $0.02/message.
+    - [Plivo](https://www.plivo.com/sms/) $10 credit (~500 US SMS), pay-as-you-go after. $0.0055/outbound US SMS.
+    - [Sinch](https://sinch.com/) 100 SMS trial, free inbound. $0.007/outbound US SMS.
+    - [Vonage](https://www.vonage.com/communications-apis/messages/) $10 credit (~600 US SMS), free inbound. $0.0065/outbound US SMS.
+17. #### Markdown Rich Text Editor
     - [blocksuite](https://blocksuite.io/)
     - [platejs](https://platejs.org/)
     - [blocknotejs](https://www.blocknotejs.org/)
@@ -629,7 +649,7 @@
     - [tiptap](https://tiptap.dev/)
     - [Muyu](https://github.com/marktext/muya)
     - [shiki](https://github.com/shikijs/shiki)
-16. #### Tour Guide
+18. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
     - [introjs](https://introjs.com/)
@@ -638,23 +658,23 @@
     - [flows](https://flows.sh/)
     - [shepherdjs](https://shepherdjs.dev/)
     - [bootstraptour](https://bootstraptour.com/)
-17. #### HTTP
+19. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
     - [Ky](https://github.com/sindresorhus/ky)
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
     - [Alova](https://github.com/alovajs/alova)
-18. #### Date Time
+20. #### Date Time
     - [luxon](https://moment.github.io/luxon/#/)
     - [dayjs](https://github.com/iamkun/dayjs)
     - [date-fns](https://github.com/date-fns/date-fns)
     - [spacetime](https://github.com/spencermountain/spacetime)
     - [moment](https://github.com/moment/moment/)
-19. #### Internationalization
+21. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-20. #### Analytics
+22. #### Analytics
     - [Sentry](https://github.com/getsentry/sentry)
     - [Metabase](https://github.com/metabase/metabase)
     - [PostHog](https://github.com/PostHog/posthog)
@@ -665,32 +685,32 @@
     - [GoAccess](https://github.com/allinurl/goaccess)
     - [OpenReplay](https://github.com/openreplay/openreplay/)
     - [Countly](https://github.com/countly/countly-server)
-21. #### Rendering Performance
+23. #### Rendering Performance
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
     - [ForesightJS](https://foresightjs.com/)
-22. #### Testing
+24. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-23. #### Documentation
+25. #### Documentation
     - [Fumadocs](https://fumadocs.dev/)
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
     - [Starlight](https://starlight.astro.build/)
-24. #### Type Checking
+26. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-25. #### Visual Editors
+27. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
-26. #### Other Libraries
+28. #### Other Libraries
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
@@ -702,7 +722,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-27. #### DevTools
+29. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
