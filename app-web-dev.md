@@ -60,7 +60,6 @@
       - [DevTools](#devtools)
   - [Angular](#angular)
     - [Component Libraries](#angular-component-libraries)
-    - [Angular Cli](#angular-cli)
   - [Vue](#vue)
     - [Component Libraries](#vue-component-libraries)
 - [Backend](#backend)
@@ -327,6 +326,9 @@
   19. [svgrepo](https://www.svgrepo.com/)
   20. [copyicon](https://copyicon.com/)
   21. [uilogos](https://uilogos.co/)
+  22. [Phosphor](https://phosphoricons.com/)
+  23. [Untitled UI Icons](https://www.untitledui.com/icons)
+  24. [hugeicons](https://hugeicons.com/)
 
 - ## 3d icons
 
@@ -528,6 +530,7 @@
      - [Devsloka UI](https://ui.devsloka.in/)
      - [MynaUI](https://mynaui.com/)
      - [Cook](https://cook.engage-dev.com/)
+     - [square-ui](https://github.com/ln-dev7/square-ui)
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [MUI Material UI](https://mui.com/)
@@ -750,160 +753,6 @@
 8. [Clarity](https://clarity.design/)
 9. [Core UI](https://coreui.io/angular/)
 10. [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/getting-started)
-
-## Angular CLI
-
-1. **Setup**
-
-   ```properties
-   npm install -g @angular/cli
-   ```
-
-2. **New Application**
-
-   ```properties
-   ng new <app-name>
-   ```
-
-3. **Lint for Formatting**
-
-   The Lint command fixes code smells and corrects improper formatting.
-
-   ```properties
-   ng lint my-app --fix
-   ```
-
-   This command shows warnings:
-
-   ```properties
-   ng lint my-app
-   ```
-
-   If you want to format the code, you can use the following command.
-
-   ```properties
-   ng lint my-app --format stylish
-   ```
-
-4. **Blueprints**
-
-   Generate spec:
-
-   ```properties
-   --spec
-   ```
-
-   Check whether the template will be a.ts file or not:
-
-   ```properties
-   --inline-template (-t)
-   ```
-
-   Check whether the style will be in the.ts file or not:
-
-   ```properties
-   --inline-style (-s)
-   ```
-
-   Create a directive:
-
-   ```properties
-   ng g d directive-name
-   ```
-
-   Create a pipeline:
-
-   ```properties
-   ng g p init-caps
-   ```
-
-   Create customer class in the models folder:
-
-   ```properties
-   ng g cl models/customer
-   ```
-
-   Creates a component without the need for the creation of a new folder.
-
-   ```properties
-   ng g c my-component --flat true
-   ```
-
-   Assign a prefix:
-
-   ```properties
-   --prefix
-   ```
-
-   Create an interface in the models folder:
-
-   ```properties
-   ng g i models/person
-   ```
-
-   Create an ENUM gender in the models folder:
-
-   ```properties
-   ng g e models/gender
-   ```
-
-   Create a service:
-
-   ```properties
-   ng g s <service-name>
-   ```
-
-5. **Building Serving**
-
-   Build an app to /dist folder:
-
-   ```properties
-   ng build
-   ```
-
-   Optimize and build an app without using unnecessary code:
-
-   ```properties
-   ng build --aot
-   ```
-
-   Create a build for production:
-
-   ```properties
-   ng build --prod
-   ```
-
-   Specify serve with opening a browser:
-
-   ```properties
-   ng serve -o
-   ```
-
-   Reload when changes occur:
-
-   ```properties
-   ng serve --live-reload
-   ```
-
-   Serve using SSL:
-
-   ```properties
-   ng serve -ssl
-   ```
-
-6. **Add New Capabilities**
-
-   Add angular material to project:
-
-   ```properties
-   ng add @angular/material
-   ```
-
-   Create a material navigation component:
-
-   ```properties
-   ng g @angular/material:material-nav --name nav
-   ```
 
 # Vue
 

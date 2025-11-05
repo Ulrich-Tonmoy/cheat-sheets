@@ -3,6 +3,8 @@
 - [Git Commands](#git-commands)
 - [NVM](#nvm)
 - [NPM](#npm)
+- [Angular Cli](#angular-cli)
+- [.NET Cli](#net-cli)
 
 # Git Commit Patterns
 
@@ -562,3 +564,197 @@ npm visnup
     ```properties
     npx npm-check-updates -u
     ```
+
+# Angular CLI
+
+1. **Setup**
+
+   ```properties
+   npm install -g @angular/cli
+   ```
+
+2. **New Application**
+
+   ```properties
+   ng new <app-name>
+   ```
+
+3. **Lint for Formatting**
+
+   The Lint command fixes code smells and corrects improper formatting.
+
+   ```properties
+   ng lint my-app --fix
+   ```
+
+   This command shows warnings:
+
+   ```properties
+   ng lint my-app
+   ```
+
+   If you want to format the code, you can use the following command.
+
+   ```properties
+   ng lint my-app --format stylish
+   ```
+
+4. **Blueprints**
+
+   Generate spec:
+
+   ```properties
+   --spec
+   ```
+
+   Check whether the template will be a.ts file or not:
+
+   ```properties
+   --inline-template (-t)
+   ```
+
+   Check whether the style will be in the.ts file or not:
+
+   ```properties
+   --inline-style (-s)
+   ```
+
+   Create a directive:
+
+   ```properties
+   ng g d directive-name
+   ```
+
+   Create a pipeline:
+
+   ```properties
+   ng g p init-caps
+   ```
+
+   Create customer class in the models folder:
+
+   ```properties
+   ng g cl models/customer
+   ```
+
+   Creates a component without the need for the creation of a new folder.
+
+   ```properties
+   ng g c my-component --flat true
+   ```
+
+   Assign a prefix:
+
+   ```properties
+   --prefix
+   ```
+
+   Create an interface in the models folder:
+
+   ```properties
+   ng g i models/person
+   ```
+
+   Create an ENUM gender in the models folder:
+
+   ```properties
+   ng g e models/gender
+   ```
+
+   Create a service:
+
+   ```properties
+   ng g s <service-name>
+   ```
+
+5. **Building Serving**
+
+   Build an app to /dist folder:
+
+   ```properties
+   ng build
+   ```
+
+   Optimize and build an app without using unnecessary code:
+
+   ```properties
+   ng build --aot
+   ```
+
+   Create a build for production:
+
+   ```properties
+   ng build --prod
+   ```
+
+   Specify serve with opening a browser:
+
+   ```properties
+   ng serve -o
+   ```
+
+   Reload when changes occur:
+
+   ```properties
+   ng serve --live-reload
+   ```
+
+   Serve using SSL:
+
+   ```properties
+   ng serve -ssl
+   ```
+
+6. **Add New Capabilities**
+
+   Add angular material to project:
+
+   ```properties
+   ng add @angular/material
+   ```
+
+   Create a material navigation component:
+
+   ```properties
+   ng g @angular/material:material-nav --name nav
+   ```
+
+# .NET Cli
+
+1. **Show installed versions info**
+
+   ```properties
+   dotnet --info
+   ```
+
+2. **Build Project**
+
+   ```properties
+   dotnet build
+   ```
+
+3. **Run Project**
+
+   Will run the project
+
+   ```properties
+   dotnet run
+   ```
+
+   To get HMR and instant update of any code change
+
+   ```properties
+   dotnet watch
+   ```
+
+4. **Clean Project**
+
+   ```properties
+   dotnet clean
+   ```
+
+5. **Build Release**
+
+   ```properties
+   dotnet publish
+   ```
