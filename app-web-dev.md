@@ -104,22 +104,23 @@
 - ## Frontend Frameworks
 
   1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [TanStack Start](https://tanstack.com/start/latest) - [Astro](https://github.com/withastro/astro)
-  2. [Remix](https://github.com/remix-run/remix) - [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [umi](https://github.com/umijs/umi)
+  2. [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [Waku](https://waku.gg/) - [umi](https://github.com/umijs/umi)
   3. [Angular](https://github.com/angular/angular) - [Analog](https://github.com/analogjs/analog)
   4. [Vue.js](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
   5. [Solid](https://github.com/solidjs/solid) - [Solid Start](https://github.com/solidjs/solid-start)
   6. [Svelte](https://github.com/sveltejs/svelte) - [Svelte Kit](https://github.com/sveltejs/kit)
-  7. [Preact](https://github.com/preactjs/preact) - [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
-  8. [Ripple](https://github.com/trueadm/ripple) - [Inferno](https://github.com/infernojs/inferno) - [Marko](https://github.com/marko-js/marko) - [ivi](https://github.com/localvoid/ivi)
-  9. [htmx](https://github.com/bigskysoftware/htmx)
-  10. [neo.mjs](https://github.com/neomjs/neo)
-  11. [Alpine.js](https://github.com/alpinejs/alpine)
-  12. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
-  13. [riot](https://github.com/riot/riot)
-  14. [Nuejs](https://github.com/nuejs/nuejs)
-  15. [Yew](https://github.com/yewstack/yew)
-  16. [Stimulus](https://github.com/hotwired/stimulus)
-  17. [Hibiki HTML](https://github.com/dashborg/hibiki)
+  7. [Remix](https://github.com/remix-run/remix)
+  8. [Preact](https://github.com/preactjs/preact) - [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
+  9. [Ripple](https://github.com/trueadm/ripple) - [Inferno](https://github.com/infernojs/inferno) - [Marko](https://github.com/marko-js/marko) - [ivi](https://github.com/localvoid/ivi)
+  10. [htmx](https://github.com/bigskysoftware/htmx)
+  11. [neo.mjs](https://github.com/neomjs/neo)
+  12. [Alpine.js](https://github.com/alpinejs/alpine)
+  13. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
+  14. [riot](https://github.com/riot/riot)
+  15. [Nuejs](https://github.com/nuejs/nuejs)
+  16. [Yew](https://github.com/yewstack/yew)
+  17. [Stimulus](https://github.com/hotwired/stimulus)
+  18. [Hibiki HTML](https://github.com/dashborg/hibiki)
 
 - ## Mock Up Tools
 
@@ -462,8 +463,8 @@
    - [AuthKit](https://workos.com/)
    - [next-auth](https://next-auth.js.org/)
 3. #### Routing
-   - [React Router (Remix)](https://reactrouter.com/en/main)
-   - [TanStack Router](https://tanstack.com/router/v1)
+   - [TanStack Router](https://tanstack.com/router/latest)
+   - [React Router](https://reactrouter.com/)
 4. #### State Management
    - [Redux Toolkit](https://redux-toolkit.js.org/)
    - [Zustand](https://zustand-demo.pmnd.rs/)
