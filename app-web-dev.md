@@ -506,7 +506,7 @@
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
-   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [radix](https://www.radix-ui.com/)
+   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [React Bits](https://reactbits.dev/)
      - [React Wheel Picker](https://react-wheel-picker.chanhdai.com/)
      - [shadcn-prose](https://shadcn-prose.vercel.app/)
