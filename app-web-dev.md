@@ -938,6 +938,7 @@
   - [react-native-animated-glow](https://github.com/realimposter/react-native-animated-glow)
   - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
   - [react-native-enriched](https://github.com/software-mansion/react-native-enriched)
+  - [Pressto](https://github.com/enzomanuelmangano/pressto)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
@@ -945,6 +946,11 @@
   - [Unistyles](https://www.unistyl.es/)
   - [Uniwind](https://uniwind.dev/)
 - ## Other
+  - [MMKV](https://github.com/mrousavy/react-native-mmkv)
+  - [react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info)
+  - [react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding)
+  - [Born React Native Godot](https://github.com/borndotcom/react-native-godot)
+  - [React Native Godot](https://github.com/calico-games/react-native-godot)
   - [Re.Pack](https://github.com/callstack/repack)
   - [react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch)
 - ## Dev Tools
