@@ -800,26 +800,28 @@
 
   1. [ASP.NET Core](https://github.com/dotnet/aspnetcore)
   2. [Express](https://github.com/expressjs/express) - [Fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest) - [Hono](https://github.com/honojs/hono) - [Elysia](https://github.com/elysiajs/elysia) - [Encore](https://github.com/encoredev/encore)
-  3. [Fresh](https://github.com/denoland/fresh) - [H3](https://github.com/unjs/h3) - [Skip](https://github.com/SkipLabs/skip) - [koa](https://github.com/koajs/koa) - [Hattip](https://github.com/hattipjs/hattip)
-  4. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi) - [Flask](https://github.com/pallets/flask)
-  5. [Jetzig](https://github.com/jetzig-framework/jetzig) - [Zap](https://github.com/zigzap/zap) - [zinc](https://github.com/zon-dev/zinc) - [http.zig](https://github.com/karlseguin/http.zig) - [Zine](https://github.com/kristoff-it/zine)
-  6. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber)
-  7. [Phoenix](https://github.com/phoenixframework/phoenix)
-  8. [Amplication](https://github.com/amplication/amplication) - [Motia](https://github.com/MotiaDev/motia)
+  3. [Workflow](https://github.com/vercel/workflow) - [Motia](https://github.com/MotiaDev/motia) - [Amplication](https://github.com/amplication/amplication)
+  4. [Fresh](https://github.com/denoland/fresh) - [H3](https://github.com/unjs/h3) - [Skip](https://github.com/SkipLabs/skip) - [koa](https://github.com/koajs/koa) - [Hattip](https://github.com/hattipjs/hattip)
+  5. [Django](https://github.com/django/django) - [FastAPI](https://github.com/tiangolo/fastapi) - [Flask](https://github.com/pallets/flask)
+  6. [Jetzig](https://github.com/jetzig-framework/jetzig) - [Zap](https://github.com/zigzap/zap) - [zinc](https://github.com/zon-dev/zinc) - [http.zig](https://github.com/karlseguin/http.zig) - [Zine](https://github.com/kristoff-it/zine)
+  7. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber) - [echo](https://github.com/labstack/echo) - [chi](https://github.com/go-chi/chi) - [beego](https://github.com/beego/beego)
+  8. [actix](https://github.com/actix/actix-web) - [axum](https://github.com/tokio-rs/axum) - [poem](https://github.com/poem-web/poem) - [warp](https://github.com/seanmonstar/warp) - [Rocket](https://github.com/rwf2/Rocket)
+  9. [Phoenix](https://github.com/phoenixframework/phoenix)
 
 - ## Backend as a Service and Database
   1. BaaS: [Firebase](https://firebase.google.com/) - [Appwrite](https://github.com/appwrite/appwrite) - [Supabase](https://github.com/supabase/supabase) - [Neon](https://github.com/neondatabase/neon) - [Turso](https://turso.tech/) - [Nhost](https://github.com/nhost/nhost)
   2. BaaS: [SpacetimeDB](https://github.com/ClockworkLabs/SpacetimeDB) - [Convex](https://www.convex.dev/) - [SurrealDB](https://github.com/surrealdb/surrealdb) - [PocketBase](https://github.com/pocketbase/pocketbase)
   3. ORM: [Drizzle](https://github.com/drizzle-team/drizzle-orm) - [Prisma](https://github.com/prisma/prisma) - [Sequelize](https://github.com/sequelize/sequelize) - [Mongoose](https://github.com/Automattic/mongoose)
-  4. Document: [MongoDB](https://github.com/mongodb/mongo) - [Couchbase](https://www.couchbase.com/) - [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
+  4. Document: [MongoDB](https://github.com/mongodb/mongo) - [RavenDB](https://github.com/ravendb/ravendb) - [Couchbase](https://www.couchbase.com/) - [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
   5. Key-Val: [Redis](https://github.com/redis/redis) - [valkey](https://github.com/valkey-io/valkey) - [Dragonfly](https://github.com/dragonflydb/dragonfly) - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - [Riak](https://riak.com/)
-  6. Column: [ClickHouse](https://clickhouse.com/) - [Apache Cassandra](https://cassandra.apache.org/)
+  6. Column: [ClickHouse](https://clickhouse.com/) - [Apache Cassandra](https://cassandra.apache.org/) - [hbase](https://github.com/apache/hbase)
   7. Vector: [Pinecone](https://www.pinecone.io/) - [Qdrant](https://qdrant.tech/) - [Milvus](https://milvus.io/) - [Weaviate](https://weaviate.io/) - [TopK](https://www.topk.io/)
   8. Graph: [Neo4j](https://github.com/neo4j/neo4j) - Time-Series: [InfluxDB](https://www.influxdata.com/) - [Timescale](https://www.timescale.com/)
-  9. Spreadsheet: [Teable](https://github.com/teableio/teable) - Airtable: [NocoDB](https://github.com/nocodb/nocodb)
+  9. Spreadsheet: [Teable](https://github.com/teableio/teable) - Airtable: [NocoDB](https://github.com/nocodb/nocodb) - Search: [Elasticsearch](https://github.com/elastic/elasticsearch)
   10. Local-first: [TinyBase](https://tinybase.org/) - [Dexie.js](https://dexie.org/) - [Electric](https://electric-sql.com/) - [watermelondb](https://watermelondb.dev/) - [RxDB](https://rxdb.info/)
   11. CMS: [Sanity](https://github.com/sanity-io/sanity) - [payloadcms](https://payloadcms.com/)
   12. [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - [CockroachDB](https://github.com/cockroachdb/cockroach) - [DuckDB](https://github.com/duckdb/duckdb)
+  13. [postgres](https://github.com/postgres/postgres) - [sqlite](https://github.com/sqlite/sqlite) - [mysql](https://github.com/mysql/mysql-server) - [MariaDB](https://github.com/MariaDB/server)
 
 # ASP.NET
 
