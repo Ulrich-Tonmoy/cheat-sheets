@@ -414,10 +414,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 1. [Git](https://github.com/git/git) - [Jujutsu](https://github.com/jj-vcs/jj) - [Grace](https://github.com/ScottArbeit/Grace) - [SQLite](https://github.com/sqlite/sqlite) - [fossil-mirror](https://github.com/drhsqlite/fossil-mirror)
 2. [Linux](https://github.com/torvalds/linux) - [NetBSD](https://github.com/NetBSD/src) - [FreeBSD](https://github.com/freebsd/freebsd-src) - [OpenBSD](https://github.com/openbsd/src) - [Android](https://android.googlesource.com/) - [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity) - [XenevaOS](https://github.com/manaskamal/XenevaOS)
 3. [MS-DOS](https://github.com/microsoft/MS-DOS) - [ravynOS](https://github.com/ravynsoft/ravynos) - [DragonFlyBSD](https://gitweb.dragonflybsd.org/dragonfly.git) - [skiftOS](https://github.com/skift-org/skift) - [RedoxOS](https://gitlab.redox-os.org/redox-os/redox) - [XNU](https://github.com/apple-oss-distributions/xnu) - [Tilck](https://github.com/vvaltchev/tilck)
-4. [Wine](https://github.com/wine-mirror/wine) - [Wine](https://gitlab.winehq.org/wine/wine) - [Proton](https://github.com/ValveSoftware/Proton) - [winapps](https://github.com/winapps-org/winapps) - [waydroid](https://github.com/waydroid/waydroid) - [winboat](https://github.com/TibixDev/winboat)
-5. [Managarm](https://github.com/managarm/managarm) - [Asterinas](https://github.com/asterinas/asterinas) - [Xous](https://github.com/betrusted-io/xous-core) - [OpenHarmony](https://gitee.com/openharmony) - [HarmonyOS](https://github.com/1021256354/harmonyOS)
-6. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
-7. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
-8. [ImHex](https://github.com/WerWolv/ImHex)
-9. [Modern Windows Message Box Generator](https://github.com/ThioJoe/Modern-Windows-Message-Box-Generator)
-10. [SVG Thumbnail Extension](https://github.com/ThioJoe/win-svg-thumbs-rust)
+4. [Wine](https://github.com/wine-mirror/wine) - [Wine](https://gitlab.winehq.org/wine/wine) - [Proton](https://github.com/ValveSoftware/Proton) - [FEX](https://github.com/FEX-Emu/FEX) - [winapps](https://github.com/winapps-org/winapps) - [waydroid](https://github.com/waydroid/waydroid) - [winboat](https://github.com/TibixDev/winboat)
+5. [OSX-KVM](https://github.com/kholia/OSX-KVM) - [Docker-Android](https://github.com/budtmo/docker-android)
+6. [Managarm](https://github.com/managarm/managarm) - [Asterinas](https://github.com/asterinas/asterinas) - [Xous](https://github.com/betrusted-io/xous-core) - [OpenHarmony](https://gitee.com/openharmony) - [HarmonyOS](https://github.com/1021256354/harmonyOS)
+7. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
+8. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
+9. [ImHex](https://github.com/WerWolv/ImHex)
+10. [Modern Windows Message Box Generator](https://github.com/ThioJoe/Modern-Windows-Message-Box-Generator)
+11. [SVG Thumbnail Extension](https://github.com/ThioJoe/win-svg-thumbs-rust)
