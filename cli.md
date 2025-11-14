@@ -3,6 +3,7 @@
 - [Git Commands](#git-commands)
 - [NVM](#nvm)
 - [NPM](#npm)
+- [Bun](#bun)
 - [Angular Cli](#angular-cli)
 - [.NET Cli](#net-cli)
 
@@ -560,10 +561,145 @@ npm visnup
     npx npm-check-updates
     ```
 
-2.  Update all dependency version in package.json file
+    or
+
+    ```properties
+    npm outdated
+    ```
+
+2.  Update all dependency version in `package.json` file
+
     ```properties
     npx npm-check-updates -u
     ```
+
+    or
+
+    ```properties
+    npm update
+    ```
+
+# Bun
+
+### Show outdated packages
+
+```properties
+bun outdated
+```
+
+### Update all packages to the newest versions compatible with your ranges
+
+```properties
+bun update
+```
+
+### Force-update to the absolute latest versions (ignores ranges)
+
+```properties
+bun update --latest
+```
+
+### Add a dev dependency
+
+```properties
+bun add -d <pkg>
+```
+
+### Remove a package
+
+```properties
+bun remove <pkg>
+```
+
+### Remove a global package
+
+```properties
+bun remove -g <pkg>
+```
+
+### List all installed packages (tree view)
+
+```properties
+bun pm ls
+```
+
+### List all globally installed packages (tree view)
+
+```properties
+bun pm ls -g
+```
+
+### View package info from registry
+
+```properties
+bun pm view <pkg>
+```
+
+### Show package cache location
+
+```properties
+bun pm cache
+```
+
+### Show global bin directory (where executables are linked)
+
+```properties
+bun pm bin
+```
+
+### Check where global packages are stored
+
+```properties
+bun pm bin -g
+```
+
+### Run a script defined in `package.json`
+
+```properties
+bun run <script>
+```
+
+### Run a `.ts`, `.js`, `.tsx`, or `.jsx` file directly
+
+```properties
+bun <file.ts>
+```
+
+### Run file with hot reload (auto-restart on save)
+
+```properties
+bun --hot <file.ts>
+```
+
+### Run a package binary without installing (like `npx`)
+
+```properties
+bunx <pkg>
+```
+
+### Run tests in watch mode
+
+```properties
+bun test -w
+```
+
+### Run a specific test file
+
+```properties
+bun test path/to/test.spec.ts
+```
+
+### List all installed packages (tree view)
+
+```properties
+bun pm ls
+```
+
+### List all installed packages (tree view)
+
+```properties
+bun pm ls
+```
 
 # Angular CLI
 
