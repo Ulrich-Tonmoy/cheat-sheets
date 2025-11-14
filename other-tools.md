@@ -23,6 +23,7 @@
 - [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - [YASB Reborn](https://github.com/amnweb/yasb) - [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [Windhawk](https://windhawk.net/) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [Loaf](https://github.com/DinoChan/Loaf) - [BongoCat](https://github.com/ayangweb/BongoCat)
 - [Rectify11](https://github.com/Rectify11/Installer) - [Rainmeter](https://github.com/rainmeter/rainmeter) - [JaxCore](https://github.com/Jax-Core/JaxCore)
 - [Sparkle](https://github.com/Parcoil/Sparkle) - [Crapfixer](https://github.com/builtbybel/Crapfixer) - [PC Manager](https://pcmanager.microsoft.com/en-us) - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - [winutil](https://github.com/ChrisTitusTech/winutil) - [Revo](https://www.revouninstaller.com/) - [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd) - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+- [Winhance](https://github.com/memstechtips/Winhance) - [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall)
 - [Flameshot](https://github.com/flameshot-org/flameshot) - [TinyTask](https://tinytask.net/) - [windirstat](https://windirstat.net/) - [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
 - [Transmission](https://github.com/transmission/transmission) - [qBittorrent](https://www.qbittorrent.org/)
 
