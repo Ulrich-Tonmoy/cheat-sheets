@@ -49,6 +49,7 @@
 # Learning Resources
 
 1. [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+2. [open-source-cs](https://github.com/ForrestKnight/open-source-cs/)
 2. [Mind Luster - 300,000 Online Courses](https://www.mindluster.com/)
 3. [app-ideas](https://github.com/florinpop17/app-ideas)
 4. [roadmap](https://roadmap.sh/)
