@@ -11,21 +11,19 @@
 - [AI CLI](#ai-cli)
 - [Code Editors](#code-editors)
 - [Note-taking Apps](#note-taking-apps)
-- [Other Repos](#other-repos)
+- [Misc Apps](#misc-apps)
+- [Misc Repos](#misc-repos)
 
 # Workspace tools
 
-- [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/) - [VS Code](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/downloads/) - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop)
-- [nvm](https://github.com/nvm-sh/nvm) - [nvm windows](https://github.com/coreybutler/nvm-windows) - [bun](https://bun.sh/) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/) - [GitButler](https://github.com/gitbutlerapp/gitbutler)
-- [Zen](https://www.zen-browser.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Brave](https://brave.com/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Servo](https://servo.org/) - [Helium](https://helium.computer/)
-- [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vicinae](https://github.com/vicinaehq/vicinae) - [UniGetUI](https://github.com/marticliment/WingetUI)
-- [UltraPad](https://github.com/lixkote/ultrapad) - [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [Superfile](https://github.com/yorukot/superfile) - [CopyParty](https://github.com/9001/copyparty) - [Dangerzone](https://github.com/freedomofpress/dangerzone)
-- [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - [YASB Reborn](https://github.com/amnweb/yasb) - [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [Windhawk](https://windhawk.net/) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [Loaf](https://github.com/DinoChan/Loaf) - [BongoCat](https://github.com/ayangweb/BongoCat)
-- [Rectify11](https://github.com/Rectify11/Installer) - [Rainmeter](https://github.com/rainmeter/rainmeter) - [JaxCore](https://github.com/Jax-Core/JaxCore)
-- [Sparkle](https://github.com/Parcoil/Sparkle) - [Crapfixer](https://github.com/builtbybel/Crapfixer) - [PC Manager](https://pcmanager.microsoft.com/en-us) - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - [winutil](https://github.com/ChrisTitusTech/winutil) - [Revo](https://www.revouninstaller.com/) - [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd) - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
-- [Winhance](https://github.com/memstechtips/Winhance) - [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall)
-- [Duplicates Cleaner](https://apps.microsoft.com/detail/9pmxpz18cz49) - [windirstat](https://windirstat.net/) - [Flameshot](https://github.com/flameshot-org/flameshot) - [TinyTask](https://tinytask.net/) - [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
-- [Transmission](https://github.com/transmission/transmission) - [qBittorrent](https://www.qbittorrent.org/)
+- [NVM](https://github.com/nvm-sh/nvm) - [NVM Windows](https://github.com/coreybutler/nvm-windows) - [Bun](https://bun.sh/) - [VS Code](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/) - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop)
+- [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+- [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/) - [GitButler](https://github.com/gitbutlerapp/gitbutler)
+- [Brave](https://brave.com/) - [Zen](https://www.zen-browser.app/) - [Helium](https://helium.computer/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Servo](https://servo.org/)
+- [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/)
+- [PowerToys](https://github.com/microsoft/PowerToys) - [UniGetUI](https://github.com/marticliment/WingetUI) - [UltraPad](https://github.com/lixkote/ultrapad) - [Dangerzone](https://github.com/freedomofpress/dangerzone)
 
 - ## MS 365
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
@@ -74,6 +72,7 @@
 ## VS Code Profiles
 
 - [Code Profile](./assets/tools/vs-code/Code.code-profile)
+- [Main Profile](./assets/tools/vs-code/Main.code-profile)
 
 ## VS Code Style
 
@@ -412,16 +411,31 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 3. [MarkFlowy](https://github.com/drl990114/MarkFlowy) - [Colanode](https://github.com/colanode/colanode) - [NoteGen](https://github.com/codexu/note-gen) - [Trilium](https://github.com/zadam/trilium) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability) - [Zettlr](https://github.com/Zettlr/Zettlr) - [Foam](https://github.com/foambubble/foam)
 4. [Focalboard](https://github.com/mattermost/focalboard) - [Freeter](https://github.com/FreeterApp/Freeter)
 
-# Other Repos
+# Misc Apps
+
+- Win11 Debloater: [Winhance](https://github.com/memstechtips/Winhance) - [winutil](https://github.com/ChrisTitusTech/winutil) - [Sparkle](https://github.com/Parcoil/Sparkle) - [Crapfixer](https://github.com/builtbybel/Crapfixer) - [Microsoft PC Manager](https://pcmanager.microsoft.com/en-us)
+- Win11 Debloater: [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd) - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - [Revo](https://www.revouninstaller.com/) - [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+- Win11 Customization: [Windhawk](https://windhawk.net/) - [BongoCat](https://github.com/ayangweb/BongoCat) - [YASB Reborn](https://github.com/amnweb/yasb) - [Seelen UI](https://apps.microsoft.com/detail/9p67c2d4t9fb) - [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - [Rectify11](https://github.com/Rectify11/Installer)
+- Win11 Customization: [Rainmeter](https://github.com/rainmeter/rainmeter) - [Skins](https://visualskins.com/) - [Monterey](https://github.com/creewick/MontereyRainmeter) - [Droptop Four](https://www.droptopfour.com/) - [JaxCore](https://github.com/Jax-Core/JaxCore) - [TranslucentTB](https://apps.microsoft.com/detail/9pf4kz2vn4w9) - [Loaf](https://github.com/DinoChan/Loaf)
+- Wallpaper: [Raycast](https://www.raycast.com/wallpapers) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [wallpapercave](https://wallpapercave.com/)
+- File Explorer: [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [Superfile](https://github.com/yorukot/superfile) - [CopyParty](https://github.com/9001/copyparty)
+- App Launcher: [Vicinae](https://github.com/vicinaehq/vicinae) - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+- [Duplicates Cleaner](https://apps.microsoft.com/detail/9pmxpz18cz49) - Disk Usage Statistics [windirstat](https://windirstat.net/)
+- Torrent Client: [Transmission](https://github.com/transmission/transmission) - [qBittorrent](https://www.qbittorrent.org/)
+- File: [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
+- Screenshot: [Flameshot](https://github.com/flameshot-org/flameshot) - Record & Repeat Actions: [TinyTask](https://tinytask.net/)
+
+# Misce Repos
 
 1. [Git](https://github.com/git/git) - [Jujutsu](https://github.com/jj-vcs/jj) - [Grace](https://github.com/ScottArbeit/Grace) - [SQLite](https://github.com/sqlite/sqlite) - [fossil-mirror](https://github.com/drhsqlite/fossil-mirror)
 2. [Linux](https://github.com/torvalds/linux) - [NetBSD](https://github.com/NetBSD/src) - [FreeBSD](https://github.com/freebsd/freebsd-src) - [OpenBSD](https://github.com/openbsd/src) - [Android](https://android.googlesource.com/) - [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity) - [XenevaOS](https://github.com/manaskamal/XenevaOS)
 3. [MS-DOS](https://github.com/microsoft/MS-DOS) - [ravynOS](https://github.com/ravynsoft/ravynos) - [DragonFlyBSD](https://gitweb.dragonflybsd.org/dragonfly.git) - [skiftOS](https://github.com/skift-org/skift) - [RedoxOS](https://gitlab.redox-os.org/redox-os/redox) - [XNU](https://github.com/apple-oss-distributions/xnu) - [Tilck](https://github.com/vvaltchev/tilck)
-4. [Wine](https://github.com/wine-mirror/wine) - [Wine](https://gitlab.winehq.org/wine/wine) - [Proton](https://github.com/ValveSoftware/Proton) - [FEX](https://github.com/FEX-Emu/FEX) - [winapps](https://github.com/winapps-org/winapps) - [waydroid](https://github.com/waydroid/waydroid) - [winboat](https://github.com/TibixDev/winboat)
-5. [OSX-KVM](https://github.com/kholia/OSX-KVM) - [Docker-Android](https://github.com/budtmo/docker-android)
-6. [Managarm](https://github.com/managarm/managarm) - [Asterinas](https://github.com/asterinas/asterinas) - [Xous](https://github.com/betrusted-io/xous-core) - [OpenHarmony](https://gitee.com/openharmony) - [HarmonyOS](https://github.com/1021256354/harmonyOS)
-7. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
-8. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
-9. [ImHex](https://github.com/WerWolv/ImHex)
-10. [Modern Windows Message Box Generator](https://github.com/ThioJoe/Modern-Windows-Message-Box-Generator)
-11. [SVG Thumbnail Extension](https://github.com/ThioJoe/win-svg-thumbs-rust)
+4. [windows95](https://github.com/felixrieseberg/windows95)
+5. [Wine](https://github.com/wine-mirror/wine) - [Wine](https://gitlab.winehq.org/wine/wine) - [Proton](https://github.com/ValveSoftware/Proton) - [FEX](https://github.com/FEX-Emu/FEX) - [winapps](https://github.com/winapps-org/winapps) - [waydroid](https://github.com/waydroid/waydroid) - [winboat](https://github.com/TibixDev/winboat)
+6. [OSX-KVM](https://github.com/kholia/OSX-KVM) - [Docker-Android](https://github.com/budtmo/docker-android)
+7. [Managarm](https://github.com/managarm/managarm) - [Asterinas](https://github.com/asterinas/asterinas) - [Xous](https://github.com/betrusted-io/xous-core) - [OpenHarmony](https://gitee.com/openharmony) - [HarmonyOS](https://github.com/1021256354/harmonyOS)
+8. [aniyomi](https://github.com/aniyomiorg/aniyomi) - [mihon](https://github.com/mihonapp/mihon)
+9. [Dependencies](https://github.com/lucasg/Dependencies) - An open-source modern Dependency Walker
+10. [ImHex](https://github.com/WerWolv/ImHex)
+11. [Modern Windows Message Box Generator](https://github.com/ThioJoe/Modern-Windows-Message-Box-Generator)
+12. [SVG Thumbnail Extension](https://github.com/ThioJoe/win-svg-thumbs-rust)
