@@ -518,6 +518,8 @@
      - [AI Elements](https://ai-sdk.dev/elements/overview)
      - [Magic UI](https://magicui.design/docs/installation)
      - [Origin UI](https://originui.com/)
+     - [HextaUI](https://www.hextaui.com/)
+     - [Luxe](https://www.luxeui.com/)
      - [Motion-Primitives](https://motion-primitives.com/)
      - [Animate UI](https://animate-ui.com/)
      - [ScrollX UI](https://scrollxui.dev/)
@@ -531,6 +533,8 @@
      - [MynaUI](https://mynaui.com/)
      - [Cook](https://cook.engage-dev.com/)
      - [square-ui](https://github.com/ln-dev7/square-ui)
+     - [basecn](https://basecn.dev/)
+     - [coss/ui](https://coss.com/ui/docs)
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [MUI Material UI](https://mui.com/)
@@ -548,6 +552,7 @@
    - [React Suite](https://rsuitejs.com/)
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
+   - [Shoelace](https://shoelace.style/)
 9. #### Other UI libs
    - [Ink](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
    - [OpenTUI](https://github.com/sst/opentui) TypeScript library for building terminal user interfaces (TUIs).
