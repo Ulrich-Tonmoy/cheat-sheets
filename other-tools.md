@@ -138,6 +138,12 @@ Linux:
 
 # Windows
 
+## Registry setting to enable long paths using Powershell command
+
+```ps
+New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
+```
+
 ## Check and Toggle Recall
 
 - Open up the Terminal (as Admin) and type in this command
@@ -304,6 +310,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - `shell:startup`
 - `shell:appsfolder`
 - `shell:common startup`
+- `services.msc`
 - `netlpwiz`
 - `SystemPropertiesAdvanced` to see windows users list
 - `chrome.exe --user-data-dir="c:/ChromeDevSession"`
