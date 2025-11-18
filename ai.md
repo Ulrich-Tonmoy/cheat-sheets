@@ -18,15 +18,15 @@
 - ## Chat AI
 
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
-  2. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
-  3. [Claude](https://claude.ai/) - [Grok](https://x.ai/) - [Chat GPT](https://chatgpt.com/)
-  4. [Free ChatGPT Acc](https://chatgptplus.cn/) - [ChatGPT Free](https://chatgptfree.ai/)
-  5. [Gemini](https://gemini.google.com/) - [Google AI Studio](https://aistudio.google.com/) - [NotebookLM](https://notebooklm.google/)
+  2. [Gemini](https://gemini.google.com/) - [NotebookLM](https://notebooklm.google/)
+  3. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
+  4. [Claude](https://claude.ai/) - [Grok](https://x.ai/) - [Chat GPT](https://chatgpt.com/)
+  5. [Free ChatGPT Acc](https://chatgptplus.cn/) - [ChatGPT Free](https://chatgptfree.ai/)
   6. [PageLM](https://github.com/CaviraOSS/PageLM)
   7. [Perplexity](https://www.perplexity.ai/) For Search or Research
-  8. [Mistral](https://chat.mistral.ai/)
-  9. [Copilot](https://copilot.microsoft.com/)
-  10. [pentestgpt](https://pentestgpt.ai/) For learning Ethical hacking
+  8. [pentestgpt](https://pentestgpt.ai/) For learning Ethical hacking
+  9. [Mistral](https://chat.mistral.ai/)
+  10. [Copilot](https://copilot.microsoft.com/)
   11. [Bai Chat](https://chatbot.theb.ai)
   12. [monica](https://monica.im/)
   13. [Zapier](https://zapier.com/central)
