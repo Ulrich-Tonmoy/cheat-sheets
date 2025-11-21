@@ -96,9 +96,10 @@
   19. [Espruino](https://github.com/espruino/Espruino)
   20. [Flow](https://github.com/MultiboxLabs/flow-browser) - [Ladybird](https://github.com/LadybirdBrowser/ladybird)
   21. [Servo](https://github.com/servo/servo) - [Verso](https://github.com/versotile-org/verso)
-  22. [Boa](https://github.com/boa-dev/boa)
-  23. [Rhino](https://github.com/mozilla/rhino)
-  24. [Nashorn](https://github.com/openjdk/nashorn)
+  22. [Brimstone](https://github.com/Hans-Halverson/brimstone)
+  23. [Boa](https://github.com/boa-dev/boa)
+  24. [Rhino](https://github.com/mozilla/rhino)
+  25. [Nashorn](https://github.com/openjdk/nashorn)
 
 - ## Frontend Frameworks
 
