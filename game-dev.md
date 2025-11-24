@@ -212,12 +212,13 @@
 
 - ## Image to 3D AI
 
-  1. [Tripo 3d](https://www.tripo3d.ai/)
-  2. [Rodin 3d](https://hyper3d.ai/)
-  3. [Trellis 3d](https://trellis3d.net/)
-  4. [TRELLIS](https://github.com/microsoft/TRELLIS)
-  5. [fal-ai/trellis](https://fal.ai/models/fal-ai/trellis)
-  6. [huggingface TRELLIS](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
+  1. [Hitem](https://www.hitem3d.ai/3dmodeling/home)
+  2. [Tripo 3d](https://www.tripo3d.ai/)
+  3. [Rodin 3d](https://hyper3d.ai/)
+  4. [Trellis 3d](https://trellis3d.net/)
+  5. [TRELLIS](https://github.com/microsoft/TRELLIS)
+  6. [fal-ai/trellis](https://fal.ai/models/fal-ai/trellis)
+  7. [huggingface TRELLIS](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
 
 - ## 3d Animation App
 
