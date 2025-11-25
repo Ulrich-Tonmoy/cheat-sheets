@@ -428,7 +428,7 @@
 
   1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) -- [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
   2. [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
-  3. [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase Studio](https://github.com/outerbase/studio) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad)
+  3. [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase](https://github.com/outerbase/studio) - [Conar](https://github.com/wannabespace/conar) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad)
   4. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
   5. [chartdb](https://github.com/chartdb/chartdb)
   6. [Partytown](https://github.com/BuilderIO/partytown)
@@ -468,6 +468,7 @@
 3. #### Routing
    - [TanStack Router](https://tanstack.com/router/latest)
    - [React Router](https://reactrouter.com/)
+   - [nuqs](https://nuqs.dev/) Type-safe search params state manager for React
 4. #### State Management
    - [Redux Toolkit](https://redux-toolkit.js.org/)
    - [Zustand](https://zustand-demo.pmnd.rs/)
@@ -538,6 +539,7 @@
      - [coss/ui](https://coss.com/ui/docs)
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
+   - [Better Auth UI](https://better-auth-ui.com/) - [Better Upload](https://better-upload.com/)
    - [MUI Material UI](https://mui.com/)
    - [Ark UI](https://ark-ui.com/) - [Chakra UI](https://chakra-ui.com/) - [Park UI](https://park-ui.com/)
    - [Ant Design](https://ant.design/) - [Mantine](https://mantine.dev/) - [daisyUI](https://daisyui.com/)
@@ -780,6 +782,7 @@
 - [Naïve UI](https://www.naiveui.com/en-US/os-theme)
 - [Equal UI](https://equal-ui.github.io/Equal/)
 - [Buefy](https://buefy.org/)
+- [Vue File Manager](https://vuefinder.ozdemir.be/)
 - [BootstrapVue](https://bootstrap-vue.org/)
 
 ## Vue Store
@@ -812,7 +815,7 @@
   6. [Jetzig](https://github.com/jetzig-framework/jetzig) - [Zap](https://github.com/zigzap/zap) - [zinc](https://github.com/zon-dev/zinc) - [http.zig](https://github.com/karlseguin/http.zig) - [Zine](https://github.com/kristoff-it/zine)
   7. [Gin](https://github.com/gin-gonic/gin) - [Fiber](https://github.com/gofiber/fiber) - [echo](https://github.com/labstack/echo) - [chi](https://github.com/go-chi/chi) - [beego](https://github.com/beego/beego)
   8. [actix](https://github.com/actix/actix-web) - [axum](https://github.com/tokio-rs/axum) - [poem](https://github.com/poem-web/poem) - [warp](https://github.com/seanmonstar/warp) - [Rocket](https://github.com/rwf2/Rocket)
-  9. [Phoenix](https://github.com/phoenixframework/phoenix)
+  9. [Phoenix](https://github.com/phoenixframework/phoenix) - [Hologram](https://hologram.page/)
 
 - ## Backend as a Service and Database
   1. BaaS: [Firebase](https://firebase.google.com/) - [Appwrite](https://github.com/appwrite/appwrite) - [Supabase](https://github.com/supabase/supabase) - [Neon](https://github.com/neondatabase/neon) - [Turso](https://turso.tech/) - [Nhost](https://github.com/nhost/nhost)
