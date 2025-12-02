@@ -951,6 +951,7 @@
   - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
   - [react-native-enriched](https://github.com/software-mansion/react-native-enriched)
   - [Pressto](https://github.com/enzomanuelmangano/pressto)
+  - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
