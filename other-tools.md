@@ -21,8 +21,8 @@
 - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/) - [GitButler](https://github.com/gitbutlerapp/gitbutler)
 - [Brave](https://brave.com/) - [Zen](https://www.zen-browser.app/) - [Helium](https://helium.computer/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Orion](https://orionbrowser.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Servo](https://servo.org/)
-- [Potplayer](https://potplayer.daum.net/) - [VLC media player](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/)
-- [PowerToys](https://github.com/microsoft/PowerToys) - [UniGetUI](https://github.com/marticliment/WingetUI) - [UltraPad](https://github.com/lixkote/ultrapad) - [Dangerzone](https://github.com/freedomofpress/dangerzone)
+- [Potplayer](https://potplayer.daum.net/) - [VLC](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys)
+- [Everything](https://www.voidtools.com/) - [UniGetUI](https://github.com/marticliment/WingetUI) - [UltraPad](https://github.com/lixkote/ultrapad) - [Dangerzone](https://github.com/freedomofpress/dangerzone)
 
 - ## MS 365
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
