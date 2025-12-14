@@ -103,7 +103,7 @@
 
 - ## Frontend Frameworks
 
-  1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [TanStack Start](https://tanstack.com/start/latest) - [Astro](https://github.com/withastro/astro)
+  1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [TanStack Start](https://tanstack.com/start/latest) - [Astro](https://github.com/withastro/astro) - [Vike](https://github.com/vikejs/vike)
   2. [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [Waku](https://waku.gg/) - [umi](https://github.com/umijs/umi)
   3. [Angular](https://github.com/angular/angular) - [Analog](https://github.com/analogjs/analog)
   4. [Vue.js](https://github.com/vuejs/core) - [Nuxt](https://github.com/nuxt/nuxt)
@@ -456,6 +456,7 @@
    - [bhvr (Full-stack React-Hono Framework)](https://bhvr.dev/)
    - [Waku (React Framework)](https://waku.gg/)
    - [Astro (Content-based Website)](https://astro.build/)
+   - [Vike (Composable framework)](https://vike.dev/)
    - [React Admin (B2B React Framework)](https://marmelab.com/react-admin/)
    - [Refine (B2B React Framework)](https://refine.dev/)
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
