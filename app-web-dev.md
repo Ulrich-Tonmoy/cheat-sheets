@@ -534,6 +534,11 @@
      - [cult-ui](https://www.cult-ui.com/)
      - [skiper-ui](https://skiper-ui.com/)
      - [eldoraui](https://www.eldoraui.site/)
+     - [efferd](https://efferd.com/)
+     - [SolaceUI](https://www.solaceui.com/)
+     - [fancy components](https://www.fancycomponents.dev/)
+     - [SquareUi](https://squareui.com/)
+     - [blocks](https://blocks.so/)
      - [Devsloka UI](https://ui.devsloka.in/)
      - [MynaUI](https://mynaui.com/)
      - [Cook](https://cook.engage-dev.com/)
@@ -954,6 +959,7 @@
   - [react-native-enriched](https://github.com/software-mansion/react-native-enriched)
   - [Pressto](https://github.com/enzomanuelmangano/pressto)
   - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - [React Native True Sheet](https://github.com/lodev09/react-native-true-sheet)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
