@@ -230,7 +230,7 @@
   6. [deepmotion](https://www.deepmotion.com/)
   7. [plask](https://plask.ai/)
   8. [radicalmotion](https://radicalmotion.com/)
-  9. [AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
+  9. [QuickMagic AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
 
 - ## 2d Art APP
 
