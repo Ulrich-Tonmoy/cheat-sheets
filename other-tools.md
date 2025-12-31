@@ -16,13 +16,11 @@
 
 # Workspace tools
 
-- [nvm windows](https://github.com/coreybutler/nvm-windows) - [Bun](https://bun.sh/) - [VS Code](https://code.visualstudio.com/) - [VS](https://visualstudio.microsoft.com/downloads/) - [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-- [Notepad++](https://notepad-plus-plus.org/downloads/) - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop) - [Docker](https://www.docker.com/)
-- [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [Zig](https://ziglang.org/download/) - [Vulkan](https://vulkan.lunarg.com/) - [GitButler](https://github.com/gitbutlerapp/gitbutler)
-- [Zen](https://www.zen-browser.app/) - [Brave](https://brave.com/) - [Helium](https://helium.computer/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Orion](https://orionbrowser.com/)
-- [Floorp](https://floorp.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Tor](https://www.torproject.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Servo](https://servo.org/)
-- [Potplayer](https://potplayer.daum.net/) - [VLC](https://www.videolan.org/) - [OBS Studio](https://obsproject.com/) - [PowerToys](https://github.com/microsoft/PowerToys)
-- [Everything](https://www.voidtools.com/) - [UniGetUI](https://github.com/marticliment/WingetUI) - [UltraPad](https://github.com/lixkote/ultrapad) - [Dangerzone](https://github.com/freedomofpress/dangerzone)
+- [nvm windows](https://github.com/coreybutler/nvm-windows) - [Bun](https://bun.sh/) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [GCC](https://gcc.gnu.org/install/binaries.html) - [Zig](https://ziglang.org/download/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/) - [VS Code](https://code.visualstudio.com/) - [VS](https://visualstudio.microsoft.com/downloads/) - [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop) - [GitButler](https://github.com/gitbutlerapp/gitbutler) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vulkan](https://vulkan.lunarg.com/)
+- [Zen](https://www.zen-browser.app/) - [Brave](https://brave.com/) - [Helium](https://helium.computer/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Orion](https://orionbrowser.com/) - [Servo](https://servo.org/)
+- [Floorp](https://floorp.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Mullvad](https://mullvad.net/en/browser)
 
 - ## MS 365
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
@@ -59,12 +57,12 @@
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/) - [Terminal Splash](https://terminalsplash.com/) - [Dracula Theme](https://draculatheme.com/windows-terminal)
 - [Awesome TUIs (List of projects that provide terminal user interfaces)](https://github.com/rothgar/awesome-tuis)
 - [Starship](https://starship.rs/) - [starship.toml](./assets/tools/terminal/starship.toml) -> `C:\Users\{Name}\.config`
-
   - For Powershell
     - In the Document folder create a Folder name `PowerShell`.
     - Inside the folder Create a file name `Microsoft.PowerShell_profile.ps1` with `ps1` extension
     - And paste `Invoke-Expression (&starship init powershell)` in the `Microsoft.PowerShell_profile.ps1`
     - PowerShell log data `%APPDATA%\Microsoft\Windows\PowerShell\PSReadline\`
+- [eza](https://github.com/eza-community/eza)
 
 # VS Code
 
@@ -427,12 +425,15 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - Win11 Theme: [Rainmeter Themes](https://rainmeterthemes.com/) - [MD3-Windows](https://github.com/Runixe786/MD3-Windows) - [NThing-UI](https://github.com/Runixe786/NThing-UI) - [Expressive-Windows](https://github.com/Runixe786/Expressive-Windows) - [Macified-Windows](https://github.com/Runixe786/Macified-Windows)
 - Wallpaper: [Raycast Wallpapers](https://www.raycast.com/wallpapers) - [Lively Wallpaper](https://github.com/rocksdanister/lively) - [moewalls](https://moewalls.com/landscape/aurora-over-the-lake-live-wallpaper/) - [wallpapercave](https://wallpapercave.com/)
 - File Explorer: [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [Superfile](https://github.com/yorukot/superfile) - [CopyParty](https://github.com/9001/copyparty) - [FileBrowser](https://github.com/gtsteffaniak/filebrowser) - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - [Poly](https://poly.app/)
-- App Launcher: [Vicinae](https://github.com/vicinaehq/vicinae) - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - [Raycast](https://www.raycast.com/)
+- App Launcher: [Vicinae](https://github.com/vicinaehq/vicinae) - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - [Raycast](https://www.raycast.com/) - Search: [Everything](https://www.voidtools.com/)
 - [Duplicates Cleaner](https://apps.microsoft.com/detail/9pmxpz18cz49) - Disk Usage Statistics [windirstat](https://windirstat.net/) - [BleachBit](https://github.com/bleachbit/bleachbit)
 - Torrent Client: [Transmission](https://github.com/transmission/transmission) - [qBittorrent](https://www.qbittorrent.org/)
 - File: [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
 - Screenshot: [Flameshot](https://github.com/flameshot-org/flameshot) - Record & Repeat Actions: [TinyTask](https://tinytask.net/)
-- [eza](https://github.com/eza-community/eza)
+- Video Player: [Potplayer](https://potplayer.daum.net/) - [VLC](https://www.videolan.org/) - Screen Recoder: [OBS Studio](https://obsproject.com/)
+- [NanaZip](https://github.com/M2Team/NanaZip) - GUI for CLI Package Manager: [UniGetUI](https://github.com/marticliment/WingetUI)
+- WordPad: [UltraPad](https://github.com/lixkote/ultrapad) - Take files and convert them to a safe PDF: [Dangerzone](https://github.com/freedomofpress/dangerzone)
+- [KeePass](https://keepass.info/) - [HWiNFO](https://www.hwinfo.com/)
 
 # Misce Repos
 
