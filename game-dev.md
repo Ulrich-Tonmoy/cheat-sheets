@@ -242,7 +242,7 @@
   6. [Paint.NET](https://www.getpaint.net)
   7. [Affinity](https://www.affinity.studio/)
   8. [Sketchbook](https://www.sketchbook.com/apps)
-  9. [Aseprite](https://github.com/aseprite/aseprite) - [Aseprite Repo](https://github.com/aseprite/aseprite) - [Libresprite](https://libresprite.github.io)
+  9. [Aseprite](https://github.com/aseprite/aseprite) - [Libresprite](https://libresprite.github.io)
   10. [Graphicsgale](https://graphicsgale.com/us)
   11. [GrafX2](http://pulkomandy.tk/projects/GrafX2)
   12. [MediBang Paint](https://medibangpaint.com/en/)
