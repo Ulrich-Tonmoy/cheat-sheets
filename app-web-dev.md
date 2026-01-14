@@ -544,6 +544,7 @@
      - [Cook](https://cook.engage-dev.com/)
      - [square-ui](https://github.com/ln-dev7/square-ui)
      - [basecn](https://basecn.dev/)
+     - [mapcn](https://www.mapcn.dev/)
      - [coss/ui](https://coss.com/ui/docs)
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
