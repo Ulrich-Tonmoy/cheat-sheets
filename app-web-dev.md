@@ -608,6 +608,7 @@
     - [typed-js](https://mattboldt.com/demos/typed-js/)
     - [scrollmagic](https://scrollmagic.io/)
     - [scrollrevealjs](https://scrollrevealjs.org/)
+    - [barbajs](https://barba.js.org/)
     - [animejs](https://animejs.com/)
     - [mojs](https://mojs.github.io/)
     - [Animate.css](https://animate.style/)
