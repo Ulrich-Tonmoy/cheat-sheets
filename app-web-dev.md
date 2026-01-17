@@ -74,7 +74,6 @@
 # Useful Links
 
 - ## JavaScript Runtime
-
   1. [Bun](https://github.com/oven-sh/bun)
   2. [Node.js](https://github.com/nodejs/node)
   3. [Deno](https://github.com/denoland/deno/)
@@ -102,7 +101,6 @@
   25. [Nashorn](https://github.com/openjdk/nashorn)
 
 - ## Frontend Frameworks
-
   1. [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [TanStack Start](https://tanstack.com/start/latest) - [Astro](https://github.com/withastro/astro) - [Vike](https://github.com/vikejs/vike)
   2. [React Admin](https://github.com/marmelab/react-admin) - [Refine](https://github.com/refinedev/refine) - [Waku](https://waku.gg/) - [umi](https://github.com/umijs/umi)
   3. [Angular](https://github.com/angular/angular) - [Analog](https://github.com/analogjs/analog)
@@ -123,13 +121,11 @@
   18. [Hibiki HTML](https://github.com/dashborg/hibiki)
 
 - ## Mock Up Tools
-
   1. [shots](https://shots.so/)
   2. [brandbird](https://www.brandbird.app/)
   3. [huemint](https://huemint.com/)
 
 - ## Code Screenshots
-
   1. [codeimage](https://app.codeimage.dev/)
   2. [ray.so](https://ray.so/)
   3. [carbon](https://carbon.now.sh/)
@@ -138,7 +134,6 @@
   6. [tweetlet](https://tweetlet.net/)
 
 - ## Games to learn JavaScript
-
   1. [codecombat](https://codecombat.com/play)
   2. [jsrobot](https://lab.reaal.me/jsrobot/)
   3. [code-maven](https://www.crunchzilla.com/code-)
@@ -148,13 +143,11 @@
   7. [checkio](https://js.checkio.org/)
 
 - ## Top 3 Regex Tools
-
   1. [Regex 101](https://regex101.com/)
   2. [YouCode AI: Regex](https://you.com/search?q=regex)
   3. [Regexr](https://regexr.com/)
 
 - ## Js Links
-
   1. [JavaScript Visualizer 9000](https://www.jsv9000.app/)
   2. [swiperjs](https://swiperjs.com/)
   3. [kute](https://thednp.github.io/kute.js/)
@@ -168,7 +161,6 @@
   11. [tweenjs](https://github.com/tweenjs/tween.js/)
 
 - ## CSS Links
-
   1. [analyze-css](https://www.projectwallace.com/analyze-css)
   2. [sass](https://sass-lang.com/guide)
   3. [3D Book Image CSS Generator](https://scastiel.dev/3dbook)
@@ -239,7 +231,6 @@
   68. [cssbuttons](https://cssbuttons.app/)
 
 - ## SVG
-
   1. [fffuel](https://fffuel.co/) collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
   2. [getwaves](https://getwaves.io/)
   3. [blobmaker](https://www.blobmaker.app/)
@@ -249,7 +240,6 @@
   7. [svg-shape-generator](https://www.softr.io/tools/svg-shape-generator)
 
 - ## Colors
-
   1. [color-palette](https://www.degraeve.com/color-palette/)
   2. [palettte](https://palettte.app/)
   3. [coolors](https://coolors.co/)
@@ -272,7 +262,6 @@
   20. [realtimecolors](https://realtimecolors.com/)
 
 - ## Typography
-
   1. [glitter](https://wh0.github.io/glitter/)
   2. [fontjoy](https://fontjoy.com/)
   3. [typesetwith](https://typesetwith.me/)
@@ -281,7 +270,6 @@
   6. [font-library](https://katydecorah.com/font-library/#!/)
 
 - ## Loader
-
   1. [spinkit](https://tobiasahlin.com/spinkit/)
   2. [whirl](https://whirl.netlify.app/)
   3. [css-loaders](https://projects.lukehaas.me/css-loaders/)
@@ -289,7 +277,6 @@
   5. [loading](https://loading.io/css/)
 
 - ## Layouts
-
   1. [cssgridgarden](https://cssgridgarden.com/)
   2. [flexboxfroggy](https://flexboxfroggy.com/)
   3. [flexplorer](https://bennettfeely.com/flexplorer/)
@@ -299,13 +286,11 @@
   7. [carolineartz](https://codepen.io/carolineartz/full/ogVXZj)
 
 - ## Avatar
-
   1. [avatars](https://avatars.dicebear.com/)
   2. [avamake](https://avamake.com/)
   3. [avvvatars](https://avvvatars.com/)
 
 - ## Icons
-
   1. [techicons](https://techicons.dev/) - [macosicongallery](https://www.macosicongallery.com/) - [macosicons](https://macosicons.com/)
   2. [svgl](https://svgl.app/) - [AnimateIcons](https://animateicons.vercel.app/)
   3. [All SVG Icons](https://allsvgicons.com/)
@@ -333,13 +318,11 @@
   25. [hugeicons](https://hugeicons.com/)
 
 - ## 3d icons
-
   1. [valentine-illustrations](https://10clouds.com/valentine-illustrations)
   2. [handz](https://www.handz.design/)
   3. [isometriclove](https://www.isometriclove.com/)
 
 - ## Illustrations
-
   1. [iradesign](https://iradesign.io/illustrations)
   2. [manypixels](https://www.manypixels.co/gallery)
   3. [undraw](https://undraw.co/illustrations)
@@ -351,7 +334,6 @@
   9. [drawkit](https://www.drawkit.io/)
 
 - ## Videos & Images
-
   1. [unsplash](https://unsplash.com/)
   2. [mixkit](https://mixkit.co/)
   3. [pexels](https://www.pexels.com/)
@@ -362,7 +344,6 @@
   8. [loremfaces](https://loremfaces.com/)
 
 - ## Info
-
   1. [cdnjs](https://cdnjs.com/)
   2. [SRI Hash Generator](https://www.srihash.org/)
   3. [css-timeline](https://css-timeline.vercel.app/)
@@ -400,7 +381,6 @@
   35. [tinyjpg](https://tinyjpg.com/)
 
 - ## Free API
-
   1. [rapidapi](https://rapidapi.com/hub)
   2. [Generate massive amounts of fake Data](https://fakerjs.dev/)
   3. [API for placeholder images](https://lorem.space/)
@@ -413,7 +393,6 @@
   10. [random-data-api](https://random-data-api.com/documentation)
 
 - ## Next Open Source Projects
-
   1. [plane](https://github.com/makeplane/plane)
   2. [twenty](https://github.com/twentyhq/twenty)
   3. [rallly](https://github.com/lukevella/rallly)
@@ -426,7 +405,6 @@
   10. [cal.com](https://github.com/calcom/cal.com)
 
 - ## Other Tools
-
   1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) -- [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
   2. [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
   3. [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase](https://github.com/outerbase/studio) - [Conar](https://github.com/wannabespace/conar) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad)
@@ -525,6 +503,7 @@
      - [Origin UI](https://originui.com/)
      - [HextaUI](https://www.hextaui.com/)
      - [Luxe](https://www.luxeui.com/)
+     - [Tool UI](https://www.tool-ui.com/)
      - [Motion-Primitives](https://motion-primitives.com/)
      - [Animate UI](https://animate-ui.com/)
      - [ScrollX UI](https://scrollxui.dev/)
@@ -806,7 +785,6 @@
 # Backend
 
 - [Backend](#backend)
-
   - [Backend Framework and Database](#backend-framework-and-database)
   - [ASP.NET](#aspnet)
     - [C#](#csharp)
@@ -816,7 +794,6 @@
     - [Links](#links)
 
 - ## Backend Framework
-
   1. [ASP.NET Core](https://github.com/dotnet/aspnetcore)
   2. [Express](https://github.com/expressjs/express) - [Fastify](https://github.com/fastify/fastify) - [Nest](https://github.com/nestjs/nest) - [Hono](https://github.com/honojs/hono) - [Elysia](https://github.com/elysiajs/elysia) - [Encore](https://github.com/encoredev/encore)
   3. [Workflow](https://github.com/vercel/workflow) - [Motia](https://github.com/MotiaDev/motia) - [Amplication](https://github.com/amplication/amplication)
@@ -857,7 +834,6 @@
 ## Links
 
 - ### Tools
-
   - [.NET language playground](https://sharplab.io/) - [SharpLab (Source)](https://github.com/ashmind/SharpLab)
   - [.NET Source Browser](https://source.dot.net/)
 
