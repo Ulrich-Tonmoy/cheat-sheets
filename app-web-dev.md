@@ -493,6 +493,8 @@
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [React Bits](https://reactbits.dev/)
+     - [uselayouts](https://uselayouts.com/)
+     - [BadtzUI](https://www.badtz-ui.com/)
      - [React Wheel Picker](https://react-wheel-picker.chanhdai.com/)
      - [shadcn-prose](https://shadcn-prose.vercel.app/)
      - [spaceman-rta](https://spaceman-rta-vite.netlify.app/)
@@ -525,6 +527,9 @@
      - [MynaUI](https://mynaui.com/)
      - [Cook](https://cook.engage-dev.com/)
      - [square-ui](https://github.com/ln-dev7/square-ui)
+     - [Design without Limits](https://aliimam.in/)
+     - [@optics/design-system](https://optics.agusmayol.com.ar/)
+     - [components.work](https://components.work/)
      - [basecn](https://basecn.dev/)
      - [mapcn](https://www.mapcn.dev/)
      - [coss/ui](https://coss.com/ui/docs)
