@@ -1,7 +1,6 @@
 # <p align="center">🔖Game Dev Tools🎮</p>
 
 - 🔖Game Dev Tools🎮
-
   - [Game Jam](#game-jam)
   - [Game Engine](#game-engine)
   - [Game Framework & Library](#game-framework-and-library)
@@ -40,7 +39,6 @@
   - [Unity Snippet](#unity-snippet)
 
 - ## Game Jam
-
   1. [Global Game Jam](https://globalgamejam.org)
   2. [Ludum Dare](https://ldjam.com)
   3. [Nordic Game Jam](https://nordicgamejam.com)
@@ -51,7 +49,6 @@
   8. [React Jam](https://reactjam.com/)
 
 - ## Game Engine
-
   1. [Unreal Engine](https://www.unrealengine.com/en-US/download) - [Godot](https://godotengine.org/download/windows/) | [Redot](https://www.redotengine.org/) | [Blazium](https://blazium.app/) - [RenPy](https://www.renpy.org/) - [Unity](https://unity.com/download)
   2. [Unigine](https://unigine.com/) - [Cry Engine](https://www.cryengine.com/) - [O3DE](https://o3de.org/) - [Ultra Engine](https://www.ultraengine.com/) - [Evergine](https://evergine.com/) - [Cocos Creator](https://www.cocos.com/en/creator)
   3. [Stride](https://www.stride3d.net/) - [Defold](https://defold.com/) - [Flax Engine](https://flaxengine.com/) - [Falco Engine](https://falco3d.com/) - [Cave Engine](https://unidaystudio.itch.io/cave-engine) - [coppercube](https://www.ambiera.com/coppercube/)
@@ -59,7 +56,6 @@
   5. [Rogue Engine](https://rogueengine.io/) - [nunustudio](https://www.nunustudio.org) - [microStudio](https://microstudio.dev) - [Galacean](https://www.galacean.com/engine/en/) - [LayaAir 3](https://www.layaair.com/)
   6. [Scratch](https://scratch.mit.edu) - [Scrap](https://github.com/Grisshink/scrap) - [microbit](https://makecode.microbit.org) - [MakeCode Arcade](https://arcade.makecode.com/) - [Blockly Games](https://blockly.games/)
   7. [Eldiron](https://eldiron.com/) - [Stencyl](https://www.stencyl.com/) - [RPG Maker](https://www.rpgmakerweb.com/) - [rpginabox](https://www.rpginabox.com/) - [buildbox](https://signup.buildbox.com/)
-
   - ### Experimental Cyberspace
     1. [Core](https://www.coregames.com)
     2. [The Mirror](https://www.themirror.space/)
@@ -69,7 +65,6 @@
     6. [Roblox](https://create.roblox.com/)
 
 - ## Game Framework and Library
-
   1. C++ [Raylib](https://www.raylib.com/) - [SDL](https://libsdl.org/) - [SFML](https://www.sfml-dev.org/) - [GLFW](https://www.glfw.org/) - [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - [Orx](https://github.com/orx/orx) - [Allegro](https://liballeg.org/)
   2. C# [MonoGame](https://www.monogame.net/) - [FNA](https://fna-xna.github.io/)
   3. JS [Babylon JS](https://www.babylonjs.com/) - [Three JS](https://threejs.org/) - [Theatre JS](https://www.theatrejs.com/) - [PlayCanvas](https://playcanvas.com/) - [aframe](https://aframe.io/) - [Phaser](https://phaser.io/) - [Pixi JS](https://github.com/pixijs/pixijs) - [Excalibur](https://github.com/excaliburjs/Excalibur) - [kaplayjs](https://kaplayjs.com/)
@@ -78,7 +73,6 @@
   6. Rust [bevy](https://bevyengine.org/) - [Bevy Tauri Example](https://github.com/sunxfancy/BevyTauriExample) - [Fyrox Game Engine](https://fyrox.rs/)
 
 - ## Native Game Engines Repos
-
   1. [O3DE](https://github.com/o3de/o3de) - [DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) - [Godot](https://github.com/godotengine/godot) - [the-mirror](https://github.com/the-mirror-gdp/the-mirror) - [Redot](https://github.com/Redot-Engine/redot-engine) - [Blazium](https://github.com/blazium-engine/blazium) - [Renpy](https://github.com/renpy/renpy) - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - [defold](https://github.com/defold/defold) - [stride](https://github.com/stride3d/stride) - [cocos-engine](https://github.com/cocos/cocos-engine) - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - [Overload](https://github.com/Overload-Technologies/Overload) - [ezEngine](https://github.com/ezEngine/ezEngine)
   2. [MonoGame](https://github.com/MonoGame/MonoGame) - [FNA](https://github.com/FNA-XNA/FNA) - [ursina](https://github.com/pokepetter/ursina) - [pygame](https://github.com/pygame/pygame) - [pygame-ce](https://github.com/pygame-community/pygame-ce) - [pyglet](https://github.com/pyglet/pyglet) - [panda3d](https://github.com/panda3d/panda3d) - [Bevy](https://github.com/bevyengine/bevy) - [love2d](https://github.com/love2d/love) - [lovr](https://github.com/bjornbytes/lovr) - [flixel](https://github.com/HaxeFlixel/flixel) - [Eldiron](https://github.com/markusmoenig/Eldiron)
   3. C/C++ Lib: [Raylib](https://github.com/raysan5/raylib) - [SFML](https://github.com/SFML/SFML) - [SDL](https://github.com/libsdl-org/SDL) - [imgui](https://github.com/ocornut/imgui) - [PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - [JoltPhysics](https://github.com/jrouwe/JoltPhysics) - [Rapier](https://github.com/dimforge/rapier) - [bullet3](https://github.com/bulletphysics/bullet3) - [Box2D](https://github.com/erincatto/box2d) - [The-Forge](https://github.com/ConfettiFX/The-Forge) - [glfw](https://github.com/glfw/glfw) - [bgfx](https://github.com/bkaradzic/bgfx) - [glm](https://github.com/g-truc/glm) - [openal-soft](https://github.com/kcat/openal-soft) - [sol2](https://github.com/ThePhD/sol2) - [entt](https://github.com/skypjack/entt) - [Kha](https://github.com/Kode/Kha) - [stb](https://github.com/nothings/stb) -/- [MTuner](https://github.com/milostosic/MTuner) - [cr](https://github.com/fungos/cr) - [backward-cpp](https://github.com/bombela/backward-cpp) - [rapidjson](https://github.com/Tencent/rapidjson) - [emscripten](https://github.com/emscripten-core/emscripten) - [filesystem](https://github.com/gulrak/filesystem) - [watchman](https://github.com/facebook/watchman) - [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - [allegro5](https://github.com/liballeg/allegro5) - [nCine](https://github.com/nCine/nCine) - [steam-audio](https://github.com/ValveSoftware/steam-audio)
@@ -97,7 +91,6 @@
   16. [RPG-Paper-Maker](https://github.com/RPG-Paper-Maker/RPG-Paper-Maker) - [ShapeEngine](https://github.com/DaveGreen-Games/ShapeEngine)
 
 - ## Web Engine Repos
-
   1.  [GDevelop](https://github.com/4ian/GDevelop) - [ct-js](https://github.com/ct-js/ct-js) - [nunuStudio](https://github.com/tentone/nunuStudio) - [microstudio](https://github.com/pmgl/microstudio)
   2.  [Babylon.js](https://github.com/BabylonJS/Babylon.js) - [playcanvas](https://github.com/playcanvas/engine) - [aframe](https://github.com/aframevr/aframe) - [react-xr](https://github.com/pmndrs/react-xr)
   3.  [phaser](https://github.com/photonstorm/phaser) - [Excalibur](https://github.com/excaliburjs/Excalibur) - [pixijs](https://github.com/pixijs/pixijs) - [kaplay](https://github.com/kaplayjs/kaplay) | [kaboom](https://github.com/replit/kaboom)
@@ -105,7 +98,6 @@
   5.  [melonJS](https://github.com/melonjs/melonJS) - [LittleJS](https://github.com/KilledByAPixel/LittleJS) - [ige](https://github.com/Irrelon/ige) - [ir-engine](https://github.com/ir-engine/ir-engine) - [stage.js](https://github.com/piqnt/stage.js)
 
 - ## Web Other Tool Repos
-
   1. [ammo.js](https://github.com/kripken/ammo.js) - [matter-js](https://github.com/liabru/matter-js) - [howler.js](https://github.com/goldfire/howler.js) - [GSAP](https://github.com/greensock/GSAP) - [planck.js](https://github.com/piqnt/planck.js)
   2. [cannon-es](https://github.com/pmndrs/cannon-es)
   3. [kontra](https://github.com/straker/kontra)
@@ -123,7 +115,6 @@
   15. [omigroup](https://github.com/omigroup/omigroup)
 
 - ## Native Archived or Stopped Repos
-
   1. [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
   2. [amethyst](https://github.com/amethyst/amethyst)
   3. [urho3d](https://github.com/urho3d/urho3d)
@@ -143,7 +134,6 @@
   17. [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
 
 - ## Web Archived or Stopped Repos
-
   1. [sculptgl](https://github.com/stephomi/sculptgl)
   2. [superpowers-core](https://github.com/superpowers/superpowers-core)
   3. [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine)
@@ -168,12 +158,10 @@
   22. [ml5-library](https://github.com/ml5js/ml5-library)
 
 - ## UI Inspiration for Games
-
   1. [Game UI](https://www.gameuidatabase.com/)
   1. [Game Controls Design Tool](https://www.padcrafter.com)
 
 - ## 3d Modeling APP
-
   1. [Blender](https://www.blender.org) - [Blender Repo](https://github.com/blender/blender)
   2. [Vroid](https://vroid.com)
   3. [Blockbench](https://www.blockbench.net/) - [blockbench](https://github.com/JannisX11/blockbench)
@@ -202,7 +190,6 @@
   26. [character-creator](https://www.reallusion.com/character-creator/)
 
 - ## Online 3d Modeling APP
-
   1. [sculptfab](https://labs.sketchfab.com/sculptfab/)
   2. [spline](https://spline.design/)
   3. [3dslash](https://www.3dslash.net/index.php)
@@ -211,7 +198,6 @@
   6. [sculptgl](https://stephaneginier.com/sculptgl/)
 
 - ## Image to 3D AI
-
   1. [Hitem](https://www.hitem3d.ai/3dmodeling/home)
   2. [Tripo 3d](https://www.tripo3d.ai/)
   3. [Rodin 3d](https://hyper3d.ai/)
@@ -221,7 +207,6 @@
   7. [huggingface TRELLIS](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
 
 - ## 3d Animation App
-
   1. [Actor Core AUTO RIG](https://actorcore.reallusion.com/)
   2. [Mesh2Motion](https://mesh2motion.org/)
   3. [Mixamo](https://www.mixamo.com)
@@ -233,7 +218,6 @@
   9. [QuickMagic AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
 
 - ## 2d Art APP
-
   1. [Krita](https://krita.org) - [Gimp Repo](https://github.com/GNOME/gimp)
   2. [Gimp](https://www.gimp.org) - [Krita Repo](https://github.com/KDE/krita)
   3. [Inkscape](https://inkscape.org) - [Inkscape Repo](https://gitlab.com/inkscape/inkscape)
@@ -255,7 +239,6 @@
   19. [crocotile3d](https://crocotile3d.com/)
 
 - ## Online 2d Art APP
-
   1. [Photopea](https://www.photopea.com) - [Vectorpea](https://www.vectorpea.com/)
   2. [Lunapic](https://www7.lunapic.com/editor)
   3. [piskelapp](https://www.piskelapp.com)
@@ -267,7 +250,6 @@
   9. [Vectr](https://vectr.com/design/)
 
 - ## 2d Animation APP
-
   1. [Pencil2d](https://www.pencil2d.org)
   2. [Synfig](https://www.synfig.org)
   3. [Open Toonz](https://opentoonz.github.io/e/)
@@ -278,19 +260,16 @@
   8. [Stykz](https://www.stykz.net)
 
 - ## Tile Editor
-
   1. [Tiled](https://www.mapeditor.org) - [Tiled Repo](https://github.com/mapeditor/tiled)
   2. [ldtk](https://ldtk.io/) - [LDtk Repo](https://github.com/deepnight/ldtk)
   3. [tilesetter](https://www.tilesetter.org/)
   4. [spritefusion (online)](https://www.spritefusion.com/)
 
 - ## Online Sprite Editor
-
   1. [Images sprite sheet generator](https://codeshack.io/images-sprite-sheet-generator/)
   2. [Free sprite sheet packer](https://www.codeandweb.com/free-sprite-sheet-packer)
 
 - ## 3D Model
-
   1. [ReadyPlayer Avatar Engine](https://readyplayer.me/)
   2. [The Base Mesh](https://thebasemesh.com)
   3. [Poly Haven](https://polyhaven.com/)
@@ -306,7 +285,6 @@
   13. [Archive3D](https://archive3d.net/)
 
 - ## Texture-Material-Shader
-
   1. [Quixel](https://quixel.com/megascans/free)
   2. [solarsystemscope](https://www.solarsystemscope.com/textures/)
   3. [cc0textures](https://cc0textures.com)
@@ -326,7 +304,6 @@
   17. [godotshaders](https://godotshaders.com/)
 
 - ## Texture-Material-Shader (Paid)
-
   1. [Kitbash 3d](https://kitbash3d.com)
   2. [Brushify](https://www.brushify.io)
   3. [Turbo Squid](https://www.turbosquid.com)
@@ -337,7 +314,6 @@
   8. [Smithsonian X3D](https://3d.si.edu/)
 
 - ## 2d Assets
-
   1. [itch.io](https://itch.io/game-assets/free)
   2. [Open Game Art](https://opengameart.org)
   3. [kenney.nl](https://kenney.nl/assets)
@@ -346,20 +322,17 @@
   6. [Game Dev Market](https://www.gamedevmarket.net)
 
 - ## Logo maker
-
   1. [TheHoth](https://logomaker.thehoth.com)
   2. [Logomakr](https://logomakr.com)
   3. [game-icons](https://game-icons.net/)
 
 - ## VFX
-
   1. [Elemental Suite](https://jangafx.com/) - IlluGen | EmberGen | LiquiGen | GeoGen
   2. [Houdini](https://www.sidefx.com/products/houdini/)
   3. [Cinema 4D](https://www.maxon.net/en/product-detail/cinema-4d)
   4. [Harmony](https://www.toonboom.com/products/harmony)
 
 - ## Video Editor
-
   1. [CapCut](https://www.capcut.com/)
   2. [Clipchamp](https://clipchamp.com/en/)
   3. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
@@ -374,7 +347,6 @@
   12. [Friction](https://github.com/friction2d/friction)
 
 - ## Game Dev AI Tools
-
   1. [ArtBreeder](https://www.artbreeder.com)
   2. [Skybox Generator](https://skybox.blockadelabs.com/)
   3. [voice.ai (Audio Gen)](https://voice.ai/)
@@ -384,11 +356,9 @@
   7. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
 
 - ## Game Audio
-
   1. [sonniss](https://gdc.sonniss.com/)
 
 - ## Game Audio App
-
   1. [Audacity](https://www.audacityteam.org)
   2. [Wwise](https://www.audiokinetic.com/en/)
   3. [LMMS](https://lmms.io)
@@ -412,12 +382,10 @@
   21. [boscaceoil](https://boscaceoil.net/)
 
 - ## Game Audio App Online
-
   1. [BeepBox](https://www.beepbox.co)
   1. [Vocal Remover](https://vocalremover.org/)
 
 - ## Fonts:
-
   1. [fontpair](https://www.fontpair.co/all)
   2. [dafont](https://www.dafont.com/)
   3. [fontsquirrel](https://www.fontsquirrel.com/)
@@ -428,7 +396,6 @@
   8. [wentin](https://symbols.wentin.net/)
 
 - ## Godot Tools
-
   1. [godot-jolt](https://github.com/godot-jolt/godot-jolt)
   2. [godot-box2d](https://github.com/appsinacup/godot-box2d)
   3. [HumanShaders](https://github.com/matmadness/HumanShaders) A set of shaders for Godot to create realistic humanoid characters
@@ -461,60 +428,59 @@
   30. [cyclopsLevelBuilder](https://github.com/blackears/cyclopsLevelBuilder)
   31. [gdTree3D](https://github.com/JekSun97/gdTree3D)
   32. [TerraBrush](https://github.com/spimort/TerraBrush)
-  33. [godot-admob-plugin](https://github.com/poingstudios/godot-admob-plugin)
-  34. [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D)
-  35. [Card3D](https://github.com/tdecker91/Card3D)
-  36. [material-maker](https://github.com/RodZill4/material-maker)
-  37. [sprite-painter](https://github.com/don-tnowe/godot-sprite-painter/)
-  38. [godot_little_camera_preview](https://github.com/anthonyec/godot_little_camera_preview)
-  39. [godot-script-dock](https://github.com/dugramen/godot-script-dock)
-  40. [Godot Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
-  41. [godot-filesystem-drawer](https://github.com/jakobbouchard/godot-filesystem-drawer)
-  42. [AnimatedButton](https://github.com/AdilDevStuff/AnimatedButton)
-  43. [GodotLabelFontAutoSizer](https://github.com/LuisEscorza/GodotLabelFontAutoSizer)
-  44. [Asset-Drawer](https://github.com/newjoker6/Asset-Drawer)
-  45. [Godot-Simple-TODO](https://github.com/KoBeWi/Godot-Simple-TODO)
-  46. [TODO_Manager](https://github.com/OrigamiDev-Pete/TODO_Manager)
-  47. [limboai](https://github.com/limbonaut/limboai)
-  48. [CSG_Toolkit](https://github.com/IIFabixn/CSG_Toolkit)
-  49. [Shaker](https://github.com/Eneskp3441/Shaker)
-  50. [delta-rollback](https://gitlab.com/BimDav/delta-rollback/)
-  51. [godot-globalize-plugins](https://github.com/dugramen/godot-globalize-plugins)
-  52. [godot-zig](https://github.com/godot-zig/godot-zig) - [GDExtension example (gdext)](https://github.com/contextfreecode/gdext)
-  53. [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-  54. [godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme)
-  55. [hoodie](https://github.com/GreenCrowDev/hoodie)
-  56. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
-  57. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
-  58. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
-  59. [ufbx](https://github.com/ufbx/ufbx)
-  60. [FBX2glTF](https://github.com/godotengine/FBX2glTF)
-  61. [nobody](https://gitlab.com/nobodywho/nobody)
-  62. [godot_spatial_gardener](https://github.com/dreadpon/godot_spatial_gardener)
-  63. [Terrain3D](https://github.com/TokisanGames/Terrain3D)
-  64. [Gaea](https://github.com/BenjaTK/Gaea)
-  65. [dialogic](https://github.com/coppolaemilio/dialogic)
-  66. [dialogic 2](https://github.com/dialogic-godot/dialogic)
-  67. [grider](https://github.com/alfredbaudisch/grider)
-  68. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
-  69. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
-  70. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
-  71. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
-  72. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
-  73. [enu](https://github.com/dsrw/enu)
-  74. [gdext-nim](https://github.com/godot-nim/gdext-nim)
-  75. [Node Referencer](https://github.com/SanderVanhove/node-referencer)
-  76. [Waterways](https://github.com/Arnklit/Waterways)
-  77. [godot-sfxr](https://github.com/tomeyro/godot-sfxr)
-  78. [Godot_RegularPolygon2D](https://github.com/RoboYorkie/Godot_RegularPolygon2D)
+  33. [Yugens-Terrain-Authoring-Toolkit](https://github.com/ToumaKamijou/Yugens-Terrain-Authoring-Toolkit)
+  34. [godot-admob-plugin](https://github.com/poingstudios/godot-admob-plugin)
+  35. [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D)
+  36. [Card3D](https://github.com/tdecker91/Card3D)
+  37. [material-maker](https://github.com/RodZill4/material-maker)
+  38. [sprite-painter](https://github.com/don-tnowe/godot-sprite-painter/)
+  39. [godot_little_camera_preview](https://github.com/anthonyec/godot_little_camera_preview)
+  40. [godot-script-dock](https://github.com/dugramen/godot-script-dock)
+  41. [Godot Instance Dock](https://github.com/KoBeWi/Godot-Instance-Dock)
+  42. [godot-filesystem-drawer](https://github.com/jakobbouchard/godot-filesystem-drawer)
+  43. [AnimatedButton](https://github.com/AdilDevStuff/AnimatedButton)
+  44. [GodotLabelFontAutoSizer](https://github.com/LuisEscorza/GodotLabelFontAutoSizer)
+  45. [Asset-Drawer](https://github.com/newjoker6/Asset-Drawer)
+  46. [Godot-Simple-TODO](https://github.com/KoBeWi/Godot-Simple-TODO)
+  47. [TODO_Manager](https://github.com/OrigamiDev-Pete/TODO_Manager)
+  48. [limboai](https://github.com/limbonaut/limboai)
+  49. [CSG_Toolkit](https://github.com/IIFabixn/CSG_Toolkit)
+  50. [Shaker](https://github.com/Eneskp3441/Shaker)
+  51. [delta-rollback](https://gitlab.com/BimDav/delta-rollback/)
+  52. [godot-globalize-plugins](https://github.com/dugramen/godot-globalize-plugins)
+  53. [godot-zig](https://github.com/godot-zig/godot-zig) - [GDExtension example (gdext)](https://github.com/contextfreecode/gdext)
+  54. [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+  55. [godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme)
+  56. [hoodie](https://github.com/GreenCrowDev/hoodie)
+  57. [GodotEzDialoguePlugin](https://github.com/real-ezTheDev/GodotEzDialoguePlugin)
+  58. [3D-Characters-Repository](https://github.com/gdquest-demos/3D-Characters-Repository)
+  59. [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin)
+  60. [ufbx](https://github.com/ufbx/ufbx)
+  61. [FBX2glTF](https://github.com/godotengine/FBX2glTF)
+  62. [nobody](https://gitlab.com/nobodywho/nobody)
+  63. [godot_spatial_gardener](https://github.com/dreadpon/godot_spatial_gardener)
+  64. [Terrain3D](https://github.com/TokisanGames/Terrain3D)
+  65. [Gaea](https://github.com/BenjaTK/Gaea)
+  66. [dialogic](https://github.com/coppolaemilio/dialogic)
+  67. [dialogic 2](https://github.com/dialogic-godot/dialogic)
+  68. [grider](https://github.com/alfredbaudisch/grider)
+  69. [godot-open-rpg](https://github.com/GDQuest/godot-open-rpg)
+  70. [unidot_importer](https://github.com/V-Sekai/unidot_importer)
+  71. [unitypackage_godot](https://github.com/barcoderdev/unitypackage_godot)
+  72. [godot4-demo-desert-light](https://github.com/RPicster/godot4-demo-desert-light)
+  73. [Godot-4-Overgrown-Subway-Demo](https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo)
+  74. [enu](https://github.com/dsrw/enu)
+  75. [gdext-nim](https://github.com/godot-nim/gdext-nim)
+  76. [Node Referencer](https://github.com/SanderVanhove/node-referencer)
+  77. [Waterways](https://github.com/Arnklit/Waterways)
+  78. [godot-sfxr](https://github.com/tomeyro/godot-sfxr)
+  79. [Godot_RegularPolygon2D](https://github.com/RoboYorkie/Godot_RegularPolygon2D)
 
 - ## Blender Tools
-
   1. [VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender)
   2. [dream-textures](https://github.com/carson-katri/dream-textures)
 
 - ## Unreal Tools
-
   1. [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics)
   2. [cesium-unreal](https://github.com/CesiumGS/cesium-unreal)
   3. [UEVR](https://github.com/praydog/UEVR)
@@ -522,7 +488,6 @@
   5. [Inkpot](https://github.com/The-Chinese-Room/Inkpot)
 
 - ## Unity Tools
-
   1. [awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity)
   2. [Easy-Text-Effects-for-Unity](https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity)
   3. [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter)
@@ -563,7 +528,6 @@
   38. [Unity Toon Shader](https://github.com/Unity-Technologies/com.unity.toonshader)
 
 - ## Other Tools
-
   1. [character-animation-combiner](https://github.com/nilooy/character-animation-combiner)
   2. [ink](https://github.com/inkle/ink)
   3. [dust3d](https://github.com/huxingyi/dust3d)
@@ -604,7 +568,6 @@
   38. [stepmania](https://github.com/stepmania/stepmania)
 
 - ## Websites for Blender User
-
   1. [blenderartists](https://blenderartists.org/)
   2. [blendernation](https://www.blendernation.com/)
   3. [cgcookie](https://cgcookie.com/)
@@ -615,7 +578,6 @@
   8. [r/blender](https://www.reddit.com/r/blender/)
 
 - ## Other Game Dev Links
-
   1. [Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
   2. [steamdb](https://steamdb.info/tech/)
   3. [gaminganalytics](https://gaminganalytics.info/)
