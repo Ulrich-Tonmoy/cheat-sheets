@@ -475,6 +475,13 @@
   77. [Waterways](https://github.com/Arnklit/Waterways)
   78. [godot-sfxr](https://github.com/tomeyro/godot-sfxr)
   79. [Godot_RegularPolygon2D](https://github.com/RoboYorkie/Godot_RegularPolygon2D)
+  80. [gravity](https://github.com/rsandfield/gravity)
+  81. [TileMapLayer3D](https://github.com/DanTrz/TileMapLayer3D)
+  82. [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D)
+  83. [folded-paper-engine](https://github.com/papercraftgames/folded-paper-engine)
+  84. [Godot-NerdFont](https://github.com/mlaass/Godot-NerdFont)
+  85. [psx_visuals](https://github.com/snotbane/psx_visuals)
+  86. [Dragonfruit](https://github.com/kreaytore/Dragonfruit)
 
 - ## Blender Tools
   1. [VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender)
