@@ -153,7 +153,6 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name
 ## Old Context Menu In Windows 11
 
 - Manually
-
   - Open Registry Editor
   - Navigate to `HKEY_CURRENT_USER\Software\Classes\CLSID`
   - Right-click the folder and select `New > Key`
@@ -164,7 +163,6 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name
   - Reboot, and the context-menu should be available.
 
 - Auto
-
   - Create a file with {name}.reg any where then open it with notepad and paste teh bellow code inside it save it and then double click on the file and click yes on all the popup and after that reboot.
 
   - ```re
@@ -382,7 +380,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 # Code Editors
 
 1. [VS](https://visualstudio.microsoft.com/) - [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/zed) - [Atom](https://github.com/atom/atom) - [Pulsar](https://github.com/pulsar-edit/pulsar) - [Atom Community](https://github.com/atom-community/atom) - [Sublime Text](https://www.sublimetext.com/)
-2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
+2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad3](https://github.com/rizonesoft/Notepad3) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
 3. [Edit](https://github.com/microsoft/edit) - [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [NvChad](https://github.com/NvChad/NvChad) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [LunarVim](https://github.com/LunarVim/LunarVim) - [SpaceVim](https://gitlab.com/SpaceVim/SpaceVim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [kakoune](https://github.com/mawww/kakoune)
 4. [Helix](https://github.com/helix-editor/helix) - [Ox](https://github.com/curlpipe/ox) - [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [Fresh](https://github.com/sinelaw/fresh) - [tmux](https://github.com/tmux/tmux) - [Moe](https://github.com/fox0430/moe)
 5. [SharpIDE](https://github.com/MattParkerDev/SharpIDE) - [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [Luthetus.Ide](https://github.com/Luthetus/Luthetus.Ide) - [Walk](https://github.com/huntercfreeman/Walk) - [neoeedit](https://github.com/neoedmund/neoeedit)
