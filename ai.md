@@ -1,5 +1,4 @@
 - [AI](#ai)
-
   - [Chat AI](#chat-ai)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
@@ -16,7 +15,6 @@
 # 🤖AI🤖
 
 - ## Chat AI
-
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
   2. [Gemini](https://gemini.google.com/) - [NotebookLM](https://notebooklm.google/)
   3. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
@@ -34,13 +32,14 @@
   15. [HuggingChat](https://huggingface.co/chat/)
   16. [Ora AI](https://ora.ai/)
 
-- ## AI Companion
+- ## AI Assistant
+  1. [OpenClaw](https://github.com/openclaw/openclaw)
 
+- ## AI Companion
   1. [Project AIRI](https://github.com/moeru-ai/airi)
   2. [Bella](https://github.com/Jackywine/Bella)
 
 - ## Free AI and LLMs Playgrounds
-
   1. [Chatbot Arena](https://chat.lmsys.org/)
   2. [Vercel AI Playground](https://play.vercel.ai/)
   3. [GPT4ALL](https://gpt4all.io/)
@@ -49,7 +48,6 @@
   6. [Open Assistant](https://open-assistant.io/)
 
 - ## Locally Running LLM
-
   0. [Open WebUI](https://github.com/open-webui/open-webui)
   1. [LM Studio](https://lmstudio.ai/)
   2. [ollama](https://ollama.com/)
@@ -58,7 +56,6 @@
   5. [Jan](https://jan.ai/)
 
 - ## Video Gen
-
   1. [Wan](https://wan.video/)
   2. [Veo](https://deepmind.google/models/veo/)
   3. [Lumen5](https://lumen5.com/)
@@ -69,7 +66,6 @@
   8. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
 - ## Voice Gen
-
   1. [allvoicelab](https://www.allvoicelab.com/)
   2. [elevenlabs](https://elevenlabs.io/)
   3. [onlinetonegenerator](https://onlinetonegenerator.com/)
@@ -82,7 +78,6 @@
   10. [heygen](https://www.heygen.com/)
 
 - ## Image Gen AI Websites
-
   1. [Plagground ai](https://playgroundai.com/)
   2. [Seaart ai](https://seaart.ai/)
   3. [Civitai](https://civitai.com//)
@@ -91,7 +86,6 @@
   6. [clipdrop](https://clipdrop.co/)
 
 - ## Image Generator
-
   1. [DeepFloyd IF (huggingface)](https://huggingface.co/spaces/DeepFloyd/IF)
   2. [Stable Diffusion (huggingface)](https://huggingface.co/spaces/stabilityai/stable-diffusion)
   3. [ERNIE-ViLG (huggingface)](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
@@ -106,7 +100,6 @@
   12. [leonardo](https://leonardo.ai/)
 
 - ## Others
-
   1. [QR Code Gen - qrcraft](https://www.qrcraft.xyz/qr)
   2. [Drawing to Image - stable-doodle](https://clipdrop.co/stable-doodle)
   3. [Drawing Tool - autodraw](https://www.autodraw.com/)
@@ -122,7 +115,6 @@
   13. [mylensai](https://opentools.ai/tools/mylensai)
 
 - ## Top Free Courses on LLM
-
   1. [CS324: LLMs by Stanford University](https://stanford-cs324.github.io/winter2022/)
   2. [Understanding LLMs by Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
   3. [LLMs by ETH Zürich](https://rycolab.io/classes/llm-s23/)
