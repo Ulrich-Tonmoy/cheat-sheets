@@ -724,6 +724,7 @@
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
 28. #### Other Libraries
+    - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
     - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
