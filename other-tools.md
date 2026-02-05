@@ -141,6 +141,14 @@ Linux:
 New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
 ```
 
+## Change `Device setup region`
+
+1. Open `Settings` Goto `Time & language > Language & Region`.
+2. Change `Country or region` to country you want your `Device setup region` to be and close the settings app.
+3. Open `Registry Editor` and on the url put `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\DeviceRegion`.
+4. It will open the DeviceRegion key on the right side. Delete the Device region.
+5. Open settings app again and it will set the `Device setup region` to the selected `Country or region`.
+
 ## Check and Toggle Recall
 
 - Open up the Terminal (as Admin) and type in this command
