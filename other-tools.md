@@ -49,7 +49,7 @@
   ./setup /configure ./configuration.xml
   ```
 
-- [LibreOffice](https://www.libreoffice.org/) - [FreeOffice](https://www.freeoffice.com/en/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [FreeOffice](https://www.freeoffice.com/) - [OfficeSuite](https://officesuite.com/)
+- [LibreOffice](https://www.libreoffice.org/) - [FreeOffice](https://www.freeoffice.com/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [OfficeSuite](https://officesuite.com/)
 
 - ## Terminal
 - [Monaspace](https://monaspace.githubnext.com/) - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
