@@ -493,6 +493,7 @@
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [React Bits](https://reactbits.dev/)
+     - [Vengeance UI 2.0](https://www.vengenceui.com/)
      - [uselayouts](https://uselayouts.com/)
      - [BadtzUI](https://www.badtz-ui.com/)
      - [React Wheel Picker](https://react-wheel-picker.chanhdai.com/)
