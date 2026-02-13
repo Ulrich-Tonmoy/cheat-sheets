@@ -943,6 +943,7 @@
   - [React Navigation](https://github.com/react-navigation/react-navigation)
   - [Flash List](https://github.com/shopify/flash-list)
   - [Legend List](https://github.com/LegendApp/legend-list)
+  - [reacticx](https://www.reacticx.com/)
   - [React Native Fast Shimmer](https://github.com/callstack/react-native-fast-shimmer)
   - [React Native Screen Transitions](https://github.com/eds2002/react-native-screen-transitions)
   - [expo-ios-mesh-gradient](https://github.com/rit3zh/expo-ios-mesh-gradient)
@@ -952,6 +953,10 @@
   - [Pressto](https://github.com/enzomanuelmangano/pressto)
   - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
   - [React Native True Sheet](https://github.com/lodev09/react-native-true-sheet)
+  - [react-native-teleport](https://github.com/kirillzyusko/react-native-teleport)
+  - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
+  - [react-native-screens](https://github.com/software-mansion/react-native-screens)
+  - [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
