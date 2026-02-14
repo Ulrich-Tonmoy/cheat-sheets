@@ -238,6 +238,11 @@
   18. [spritemancer](https://spritemancer.com/)
   19. [crocotile3d](https://crocotile3d.com/)
 
+- ## RAW image editor
+  1. [RapidRAW](https://github.com/CyberTimon/RapidRAW)
+  2. [darktable](https://github.com/darktable-org/darktable)
+  3. [RawTherapee](https://github.com/RawTherapee/RawTherapee)
+
 - ## Online 2d Art APP
   1. [Photopea](https://www.photopea.com) - [Vectorpea](https://www.vectorpea.com/)
   2. [Lunapic](https://www7.lunapic.com/editor)
