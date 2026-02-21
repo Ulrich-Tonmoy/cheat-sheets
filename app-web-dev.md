@@ -631,6 +631,7 @@
 14. #### Payment Methods
     - [Clerk](https://clerk.com/billing)
     - [Stripe](https://stripe.com/)
+    - [Creem](https://www.creem.io/)
     - [Polar](https://polar.sh/)
     - [SSLCOMMERZ](https://sslcommerz.com/payment-gateway/)
     - [bKash](https://developer.bka.sh/)
