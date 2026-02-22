@@ -439,6 +439,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - Video Player: [Potplayer](https://potplayer.daum.net/) - [VLC](https://www.videolan.org/) - Screen Recoder: [OBS Studio](https://obsproject.com/)
 - [NanaZip](https://github.com/M2Team/NanaZip) - GUI for CLI Package Manager: [UniGetUI](https://github.com/marticliment/WingetUI)
 - WordPad: [UltraPad](https://github.com/lixkote/ultrapad) - Take files and convert them to a safe PDF: [Dangerzone](https://github.com/freedomofpress/dangerzone)
+- Protect Privacy: [Portmaster](https://safing.io/) - [Ghostery](https://www.ghostery.com/) - [LuLu](https://objective-see.org/products/lulu.html)
 - [KeePass](https://keepass.info/) - [HWiNFO](https://www.hwinfo.com/)
 
 # Misce Repos
