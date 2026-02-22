@@ -20,7 +20,7 @@
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - [VS Code](https://code.visualstudio.com/) - [VS](https://visualstudio.microsoft.com/downloads/) - [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop) - [GitButler](https://github.com/gitbutlerapp/gitbutler) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vulkan](https://vulkan.lunarg.com/)
 - [Zen](https://www.zen-browser.app/) - [Helium](https://helium.computer/) - [Brave](https://brave.com/) - [Floorp](https://floorp.app/) - [Vivaldi](https://vivaldi.com/) - [Opera](https://www.opera.com/) - [Ladybird](https://ladybird.org/) - [Flow](https://flow-browser.com/) - [Orion](https://orionbrowser.com/)
-- [Yandex](https://browser.yandex.com/) - [Waterfox](https://www.waterfox.com/) - [LibreWolf](https://librewolf.net/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [Tor](https://www.torproject.org/) - [Mullvad](https://mullvad.net/en/browser) - [Servo](https://servo.org/)
+- [Yandex](https://browser.yandex.com/) - [Waterfox](https://www.waterfox.com/) - [LibreWolf](https://librewolf.net/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/) - [i2pd](https://i2pd.website/) - [Tor](https://www.torproject.org/) - [Mullvad](https://mullvad.net/en/browser) - [Servo](https://servo.org/)
 
 - ## MS 365
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
@@ -456,3 +456,5 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 10. [ImHex](https://github.com/WerWolv/ImHex)
 11. [Modern Windows Message Box Generator](https://github.com/ThioJoe/Modern-Windows-Message-Box-Generator)
 12. [SVG Thumbnail Extension](https://github.com/ThioJoe/win-svg-thumbs-rust)
+13. [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
+14. [pear](https://github.com/holepunchto/pear)
