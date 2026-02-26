@@ -881,7 +881,7 @@
   2. [Android Studio](https://developer.android.com/studio)
 - ### JavaScript/TypeScript
   1. [React Native](https://github.com/facebook/react-native) - [Lynx](https://github.com/lynx-family/lynx) - [NativeScript](https://github.com/NativeScript/NativeScript)
-  2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/)
+  2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/) - [Sparkling](https://tiktok.github.io/sparkling/)
   3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [Electrobun](https://github.com/blackboardsh/electrobun)
   4. [Electron Forge](https://www.electronforge.io/) - [Electron⚡️Vite](https://electron-vite.github.io/) - [electron-vite](https://electron-vite.org/)
   5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - [NW.js](https://github.com/nwjs/nw.js) - [NodeGui](https://github.com/nodegui/nodegui)
@@ -962,6 +962,11 @@
   - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
   - [react-native-screens](https://github.com/software-mansion/react-native-screens)
   - [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller)
+  - [expo-spotlight](https://github.com/Pflaumenbaum/expo-spotlight)
+  - [expo-paste-input](https://github.com/arunabhverma/expo-paste-input)
+  - [react-native-teleport](https://github.com/kirillzyusko/react-native-teleport)
+  - [react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet)
+  - [react-native-enriched-markdown](https://github.com/software-mansion-labs/react-native-enriched-markdown)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
 - ## Style
