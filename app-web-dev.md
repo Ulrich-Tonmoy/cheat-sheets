@@ -130,9 +130,10 @@
   1. [codeimage](https://app.codeimage.dev/)
   2. [ray.so](https://ray.so/)
   3. [carbon](https://carbon.now.sh/)
-  4. [chalk](https://chalk.ist/)
-  5. [poet](https://poet.so/)
-  6. [tweetlet](https://tweetlet.net/)
+  4. [screenshot-studio](https://www.screenshot-studio.com/)
+  5. [chalk](https://chalk.ist/)
+  6. [poet](https://poet.so/)
+  7. [tweetlet](https://tweetlet.net/)
 
 - ## Games to learn JavaScript
   1. [codecombat](https://codecombat.com/play)
