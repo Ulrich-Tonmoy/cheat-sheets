@@ -396,16 +396,17 @@
   10. [random-data-api](https://random-data-api.com/documentation)
 
 - ## Next Open Source Projects
-  1. [plane](https://github.com/makeplane/plane)
-  2. [twenty](https://github.com/twentyhq/twenty)
-  3. [rallly](https://github.com/lukevella/rallly)
-  4. [infisical](https://github.com/Infisical/infisical)
-  5. [dailydotdev](https://github.com/dailydotdev/apps)
-  6. [formbricks](https://github.com/formbricks/formbricks)
-  7. [dub](https://github.com/dubinc/dub)
-  8. [inbox-zero](https://github.com/elie222/inbox-zero)
-  9. [civitai](https://github.com/civitai/civitai)
-  10. [cal.com](https://github.com/calcom/cal.com)
+  1. [Coolify](https://github.com/coollabsio/coolify) An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+  2. [plane](https://github.com/makeplane/plane)
+  3. [twenty](https://github.com/twentyhq/twenty)
+  4. [rallly](https://github.com/lukevella/rallly)
+  5. [infisical](https://github.com/Infisical/infisical)
+  6. [dailydotdev](https://github.com/dailydotdev/apps)
+  7. [formbricks](https://github.com/formbricks/formbricks)
+  8. [dub](https://github.com/dubinc/dub)
+  9. [inbox-zero](https://github.com/elie222/inbox-zero)
+  10. [civitai](https://github.com/civitai/civitai)
+  11. [cal.com](https://github.com/calcom/cal.com)
 
 - ## Other Tools
   1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) -- [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
