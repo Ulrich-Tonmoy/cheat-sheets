@@ -496,6 +496,7 @@
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [React Bits](https://reactbits.dev/)
+     - [Wigggle UI](https://wigggle-ui.vercel.app/)
      - [Vengeance UI 2.0](https://www.vengenceui.com/)
      - [uselayouts](https://uselayouts.com/)
      - [BadtzUI](https://www.badtz-ui.com/)
@@ -543,6 +544,7 @@
      - [coss/ui](https://coss.com/ui/docs)
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
+   - [DiMaac](https://ui.dimaac.com/)
    - [Better Auth UI](https://better-auth-ui.com/) - [Better Upload](https://better-upload.com/)
    - [MUI Material UI](https://mui.com/)
    - [Ark UI](https://ark-ui.com/) - [Chakra UI](https://chakra-ui.com/) - [Park UI](https://park-ui.com/)
