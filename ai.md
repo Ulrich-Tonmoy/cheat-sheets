@@ -55,9 +55,11 @@
   0. [Open WebUI](https://github.com/open-webui/open-webui)
   1. [LM Studio](https://lmstudio.ai/)
   2. [ollama](https://ollama.com/)
-  3. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-  4. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
-  5. [Jan](https://jan.ai/)
+  3. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+  4. [vLLM](https://github.com/vllm-project/vllm)
+  5. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  6. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  7. [Jan](https://jan.ai/)
 
 - ## Video Gen
   1. [Wan](https://wan.video/)
