@@ -974,6 +974,7 @@
   - [react-native-enriched-markdown](https://github.com/software-mansion-labs/react-native-enriched-markdown)
 - ## Animation
   - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
+  - [react-native-ease](https://github.com/appandflow/react-native-ease)
 - ## Style
   - [Nativewind](https://www.nativewind.dev/)
   - [Unistyles](https://www.unistyl.es/)
