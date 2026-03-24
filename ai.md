@@ -34,10 +34,11 @@
 
 - ## AI Assistant
   1. [OpenClaw](https://github.com/openclaw/openclaw)
-  2. [nanobot](https://github.com/HKUDS/nanobot)
-  3. [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
-  4. [NanoClaw](https://github.com/qwibitai/nanoclaw)
-  5. [IronClaw](https://github.com/nearai/ironclaw)
+  2. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+  3. [nanobot](https://github.com/HKUDS/nanobot)
+  4. [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
+  5. [NanoClaw](https://github.com/qwibitai/nanoclaw)
+  6. [IronClaw](https://github.com/nearai/ironclaw)
 
 - ## AI Companion
   1. [Project AIRI](https://github.com/moeru-ai/airi)
