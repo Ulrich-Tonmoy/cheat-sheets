@@ -436,7 +436,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - App Launcher: [Vicinae](https://github.com/vicinaehq/vicinae) - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - [Raycast](https://www.raycast.com/) - Search: [Everything](https://www.voidtools.com/)
 - [Duplicates Cleaner](https://apps.microsoft.com/detail/9pmxpz18cz49) - Disk Usage Statistics [windirstat](https://windirstat.net/) - [BleachBit](https://github.com/bleachbit/bleachbit)
 - Torrent Client: [Transmission](https://github.com/transmission/transmission) - [qBittorrent](https://www.qbittorrent.org/)
-- File: [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva)
+- File: [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva) - Clone Windows: [DiskGenius](https://www.diskgenius.com/)
 - Screenshot: [Flameshot](https://github.com/flameshot-org/flameshot) - Record & Repeat Actions: [TinyTask](https://tinytask.net/)
 - Video Player: [Potplayer](https://potplayer.daum.net/) - [VLC](https://www.videolan.org/) - Screen Recoder: [OBS Studio](https://obsproject.com/)
 - [NanaZip](https://github.com/M2Team/NanaZip) - GUI for CLI Package Manager: [UniGetUI](https://github.com/marticliment/WingetUI)
