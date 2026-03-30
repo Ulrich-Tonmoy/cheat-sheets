@@ -195,11 +195,12 @@
 
 - ## Online 3d Modeling APP
   1. [sculptfab](https://labs.sketchfab.com/sculptfab/)
-  2. [spline](https://spline.design/)
-  3. [3dslash](https://www.3dslash.net/index.php)
-  4. [leopoly](https://leopoly.com/)
-  5. [womp](https://womp.com/)
-  6. [sculptgl](https://stephaneginier.com/sculptgl/)
+  2. [eztree](https://www.eztree.dev/)
+  3. [spline](https://spline.design/)
+  4. [3dslash](https://www.3dslash.net/index.php)
+  5. [leopoly](https://leopoly.com/)
+  6. [womp](https://womp.com/)
+  7. [sculptgl](https://stephaneginier.com/sculptgl/)
 
 - ## Image to 3D AI
   1. [Hitem](https://www.hitem3d.ai/3dmodeling/home)
