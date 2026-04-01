@@ -72,6 +72,8 @@
 - [Code Profile](./assets/tools/vs-code/Code.code-profile)
 - [Main Profile](./assets/tools/vs-code/Main.code-profile)
 
+- [Islands Dark Theme](https://github.com/bwya77/vscode-dark-islands)
+
 ## VS Code Style
 
 ![enter image description here](./assets/tools/vs-code/thumb.png)
