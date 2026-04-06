@@ -112,14 +112,15 @@
   9. [Preact](https://github.com/preactjs/preact) - [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
   10. [Ripple](https://github.com/trueadm/ripple) - [Inferno](https://github.com/infernojs/inferno) - [Marko](https://github.com/marko-js/marko) - [ivi](https://github.com/localvoid/ivi)
   11. [htmx](https://github.com/bigskysoftware/htmx)
-  12. [neo.mjs](https://github.com/neomjs/neo)
-  13. [Alpine.js](https://github.com/alpinejs/alpine)
-  14. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
-  15. [riot](https://github.com/riot/riot)
-  16. [Nuejs](https://github.com/nuejs/nuejs)
-  17. [Yew](https://github.com/yewstack/yew)
-  18. [Stimulus](https://github.com/hotwired/stimulus)
-  19. [Hibiki HTML](https://github.com/dashborg/hibiki)
+  12. [sigment](https://sigment.dev/)
+  13. [neo.mjs](https://github.com/neomjs/neo)
+  14. [Alpine.js](https://github.com/alpinejs/alpine)
+  15. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
+  16. [riot](https://github.com/riot/riot)
+  17. [Nuejs](https://github.com/nuejs/nuejs)
+  18. [Yew](https://github.com/yewstack/yew)
+  19. [Stimulus](https://github.com/hotwired/stimulus)
+  20. [Hibiki HTML](https://github.com/dashborg/hibiki)
 
 - ## Mock Up Tools
   1. [shots](https://shots.so/)
@@ -272,11 +273,12 @@
   6. [font-library](https://katydecorah.com/font-library/#!/)
 
 - ## Loader
-  1. [spinkit](https://tobiasahlin.com/spinkit/)
-  2. [whirl](https://whirl.netlify.app/)
-  3. [css-loaders](https://projects.lukehaas.me/css-loaders/)
-  4. [cssloaders](https://cssloaders.github.io/)
-  5. [loading](https://loading.io/css/)
+  1. [boneyard](https://github.com/0xGF/boneyard) snapshots your real UI and captures a flat list of skeleton “bones” — positioned, sized rectangles that mirror the page exactly.
+  2. [spinkit](https://tobiasahlin.com/spinkit/)
+  3. [whirl](https://whirl.netlify.app/)
+  4. [css-loaders](https://projects.lukehaas.me/css-loaders/)
+  5. [cssloaders](https://cssloaders.github.io/)
+  6. [loading](https://loading.io/css/)
 
 - ## Layouts
   1. [cssgridgarden](https://cssgridgarden.com/)
