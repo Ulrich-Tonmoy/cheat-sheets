@@ -452,7 +452,12 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 
 1. [Obtainium](https://github.com/ImranR98/Obtainium)
 2. [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack)
-3. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+3. [GameNative](https://github.com/utkarshdalal/GameNative)
+4. [SimpleLauncher](https://github.com/drpetersonfernandes/SimpleLauncher)
+5. [RetroArch](https://github.com/libretro/RetroArch)
+6. []()
+7. [nostlan](https://quinton-ashley.itch.io/nostlan)
+8. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Misce Repos
 
