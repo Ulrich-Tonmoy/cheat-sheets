@@ -39,8 +39,9 @@
   - [Other Game Dev Links](#other-game-dev-links)
   - [Unity Snippet](#unity-snippet)
 
-- ## AI Game Builder
-  1. [moonlakeai](https://moonlakeai.com/)
+- ## AI Tools
+  1. [moonlakeai](https://moonlakeai.com/) AI Game Builder
+  2. [Niklas Notes](https://niklasnotes.com/dashboard) AI-powered summaries from millions of Steam reviews.
 
 - ## Game Jam
   1. [Global Game Jam](https://globalgamejam.org)
