@@ -552,6 +552,8 @@
      - [21st.dev](https://21st.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [DiMaac](https://ui.dimaac.com/)
+   - [pretext](https://github.com/chenglou/pretext)
+   - [tegaki](https://github.com/KurtGokhan/tegaki)
    - [Better Auth UI](https://better-auth-ui.com/) - [Better Upload](https://better-upload.com/)
    - [MUI Material UI](https://mui.com/)
    - [Ark UI](https://ark-ui.com/) - [Chakra UI](https://chakra-ui.com/) - [Park UI](https://park-ui.com/)
