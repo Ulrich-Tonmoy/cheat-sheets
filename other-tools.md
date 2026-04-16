@@ -12,6 +12,7 @@
 - [Code Editors](#code-editors)
 - [Note-taking Apps](#note-taking-apps)
 - [Misc Apps](#misc-apps)
+- [Game Emulation Tools](#game-emulation-tools)
 - [Misc Repos](#misc-repos)
 
 # Workspace tools
@@ -445,6 +446,13 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - WordPad: [UltraPad](https://github.com/lixkote/ultrapad) - Take files and convert them to a safe PDF: [Dangerzone](https://github.com/freedomofpress/dangerzone)
 - Protect Privacy: [Portmaster](https://safing.io/) - [Ghostery](https://www.ghostery.com/) - [LuLu](https://objective-see.org/products/lulu.html)
 - [KeePass](https://keepass.info/) - [HWiNFO](https://www.hwinfo.com/)
+- [TuxMate](https://github.com/abusoww/tuxmate) is a cross-distro install command generator built for real Linux workflows
+
+# Game Emulation Tools
+
+1. [Obtainium](https://github.com/ImranR98/Obtainium)
+2. [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack)
+3. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Misce Repos
 
