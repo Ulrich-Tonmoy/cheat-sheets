@@ -40,10 +40,6 @@
   - [Other Game Dev Links](#other-game-dev-links)
   - [Unity Snippet](#unity-snippet)
 
-- ## AI Tools
-  1. [moonlakeai](https://moonlakeai.com/) AI Game Builder
-  2. [Niklas Notes](https://niklasnotes.com/dashboard) AI-powered summaries from millions of Steam reviews.
-
 - ## Game Jam
   1. [Global Game Jam](https://globalgamejam.org)
   2. [Ludum Dare](https://ldjam.com)
@@ -366,13 +362,18 @@
   12. [Friction](https://github.com/friction2d/friction)
 
 - ## Game Dev AI Tools
-  1. [ArtBreeder](https://www.artbreeder.com)
-  2. [Skybox Generator](https://skybox.blockadelabs.com/)
-  3. [voice.ai (Audio Gen)](https://voice.ai/)
-  4. [Tensor Art](https://tensor.art/)
-  5. [Mesh (3d)](https://www.mesh.ai/)
-  6. [Sloyd (3D)](https://www.sloyd.ai/)
-  7. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
+  1. [moonlakeai](https://moonlakeai.com/) AI Game Builder
+  2. [Niklas Notes](https://niklasnotes.com/dashboard) AI-powered summaries from millions of Steam reviews.
+  3. [Sorceress](https://sorceress.games/) Sprite tools, AI art generation, sound editing, a built-in coding agent, and a game publishing platform — all in one place.
+  4. [Pixel Engine](https://pixelengine.ai/)AI Pixel Art Animation for Indie Game Developers
+  5. []()
+  6. [ArtBreeder](https://www.artbreeder.com)
+  7. [Skybox Generator](https://skybox.blockadelabs.com/)
+  8. [voice.ai (Audio Gen)](https://voice.ai/)
+  9. [Tensor Art](https://tensor.art/)
+  10. [Mesh (3d)](https://www.mesh.ai/)
+  11. [Sloyd (3D)](https://www.sloyd.ai/)
+  12. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
 
 - ## Game Audio
   1. [sonniss](https://gdc.sonniss.com/)
