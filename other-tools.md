@@ -455,9 +455,10 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 3. [GameNative](https://github.com/utkarshdalal/GameNative)
 4. [SimpleLauncher](https://github.com/drpetersonfernandes/SimpleLauncher)
 5. [RetroArch](https://github.com/libretro/RetroArch)
-6. []()
-7. [nostlan](https://quinton-ashley.itch.io/nostlan)
-8. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+6. [RPCS3](https://github.com/RPCS3/rpcs3)
+7. []()
+8. [nostlan](https://quinton-ashley.itch.io/nostlan)
+9. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Misce Repos
 
