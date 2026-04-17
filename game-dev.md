@@ -25,6 +25,7 @@
   - [2d Assets](#2d-assets)
   - [Logo maker](#logo-maker)
   - [VFX](#vfx)
+  - [Video Recorder](#video-recorder)
   - [Video Editor](#video-editor)
   - [Game Dev AI Tools](#game-dev-ai-tools)
   - [Game Audio App](#game-audio-app)
@@ -343,6 +344,12 @@
   2. [Houdini](https://www.sidefx.com/products/houdini/)
   3. [Cinema 4D](https://www.maxon.net/en/product-detail/cinema-4d)
   4. [Harmony](https://www.toonboom.com/products/harmony)
+
+- ## Video Recorder
+  1. [OBS Studio](https://obsproject.com/)
+  2. [Recordly](https://github.com/webadderall/Recordly)
+  3. [openscreen](https://github.com/siddharthvaddem/openscreen)
+  4. [openvid](https://github.com/CristianOlivera1/openvid)
 
 - ## Video Editor
   1. [CapCut](https://www.capcut.com/)
