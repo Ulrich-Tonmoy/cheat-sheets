@@ -457,9 +457,10 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 5. [RetroArch](https://github.com/libretro/RetroArch)
 6. [RPCS3](https://github.com/RPCS3/rpcs3)
 7. [FunKey-OS](https://github.com/FunKey-Project/FunKey-OS)
-8. []()
-9. [nostlan](https://quinton-ashley.itch.io/nostlan)
-10. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+8. [SideStore](https://github.com/SideStore/SideStore/) - [ManicEMU](https://github.com/Manic-EMU/ManicEMU) - [dolphin-ios](https://github.com/OatmealDome/dolphin-ios) - [MeloNX](https://git.ryujinx.app/projects/MeloNX) - [XeniOS](https://github.com/xenios-jp/XeniOS) - [iPSX2](https://github.com/otti83/iPSX2)
+9. []()
+10. [nostlan](https://quinton-ashley.itch.io/nostlan)
+11. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Misce Repos
 
