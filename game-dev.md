@@ -613,6 +613,7 @@
   3. [gaminganalytics](https://gaminganalytics.info/)
   4. [gamalytic](https://gamalytic.com/)
   5. [games-stats](https://games-stats.com/)
+  6. [GameAnalytics](https://www.gameanalytics.com/) The all-in-one platform powering smarter games
 
 - ## Funding
   1. [buymeacoffee](https://www.buymeacoffee.com/)
