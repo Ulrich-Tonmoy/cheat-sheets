@@ -62,6 +62,11 @@
   6. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
   7. [Jan](https://jan.ai/)
 
+- ##
+  1. [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
+  2. [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
+  3. []()
+
 - ## Video Gen
   1. [Wan](https://wan.video/)
   2. [Veo](https://deepmind.google/models/veo/)
