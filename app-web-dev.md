@@ -726,6 +726,7 @@
     - [OpenReplay](https://github.com/openreplay/openreplay/)
     - [Countly](https://github.com/countly/countly-server)
 23. #### Rendering Performance
+    - [RSC Boundary](https://github.com/foxted/rsc-boundary) See where Server Components end and Client Components begin—directly in the browser, on your real app.
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [React Doctor](https://github.com/millionco/react-doctor)
