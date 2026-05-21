@@ -753,6 +753,7 @@
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
 28. #### Other Libraries
+    - [Jazz](https://jazz.tools/) is a local-first relational database. It runs across your frontend, backend and our global storage cloud.
     - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
@@ -912,7 +913,7 @@
 - ### JavaScript/TypeScript
   1. [React Native](https://github.com/facebook/react-native) - [Lynx](https://github.com/lynx-family/lynx) - [NativeScript](https://github.com/NativeScript/NativeScript)
   2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/) - [Sparkling](https://tiktok.github.io/sparkling/)
-  3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [Electrobun](https://github.com/blackboardsh/electrobun)
+  3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [zero-native](https://github.com/vercel-labs/zero-native) - [Electrobun](https://github.com/blackboardsh/electrobun)
   4. [Electron Forge](https://www.electronforge.io/) - [Electron⚡️Vite](https://electron-vite.github.io/) - [electron-vite](https://electron-vite.org/)
   5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - [NW.js](https://github.com/nwjs/nw.js) - [NodeGui](https://github.com/nodegui/nodegui)
   6. [Capacitor](https://github.com/ionic-team/capacitor) - [Ionic](https://github.com/ionic-team/ionic-framework)
