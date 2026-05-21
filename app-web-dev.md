@@ -831,6 +831,7 @@
 ## Svelte Component Libraries
 
 - [Svelte Animations](https://sv-animations.vercel.app/)
+- [Svelte Bits](https://sveltebits.xyz/)
 
 # Backend
 
