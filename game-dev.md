@@ -508,6 +508,8 @@
 - ## Blender Tools
   1. [VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender)
   2. [dream-textures](https://github.com/carson-katri/dream-textures)
+  3. [Anvil Level Design](https://github.com/alexjhetherington/anvil-level-design)
+  4. [TrenchBroom](https://github.com/TrenchBroom/TrenchBroom)
 
 - ## Unreal Tools
   1. [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics)
