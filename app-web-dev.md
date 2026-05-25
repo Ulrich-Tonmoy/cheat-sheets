@@ -514,6 +514,7 @@
      - [Pixel Perfect](https://www.pixel-perfect.space/)
      - [soundcn](https://www.soundcn.xyz/)
      - [SCIFICN/UI](https://www.scificn.dev/)
+     - [termcn](https://www.termcn.dev/)
      - [chanhdai Components](https://chanhdai.com/components)
      - [ElevenLabs UI](https://ui.elevenlabs.io/)
      - [UI blocks, components & pages](https://ui.tripled.work/)
