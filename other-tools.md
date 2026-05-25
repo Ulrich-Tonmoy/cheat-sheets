@@ -390,6 +390,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 
 # AI CLI
 
+0. [graphify](https://github.com/safishamsi/graphify)
 1. [ClaudeCode](https://github.com/anthropics/claude-code)
 2. [OpenCode](https://github.com/sst/opencode)
 3. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
