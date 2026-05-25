@@ -19,7 +19,7 @@
 
 - [nvm win](https://github.com/coreybutler/nvm-windows) - [fnm](https://github.com/Schniz/fnm) - [Bun](https://bun.sh/) - [Python](https://www.python.org/downloads/) - [Rust](https://www.rust-lang.org/tools/install) - [LLVM](https://github.com/llvm/llvm-project/releases) - [GCC](https://gcc.gnu.org/install/binaries.html) - [Zig](https://ziglang.org/download/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - [VS Code](https://code.visualstudio.com/) - [VS](https://visualstudio.microsoft.com/downloads/) - [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - [Docker](https://www.docker.com/)
-- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop) - [GitButler](https://github.com/gitbutlerapp/gitbutler) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vulkan](https://vulkan.lunarg.com/)
+- [Git](https://git-scm.com/downloads) - [GitHub Desktop](https://github.com/desktop/desktop) - [GitButler](https://github.com/gitbutlerapp/gitbutler) - [gitru](https://github.com/ruru-m07/gitru) - [PowerToys](https://github.com/microsoft/PowerToys) - [Vulkan](https://vulkan.lunarg.com/)
 - [Zen](https://www.zen-browser.app/) - [Helium](https://helium.computer/) - [Brave](https://brave.com/) - [Floorp](https://floorp.app/) - [Ladybird](https://ladybird.org/) - [Cromite](https://github.com/uazo/cromite) - [Orion](https://orionbrowser.com/)
 - [Vivaldi](https://vivaldi.com/) - [Yandex](https://browser.yandex.com/) - [Waterfox](https://www.waterfox.com/) - [LibreWolf](https://librewolf.net/) - [Flow](https://flow-browser.com/) - [Opera](https://www.opera.com/)
 - [i2pd](https://i2pd.website/) - [Tor](https://www.torproject.org/) - [Mullvad](https://mullvad.net/en/browser) - [Servo](https://servo.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/)
@@ -400,14 +400,13 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 # Code Editors
 
 1. [VS](https://visualstudio.microsoft.com/) - [VS Code](https://github.com/microsoft/vscode) - [VS Codium](https://github.com/VSCodium/vscodium) - [Lapce](https://github.com/lapce/lapce) - [Zed](https://github.com/zed-industries/zed) - [Atom](https://github.com/atom/atom) - [Pulsar](https://github.com/pulsar-edit/pulsar) - [Atom Community](https://github.com/atom-community/atom) - [Sublime Text](https://www.sublimetext.com/)
-2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad3](https://github.com/rizonesoft/Notepad3) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [lite](https://github.com/rxi/lite) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
+2. [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - [Notepad3](https://github.com/rizonesoft/Notepad3) - [Notepad Next](https://github.com/dail8859/NotepadNext) - [Pragtical](https://github.com/pragtical/pragtical) - [Notepads](https://github.com/0x7c13/Notepads) - [Lite XL](https://github.com/lite-xl/lite-xl) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
 3. [Edit](https://github.com/microsoft/edit) - [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [NvChad](https://github.com/NvChad/NvChad) - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - [LunarVim](https://github.com/LunarVim/LunarVim) - [SpaceVim](https://gitlab.com/SpaceVim/SpaceVim) - [LazyVim](https://github.com/LazyVim/LazyVim) - [kakoune](https://github.com/mawww/kakoune)
 4. [Helix](https://github.com/helix-editor/helix) - [Ox](https://github.com/curlpipe/ox) - [Emacs](https://github.com/emacs-mirror/emacs) - [spacemacs](https://github.com/syl20bnr/spacemacs) - [doomemacs](https://github.com/doomemacs/doomemacs) - [Evil](https://github.com/emacs-evil/evil) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [Fresh](https://github.com/sinelaw/fresh) - [tmux](https://github.com/tmux/tmux) - [Moe](https://github.com/fox0430/moe)
-5. [SharpIDE](https://github.com/MattParkerDev/SharpIDE) - [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [Luthetus.Ide](https://github.com/Luthetus/Luthetus.Ide) - [Walk](https://github.com/huntercfreeman/Walk) - [neoeedit](https://github.com/neoedmund/neoeedit)
-6. [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor) - [focus](https://github.com/focus-editor/focus)
-7. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor)
+5. [SharpIDE](https://github.com/MattParkerDev/SharpIDE) - [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
+6. [athas](https://github.com/athasdev/athas) - [sidex](https://github.com/Sidenai/sidex) - [loom](https://github.com/dexter-xD/loom) - [focus](https://github.com/focus-editor/focus)
+7. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor)
 8. [Monaco Editor](https://github.com/microsoft/monaco-editor) - [React Monaco Editor](https://github.com/react-monaco-editor/react-monaco-editor) - [Monaco Editor React](https://github.com/suren-atoyan/monaco-react) - [overleaf](https://github.com/overleaf/overleaf)
-9. [sidex](https://github.com/Sidenai/sidex) - [athas](https://github.com/athasdev/athas) - [loom](https://github.com/dexter-xD/loom)
 
 # Code Editors(Archive)
 
@@ -422,6 +421,8 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 9. [Brackets](https://github.com/brackets-cont/brackets) - [brackets](https://github.com/adobe/brackets)
 10. [LimeText](https://github.com/limetext/lime) - [LimeText](https://github.com/limetext/backend)
 11. [alm](https://github.com/alm-tools/alm) - [zed](https://github.com/zedapp/zed) - [Caret](https://github.com/thomaswilburn/Caret)
+12. [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+13. [lite](https://github.com/rxi/lite)
 
 # Note-taking Apps
 
