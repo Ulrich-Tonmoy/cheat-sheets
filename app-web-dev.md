@@ -499,7 +499,9 @@
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
 8. #### UI Component
-   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
+   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [shoogle](https://shoogle.dev/)
+     - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
+     - [Bklit UI](https://ui.bklit.com/)
      - [React Bits](https://reactbits.dev/)
      - [Wigggle UI](https://wigggle-ui.vercel.app/)
      - [Vengeance UI 2.0](https://www.vengenceui.com/)
@@ -559,6 +561,7 @@
      - [coss/ui](https://coss.com/ui/docs)
      - [21st.dev](https://21st.dev/)
      - [shadcnstudio](https://shadcnstudio.com/)
+     - [shieldcn](https://shieldcn.dev/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [DiMaac](https://ui.dimaac.com/)
    - [pretext](https://github.com/chenglou/pretext)
@@ -715,7 +718,10 @@
 21. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-22. #### Analytics
+22. #### Terminal
+    - [Xterm.js](https://github.com/xtermjs/xterm.js)
+    - [wterm](https://github.com/vercel-labs/wterm)
+23. #### Analytics
     - [Sentry](https://github.com/getsentry/sentry)
     - [Metabase](https://github.com/metabase/metabase)
     - [PostHog](https://github.com/PostHog/posthog)
@@ -726,39 +732,38 @@
     - [GoAccess](https://github.com/allinurl/goaccess)
     - [OpenReplay](https://github.com/openreplay/openreplay/)
     - [Countly](https://github.com/countly/countly-server)
-23. #### Rendering Performance
+24. #### Rendering Performance
     - [RSC Boundary](https://github.com/foxted/rsc-boundary) See where Server Components end and Client Components begin—directly in the browser, on your real app.
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [React Doctor](https://github.com/millionco/react-doctor)
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
     - [ForesightJS](https://foresightjs.com/)
-24. #### Testing
+25. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-25. #### Documentation
+26. #### Documentation
     - [Fumadocs](https://fumadocs.dev/)
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
     - [Starlight](https://starlight.astro.build/)
-26. #### Type Checking
+27. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-27. #### Visual Editors
+28. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
-28. #### Other Libraries
+29. #### Other Libraries
     - [Jazz](https://jazz.tools/) is a local-first relational database. It runs across your frontend, backend and our global storage cloud.
     - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
     - [Haiku](https://www.reacthaiku.dev/) is a simple & lightweight React library with the goal of saving you time by offering a large collection of hooks & utilities that will help you get the job done faster & more efficiently!
-    - [Xterm.js](https://github.com/xtermjs/xterm.js) Build terminals in the browser.
     - [Socket.io](https://github.com/socketio/socket.io) - [ws](https://github.com/websockets/ws) library that enables real-time, bidirectional communication between web clients and servers.
     - [Media over QUIC](https://github.com/kixelated/moq)
     - [mitosis](https://mitosis.builder.io/) Write components once, run everywhere.
@@ -767,7 +772,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-29. #### DevTools
+30. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
