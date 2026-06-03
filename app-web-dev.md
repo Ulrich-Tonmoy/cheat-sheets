@@ -865,7 +865,7 @@
 
 - ## Backend as a Service and Database
   1. BaaS: [Firebase](https://firebase.google.com/) - [Appwrite](https://github.com/appwrite/appwrite) - [Supabase](https://github.com/supabase/supabase) - [Neon](https://github.com/neondatabase/neon) - [Turso](https://turso.tech/) - [Nhost](https://github.com/nhost/nhost)
-  2. BaaS: [SpacetimeDB](https://github.com/ClockworkLabs/SpacetimeDB) - [Convex](https://www.convex.dev/) - [SurrealDB](https://github.com/surrealdb/surrealdb) - [PocketBase](https://github.com/pocketbase/pocketbase)
+  2. BaaS: [SpacetimeDB](https://github.com/ClockworkLabs/SpacetimeDB) - [Convex](https://www.convex.dev/) - [SurrealDB](https://github.com/surrealdb/surrealdb) - [PocketBase](https://github.com/pocketbase/pocketbase) - [Powabase](https://powabase.ai/)
   3. ORM: [Drizzle](https://github.com/drizzle-team/drizzle-orm) - [Prisma](https://github.com/prisma/prisma) - [Sequelize](https://github.com/sequelize/sequelize) - [Mongoose](https://github.com/Automattic/mongoose)
   4. Document: [MongoDB](https://github.com/mongodb/mongo) - [RavenDB](https://github.com/ravendb/ravendb) - [Couchbase](https://www.couchbase.com/) - [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
   5. Key-Val: [Redis](https://github.com/redis/redis) - [valkey](https://github.com/valkey-io/valkey) - [Dragonfly](https://github.com/dragonflydb/dragonfly) - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - [Riak](https://riak.com/)
