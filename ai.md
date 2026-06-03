@@ -53,14 +53,15 @@
   6. [Open Assistant](https://open-assistant.io/)
 
 - ## Locally Running LLM
-  0. [Open WebUI](https://github.com/open-webui/open-webui)
-  1. [LM Studio](https://lmstudio.ai/)
-  2. [ollama](https://ollama.com/)
-  3. [llama.cpp](https://github.com/ggml-org/llama.cpp)
-  4. [vLLM](https://github.com/vllm-project/vllm)
-  5. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-  6. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
-  7. [Jan](https://jan.ai/)
+  1. [Pewdiepie Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  2. [LM Studio](https://lmstudio.ai/)
+  3. [Open WebUI](https://github.com/open-webui/open-webui)
+  4. [ollama](https://ollama.com/)
+  5. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+  6. [vLLM](https://github.com/vllm-project/vllm)
+  7. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  8. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  9. [Jan](https://jan.ai/)
 
 - ##
   1. [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
