@@ -19,7 +19,7 @@
 5. [ossrank](https://ossrank.com/) - [ossinsight](https://ossinsight.io/collections/) - [tiobe-index](https://www.tiobe.com/tiobe-index/) - [plangs](https://plangs.page/) - [languish](https://tjpalmer.github.io/languish/) - [plrank](https://plrank.com/) - [PYPL](https://pypl.github.io/PYPL.html) - [Statcounter](https://gs.statcounter.com/)
 6. [witeboard](https://witeboard.com/) - [tldraw](https://www.tldraw.com/) - [excalidraw](https://excalidraw.com/) - [mermaid](https://mermaid.live/) - [Diagram](https://app.dgrm.net/) - [Eraser](https://app.eraser.io/) - [FossFLOW 3D](https://stan-smith.github.io/FossFLOW/)
 7. [DigitalPlat FreeDomain](https://domain.digitalplat.org/)
-8. [Snapdrop](https://snapdrop.net/) - [Sharedrop.me](https://sharedrop.me/) - [Sharedrop.io](https://www.sharedrop.io/)
+8. [LocalSend](https://localsend.org/) - [Snapdrop](https://snapdrop.net/) - [Sharedrop.me](https://sharedrop.me/) - [Sharedrop.io](https://www.sharedrop.io/)
 9. [temp-mail](https://temp-mail.org/) - [yopmail](https://yopmail.com/) - [anonymsms](https://anonymsms.com/temporary-phone-number/) - [receive-smss](https://receive-smss.com/) - [receive-sms](https://receive-sms.cc/) - [smstome](https://smstome.com/)
 10. [downloaderto (Video Downloader)](https://downloaderto.com/engf/) - [cobalt (Video Downloader)](https://cobalt.tools/)
 11. [download-directory](https://download-directory.github.io/) - [DownGit](https://downgit.github.io/#/home) - [Github Folder Downloader](https://abdurraahimm.github.io/github-folder-downloader/)
