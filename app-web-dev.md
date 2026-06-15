@@ -590,8 +590,11 @@
    - [grommet](https://github.com/grommet/grommet)
    - [Shoelace](https://shoelace.style/)
 9. #### Other UI libs
+   - [react-call](https://github.com/desko27/react-call)
    - [Ink](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
    - [OpenTUI](https://github.com/sst/opentui) TypeScript library for building terminal user interfaces (TUIs).
+   - [Xterm.js](https://github.com/xtermjs/xterm.js)
+   - [wterm](https://github.com/vercel-labs/wterm)
    - [player](https://player.style/) Video and audio player themes built with Media Chrome
    - [Mediabunny](https://mediabunny.dev/)
    - [Wavesurfer.js](https://wavesurfer.xyz/) Audio visualizer
@@ -724,10 +727,7 @@
 21. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-22. #### Terminal
-    - [Xterm.js](https://github.com/xtermjs/xterm.js)
-    - [wterm](https://github.com/vercel-labs/wterm)
-23. #### Analytics
+22. #### Analytics
     - [Sentry](https://github.com/getsentry/sentry)
     - [Metabase](https://github.com/metabase/metabase)
     - [PostHog](https://github.com/PostHog/posthog)
@@ -738,34 +738,34 @@
     - [GoAccess](https://github.com/allinurl/goaccess)
     - [OpenReplay](https://github.com/openreplay/openreplay/)
     - [Countly](https://github.com/countly/countly-server)
-24. #### Rendering Performance
+23. #### Rendering Performance
     - [RSC Boundary](https://github.com/foxted/rsc-boundary) See where Server Components end and Client Components begin—directly in the browser, on your real app.
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [React Doctor](https://github.com/millionco/react-doctor)
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
     - [ForesightJS](https://foresightjs.com/)
-25. #### Testing
+24. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-26. #### Documentation
+25. #### Documentation
     - [Fumadocs](https://fumadocs.dev/)
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
     - [Starlight](https://starlight.astro.build/)
-27. #### Type Checking
+26. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-28. #### Visual Editors
+27. #### Visual Editors
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
-29. #### Other Libraries
+28. #### Other Libraries
     - [Jazz](https://jazz.tools/) is a local-first relational database. It runs across your frontend, backend and our global storage cloud.
     - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
@@ -778,7 +778,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-30. #### DevTools
+29. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
