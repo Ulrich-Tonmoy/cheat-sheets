@@ -20,7 +20,7 @@
 6. [witeboard](https://witeboard.com/) - [tldraw](https://www.tldraw.com/) - [excalidraw](https://excalidraw.com/) - [mermaid](https://mermaid.live/) - [Diagram](https://app.dgrm.net/) - [Eraser](https://app.eraser.io/) - [FossFLOW 3D](https://stan-smith.github.io/FossFLOW/)
 7. [DigitalPlat FreeDomain](https://domain.digitalplat.org/)
 8. [LocalSend](https://localsend.org/) - [Snapdrop](https://snapdrop.net/) - [Sharedrop.me](https://sharedrop.me/) - [Sharedrop.io](https://www.sharedrop.io/)
-9. [temp-mail](https://temp-mail.org/) - [yopmail](https://yopmail.com/) - [anonymsms](https://anonymsms.com/temporary-phone-number/) - [receive-smss](https://receive-smss.com/) - [receive-sms](https://receive-sms.cc/) - [smstome](https://smstome.com/)
+9. [temp-mail](https://temp-mail.org/) - [10 Minute Mail](https://10minutemail.com/) - [yopmail](https://yopmail.com/) - [anonymsms](https://anonymsms.com/temporary-phone-number/) - [receive-smss](https://receive-smss.com/) - [receive-sms](https://receive-sms.cc/) - [smstome](https://smstome.com/)
 10. [downloaderto (Video Downloader)](https://downloaderto.com/engf/) - [cobalt (Video Downloader)](https://cobalt.tools/)
 11. [download-directory](https://download-directory.github.io/) - [DownGit](https://downgit.github.io/#/home) - [Github Folder Downloader](https://abdurraahimm.github.io/github-folder-downloader/)
 12. [File Converter](https://vert.sh/) - [Webp to Png](https://picflow.com/convert/webp-to-png) - [Jpg to Png](https://jpg2png.com/) - [SVG](https://svgoptimizer.com/) - [svg-to-png](https://svgtrace.com/svg-to-png)
@@ -49,6 +49,9 @@
 35. [texttohandwriting](https://texttohandwriting.com/)
 36. [Download webpage as pdf](https://www.printfriendly.com/)
 37. [pdfdrive (free books)](https://www.pdfdrive.com/) - [elephind (free books)](https://elephind.com/)
+38. [famelack](https://famelack.com/tv) - [myRetroTVs](https://www.myretrotvs.com/)
+39. [skipvids](https://skipvids.com/trending)
+40. [neal](https://neal.fun/)
 
 # Learning Resources
 
