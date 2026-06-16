@@ -1,7 +1,16 @@
 - [AI](#ai)
   - [Chat AI](#chat-ai)
+  - [AI-Powered App Builders](#ai-powered-app-builders)
+  - [AI Code Reviewer](#ai-code-reviewer)
+  - [AI Skills & Context](#ai-skills--context)
+  - [AI Code Editors](#ai-code-editors)
+  - [AI CLI](#ai-cli)
+  - [AI Workflow](#ai-workflow)
+  - [AI Assistant](#ai-assistant)
+  - [AI Companion](#ai-companion)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
+  - [Other Local AI](#other-local-ai)
   - [Video Gen](#video-gen)
   - [Voice Gen](#voice-gen)
   - [Image Gen AI Websites](#image-gen-ai-websites)
@@ -31,6 +40,69 @@
   14. [You](https://you.com/)
   15. [HuggingChat](https://huggingface.co/chat/)
   16. [Ora AI](https://ora.ai/)
+- ## AI-Powered App Builders
+  1. [Orchids](https://www.orchids.app/)
+  2. [v0](https://v0.dev/)
+  3. [Bolt](https://bolt.new/)
+  4. [Chef](https://chef.convex.dev/)
+  5. [Lovable](https://lovable.dev/)
+  6. [Devin AI](https://devin.ai/)
+  7. [Replit](https://replit.com/)
+  8. [Google AI Studio](https://aistudio.google.com/)
+  9. [Firebase Studio](https://firebase.studio/) - [Stitch](https://stitch.withgoogle.com/)
+  10. [MetaGPTX](https://mgx.dev/)
+  11. [Dyad](https://github.com/dyad-sh/dyad)
+  12. [open-lovable](https://github.com/firecrawl/open-lovable)
+  13. [bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
+  14. [IDE by Bind AI](https://www.getbind.co/)
+  15. [Aide](https://aide.dev/)
+  16. [Tempo Labs](https://www.tempolabs.ai/)
+  17. [rork](https://rork.app/) - [a0](https://a0.dev/) - [appacella](https://www.appacella.com/) - [makeway](https://makeway.app/)
+  18. [builder.io](https://www.builder.io/)
+  19. [Blackbox](https://www.blackbox.ai/)
+  20. [Softgen](https://softgen.ai/)
+  21. [Wrapifai](https://wrapifai.com/)
+  22. [Databutton](https://databutton.com/)
+  23. [webdraw](https://webdraw.com/)
+  24. [Colab](https://colab.research.google.com/)
+
+- ## AI Code Reviewer
+  1. [CodeRabbit](https://www.coderabbit.ai/)
+  2. [Greptile](https://www.greptile.com/)
+
+- ## AI Skills & Context
+  1. [Skills](https://www.skills.sh/)
+  2. [Agent Skills](https://agentskills.io/)
+  3. [graphify](https://github.com/safishamsi/graphify)
+  4. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+- ## AI Code Editors
+  1. [Cursor](https://www.cursor.com/)
+  2. [Trae](https://www.trae.ai/)
+  3. [Kiro](https://kiro.dev/)
+  4. [Antigravity](https://antigravity.google/)
+  5. [Windsurf](https://codeium.com/windsurf)
+  6. [Augment Code](https://www.augmentcode.com/) - [OpenRouter](https://openrouter.ai/)
+  7. [Kilo Code](https://github.com/Kilo-Org/kilocode) - [Cline](https://cline.bot/) - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+  8. [PearAI](https://trypear.ai/)
+  9. [Qodo](https://www.qodo.ai/)
+  10. [Continue](https://www.continue.dev/)
+  11. [Void](https://github.com/voideditor/void)
+  12. [Tabby](https://github.com/TabbyML/tabby)
+  13. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  14. [MarsX](https://marsx.dev/)
+
+- ## AI CLI
+  1. [ClaudeCode](https://github.com/anthropics/claude-code)
+  2. [OpenCode](https://github.com/sst/opencode)
+  3. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+  4. [OpenAI Codex](https://github.com/openai/codex)
+  5. [QwenCode](https://github.com/QwenLM/qwen-code)
+
+- ## AI Workflow
+  1. [n8n](https://n8n.io/)
+  2. [Dify](https://dify.ai/)
+  3. [Sim](https://github.com/simstudioai/sim)
 
 - ## AI Assistant
   1. [OpenClaw](https://github.com/openclaw/openclaw)
@@ -63,10 +135,9 @@
   8. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
   9. [Jan](https://jan.ai/)
 
-- ##
+- ## Other Local AI
   1. [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
   2. [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
-  3. []()
 
 - ## Video Gen
   1. [Wan](https://wan.video/)
