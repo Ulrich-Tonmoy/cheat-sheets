@@ -366,10 +366,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
     <img src="./assets/note-apps.png" alt="Note Taking Apps" title="Note Taking Apps" width="400"/>
 </div>
 
-1. [Obsidian](https://obsidian.md/) - [Basalt](https://github.com/erikjuhani/basalt) - [Notion](https://www.notion.so/) - [Evernote](https://evernote.com/download) - [Milanote](https://milanote.com/) - [Squidnotes](https://www.squidnotes.com/) - [Capacities](https://capacities.io/) - [Scrintal](https://scrintal.com/) - [HackMD](https://hackmd.io/) - [Tana](https://tana.inc/)
+1. [Obsidian](https://obsidian.md/) - [Notion](https://www.notion.so/) - [Evernote](https://evernote.com/download) - [Milanote](https://milanote.com/) - [Squidnotes](https://www.squidnotes.com/) - [Capacities](https://capacities.io/) - [Scrintal](https://scrintal.com/) - [HackMD](https://hackmd.io/) - [Tana](https://tana.inc/)
 2. [Logseq](https://github.com/logseq/logseq) - [Docmost](https://github.com/docmost/docmost) - [Siyuan](https://github.com/siyuan-note/siyuan) - [Joplin](https://github.com/laurent22/joplin/) - [Anytype](https://github.com/anyproto/anytype-ts) - [AFFiNE](https://github.com/toeverything/AFFiNE) - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - [Notesnook](https://github.com/streetwriters/notesnook) - [Outline](https://github.com/outline/outline) - [atomic](https://github.com/kenforthewin/atomic)
 3. [zennotes](https://github.com/ZenNotes/zennotes) - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - [Colanode](https://github.com/colanode/colanode) - [NoteGen](https://github.com/codexu/note-gen) - [Trilium](https://github.com/zadam/trilium) - [MarkText](https://github.com/marktext/marktext) - [Typethings](https://github.com/pheralb/typethings) - [Typability](https://github.com/SimonShiki/Typability) - [Zettlr](https://github.com/Zettlr/Zettlr) - [Foam](https://github.com/foambubble/foam)
-4. [Planify](https://github.com/alainm23/planify) - [Super Productivity](https://github.com/super-productivity/super-productivity) - [Focalboard](https://github.com/mattermost/focalboard) - [Freeter](https://github.com/FreeterApp/Freeter)
+4. [clin](https://github.com/reekta92/clin-rs) - [Basalt](https://github.com/erikjuhani/basalt)
+5. [Planify](https://github.com/alainm23/planify) - [Super Productivity](https://github.com/super-productivity/super-productivity) - [Focalboard](https://github.com/mattermost/focalboard) - [Freeter](https://github.com/FreeterApp/Freeter)
 
 # Misc Apps
 
