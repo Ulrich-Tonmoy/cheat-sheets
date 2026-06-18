@@ -105,12 +105,14 @@
   3. [Sim](https://github.com/simstudioai/sim)
 
 - ## AI Assistant
-  1. [OpenClaw](https://github.com/openclaw/openclaw)
-  2. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-  3. [nanobot](https://github.com/HKUDS/nanobot)
-  4. [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
-  5. [NanoClaw](https://github.com/qwibitai/nanoclaw)
-  6. [IronClaw](https://github.com/nearai/ironclaw)
+  1. [Pewdiepie Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  2. [OpenClaw](https://github.com/openclaw/openclaw)
+  3. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+  4. [nanobot](https://github.com/HKUDS/nanobot)
+  5. [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
+  6. [NanoClaw](https://github.com/qwibitai/nanoclaw)
+  7. [IronClaw](https://github.com/nearai/ironclaw)
+  8. [Hermes Agent ☤](https://github.com/nousresearch/hermes-agent)
 
 - ## AI Companion
   1. [Project AIRI](https://github.com/moeru-ai/airi)
@@ -125,15 +127,14 @@
   6. [Open Assistant](https://open-assistant.io/)
 
 - ## Locally Running LLM
-  1. [Pewdiepie Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-  2. [LM Studio](https://lmstudio.ai/)
-  3. [Open WebUI](https://github.com/open-webui/open-webui)
-  4. [ollama](https://ollama.com/)
-  5. [llama.cpp](https://github.com/ggml-org/llama.cpp)
-  6. [vLLM](https://github.com/vllm-project/vllm)
-  7. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-  8. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
-  9. [Jan](https://jan.ai/)
+  1. [LM Studio](https://lmstudio.ai/)
+  2. [Open WebUI](https://github.com/open-webui/open-webui)
+  3. [ollama](https://ollama.com/)
+  4. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+  5. [vLLM](https://github.com/vllm-project/vllm)
+  6. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  7. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  8. [Jan](https://jan.ai/)
 
 - ## Other Local AI
   1. [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
