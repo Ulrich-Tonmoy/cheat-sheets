@@ -75,6 +75,8 @@
   2. [Agent Skills](https://agentskills.io/)
   3. [graphify](https://github.com/safishamsi/graphify)
   4. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+  5. [agent-skills](https://github.com/addyosmani/agent-skills)
+  6. [Superpowers](https://github.com/obra/Superpowers)
 
 - ## AI Code Editors
   1. [Cursor](https://www.cursor.com/)
