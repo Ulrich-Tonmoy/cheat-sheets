@@ -95,11 +95,12 @@
   14. [MarsX](https://marsx.dev/)
 
 - ## AI CLI
-  1. [ClaudeCode](https://github.com/anthropics/claude-code)
-  2. [OpenCode](https://github.com/sst/opencode)
-  3. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
-  4. [OpenAI Codex](https://github.com/openai/codex)
-  5. [QwenCode](https://github.com/QwenLM/qwen-code)
+  1. [OpenCode](https://github.com/sst/opencode)
+  2. [pi](https://github.com/earendil-works/pi)
+  3. [ClaudeCode](https://github.com/anthropics/claude-code)
+  4. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+  5. [OpenAI Codex](https://github.com/openai/codex)
+  6. [QwenCode](https://github.com/QwenLM/qwen-code)
 
 - ## AI Workflow
   1. [n8n](https://n8n.io/)
