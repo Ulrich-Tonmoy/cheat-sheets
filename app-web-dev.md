@@ -603,7 +603,9 @@
    - [uiverse](https://uiverse.io/buttons) Button designs
    - [visx](https://github.com/airbnb/visx)
    - [floating-ui](https://floating-ui.com/)
-   - [fullcalendar](https://fullcalendar.io/)
+   - [fullcalendar](https://github.com/fullcalendar/fullcalendar) Full-sized drag & drop event calendar in JavaScript
+   - [excalidraw](https://github.com/excalidraw/excalidraw)An open source virtual hand-drawn style whiteboard.
+   - [mermaid](https://github.com/mermaid-js/mermaid)Generate diagrams from markdown-like text.
    - [react-hot-toast](https://react-hot-toast.com/)
    - [react-toastify](https://fkhadra.github.io/react-toastify/introduction)
    - [sweetalert2](https://sweetalert2.github.io/) - [Sweetalert](https://sweetalert.js.org/)
