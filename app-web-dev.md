@@ -823,35 +823,32 @@
 
 # Vue
 
-## Vue Component Libraries
-
-- [shadcn-vue](https://www.shadcn-vue.com/)
-  - [Vuzeno](https://vuzeno.com/)
-- [Nuxt UI](https://ui4.nuxt.com/) - [Reka UI](https://reka-ui.com/)
-- [Vue Bits](https://vue-bits.dev/)
-- [Inspira UI](https://inspira-ui.com/)
-- [UI Thing](https://ui-thing.behonbaker.com/)
-- [Stunning UI](https://www.stunningui.com/)
-- [Nuxtlify](https://www.nuxtlify.com/)
-- [VueBlocks](https://www.vue-blocks.dev/)
-- [LandiNuxt](https://www.landinuxt.com/)
-- [Vuetify](https://vuetifyjs.com/en/)
-- [PrimeVue](https://primevue.org/)
-- [Flowbite](https://flowbite-vue.com/)
-- [Element Plus](https://element-plus.org/en-US/)
-- [Naïve UI](https://www.naiveui.com/en-US/os-theme)
-- [Equal UI](https://equal-ui.github.io/Equal/)
-- [Buefy](https://buefy.org/)
-- [Vue File Manager](https://vuefinder.ozdemir.be/)
-- [BootstrapVue](https://bootstrap-vue.org/)
-
-## Vue Store
-
-- [Pinia](https://pinia.vuejs.org/)
-
-## Vue Documentation
-
-- [VitePress](https://vitepress.dev/)
+1. #### Vue Component Libraries
+   - [shadcn-vue](https://www.shadcn-vue.com/)
+     - [Vuzeno](https://vuzeno.com/)
+   - [Nuxt UI](https://ui4.nuxt.com/) - [Reka UI](https://reka-ui.com/)
+   - [Vue Bits](https://vue-bits.dev/)
+   - [Inspira UI](https://inspira-ui.com/)
+   - [UI Thing](https://ui-thing.behonbaker.com/)
+   - [Stunning UI](https://www.stunningui.com/)
+   - [Nuxtlify](https://www.nuxtlify.com/)
+   - [VueBlocks](https://www.vue-blocks.dev/)
+   - [LandiNuxt](https://www.landinuxt.com/)
+   - [Vuetify](https://vuetifyjs.com/en/)
+   - [PrimeVue](https://primevue.org/)
+   - [Flowbite](https://flowbite-vue.com/)
+   - [Element Plus](https://element-plus.org/en-US/)
+   - [Naïve UI](https://www.naiveui.com/en-US/os-theme)
+   - [Equal UI](https://equal-ui.github.io/Equal/)
+   - [Buefy](https://buefy.org/)
+   - [Vue File Manager](https://vuefinder.ozdemir.be/)
+   - [BootstrapVue](https://bootstrap-vue.org/)
+2. #### Vue Store
+   - [Pinia](https://pinia.vuejs.org/)
+3. #### Vue Documentation
+   - [VitePress](https://vitepress.dev/)
+4. #### Vue Md Presentation Slides Framework
+   - [slidev](https://github.com/slidevjs/slidev)
 
 # Svelte
 
