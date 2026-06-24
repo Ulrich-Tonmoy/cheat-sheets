@@ -23,7 +23,7 @@
 9. [temp-mail](https://temp-mail.org/) - [10 Minute Mail](https://10minutemail.com/) - [yopmail](https://yopmail.com/) - [anonymsms](https://anonymsms.com/temporary-phone-number/) - [receive-smss](https://receive-smss.com/) - [receive-sms](https://receive-sms.cc/) - [smstome](https://smstome.com/)
 10. [downloaderto (Video Downloader)](https://downloaderto.com/engf/) - [cobalt (Video Downloader)](https://cobalt.tools/)
 11. [download-directory](https://download-directory.github.io/) - [DownGit](https://downgit.github.io/#/home) - [Github Folder Downloader](https://abdurraahimm.github.io/github-folder-downloader/)
-12. [File Converter](https://vert.sh/) - [Webp to Png](https://picflow.com/convert/webp-to-png) - [Jpg to Png](https://jpg2png.com/) - [SVG](https://svgoptimizer.com/) - [svg-to-png](https://svgtrace.com/svg-to-png)
+12. [File Converter](https://vert.sh/) - [Webp to Png](https://picflow.com/convert/webp-to-png) - [Jpg to Png](https://jpg2png.com/) - [SVG](https://svgoptimizer.com/) - [svg-to-png](https://svgtrace.com/svg-to-png) - [squoosh](https://squoosh.app/)
 13. [Cloud Convert](https://cloudconvert.com/) - [tinywow](https://tinywow.com/) - [toolbox](https://10015.io/) - [I❤️PDF](https://www.ilovepdf.com/) - [PDF24 Tools](https://tools.pdf24.org/en/)
 14. [word2md](https://word2md.com/) - [GetMarkdown](https://www.getmarkdown.com/) - [AnythingMD](https://anythingmd.com/en/tools)
 15. [remove.photos](https://remove.photos/) - [unscreen](https://www.unscreen.com/) - [Remove Bg](https://www.remove.bg/) - [Erase Img Bg](https://www.magiceraser.io/) - [Profile Pic Maker](https://pfpmaker.com/)
