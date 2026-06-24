@@ -349,7 +349,7 @@
   4. [openvid](https://github.com/CristianOlivera1/openvid)
 
 - ## Video Editor
-  1. [CapCut](https://www.capcut.com/)
+  1. [CapCut](https://www.capcut.com/) - [opencut](https://github.com/opencut-app/opencut)
   2. [Clipchamp](https://clipchamp.com/en/)
   3. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
   4. [Pikimov (Online)](https://pikimov.com/)
