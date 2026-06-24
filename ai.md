@@ -76,7 +76,15 @@
   3. [graphify](https://github.com/safishamsi/graphify)
   4. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
   5. [agent-skills](https://github.com/addyosmani/agent-skills)
-  6. [Superpowers](https://github.com/obra/Superpowers)
+  6. [agent-reach](https://github.com/Panniantong/agent-reach)
+  7. [Superpowers](https://github.com/obra/Superpowers)
+  8. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+  9. [Skills For Real Engineers](https://github.com/mattpocock/skills)
+  10. [skillspector](https://github.com/nvidia/skillspector)
+  11. [pm-skills](https://github.com/phuryn/pm-skills)
+  12. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+  13. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  14. [headroom](https://github.com/headroomlabs-ai/headroom)
 
 - ## AI Code Editors
   1. [Cursor](https://www.cursor.com/)
@@ -106,6 +114,7 @@
   1. [n8n](https://n8n.io/)
   2. [Dify](https://dify.ai/)
   3. [Sim](https://github.com/simstudioai/sim)
+  4. [zapier-mcp](https://github.com/zapier/zapier-mcp)
 
 - ## AI Assistant
   1. [Pewdiepie Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
