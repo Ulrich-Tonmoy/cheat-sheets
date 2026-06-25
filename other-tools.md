@@ -1,6 +1,7 @@
 # <p align="center">Other Tool Links</p>
 
 - [Workspace tools](#workspace-tools)
+- [Terminal](#terminal)
 - [VS Code](#vs-code)
 - [Neovim](#neovim)
 - [Windows](#windows)
@@ -49,11 +50,15 @@
 
 - [LibreOffice](https://www.libreoffice.org/) - [FreeOffice](https://www.freeoffice.com/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [OfficeSuite](https://officesuite.com/)
 
-- ## Terminal
+# Terminal
+
 - [Monaspace](https://monaspace.githubnext.com/) - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
-- [Terminal](https://apps.microsoft.com/detail/windows-terminal/9N0DX20HK701) - [Powershell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D) - [Oh My Posh](https://ohmyposh.dev/) - [Oh My ZSH](https://ohmyz.sh/) - [Terax](https://github.com/crynta/terax-ai) - [Ghostty](https://github.com/ghostty-org/ghostty)
+- [Terminal](https://github.com/microsoft/terminal) - [PowerShell](https://github.com/powershell/powershell) - [Oh My Posh](https://ohmyposh.dev/) - [Oh My ZSH](https://ohmyz.sh/)
+- [btop4win](https://github.com/aristocratos/btop4win) -[btop](https://github.com/aristocratos/btop) - [yazi](https://github.com/sxyazi/yazi) - [fzf](https://github.com/junegunn/fzf) - [fd](https://github.com/sharkdp/fd) - [eza](https://github.com/eza-community/eza)
+- [Terax](https://github.com/crynta/terax-ai) - [waveterm](https://github.com/wavetermdev/waveterm) - [warp](https://github.com/warpdotdev/warp)
+- [Ghostty](https://github.com/ghostty-org/ghostty) - [alacritty](https://github.com/alacritty/alacritty) - [kitty](https://github.com/kovidgoyal/kitty) - [wezterm](https://github.com/wezterm/wezterm)
+- [tabby](https://github.com/Eugeny/tabby) - [hyper](https://github.com/vercel/hyper)
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/) - [Terminal Splash](https://terminalsplash.com/) - [Dracula Theme](https://draculatheme.com/windows-terminal)
-- [Awesome TUIs (List of projects that provide terminal user interfaces)](https://github.com/rothgar/awesome-tuis)
 - [Starship](https://starship.rs/) - [starship.toml](./assets/tools/terminal/starship.toml) -> `C:\Users\{Name}\.config`
   - For Powershell
     - In the Document folder create a Folder name `PowerShell`.
@@ -61,6 +66,8 @@
     - And paste `Invoke-Expression (&starship init powershell)` in the `Microsoft.PowerShell_profile.ps1`
     - PowerShell log data `%APPDATA%\Microsoft\Windows\PowerShell\PSReadline\`
 - [eza](https://github.com/eza-community/eza)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [Awesome TUIs (List of projects that provide terminal user interfaces)](https://github.com/rothgar/awesome-tuis)
 
 # VS Code
 
@@ -410,7 +417,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 12. [nostlan](https://quinton-ashley.itch.io/nostlan)
 13. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
-# Misce Repos
+# Misc Repos
 
 1. [Git](https://github.com/git/git) - [lore](https://github.com/EpicGames/lore) - [Jujutsu](https://github.com/jj-vcs/jj) - [Grace](https://github.com/ScottArbeit/Grace) - [SQLite](https://github.com/sqlite/sqlite) - [fossil-mirror](https://github.com/drhsqlite/fossil-mirror)
 2. [Linux](https://github.com/torvalds/linux) - [NetBSD](https://github.com/NetBSD/src) - [FreeBSD](https://github.com/freebsd/freebsd-src) - [OpenBSD](https://github.com/openbsd/src) - [Android](https://android.googlesource.com/) - [ReactOS](https://github.com/reactos/reactos) - [SerenityOS](https://github.com/SerenityOS/serenity) - [XenevaOS](https://github.com/manaskamal/XenevaOS)
