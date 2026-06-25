@@ -1,0 +1,159 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+
+  "logo": {
+    "type": "file",
+    "source": "%FASTFETCH_F14_ROOT%/f14-logo.txt",
+    "position": "top",
+    "color": {
+      "1": "#8993A4",
+      "2": "#D3DAE5",
+      "3": "#63E6BE",
+      "4": "#FF5D6C",
+      "5": "#FFB454"
+    },
+    "padding": {
+      "top": 1,
+      "left": 1,
+      "right": 1
+    }
+  },
+
+  "display": {
+    "separator": " :: ",
+    "color": {
+      "keys": "#5CC8FF",
+      "title": "#A98BFF",
+      "output": "#DDEBFF",
+      "separator": "#46556F"
+    },
+    "key": {
+      "width": 13
+    },
+    "bar": {
+      "width": 20,
+      "char": {
+        "elapsed": "#",
+        "total": "."
+      },
+      "border": {
+        "left": "[",
+        "right": "]"
+      },
+      "color": {
+        "elapsed": "#5CC8FF",
+        "total": "#2A3448",
+        "border": "#7083A3"
+      }
+    },
+    "percent": {
+      "type": ["num"],
+      "color": {
+        "green": "#62E7D3",
+        "yellow": "#8EBBFF",
+        "red": "#C084FC"
+      }
+    }
+  },
+
+  "modules": [
+    {
+      "type": "custom",
+      "format": "{##4A7DFF}+--------------------------------------------------------------------------+{#}"
+    },
+    {
+      "type": "custom",
+      "format": "{##4A7DFF}|{#} {##A98BFF}F-14 // NIGHT INTERCEPTOR{#}                                 {##62E7D3}STATUS: ONLINE{#} {##4A7DFF}|{#}"
+    },
+    {
+      "type": "custom",
+      "format": "{##4A7DFF}+--------------------------------------------------------------------------+{#}"
+    },
+    {
+      "type": "title",
+      "key": "USER",
+      "keyColor": "#A98BFF",
+      "format": "{user-name}@{host-name}"
+    },
+    {
+      "type": "os",
+      "key": "OS",
+      "format": "{pretty-name} [{arch}]"
+    },
+    {
+      "type": "host",
+      "key": "DEVICE",
+      "format": "{name} // {version}"
+    },
+    {
+      "type": "cpu",
+      "key": "CPU",
+      "format": "{name} // {cores-physical}C {cores-logical}T @ {freq-max}"
+    },
+    {
+      "type": "cpuusage",
+      "key": "CPU LOAD",
+      "format": "{avg-bar} {avg} AVG // PEAK {max} CORE {max-index}",
+      "percent": {
+        "type": ["bar", "num"]
+      }
+    },
+    {
+      "type": "gpu",
+      "key": "GPU",
+      "format": "{name} [{type}] {?dedicated-total}// {dedicated-total}{?}"
+    },
+    {
+      "type": "memory",
+      "key": "MEMORY",
+      "format": "{used} / {total} ({percentage})"
+    },
+    {
+      "type": "swap",
+      "key": "SWAP",
+      "format": "{used} / {total} ({percentage})"
+    },
+    {
+      "type": "disk",
+      "key": "DRIVE",
+      "format": "{mountpoint} {size-used} / {size-total} {size-percentage-bar} {size-percentage}",
+      "percent": {
+        "type": ["bar", "num"]
+      }
+    },
+    {
+      "type": "display",
+      "key": "DISPLAY",
+      "format": "{width}x{height} @ {refresh-rate} Hz [{type}]"
+    },
+    {
+      "type": "battery",
+      "key": "BATTERY",
+      "format": "{capacity} // {status} {?time-formatted}// {time-formatted}{?}"
+    },
+    {
+      "type": "sound",
+      "key": "AUDIO",
+      "format": "{name}"
+    },
+    {
+      "type": "uptime",
+      "key": "UPTIME",
+      "format": "{formatted}"
+    },
+    {
+      "type": "datetime",
+      "key": "LOCAL TIME",
+      "format": "{year}-{month-pretty}-{day-pretty} // {hour-pretty}:{minute-pretty} {timezone-name}"
+    },
+    {
+      "type": "custom",
+      "format": "{##4A7DFF}+--------------------------------------------------------------------------+{#}"
+    },
+    {
+      "type": "colors",
+      "symbol": "circle",
+      "paddingLeft": 4
+    }
+  ]
+}

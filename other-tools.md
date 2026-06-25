@@ -65,7 +65,13 @@
     - Inside the folder Create a file name `Microsoft.PowerShell_profile.ps1` with `ps1` extension
     - And paste `Invoke-Expression (&starship init powershell)` in the `Microsoft.PowerShell_profile.ps1`
     - PowerShell log data `%APPDATA%\Microsoft\Windows\PowerShell\PSReadline\`
-- [eza](https://github.com/eza-community/eza)
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+  - <img src="./assets/tools/terminal/Terminal-Customization.png" width="600"/>
+  - Download folder or content of theme in [fastfetch-configs](./assets/tools/terminal/fastfetch-configs/) and put it in your `C:\Users\<Username>` Folder.
+  - In the Document folder check if theres `PowerShell` normal or hidden if not create the Folder.
+  - In `Microsoft.PowerShell_profile.ps1` update the 'Your Path' with `C:\Users\<Username>\fastfetch-configs` or the place you put the downloaded folder/content.
+  - Copy `Microsoft.PowerShell_profile.ps1` from the downloaded config and paste it inside the folder.
+  - or just paste the content to the already existing file as you might have existing config for starship or oh my posh.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [Awesome TUIs (List of projects that provide terminal user interfaces)](https://github.com/rothgar/awesome-tuis)
 
