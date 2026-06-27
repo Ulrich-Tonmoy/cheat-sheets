@@ -777,6 +777,7 @@
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
 27. #### Visual Editors
+    - [penpot](https://github.com/penpot/penpot)
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
