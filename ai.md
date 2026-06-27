@@ -73,7 +73,7 @@
 - ## AI Skills & Context
   1. [Skills](https://www.skills.sh/)
   2. [Agent Skills](https://agentskills.io/)
-  3. [graphify](https://github.com/safishamsi/graphify)
+  3. [graphify](https://github.com/safishamsi/graphify) - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   4. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
   5. [agent-skills](https://github.com/addyosmani/agent-skills)
   6. [agent-reach](https://github.com/Panniantong/agent-reach)
@@ -125,6 +125,7 @@
   6. [NanoClaw](https://github.com/qwibitai/nanoclaw)
   7. [IronClaw](https://github.com/nearai/ironclaw)
   8. [Hermes Agent ☤](https://github.com/nousresearch/hermes-agent)
+  9. [peerd](https://github.com/NotASithLord/peerd)
 
 - ## AI Companion
   1. [Project AIRI](https://github.com/moeru-ai/airi)
@@ -153,26 +154,28 @@
   2. [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
 
 - ## Video Gen
-  1. [Wan](https://wan.video/)
-  2. [Veo](https://deepmind.google/models/veo/)
-  3. [Lumen5](https://lumen5.com/)
-  4. [synthesia](https://www.synthesia.io/)
-  5. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
-  6. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
-  7. [runwayml](https://runwayml.com/)
-  8. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
+  1. [OpenMontage](https://github.com/calesthio/OpenMontage)
+  2. [Wan](https://wan.video/)
+  3. [Veo](https://deepmind.google/models/veo/)
+  4. [Lumen5](https://lumen5.com/)
+  5. [synthesia](https://www.synthesia.io/)
+  6. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+  7. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+  8. [runwayml](https://runwayml.com/)
+  9. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
 - ## Voice Gen
-  1. [allvoicelab](https://www.allvoicelab.com/)
-  2. [elevenlabs](https://elevenlabs.io/)
-  3. [onlinetonegenerator](https://onlinetonegenerator.com/)
-  4. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
-  5. [voicebooking](https://www.voicebooking.com/)
-  6. [naturalreaders](https://www.naturalreaders.com/online/)
-  7. [voicemaker](https://voicemaker.in/)
-  8. [play.ht](https://play.ht/)
-  9. [musicfy](https://musicfy.lol/)
-  10. [heygen](https://www.heygen.com/)
+  1. [voicebox](https://github.com/jamiepine/voicebox)
+  2. [allvoicelab](https://www.allvoicelab.com/)
+  3. [elevenlabs](https://elevenlabs.io/)
+  4. [onlinetonegenerator](https://onlinetonegenerator.com/)
+  5. [clipchamp](https://clipchamp.com/en/features/ai-voice-over-generator/)
+  6. [voicebooking](https://www.voicebooking.com/)
+  7. [naturalreaders](https://www.naturalreaders.com/online/)
+  8. [voicemaker](https://voicemaker.in/)
+  9. [play.ht](https://play.ht/)
+  10. [musicfy](https://musicfy.lol/)
+  11. [heygen](https://www.heygen.com/)
 
 - ## Image Gen AI Websites
   1. [Plagground ai](https://playgroundai.com/)
@@ -253,6 +256,7 @@
   29. [multi-rl-crowd-sim](https://github.com/kayuksel/multi-rl-crowd-sim)
   30. [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov)
   31. [sd-webui-image-sequence-toolkit](https://github.com/OedoSoldier/sd-webui-image-sequence-toolkit)
+  32. [worldmonitor](https://github.com/koala73/worldmonitor)
 
 # Google Colab
 
