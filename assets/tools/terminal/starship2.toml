@@ -1,0 +1,364 @@
+"$schema" = "https://starship.rs/config-schema.json"
+scan_timeout = 100
+command_timeout = 500
+follow_symlinks = false
+add_newline = false
+palette = "custom1"
+
+format = """
+$directory\
+${custom.giturl}\
+$git_branch\
+${custom.git_worktree}\
+$git_status\
+$line_break\
+$character\
+"""
+right_format = """$all"""
+
+[directory]
+style = "teal"
+format = "[ $path ]($style)"
+truncation_length = 4
+
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+"Developer" = "󰲋 "
+"Others" = " "
+
+[username]
+disabled = true
+show_always = true
+style_user = "bg:surface0 fg:text"
+style_root = "bg:surface0 fg:text"
+format = " $user "
+
+[line_break]
+disabled = true
+
+[character]
+disabled = false
+success_symbol = "[ ](bold fg:green)"
+error_symbol = "[✘ ](bold fg:red)"
+vimcmd_symbol = "[: ](bold fg:yellow)"
+
+[package]
+disabled = false
+
+[time]
+disabled = true
+time_format = "%R"
+format = "[[  $time ](fg:yellow bg:foam)]($style)"
+
+[custom.giturl]
+description = "Display symbol for remote Git server"
+command = """
+GIT_REMOTE=$(command git ls-remote --get-url 2> /dev/null)
+if [[ "$GIT_REMOTE" =~ "github" ]]; then
+    GIT_REMOTE_SYMBOL=" "
+elif [[ "$GIT_REMOTE" =~ "gitlab" ]]; then
+    GIT_REMOTE_SYMBOL=" "
+elif [[ "$GIT_REMOTE" =~ "bitbucket" ]]; then
+    GIT_REMOTE_SYMBOL=" "
+elif [[ "$GIT_REMOTE" =~ "git" ]]; then
+    GIT_REMOTE_SYMBOL=" "
+else
+    GIT_REMOTE_SYMBOL=" "
+fi
+echo "$GIT_REMOTE_SYMBOL "
+"""
+when = "git rev-parse --is-inside-work-tree 2> /dev/null"
+format = "$output"
+require_repo = true
+ignore_timeout = true
+
+[git_branch]
+symbol = "[](base) "
+style = "fg:lavender bg:base"
+format =  "  [$symbol$branch]($style)[](base)"
+
+# [git_status]
+# MINIMAL git status
+# format = " [($all_status$ahead_behind )]($style)"
+# ahead    = "⇡${count} "
+# behind   = "⇣${count} "
+# diverged = "⇕⇡${ahead_count}⇣${behind_count} "
+
+[git_status]
+format = "[$untracked$staged$modified$renamed$conflicted$ahead_behind ]($style)"
+# options available for format
+staged     = "[+](green)"
+modified   = "[!](yellow)"
+renamed    = "[»](blue)"
+deleted    = "[-](red)"
+untracked  = "[?](red)"
+stashed    = "[≡](lavender)"
+conflicted = "[✖](red bold)"
+
+ahead      = "[⇡${count}](teal)"
+behind     = "[⇣${count}](peach)"
+diverged   = "[⇕⇡${ahead_count}⇣${behind_count}](mauve)"
+
+[custom.git_worktree]
+description = "Show indicator when inside a git worktree"
+command = """
+if git rev-parse --git-dir >/dev/null 2>&1; then
+      common_dir=$(git rev-parse --path-format=absolute --git-common-dir 2>/dev/null)
+      git_dir=$(git rev-parse --path-format=absolute --git-dir 2>/dev/null)
+      if [ "$common_dir" != "$git_dir" ]; then
+            echo "⛓ "
+      fi
+fi
+"""
+when = "git rev-parse --is-inside-work-tree >/dev/null 2>&1"
+format = " ([$output ]($style))"
+style = "bold green"
+require_repo = true
+ignore_timeout = true
+
+
+[os]
+disabled = true
+
+[os.symbols]
+Windows = "󰍲"
+Ubuntu = "󰕈"
+SUSE = ""
+Raspbian = "󰐿"
+Mint = "󰣭"
+Macos = " "
+Manjaro = ""
+Linux = "󰌽"
+Gentoo = "󰣨"
+Fedora = "󰣛"
+Alpine = ""
+Amazon = ""
+Android = ""
+Arch = "󰣇"
+Artix = "󰣇"
+CentOS = ""
+Debian = "󰣚"
+Redhat = "󱄛"
+RedHatEnterprise = "󱄛"
+
+[nodejs]
+symbol = ""
+format = "[ $symbol( $version) ]($style)"
+
+[bun]
+detect_files = ["bun.lock", "bun.lockb"]
+
+[c]
+symbol = " "
+format = "[ $symbol( $version) ]($style)"
+
+[rust]
+symbol = ""
+format = "[ $symbol( $version) ]($style)"
+
+[golang]
+symbol = ""
+style = "fg:#00ADD8"
+format = "[ $symbol( $version) ]($style)"
+detect_files = ["go.mod"]
+
+[php]
+symbol = ""
+format = "[ $symbol( $version) ]($style)"
+
+[java]
+symbol = " "
+format = "[ $symbol( $version) ]($style)"
+
+[kotlin]
+symbol = ""
+format = "[ $symbol( $version) ]($style)"
+
+[haskell]
+symbol = ""
+format = "[ $symbol( $version) ]($style)"
+
+[python]
+symbol = ""
+format = "[ $symbol( $version) ]($style)"
+
+[docker_context]
+symbol = ""
+format = "[ $symbol( $context) ]($style)"
+
+[palettes.custom1]
+# --- background ---
+crust = "#11111b"
+mantle = "#181825"
+base = "#1e1e2e" # git branch bg
+
+overlay2 = "#9399b2"
+overlay1 = "#7f849c"
+overlay0 = "#6c7086"
+
+surface2 = "#585b70"
+surface1 = "#45475a"
+surface0 = "#313244"
+
+# --- text ---
+text = "#cdd6f4"
+subtext1 = "#bac2de"
+subtext0 = "#a6adc8"
+
+# --- accents (catppuccin_mocha) ---
+rosewater = "#f5e0dc"
+flamingo = "#f2cdcd"
+pink = "#f5c2e7"
+mauve = "#cba6f7"
+red = "#f38ba8"
+maroon = "#eba0ac"
+peach = "#fab387"
+yellow = "#f9e2af"
+green = "#a6e3a1"
+teal = "#94e2d5"
+sky = "#89dceb"
+sapphire = "#74c7ec"
+blue = "#89b4fa"
+lavender = "#b4befe" # git branch fg
+
+[palettes.gruvbox_dark]
+# --- background ---
+crust = "#1d2021"
+mantle = "#282828"
+base = "#fbf1c7" # git branch bg
+
+surface0 = "#3c3836"
+surface1 = "#504945"
+surface2 = "#665c54"
+
+overlay0 = "#7c6f64"
+overlay1 = "#a89984"
+overlay2 = "#bdae93"
+
+# --- text ---
+text = "#ebdbb2"
+subtext0 = "#d5c4a1"
+subtext1 = "#fbf1c7"
+
+# --- accents gruvbox ---
+rosewater = "#fbf1c7"
+flamingo = "#fe8019"
+pink = "#d3869b"
+mauve = "#d3869b"
+red = "#cc241d"
+maroon = "#fb4934"
+peach = "#fe8019"
+yellow = "#d79921"
+green = "#98971a"
+teal = "#8ec07c"
+sky = "#8ec07c"
+sapphire = "#83a598"
+blue = "#458588"
+lavender = "#d3869b" # git branch fg
+
+[palettes.tokyonight_night]
+# --- background ---
+crust = "#16161e"
+mantle = "#16161e"
+base = "#1a1b26" # git branch bg
+
+surface0 = "#292e42"
+surface1 = "#3b4261"
+surface2 = "#414868"
+
+overlay0 = "#565f89"
+overlay1 = "#737aa2"
+overlay2 = "#9aa5ce"
+
+# --- text ---
+text = "#c0caf5"
+subtext0 = "#a9b1d6"
+subtext1 = "#c0caf5"
+
+# --- accents tokyonight ---
+rosewater = "#c0caf5"
+flamingo = "#ff9e64"
+pink = "#f7768e"
+mauve = "#bb9af7"
+red = "#f7768e"
+maroon = "#f7768e"
+peach = "#ff9e64"
+yellow = "#e0af68"
+green = "#9ece6a"
+teal = "#7dcfff"
+sky = "#7dcfff"
+sapphire = "#7aa2f7" # dir fg
+blue = "#7aa2f7"
+lavender = "#bb9af7" # git branch fg
+
+[palettes.solarized_osaka]
+# --- background ---
+crust = "#00141a"
+mantle = "#002029"
+base = "#002b36" # git branch bg
+
+surface0 = "#073642"
+surface1 = "#0f3b47"
+surface2 = "#124652"
+
+overlay0 = "#586e75"
+overlay1 = "#657b83"
+overlay2 = "#839496"
+
+# --- text ---
+text = "#93a1a1"
+subtext0 = "#839496"
+subtext1 = "#93a1a1"
+
+# --- accents ---
+rosewater = "#eee8d5"
+flamingo = "#dc322f"
+pink = "#d33682"
+mauve = "#6c71c4"
+red = "#dc322f"
+maroon = "#cb4b16"
+peach = "#cb4b16"
+yellow = "#b58900"
+green = "#859900"
+teal = "#2aa198"
+sky = "#2aa198"
+sapphire = "#268bd2" # dir fg
+blue = "#268bd2"
+lavender = "#f84668" # git branch fg
+
+[palettes.one_dark]
+# --- background ---
+crust = "#21252B"
+mantle = "#282C34"
+base = "#181825" # git branch bg
+
+surface0 = "#353B45"
+surface1 = "#3E4452"
+surface2 = "#484F5E"
+overlay0 = "#5C6370"
+overlay1 = "#636D83"
+overlay2 = "#ABB2BF"
+
+# --- text ---
+text = "#ABB2BF"
+subtext0 = "#5C6370"
+subtext1 = "#ABB2BF"
+
+# --- accents ---
+rosewater = "#ABB2BF"
+flamingo = "#E06C75"
+pink = "#C678DD"
+mauve = "#C678DD"
+red = "#E06C75"
+maroon = "#E06C75"
+peach = "#D19A66"
+yellow = "#E5C07B"
+green = "#98C379"
+teal = "#56B6C2"
+sky = "#56B6C2"
+sapphire = "#61AFEF" # dir fg
+blue = "#61AFEF"
+lavender = "#61AFEF"   # git branch fg
