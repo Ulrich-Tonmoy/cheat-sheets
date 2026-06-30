@@ -44,7 +44,9 @@
                 "face": "JetBrainsMonoNL Nerd Font Mono",
                 "size": 18,
                 "weight": 990
-            }
+            },
+            "opacity": 0,
+            "useAcrylic": true
         },
         "list": 
         [
@@ -77,6 +79,18 @@
                 "hidden": false,
                 "name": "Git Bash",
                 "source": "Git"
+            },
+            {
+                "guid": "{f2bf217c-bdcd-5a14-b789-95a8730fd37f}",
+                "hidden": false,
+                "name": "Developer Command Prompt for VS 18",
+                "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{3bf749b5-adda-55df-b5af-7fe9f42e270e}",
+                "hidden": false,
+                "name": "Developer PowerShell for VS 18",
+                "source": "Windows.Terminal.VisualStudio"
             }
         ]
     },
