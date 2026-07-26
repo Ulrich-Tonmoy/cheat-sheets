@@ -222,7 +222,7 @@
   9. [QuickMagic AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
 
 - ## 2d Art APP
-  1. [Krita](https://krita.org) - [Gimp Repo](https://github.com/GNOME/gimp)
+  1. [Krita](https://krita.org) - [Gimp Repo](https://github.com/GNOME/gimp) - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   2. [Gimp](https://www.gimp.org) - [Krita Repo](https://github.com/KDE/krita)
   3. [Inkscape](https://inkscape.org) - [Inkscape Repo](https://gitlab.com/inkscape/inkscape)
   4. [PixiEditor](https://github.com/PixiEditor/PixiEditor)
