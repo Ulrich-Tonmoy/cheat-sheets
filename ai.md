@@ -124,6 +124,7 @@
   7. [IronClaw](https://github.com/nearai/ironclaw)
   8. [Hermes Agent ☤](https://github.com/nousresearch/hermes-agent)
   9. [peerd](https://github.com/NotASithLord/peerd)
+  10. [Thio-Universal-Agent](https://github.com/ThioJoe/Thio-Universal-Agent)
 
 - ## AI Companion
   1. [Project AIRI](https://github.com/moeru-ai/airi)
