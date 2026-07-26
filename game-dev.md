@@ -188,7 +188,7 @@
   22. [Sweet Home 3D](https://www.sweethome3d.com/)
   23. [OpenSCAD](https://openscad.org/)
   24. [MeshLab](https://www.meshlab.net/)
-  25. [FreeCAD](https://www.freecad.org/)
+  25. [FreeCAD](https://www.freecad.org/) - [chili3d](https://github.com/xiangechen/chili3d)
   26. [character-creator](https://www.reallusion.com/character-creator/)
   27. [ProceduralTerrains](https://github.com/ZyFou/ProceduralTerrains)
 
