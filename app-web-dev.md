@@ -1029,6 +1029,7 @@
   7. [Eel](https://github.com/python-eel/Eel)
   8. [abstra](https://github.com/abstra-app/abstra-lib)
 - ### ZIG
+  - [zeP](https://github.com/mertishere/zeP)
   - GUI
     1. [dvui](https://github.com/david-vanderson/dvui)
     2. [capy](https://github.com/capy-ui/capy)
