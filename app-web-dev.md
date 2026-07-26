@@ -536,6 +536,7 @@
      - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [Bklit UI](https://ui.bklit.com/)
      - [React Bits](https://reactbits.dev/)
+     - [Canvas UI](https://canvasui.dev/)
      - [kibo-ui](https://www.kibo-ui.com/)
      - [Wigggle UI](https://wigggle-ui.vercel.app/)
      - [Vengeance UI 2.0](https://www.vengenceui.com/)
