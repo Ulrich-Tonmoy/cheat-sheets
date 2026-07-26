@@ -393,6 +393,9 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - Protect Privacy: [Portmaster](https://safing.io/) - [Ghostery](https://www.ghostery.com/) - [LuLu](https://objective-see.org/products/lulu.html)
 - [KeePass](https://keepass.info/) - [HWiNFO](https://www.hwinfo.com/)
 - [TuxMate](https://github.com/abusoww/tuxmate) is a cross-distro install command generator built for real Linux workflows
+- Upscaler: [video2x](https://github.com/k4yt3x/video2x) - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+- Anime Downloader: [animepahe-cli](https://github.com/Danushka-Madushan/animepahe-cli)
+- Thio Utils: [Thio-Background-App-Notifier](https://github.com/ThioJoe/Thio-Background-App-Notifier) - [Edit-Clipboard-Contents](https://github.com/ThioJoe/Edit-Clipboard-Contents) - [Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode)
 
 # Game Emulation Tools
 
