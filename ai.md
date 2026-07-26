@@ -147,15 +147,16 @@
   6. [Open Assistant](https://open-assistant.io/)
 
 - ## Locally Running LLM
-  0. [unsloth](https://github.com/unslothai/unsloth)
-  1. [LM Studio](https://lmstudio.ai/)
-  2. [Open WebUI](https://github.com/open-webui/open-webui)
-  3. [ollama](https://ollama.com/)
-  4. [llama.cpp](https://github.com/ggml-org/llama.cpp)
-  5. [vLLM](https://github.com/vllm-project/vllm)
-  6. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-  7. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
-  8. [Jan](https://jan.ai/)
+  1. [colibri](https://github.com/JustVugg/colibri)
+  2. [unsloth](https://github.com/unslothai/unsloth)
+  3. [LM Studio](https://lmstudio.ai/)
+  4. [Open WebUI](https://github.com/open-webui/open-webui)
+  5. [ollama](https://ollama.com/)
+  6. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+  7. [vLLM](https://github.com/vllm-project/vllm)
+  8. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  9. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  10. [Jan](https://jan.ai/)
 
 - ## Portable Local AI
   1. [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
