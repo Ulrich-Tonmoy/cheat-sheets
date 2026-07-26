@@ -409,9 +409,10 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 8. [SideStore](https://github.com/SideStore/SideStore/) - [ManicEMU](https://github.com/Manic-EMU/ManicEMU) - [dolphin-ios](https://github.com/OatmealDome/dolphin-ios) - [MeloNX](https://git.ryujinx.app/projects/MeloNX) - [XeniOS](https://github.com/xenios-jp/XeniOS) - [iPSX2](https://github.com/otti83/iPSX2)
 9. [lutris](https://github.com/lutris/lutris)
 10. [Romspedia](https://www.romspedia.com/)
-11. []()
-12. [nostlan](https://quinton-ashley.itch.io/nostlan)
-13. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+11. [shadPS4](https://github.com/shadps4-emu/shadPS4) - [shadps4-qtlauncher](https://github.com/shadps4-emu/shadps4-qtlauncher)
+12. []()
+13. [nostlan](https://quinton-ashley.itch.io/nostlan)
+14. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Cyberspace Tools
 
