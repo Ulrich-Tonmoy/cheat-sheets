@@ -49,6 +49,7 @@
   ```
 
 - [LibreOffice](https://www.libreoffice.org/) - [FreeOffice](https://www.freeoffice.com/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [OfficeSuite](https://officesuite.com/)
+- [Bento](https://github.com/nyblnet/bento)
 
 # Terminal
 
