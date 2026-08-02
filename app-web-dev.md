@@ -148,7 +148,7 @@
   7. [Svelte](https://github.com/sveltejs/svelte) - [Svelte Kit](https://github.com/sveltejs/kit)
   8. [Remix](https://github.com/remix-run/remix)
   9. [Preact](https://github.com/preactjs/preact) - [Qwik](https://github.com/BuilderIO/qwik) - [Lit](https://github.com/lit/lit) - [Van](https://github.com/vanjs-org/van)
-  10. [Ripple](https://github.com/trueadm/ripple) - [Inferno](https://github.com/infernojs/inferno) - [Marko](https://github.com/marko-js/marko) - [ivi](https://github.com/localvoid/ivi)
+  10. [octane](https://github.com/octanejs/octane) - [Ripple](https://github.com/Ripple-TS/ripple) - [Inferno](https://github.com/infernojs/inferno) - [Marko](https://github.com/marko-js/marko) - [ivi](https://github.com/localvoid/ivi)
   11. [htmx](https://github.com/bigskysoftware/htmx)
   12. [sigment](https://sigment.dev/)
   13. [neo.mjs](https://github.com/neomjs/neo)
@@ -533,7 +533,6 @@
    - [Emotion](https://github.com/emotion-js/emotion)
    - [ds.css](https://css.ds.dreamyard.xyz/)
 8. #### UI Component
-   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [shoogle](https://shoogle.dev/)
      - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [Bklit UI](https://ui.bklit.com/)
      - [React Bits](https://reactbits.dev/)
