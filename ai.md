@@ -171,6 +171,7 @@
   6. [cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
 
 - ## Video Gen
+  0. [apob](https://apob.ai/)
   1. [OpenMontage](https://github.com/calesthio/OpenMontage)
   2. [Wan](https://wan.video/)
   3. [Veo](https://deepmind.google/models/veo/)
