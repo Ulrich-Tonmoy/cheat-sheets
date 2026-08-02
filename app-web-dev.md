@@ -533,6 +533,7 @@
    - [Emotion](https://github.com/emotion-js/emotion)
    - [ds.css](https://css.ds.dreamyard.xyz/)
 8. #### UI Component
+   - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [shoogle](https://shoogle.dev/) - [shadscan](https://www.shadscan.com/)
      - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
      - [Bklit UI](https://ui.bklit.com/)
      - [React Bits](https://reactbits.dev/)
