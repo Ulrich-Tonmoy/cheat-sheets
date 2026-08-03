@@ -484,11 +484,10 @@
    - [CodeSandbox (For trying online)](https://codesandbox.io/)
    - [StackBlitz (For trying online)](https://stackblitz.com/)
 2. #### Auth
-   - [Clerk](https://clerk.com/)
    - [Better-Auth](https://www.better-auth.com/)
+   - [Clerk](https://clerk.com/)
    - [Kinde](https://kinde.com/)
    - [AuthKit](https://workos.com/)
-   - [next-auth](https://next-auth.js.org/)
 3. #### Routing
    - [TanStack Router](https://tanstack.com/router/latest)
    - [React Router](https://reactrouter.com/)
