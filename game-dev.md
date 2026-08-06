@@ -334,6 +334,11 @@
 
 - ## 2d Assets Generator
   1. [LPC Spritesheet Character Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
+  2. [AutoSprite](https://www.autosprite.io/)
+  3. [Sorceress](https://sorceress.games/)
+  4. [Ludo](https://ludo.ai/)
+  5. [Spritely](https://spritely.gamemaker.academy/)
+  6. [Pixel Engine](https://pixelengine.ai/)
 
 - ## Logo maker
   1. [TheHoth](https://logomaker.thehoth.com)
@@ -372,16 +377,14 @@
 - ## Game Dev AI Tools
   1. [moonlakeai](https://moonlakeai.com/) AI Game Builder
   2. [Niklas Notes](https://niklasnotes.com/dashboard) AI-powered summaries from millions of Steam reviews.
-  3. [Sorceress](https://sorceress.games/) Sprite tools, AI art generation, sound editing, a built-in coding agent, and a game publishing platform — all in one place.
-  4. [Pixel Engine](https://pixelengine.ai/)AI Pixel Art Animation for Indie Game Developers
-  5. []()
-  6. [ArtBreeder](https://www.artbreeder.com)
-  7. [Skybox Generator](https://skybox.blockadelabs.com/)
-  8. [voice.ai (Audio Gen)](https://voice.ai/)
-  9. [Tensor Art](https://tensor.art/)
-  10. [Mesh (3d)](https://www.mesh.ai/)
-  11. [Sloyd (3D)](https://www.sloyd.ai/)
-  12. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
+  3. []()
+  4. [ArtBreeder](https://www.artbreeder.com)
+  5. [Skybox Generator](https://skybox.blockadelabs.com/)
+  6. [voice.ai (Audio Gen)](https://voice.ai/)
+  7. [Tensor Art](https://tensor.art/)
+  8. [Mesh (3d)](https://www.mesh.ai/)
+  9. [Sloyd (3D)](https://www.sloyd.ai/)
+  10. [Nvidia AI Game Development Engine](https://www.nvidia.com/en-us/industries/game-development/)
 
 - ## Game Audio
   1. [sonniss](https://gdc.sonniss.com/)
