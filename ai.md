@@ -102,7 +102,7 @@
 
 - ## AI CLI
   1. [OpenCode](https://github.com/sst/opencode)
-  2. [pi](https://github.com/earendil-works/pi)
+  2. [pi](https://github.com/earendil-works/pi) - [oh-my-pi](https://github.com/can1357/oh-my-pi)
   3. [ClaudeCode](https://github.com/anthropics/claude-code)
   4. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
   5. [OpenAI Codex](https://github.com/openai/codex)
