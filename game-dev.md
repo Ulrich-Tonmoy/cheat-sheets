@@ -334,11 +334,12 @@
 
 - ## 2d Assets Generator
   1. [LPC Spritesheet Character Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
-  2. [AutoSprite](https://www.autosprite.io/)
-  3. [Sorceress](https://sorceress.games/)
-  4. [Ludo](https://ludo.ai/)
-  5. [Spritely](https://spritely.gamemaker.academy/)
-  6. [Pixel Engine](https://pixelengine.ai/)
+  2. [Aether AI](https://www.aetherforgeai.com)
+  3. [AutoSprite](https://www.autosprite.io/)
+  4. [Sorceress](https://sorceress.games/)
+  5. [Ludo](https://ludo.ai/)
+  6. [Spritely](https://spritely.gamemaker.academy/)
+  7. [Pixel Engine](https://pixelengine.ai/)
 
 - ## Logo maker
   1. [TheHoth](https://logomaker.thehoth.com)
