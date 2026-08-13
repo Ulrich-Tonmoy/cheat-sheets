@@ -259,14 +259,15 @@
   9. [Vectr](https://vectr.com/design/)
 
 - ## 2d Animation APP
-  1. [Pencil2d](https://www.pencil2d.org)
-  2. [Synfig](https://www.synfig.org)
-  3. [Open Toonz](https://opentoonz.github.io/e/)
-  4. [spookyghost](https://encelo.itch.io/spookyghost)
-  5. [Coa Tools](https://github.com/ndee85/coa_tools)
-  6. [Tupi2d](https://sourceforge.net/projects/tupi2d)
-  7. [Animation Paper](https://animationpaper.com/download-pre-release)
-  8. [Stykz](https://www.stykz.net)
+  1. [spriteloop](https://balkanramgames.itch.io/spriteloop)
+  2. [Pencil2d](https://www.pencil2d.org)
+  3. [Synfig](https://www.synfig.org)
+  4. [Open Toonz](https://opentoonz.github.io/e/)
+  5. [spookyghost](https://encelo.itch.io/spookyghost)
+  6. [Coa Tools](https://github.com/ndee85/coa_tools)
+  7. [Tupi2d](https://sourceforge.net/projects/tupi2d)
+  8. [Animation Paper](https://animationpaper.com/download-pre-release)
+  9. [Stykz](https://www.stykz.net)
 
 - ## Tile Editor
   1. [Tiled](https://www.mapeditor.org) - [Tiled Repo](https://github.com/mapeditor/tiled)
