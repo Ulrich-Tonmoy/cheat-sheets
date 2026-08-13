@@ -107,6 +107,7 @@
   4. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
   5. [OpenAI Codex](https://github.com/openai/codex)
   6. [QwenCode](https://github.com/QwenLM/qwen-code)
+  7. [agetor](https://github.com/alamops/agetor)
 
 - ## AI Workflow
   1. [n8n](https://n8n.io/)
