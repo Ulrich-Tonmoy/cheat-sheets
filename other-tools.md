@@ -412,9 +412,13 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 9. [lutris](https://github.com/lutris/lutris)
 10. [Romspedia](https://www.romspedia.com/)
 11. [shadPS4](https://github.com/shadps4-emu/shadPS4) - [shadps4-qtlauncher](https://github.com/shadps4-emu/shadps4-qtlauncher)
-12. []()
-13. [nostlan](https://quinton-ashley.itch.io/nostlan)
-14. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+12. [ChonkyStation4](https://github.com/liuk7071/ChonkyStation4) - [ChonkyStation3](https://github.com/liuk7071/ChonkyStation3)
+13. [GammaOSNext](https://github.com/TheGammaSqueeze/GammaOSNext)
+14. [azahar](https://github.com/azahar-emu/azahar)
+15. [WatermelonDS](https://github.com/SapphireRhodonite/WatermelonDS) - [melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) - [SeedlessDS](https://github.com/SapphireRhodonite/SeedlessDS)
+16. []()
+17. [nostlan](https://quinton-ashley.itch.io/nostlan)
+18. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Cyberspace Tools
 
