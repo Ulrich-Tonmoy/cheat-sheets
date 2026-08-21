@@ -27,7 +27,7 @@
 
 - ## Chat AI
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
-  2. [Gemini](https://gemini.google.com/) - [NotebookLM](https://notebooklm.google/)
+  2. [Gemini](https://gemini.google.com/) - [Gemini Notebook](https://notebook.google/)
   3. [Z](https://chat.z.ai/) - [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
   4. [Claude](https://claude.ai/) - [Grok](https://x.ai/) - [Chat GPT](https://chatgpt.com/)
   5. [Free ChatGPT Acc](https://chatgptplus.cn/) - [ChatGPT Free](https://chatgptfree.ai/)
@@ -92,13 +92,14 @@
   4. [Devin](https://devin.ai/)
   5. [Kiro](https://kiro.dev/)
   6. [minimax ](https://agent.minimax.io/)
-  7. [Augment Code](https://www.augmentcode.com/) - [OpenRouter](https://openrouter.ai/)
+  7. [OmniRoute](https://omniroute.online/) - [OpenRouter](https://openrouter.ai/)
   8. [Kilo Code](https://github.com/Kilo-Org/kilocode) - [Cline](https://cline.bot/)
-  9. [PearAI](https://trypear.ai/)
-  10. [Tabby](https://github.com/TabbyML/tabby)
-  11. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
-  12. [MarsX](https://marsx.dev/)
-  13. [Tempo](https://www.tempo.new/)
+  9. [Augment Code](https://www.augmentcode.com/)
+  10. [PearAI](https://trypear.ai/)
+  11. [Tabby](https://github.com/TabbyML/tabby)
+  12. [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+  13. [MarsX](https://marsx.dev/)
+  14. [Tempo](https://www.tempo.new/)
 
 - ## AI CLI
   1. [OpenCode](https://github.com/sst/opencode)
