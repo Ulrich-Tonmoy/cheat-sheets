@@ -2,9 +2,9 @@
   - [Chat AI](#chat-ai)
   - [AI Code Reviewer](#ai-code-reviewer)
   - [AI Skills & Context](#ai-skills--context)
-  - [AI App Builders (Web)](#ai-app-buildersweb)
-  - [AI App Builders (Desktop)](#ai-app-buildersdesktop)
-  - [AI CLI](#ai-cli)
+  - [AI App Builders (Web)](#ai-app-builders-web)
+  - [AI App Builders (Desktop)](#ai-app-builders-desktop)
+  - [AI App Builders (CLI)](#ai-app-builders-cli)
   - [AI Workflow](#ai-workflow)
   - [AI Assistant](#ai-assistant)
   - [AI Companion](#ai-companion)
@@ -67,7 +67,7 @@
   15. [brain.md](https://github.com/mindmuxai/brain.md)
   16. [mattpocock/skills](https://github.com/mattpocock/skills)
 
-- ## AI App Builders(Web)
+- ## AI App Builders (Web)
   1. [v0](https://v0.dev/)
   2. [Bolt](https://bolt.new/)
   3. [Lovable](https://lovable.dev/)
@@ -80,7 +80,7 @@
   10. [builder.io](https://www.builder.io/)
   11. [Softgen](https://softgen.ai/)
 
-- ## AI App Builders(Desktop)
+- ## AI App Builders (Desktop)
   1. [Cursor](https://www.cursor.com/) - [Trae](https://www.trae.ai/) - [Antigravity](https://antigravity.google/) - [Kiro](https://kiro.dev/)
   2. [Devin](https://devin.ai/) - [minimax ](https://agent.minimax.io/) - [Dyad](https://www.dyad.sh/)
   3. [OmniRoute](https://omniroute.online/) - [OpenRouter](https://openrouter.ai/)
@@ -93,8 +93,8 @@
   10. [MarsX](https://marsx.dev/)
   11. [Tempo](https://www.tempo.new/)
 
-- ## AI CLI
-  1. [OpenCode](https://github.com/sst/opencode)
+- ## AI App Builders (CLI)
+  1. [freebuff](https://freebuff.com/) - [OpenCode](https://github.com/sst/opencode)
   2. [pi](https://github.com/earendil-works/pi) - [oh-my-pi](https://github.com/can1357/oh-my-pi)
   3. [ClaudeCode](https://github.com/anthropics/claude-code)
   4. [Gemini CLI](https://github.com/google-gemini/gemini-cli)
