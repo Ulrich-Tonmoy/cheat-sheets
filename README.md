@@ -7,7 +7,7 @@
 3. [Native App Dev Framework List](./app-web-dev.md#native-app-framework)
 4. [Git](./cli.md) - [VS Code](./other-tools.md#vs-code) - [Windows](./other-tools.md#windows)
 5. [AI](./ai.md) - [Useful AI Git Repos](./ai.md#Useful-AI-Git-Repos) - [Google Colab](./ai.md#google-colab)
-6. [AI Code Editors](./ai.md#ai-code-editors) - [AI CLI](./ai.md#ai-cli) - [AI App Builders](./ai.md#ai-powered-app-builders)
+6. [AI App Builders (Web)](ai.md#ai-app-builders-web) - [AI App Builders (Desktop)](ai.md#ai-app-builders-desktop) - [AI App Builders (CLI)](ai.md#ai-app-builders-cli)
 7. [Code Editors](./other-tools.md#code-editors) - [Note-taking Apps](./other-tools.md#note-taking-apps) - [Programming Languages](./other-tools.md#programming-languages)
 
 # 🔗Other Tools Link🔗
