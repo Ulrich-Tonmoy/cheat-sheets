@@ -246,6 +246,7 @@
   17. [Pixlr](https://pixlr.com/)
   18. [spritemancer](https://spritemancer.com/)
   19. [crocotile3d](https://crocotile3d.com/)
+  20. [ArcBrush](https://arcbrush.com/)
 
 - ## RAW image editor
   1. [RapidRAW](https://github.com/CyberTimon/RapidRAW)
