@@ -173,15 +173,16 @@
 
 - ## Video Gen
   0. [apob](https://apob.ai/)
-  1. [OpenMontage](https://github.com/calesthio/OpenMontage)
-  2. [Wan](https://wan.video/)
-  3. [Veo](https://deepmind.google/models/veo/)
-  4. [Lumen5](https://lumen5.com/)
-  5. [synthesia](https://www.synthesia.io/)
-  6. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
-  7. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
-  8. [runwayml](https://runwayml.com/)
-  9. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
+  1. [MiniMax Design](https://design.minimax.io/) - [Kling 3.0](https://kling3.io/)
+  2. [OpenMontage](https://github.com/calesthio/OpenMontage)
+  3. [Wan](https://wan.video/)
+  4. [Veo](https://deepmind.google/models/veo/)
+  5. [Lumen5](https://lumen5.com/)
+  6. [synthesia](https://www.synthesia.io/)
+  7. [SadTalker (huggingface)](https://huggingface.co/spaces/vinthony/SadTalker)
+  8. [sadtalker (replicate)](https://replicate.com/cjwbw/sadtalker)
+  9. [runwayml](https://runwayml.com/)
+  10. [DeepBrain](https://www.deepbrain.io/features/text-to-speech)
 
 - ## Voice Gen
   1. [voicebox](https://github.com/jamiepine/voicebox)
