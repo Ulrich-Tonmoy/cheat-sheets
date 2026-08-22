@@ -417,9 +417,15 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 14. [azahar](https://github.com/azahar-emu/azahar)
 15. [WatermelonDS](https://github.com/SapphireRhodonite/WatermelonDS) - [melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) - [SeedlessDS](https://github.com/SapphireRhodonite/SeedlessDS)
 16. [XenDroid](https://github.com/rfandango/XenDroid)
-17. []()
-18. [nostlan](https://quinton-ashley.itch.io/nostlan)
-19. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+17. [flycast](https://github.com/flyinghead/flycast)
+18. [NetherSX2](https://thenethersx2.com/)
+19. [NetherSX2-Slushii-Turnip-Fix](https://github.com/slushiimusic/NetherSX2-Slushii-Turnip-Fix)
+20. [NetherSX2-Turnip](https://github.com/nckstwrt/NetherSX2-Turnip)
+21. [ARMSX3](https://github.com/ARMSX2/ARMSX3)
+22. [Vita3K-Plus](https://github.com/nckstwrt/Vita3K-Plus) - [Vita3K](https://github.com/Vita3K/Vita3K)
+23. []()
+24. [nostlan](https://quinton-ashley.itch.io/nostlan)
+25. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Cyberspace Tools
 
