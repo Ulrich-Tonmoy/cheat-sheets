@@ -57,7 +57,7 @@
     - [Testing](#testing)
     - [Documentation](#documentation)
     - [Type Checking](#type-checking)
-    - [Visual Editors](#visual-editors)
+    - [Visual Builders](#visual-builders)
     - [Other Libraries](#other-libraries)
     - [DevTools](#devtools)
   - [Angular](#angular)
@@ -827,13 +827,13 @@
 27. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-28. #### Visual Editors
-    - [penpot](https://github.com/penpot/penpot)
-    - [Onlook](https://github.com/onlook-dev/onlook)
-    - [Codux](https://www.codux.com/)
-    - [Framer](https://www.framer.com/)
+28. #### Visual Builders
+    - [Instatic](https://github.com/CoreBunch/Instatic) - [penpot](https://github.com/penpot/penpot)
+    - [Onlook](https://github.com/onlook-dev/onlook) - [Builder.io](https://www.builder.io/)
+    - [Framer](https://www.framer.com/) - [Ycode](https://www.ycode.com/) - [Webflow](https://webflow.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
+    - [Codux](https://www.codux.com/)
 29. #### Other Libraries
     - [Jazz](https://jazz.tools/) is a local-first relational database. It runs across your frontend, backend and our global storage cloud.
     - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
@@ -946,7 +946,7 @@
   8. Graph: [Neo4j](https://github.com/neo4j/neo4j) - Time-Series: [InfluxDB](https://www.influxdata.com/) - [Timescale](https://www.timescale.com/)
   9. Spreadsheet: [Teable](https://github.com/teableio/teable) - Airtable: [NocoDB](https://github.com/nocodb/nocodb) - Search: [Elasticsearch](https://github.com/elastic/elasticsearch)
   10. Local-first: [TinyBase](https://tinybase.org/) - [Dexie.js](https://dexie.org/) - [Electric](https://electric-sql.com/) - [watermelondb](https://watermelondb.dev/) - [RxDB](https://rxdb.info/)
-  11. CMS: [Sanity](https://github.com/sanity-io/sanity) - [payloadcms](https://payloadcms.com/)
+  11. Headless CMS: [Sanity](https://github.com/sanity-io/sanity) - [payloadcms](https://payloadcms.com/) - [strapi](https://strapi.io/) - [directus](https://directus.com/)
   12. [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - [CockroachDB](https://github.com/cockroachdb/cockroach) - [DuckDB](https://github.com/duckdb/duckdb)
   13. [postgres](https://github.com/postgres/postgres) - [sqlite](https://github.com/sqlite/sqlite) - [mysql](https://github.com/mysql/mysql-server) - [MariaDB](https://github.com/MariaDB/server)
 
