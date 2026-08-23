@@ -940,7 +940,7 @@
   2. BaaS: [SpacetimeDB](https://github.com/ClockworkLabs/SpacetimeDB) - [Convex](https://www.convex.dev/) - [SurrealDB](https://github.com/surrealdb/surrealdb) - [PocketBase](https://github.com/pocketbase/pocketbase) - [Powabase](https://powabase.ai/)
   3. ORM: [Drizzle](https://github.com/drizzle-team/drizzle-orm) - [Prisma](https://github.com/prisma/prisma) - [Sequelize](https://github.com/sequelize/sequelize) - [Mongoose](https://github.com/Automattic/mongoose)
   4. Document: [MongoDB](https://github.com/mongodb/mongo) - [RavenDB](https://github.com/ravendb/ravendb) - [Couchbase](https://www.couchbase.com/) - [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
-  5. Key-Val: [Redis](https://github.com/redis/redis) - [valkey](https://github.com/valkey-io/valkey) - [Dragonfly](https://github.com/dragonflydb/dragonfly) - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - [Riak](https://riak.com/)
+  5. Key-Val: [Redis](https://github.com/redis/redis) - [valkey](https://github.com/valkey-io/valkey) - [Dragonfly](https://github.com/dragonflydb/dragonfly) - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - [Riak](https://riak.com/) - [Tellstone](https://github.com/Saxy/Tellstone)
   6. Column: [ClickHouse](https://clickhouse.com/) - [Apache Cassandra](https://cassandra.apache.org/) - [hbase](https://github.com/apache/hbase)
   7. Vector: [Pinecone](https://www.pinecone.io/) - [Qdrant](https://qdrant.tech/) - [Milvus](https://milvus.io/) - [Weaviate](https://weaviate.io/) - [TopK](https://www.topk.io/)
   8. Graph: [Neo4j](https://github.com/neo4j/neo4j) - Time-Series: [InfluxDB](https://www.influxdata.com/) - [Timescale](https://www.timescale.com/)
