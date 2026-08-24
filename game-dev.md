@@ -623,7 +623,7 @@
   3. [cgcookie](https://cgcookie.com/)
   4. [blendermarket](https://blendermarket.com/)
   5. [blendswap](https://www.blendswap.com/)
-  6. [blenderkit](https://www.blenderkit.com/)
+  6. [blenderkit](https://www.blendkit.com/)
   7. [chocofur](https://chocofur.com/)
   8. [r/blender](https://www.reddit.com/r/blender/)
 
