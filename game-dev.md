@@ -230,7 +230,7 @@
   1. [Krita](https://krita.org) - [Gimp Repo](https://github.com/GNOME/gimp) - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   2. [Gimp](https://www.gimp.org) - [Krita Repo](https://github.com/KDE/krita)
   3. [Inkscape](https://inkscape.org) - [Inkscape Repo](https://gitlab.com/inkscape/inkscape)
-  4. [PixiEditor](https://github.com/PixiEditor/PixiEditor)
+  4. [PixiEditor](https://github.com/PixiEditor/PixiEditor) - [Pinta](https://github.com/PintaProject/Pinta)
   5. [Graphite](https://github.com/GraphiteEditor/Graphite)
   6. [Paint.NET](https://www.getpaint.net)
   7. [Affinity](https://www.affinity.studio/)
