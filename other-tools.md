@@ -332,6 +332,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - `services.msc`
 - `netplwiz`
 - `resmon` more info than task manager
+- `perfmon /rel` show windows error, warning, crash timeline with info
 - `ncpa.cpl` network adapter
 - `shell:history` last 3 weeks history
 - `inetcpl.cpl` internet security settings
