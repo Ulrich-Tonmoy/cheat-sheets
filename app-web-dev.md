@@ -756,6 +756,7 @@
     - [CodeMirror](https://code.haverbeke.berlin/codemirror/dev/) - [react-codemirror](https://github.com/uiwjs/react-codemirror)
     - [shiki](https://github.com/shikijs/shiki)
     - [prism](https://github.com/PrismJS/prism/)
+    - [microlighter](https://github.com/davatron5000/microlighter)
     - [ace](https://github.com/ajaxorg/ace)
     - [code-blocks](https://code-blocks.pheralb.dev/)
 18. #### Markdown Rich Text Editor
