@@ -386,7 +386,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 7. File Explorer: [Files](https://github.com/files-community/files) - [File Pilot](https://filepilot.tech/) - [CopyParty](https://github.com/9001/copyparty) - [FileBrowser](https://github.com/gtsteffaniak/filebrowser) - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - [Poly](https://poly.app/) - [BoxBox](https://github.com/jR4dh3y/BoxBox)
 8. App Launcher: [Vicinae](https://github.com/vicinaehq/vicinae) - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - [asyar](https://github.com/Xoshbin/asyar) - [Raycast](https://www.raycast.com/) - Search: [Everything](https://www.voidtools.com/)
 9. Duplicate Finder: [dskDitto](https://github.com/jdefrancesco/dskDitto) - [Duplicate Finder](https://www.duplicate-finder.com/photo.html) - [Czkawka](https://github.com/qarmin/czkawka) - [digikam](https://invent.kde.org/graphics/digikam)
-10. Disk Usage Statistics [windirstat](https://windirstat.net/) - [BleachBit](https://github.com/bleachbit/bleachbit)
+10. Disk Usage Statistics [windirstat](https://windirstat.net/) - [BleachBit](https://github.com/bleachbit/bleachbit) - System Metrics: [TMOG](https://tmog.org/)
 11. Torrent Client: [Transmission](https://github.com/transmission/transmission) - [qBittorrent](https://www.qbittorrent.org/)
 12. File: [Partition Wizard](https://www.partitionwizard.com/download.html) - [File Shredder](https://www.fileshredder.org/) - [WinfrGUI](https://www.winfr.org/) - [Recuva](https://www.ccleaner.com/recuva) - Clone Windows: [DiskGenius](https://www.diskgenius.com/)
 13. Screenshot: [Flameshot](https://github.com/flameshot-org/flameshot) - Record & Repeat Actions: [TinyTask](https://tinytask.net/)
