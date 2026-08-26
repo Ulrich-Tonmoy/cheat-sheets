@@ -828,9 +828,10 @@
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
 28. #### Visual Builders
-    - [Instatic](https://github.com/CoreBunch/Instatic) - [penpot](https://github.com/penpot/penpot)
+    - [Instatic](https://github.com/CoreBunch/Instatic) - [Framer](https://www.framer.com/)
     - [Onlook](https://github.com/onlook-dev/onlook) - [Builder.io](https://www.builder.io/)
-    - [Framer](https://www.framer.com/) - [Ycode](https://www.ycode.com/) - [Webflow](https://webflow.com/)
+    - [Stacki](https://github.com/flowtricks/stacki) - [Ycode](https://github.com/ycode/ycode) - [Webflow](https://webflow.com/)
+    - [Penpot](https://github.com/penpot/penpot) - [Figma](https://www.figma.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
     - [Codux](https://www.codux.com/)
