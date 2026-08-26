@@ -129,6 +129,7 @@
   7. [awesome-ai-agents-for-ml](https://github.com/OpenJobsAI/awesome-ai-agents-for-ml)
 
 - ## Local AI
+  0. [llmfit](https://github.com/AlexsJones/llmfit)
   1. [colibri](https://github.com/JustVugg/colibri)
   2. [unsloth](https://github.com/unslothai/unsloth)
   3. [LM Studio](https://lmstudio.ai/)
