@@ -24,7 +24,7 @@
 
 - ## Chat AI
   1. [LM Arena](https://lmarena.ai/) - [Vercel AI Playground](https://play.vercel.ai/)
-  2. [Gemini](https://gemini.google.com/) - [Gemini Notebook](https://notebook.google/)
+  2. [Gemini](https://gemini.google.com/) - [Gemini Notebook](https://notebook.google/) - [open-notebook](https://github.com/lfnovo/open-notebook)
   3. [Z.ai](https://chat.z.ai/) - [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
   4. [Claude](https://claude.ai/) - [Grok](https://x.ai/) - [ChatGPT](https://chatgpt.com/)
   5. [Free ChatGPT Acc](https://chatgptplus.cn/) - [ChatGPT Free](https://chatgptfree.ai/)
