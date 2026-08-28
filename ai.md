@@ -70,7 +70,7 @@
   2. [Bolt](https://bolt.new/)
   3. [Lovable](https://lovable.dev/)
   4. [Replit](https://replit.com/)
-  5. [Rork](https://rork.app/) - [a0](https://a0.dev/) - [Kiki](https://www.kiki.dev/)
+  5. [Dactyl](https://dactyl.dev/) - [Rork](https://rork.app/) - [a0](https://a0.dev/) - [Kiki](https://www.kiki.dev/)
   6. [Google AI Studio](https://aistudio.google.com/) - [Stitch](https://stitch.withgoogle.com/)
   7. [Atoms](https://atoms.dev/)
   8. [bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
