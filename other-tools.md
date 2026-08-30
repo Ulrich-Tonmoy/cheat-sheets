@@ -359,7 +359,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 5. [terminal-code](https://github.com/zenbu-labs/terminal-code) - [Edit](https://github.com/microsoft/edit) - [Helix](https://github.com/helix-editor/helix) - [Ox](https://github.com/curlpipe/ox) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [Fresh](https://github.com/sinelaw/fresh) - [Moe](https://github.com/fox0430/moe) - [kakoune](https://github.com/mawww/kakoune)
 6. [SharpIDE](https://github.com/MattParkerDev/SharpIDE) - [DotNetLab](https://github.com/jjonescz/DotNetLab) - [Apollo](https://github.com/Mythetech/Apollo)
 7. [VS](https://visualstudio.microsoft.com/) - [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
-8. [athas](https://github.com/athasdev/athas) - [sidex](https://github.com/Sidenai/sidex) - [loom](https://github.com/dexter-xD/loom) - [focus](https://github.com/focus-editor/focus)
+8. [athas](https://github.com/athasdev/athas) - [gram](https://codeberg.org/GramEditor/gram) - [sidex](https://github.com/Sidenai/sidex) - [loom](https://github.com/dexter-xD/loom) - [focus](https://github.com/focus-editor/focus)
 9. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor)
 
 # Note-taking Apps
