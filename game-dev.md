@@ -207,6 +207,7 @@
   7. [sculptgl](https://stephaneginier.com/sculptgl/)
 
 - ## Image to 3D AI
+  0. [modly](https://github.com/lightningpixel/modly)
   1. [Hitem](https://www.hitem3d.ai/3dmodeling/home)
   2. [Tripo 3d](https://www.tripo3d.ai/)
   3. [Rodin 3d](https://hyper3d.ai/)
