@@ -87,7 +87,7 @@
   5. CLI: [LLxprt Code](https://github.com/vybestack/llxprt-code) - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - [Qwen Code](https://github.com/QwenLM/qwen-code)
   6. [Kilo Code](https://github.com/Kilo-Org/kilocode) - [Cline](https://github.com/cline/cline) - [OpenRouter](https://openrouter.ai/) - [OmniRoute](https://omniroute.online/)
   7. [Devin](https://devin.ai/) - [MiniMax](https://agent.minimax.io/)
-  8. [Pi](https://github.com/earendil-works/pi) - [oh-my-pi](https://github.com/can1357/oh-my-pi)
+  8. [Pi](https://github.com/earendil-works/pi) - [oh-my-pi](https://github.com/can1357/oh-my-pi) - [Herdr](https://herdr.dev/) - [Luvus](https://luvus.dev/) - [Superset](https://superset.sh/)
   9. [Tabby](https://github.com/TabbyML/tabby)
   10. [Dyad](https://github.com/dyad-sh/dyad)
   11. [Agetor](https://github.com/alamops/agetor)
