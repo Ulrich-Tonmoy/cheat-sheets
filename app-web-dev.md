@@ -523,6 +523,7 @@
      - [tailwindwidgets](https://tailwindwidgets.com/)
      - [merakiui](https://merakiui.com/)
    - [Bootstrap](https://getbootstrap.com/)
+   - [StyleX](https://stylexjs.com/)
    - [styled-components](https://styled-components.com/)
    - [Emotion](https://emotion.sh/docs/introduction)
    - [matcha](https://matcha.mizu.sh/) Make naked websites look great
