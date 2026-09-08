@@ -399,6 +399,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 20. Upscaler: [video2x](https://github.com/k4yt3x/video2x) - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 21. Anime Downloader: [animepahe-cli](https://github.com/Danushka-Madushan/animepahe-cli)
 22. Thio Utils: [Thio-Background-App-Notifier](https://github.com/ThioJoe/Thio-Background-App-Notifier) - [Edit-Clipboard-Contents](https://github.com/ThioJoe/Edit-Clipboard-Contents) - [Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode)
+23. Run Linux on Android: [NativOS](https://github.com/orailnoor/NativOS) - [DroidDesk](https://github.com/orailnoor/DroidDesk)
 
 # Game Emulation Tools
 
