@@ -555,6 +555,7 @@
      - [soundcn](https://www.soundcn.xyz/)
      - [SCIFICN/UI](https://www.scificn.dev/)
      - [termcn](https://www.termcn.dev/) - [editorcn](https://editorcn.vercel.app/)
+     - [pdfcn](https://www.pdfcn.dev/)
      - [chanhdai Components](https://chanhdai.com/components)
      - [ElevenLabs UI](https://ui.elevenlabs.io/)
      - [UI blocks, components & pages](https://ui.tripled.work/)
