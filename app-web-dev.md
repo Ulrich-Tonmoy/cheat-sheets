@@ -638,6 +638,7 @@
 9. #### Other UI libs
    - [react-call](https://github.com/desko27/react-call)
    - [Ink](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
+   - [hqtui](https://github.com/profullstack/hqtui)
    - [OpenTUI](https://github.com/sst/opentui) TypeScript library for building terminal user interfaces (TUIs).
    - [Xterm.js](https://github.com/xtermjs/xterm.js)
    - [wterm](https://github.com/vercel-labs/wterm)
