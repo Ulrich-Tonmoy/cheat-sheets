@@ -53,6 +53,7 @@
 39. [famelack](https://famelack.com/tv) - [myRetroTVs](https://www.myretrotvs.com/)
 40. [skipvids](https://skipvids.com/trending)
 41. [neal](https://neal.fun/)
+42. [Blueprint](https://www.blueprint.io/) Create hardware prototype designs by chatting with AI
 
 # Learning Resources
 
