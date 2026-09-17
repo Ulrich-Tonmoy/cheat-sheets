@@ -82,6 +82,7 @@
   4. [Scalar](https://github.com/scalar/scalar)
   5. [Yaak](https://github.com/yaakapp/app)
   6. [Kivo](https://github.com/dexter-xD/Kivo)
+  7. [apiboo](https://apiboo.com/)
 - CLI
   1. [HTTPie](https://github.com/httpie/cli)
   2. [Hurl](https://github.com/Orange-OpenSource/hurl)
