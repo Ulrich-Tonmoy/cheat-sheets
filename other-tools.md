@@ -22,6 +22,7 @@
 - [i2pd](https://i2pd.website/) - [Tor](https://www.torproject.org/) - [Mullvad](https://mullvad.net/en/browser) - [Servo](https://servo.org/) - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Chrome](https://www.google.com/chrome/)
 
 - ## MS 365
+- [Microsoft Activation Scripts](https://massgrave.dev/)
 - [Office Deployment Tool](https://www.microsoft.com/en-US/download/details.aspx?id=49117) & [Install Office LTSC preview](https://learn.microsoft.com/en-gb/office/ltsc/preview/install-ltsc-preview)
 - Download `Office Deployment Tool` extract to a folder by double clicking the exe.
 - Remove all xml & create a `configuration.xml` file and paste the bellow:
