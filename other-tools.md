@@ -56,7 +56,8 @@
 
 - [Monaspace](https://monaspace.githubnext.com/) - [JetBrains Mono Fonts](https://www.jetbrains.com/lp/mono/) - [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 - [Terminal](https://github.com/microsoft/terminal) - [Intelligent Terminal](https://github.com/microsoft/intelligent-terminal) - [PowerShell](https://github.com/powershell/powershell)
-- [btop4win](https://github.com/aristocratos/btop4win) -[btop](https://github.com/aristocratos/btop) - [fzf](https://github.com/junegunn/fzf) - [fd](https://github.com/sharkdp/fd) - [eza](https://github.com/eza-community/eza) - [tmux](https://github.com/tmux/tmux) - [zellij](https://github.com/zellij-org/zellij) - [herdr](https://github.com/ogulcancelik/herdr)
+- [btop4win](https://github.com/aristocratos/btop4win) -[btop](https://github.com/aristocratos/btop) - [fzf](https://github.com/junegunn/fzf) - [fd](https://github.com/sharkdp/fd) - [eza](https://github.com/eza-community/eza)
+- [tmux](https://github.com/tmux/tmux) - [workmux](https://github.com/raine/workmux) - [zellij](https://github.com/zellij-org/zellij) - [herdr](https://github.com/ogulcancelik/herdr)
 - [yazi](https://github.com/sxyazi/yazi) - [Superfile](https://github.com/yorukot/superfile) - [Midnight Commander](https://github.com/MidnightCommander/mc)
 - [Ghostty](https://github.com/ghostty-org/ghostty) - [alacritty](https://github.com/alacritty/alacritty) - [kitty](https://github.com/kovidgoyal/kitty) - [wezterm](https://github.com/wezterm/wezterm)
 - [warp](https://github.com/warpdotdev/warp) - [waveterm](https://github.com/wavetermdev/waveterm) - [Terax](https://github.com/crynta/terax-ai) - [tabby](https://github.com/Eugeny/tabby) - [hyper](https://github.com/vercel/hyper)
