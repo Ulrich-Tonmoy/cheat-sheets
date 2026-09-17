@@ -67,13 +67,13 @@
 
 - ## AI App Builders — Web
   1. [v0](https://v0.dev/)
-  2. [Bolt](https://bolt.new/)
-  3. [Lovable](https://lovable.dev/)
+  2. [Lovable](https://lovable.dev/)
+  3. [Bolt](https://bolt.new/)
   4. [Replit](https://replit.com/)
   5. [Dactyl](https://dactyl.dev/) - [Rork](https://rork.app/) - [a0](https://a0.dev/) - [Kiki](https://www.kiki.dev/)
   6. [Google AI Studio](https://aistudio.google.com/) - [Stitch](https://stitch.withgoogle.com/)
   7. [Atoms](https://atoms.dev/)
-  8. [bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
+  8. [Meku](https://meku.dev/) - [Capacity](https://capacity.so/) - [Trickle](https://trickle.so/)
   9. [IDE by Bind AI](https://www.getbind.co/)
   10. [Builder.io](https://www.builder.io/)
   11. [Softgen](https://softgen.ai/)
