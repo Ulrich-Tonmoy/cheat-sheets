@@ -46,6 +46,7 @@
   2. [Greptile](https://www.greptile.com/)
   3. [Graphite](https://graphite.com/)
   4. [Qodo](https://www.qodo.ai/)
+  5. [strix](https://github.com/usestrix/strix) AI penetration testing tool.
 
 - ## AI Skills & Context
   1. [Skills](https://www.skills.sh/)
