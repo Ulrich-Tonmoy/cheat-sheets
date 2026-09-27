@@ -1000,8 +1000,8 @@
   2. [Android Studio](https://developer.android.com/studio)
 - ### JavaScript/TypeScript
   1. [React Native](https://github.com/facebook/react-native) - [Lynx](https://github.com/lynx-family/lynx) - [NativeScript](https://github.com/NativeScript/NativeScript)
-  2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/) - [Sparkling](https://tiktok.github.io/sparkling/) + [gtkx](https://github.com/gtkx-org/gtkx)
-  3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [zero-native](https://github.com/vercel-labs/zero-native) - [Electrobun](https://github.com/blackboardsh/electrobun)
+  2. [React Native for Windows + macOS](https://microsoft.github.io/react-native-windows/) - [Sparkling](https://tiktok.github.io/sparkling/) + [gtkx](https://github.com/gtkx-org/gtkx) - [gpuix](https://github.com/remorses/gpuix)
+  3. [Electron](https://github.com/electron/electron) - [Tauri](https://github.com/tauri-apps/tauri) - [tinyjsapp](https://github.com/tarwin/tinyjsapp) - [zero-native](https://github.com/vercel-labs/zero-native) - [Electrobun](https://github.com/blackboardsh/electrobun)
   4. [Electron Forge](https://www.electronforge.io/) - [Electron⚡️Vite](https://electron-vite.github.io/) - [electron-vite](https://electron-vite.org/)
   5. [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - [NW.js](https://github.com/nwjs/nw.js) - [NodeGui](https://github.com/nodegui/nodegui)
   6. [Capacitor](https://github.com/ionic-team/capacitor) - [Ionic](https://github.com/ionic-team/ionic-framework)
