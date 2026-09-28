@@ -10,8 +10,8 @@ $all[╰─](238)$character"""
 
 # Change the default prompt characters
 [character]
-success_symbol = "[➜](238)"
-error_symbol = "[➜](238)"
+success_symbol = "[](238)"
+error_symbol = "[](238)"
 
 # Shows an icon that should be included by zshrc script based on the distribution or os
 [env_var.STARSHIP_DISTRO]
@@ -36,9 +36,9 @@ read_only = "  "
 format = "at [$path]($style)[$read_only]($read_only_style) "
 
 [git_branch]
-symbol = " "
+symbol = " "
 format = "on [$symbol$branch]($style) "
-truncation_length = 4
+truncation_length = 12
 truncation_symbol = "…/"
 style = "bold green"
 
@@ -47,38 +47,52 @@ format = '[\($all_status$ahead_behind\)]($style) '
 style = "bold green"
 conflicted = "🏳"
 up_to_date = " "
-untracked = " "
+untracked = " "
 ahead = "⇡${count}"
 diverged = "⇕⇡${ahead_count}⇣${behind_count}"
 behind = "⇣${count}"
-stashed = " "
+stashed = " "
 modified = " "
 staged = '[++\($count\)](green)'
 renamed = "󰑕 "
 deleted = " "
 
 [terraform]
-format = "via [ terraform $version]($style) 壟 [$workspace]($style) "
+format = "[ terraform $version]($style)  [$workspace]($style) "
 
 [vagrant]
-format = "via [ vagrant $version]($style) "
+format = "[ vagrant $version]($style) "
 
 [docker_context]
-format = "via [ $context](bold blue) "
+format = "[ $context](bold blue) "
 
 [helm]
-format = "via [ $version](bold purple) "
+format = "[ $version](bold purple) "
 
 [python]
 symbol = " "
 python_binary = "python3"
 
 [nodejs]
-format = "via [ $version](bold green) "
-disabled = true
+format = "[ $version](bold green) "
+
+[rust]
+format = "[ $version](bold red) "
+
+[ruby]
+format = "[ $version]($style) "
+
+[golang]
+format = "[ $version](bold cyan) "
+
+[java]
+format = "[ $version](bold red) "
+
+[php]
+format = "[ $version](bold purple) "
 
 [kubernetes]
-format = 'on [󱃾 $context\($namespace\)](bold purple) '
+format = 'on [ $context\($namespace\)](bold purple) '
 disabled = false
 [kubernetes.context_aliases]
 "clcreative-k8s-staging" = "cl-k8s-staging"
