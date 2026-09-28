@@ -343,6 +343,7 @@
   10. [kdenlive](https://kdenlive.org/en/)
   11. [filmora](https://filmora.wondershare.com/)
   12. [Friction](https://github.com/friction2d/friction)
+  13. [gozen](https://codeberg.org/gozen/gozen)
 
 - ## Game Dev AI Tools
   1. [moonlakeai](https://moonlakeai.com/) AI Game Builder
