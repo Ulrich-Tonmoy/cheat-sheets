@@ -426,9 +426,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 20. [NetherSX2-Turnip](https://github.com/nckstwrt/NetherSX2-Turnip)
 21. [ARMSX3](https://github.com/ARMSX2/ARMSX3)
 22. [Vita3K-Plus](https://github.com/nckstwrt/Vita3K-Plus) - [Vita3K](https://github.com/Vita3K/Vita3K)
-23. []()
-24. [nostlan](https://quinton-ashley.itch.io/nostlan)
-25. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+23. [SameBoy](https://github.com/LIJI32/SameBoy)
+24. [pyboy](https://github.com/baekalfen/pyboy)
+25. []()
+26. [nostlan](https://quinton-ashley.itch.io/nostlan)
+27. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Cyberspace Tools
 
