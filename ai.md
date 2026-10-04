@@ -146,9 +146,10 @@
   10. [Jan](https://jan.ai/)
   11. [needle](https://github.com/cactus-compute/needle)
   12. [needle-duck](https://github.com/andrisgauracs/needle-duck)
-  13. []()
-  14. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-  15. [LTX-Video](https://github.com/Lightricks/LTX-Video)
+  13. [kev](https://github.com/jaredpalmer/kev)
+  14. []()
+  15. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  16. [LTX-Video](https://github.com/Lightricks/LTX-Video)
 
 - ## Portable Local AI
   1. [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
