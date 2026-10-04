@@ -144,9 +144,11 @@
   8. [ComfyUI](https://github.com/comfy-org/comfyui)
   9. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
   10. [Jan](https://jan.ai/)
-  11. []()
-  12. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-  13. [LTX-Video](https://github.com/Lightricks/LTX-Video)
+  11. [needle](https://github.com/cactus-compute/needle)
+  12. [needle-duck](https://github.com/andrisgauracs/needle-duck)
+  13. []()
+  14. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  15. [LTX-Video](https://github.com/Lightricks/LTX-Video)
 
 - ## Portable Local AI
   1. [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
