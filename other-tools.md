@@ -404,6 +404,7 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 
 # Game Emulation Tools
 
+0. [GoG](https://www.gog.com/en/) DRM FREE Store. No activation or online connection required to play
 1. [Obtainium](https://github.com/ImranR98/Obtainium)
 2. [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack)
 3. [GameNative](https://github.com/utkarshdalal/GameNative)
