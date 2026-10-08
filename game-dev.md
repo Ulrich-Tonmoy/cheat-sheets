@@ -194,6 +194,7 @@
   2. [Krita](https://github.com/KDE/krita) - [Gimp](https://github.com/GNOME/gimp) - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - [Inkscape](https://gitlab.com/inkscape/inkscape)
   3. [PixiEditor](https://github.com/PixiEditor/PixiEditor) - [Pinta](https://github.com/PintaProject/Pinta)
   4. [Graphite](https://github.com/GraphiteEditor/Graphite)
+  5. [photocraft](https://github.com/storytold/photocraft) - [vectorcraft](https://github.com/storytold/vectorcraft) - [lightcraft](https://github.com/storytold/lightcraft)
   6. [Paint.NET](https://www.getpaint.net)
   7. [Affinity](https://www.affinity.studio/)
   8. [Sketchbook](https://www.sketchbook.com/apps)
