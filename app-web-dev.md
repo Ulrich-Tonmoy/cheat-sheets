@@ -1058,11 +1058,11 @@
 - ### Rust
   - GUI
     1. [gpui-kit](https://github.com/longbridge/gpui-kit) - [gpui-rsx](https://github.com/wsafight/gpui-rsx)
-    2. [Floem](https://github.com/lapce/floem)
-    3. [Pake](https://github.com/tw93/Pake)
-    4. [Slint](https://github.com/slint-ui/slint)
-    5. [Druid](https://github.com/linebender/druid)
-    6. [EGUI](https://github.com/emilk/egui)
+    2. [EGUI](https://github.com/emilk/egui)
+    3. [Floem](https://github.com/lapce/floem)
+    4. [Pake](https://github.com/tw93/Pake)
+    5. [Slint](https://github.com/slint-ui/slint)
+    6. [Druid](https://github.com/linebender/druid)
     7. [Iced](https://github.com/iced-rs/iced)
     8. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
     9. [Dioxus](https://github.com/DioxusLabs/dioxus)
