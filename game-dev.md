@@ -190,11 +190,10 @@
   9. [QuickMagic AI Mocap (Video to Animation)](https://www.quickmagic.ai/home)
 
 - ## 2d Art APP
-  1. [Krita](https://krita.org) - [Gimp Repo](https://github.com/GNOME/gimp) - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
-  2. [Gimp](https://www.gimp.org) - [Krita Repo](https://github.com/KDE/krita)
-  3. [Inkscape](https://inkscape.org) - [Inkscape Repo](https://gitlab.com/inkscape/inkscape)
-  4. [PixiEditor](https://github.com/PixiEditor/PixiEditor) - [Pinta](https://github.com/PintaProject/Pinta)
-  5. [Graphite](https://github.com/GraphiteEditor/Graphite)
+  1. [Krita](https://krita.org) - [Gimp](https://www.gimp.org) - [Inkscape](https://inkscape.org)
+  2. [Krita](https://github.com/KDE/krita) - [Gimp](https://github.com/GNOME/gimp) - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - [Inkscape](https://gitlab.com/inkscape/inkscape)
+  3. [PixiEditor](https://github.com/PixiEditor/PixiEditor) - [Pinta](https://github.com/PintaProject/Pinta)
+  4. [Graphite](https://github.com/GraphiteEditor/Graphite)
   6. [Paint.NET](https://www.getpaint.net)
   7. [Affinity](https://www.affinity.studio/)
   8. [Sketchbook](https://www.sketchbook.com/apps)
@@ -205,11 +204,10 @@
   13. [Firealpaca](https://firealpaca.com)
   14. [MyPaint](https://mypaint.app/)
   15. [Sumo Paint](https://sumo.app/)
-  16. [Pinta](https://www.pinta-project.com/)
-  17. [Pixlr](https://pixlr.com/)
-  18. [spritemancer](https://spritemancer.com/)
-  19. [crocotile3d](https://crocotile3d.com/)
-  20. [ArcBrush](https://arcbrush.com/)
+  16. [Pixlr](https://pixlr.com/)
+  17. [spritemancer](https://spritemancer.com/)
+  18. [crocotile3d](https://crocotile3d.com/)
+  19. [ArcBrush](https://arcbrush.com/)
 
 - ## RAW image editor
   1. [RapidRAW](https://github.com/CyberTimon/RapidRAW)
