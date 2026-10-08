@@ -50,6 +50,7 @@
   ```
 
 - [LibreOffice](https://www.libreoffice.org/) - [FreeOffice](https://www.freeoffice.com/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [OfficeSuite](https://officesuite.com/)
+- [pdfcraft](https://github.com/storytold/pdfcraft) - [designcraft](https://github.com/storytold/designcraft)
 - [Bento](https://github.com/nyblnet/bento)
 
 # Terminal
