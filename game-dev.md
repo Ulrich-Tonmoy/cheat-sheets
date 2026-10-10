@@ -383,6 +383,7 @@
   19. [ocenaudio](https://www.ocenaudio.com)
   20. [sitala](https://decomposer.de/sitala)
   21. [boscaceoil](https://boscaceoil.net/)
+  22. [soundcraft](https://github.com/storytold/soundcraft)
 
 - ## Game Audio App Online
   1. [BeepBox](https://www.beepbox.co)
