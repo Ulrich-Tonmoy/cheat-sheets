@@ -50,7 +50,8 @@
   ```
 
 - [LibreOffice](https://www.libreoffice.org/) - [FreeOffice](https://www.freeoffice.com/) - [OnlyOffice](https://www.onlyoffice.com/) - [WPS](https://www.wps.com/) - [OfficeSuite](https://officesuite.com/)
-- [GenOffice](https://github.com/genspark-ai/genoffice) - [pdfcraft](https://github.com/storytold/pdfcraft) - [designcraft](https://github.com/storytold/designcraft)
+- [wordcraft](https://github.com/storytold/wordcraft) - [gridcraft](https://github.com/storytold/gridcraft) - [deckcraft](https://github.com/storytold/deckcraft) - [pdfcraft](https://github.com/storytold/pdfcraft) - [designcraft](https://github.com/storytold/designcraft)
+- [GenOffice](https://github.com/genspark-ai/genoffice)
 - [Bento](https://github.com/nyblnet/bento)
 
 # Terminal
