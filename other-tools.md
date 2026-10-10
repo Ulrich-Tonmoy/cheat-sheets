@@ -436,9 +436,10 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 27. [pyboy](https://github.com/baekalfen/pyboy)
 28. [KytyPS5](https://github.com/KytyPS5/KytyPS5)
 29. [AnyPS5](https://github.com/boykopovar/AnyPS5)
-30. []()
-31. [nostlan](https://quinton-ashley.itch.io/nostlan)
-32. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+30. [sharpemu](https://github.com/sharpemu/sharpemu)
+31. []()
+32. [nostlan](https://quinton-ashley.itch.io/nostlan)
+33. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Cyberspace Tools
 
