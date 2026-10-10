@@ -334,7 +334,7 @@
   1. [CapCut](https://www.capcut.com/) - [opencut](https://github.com/opencut-app/opencut)
   2. [Clipchamp](https://clipchamp.com/en/)
   3. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-  4. [filmcraft](https://github.com/storytold/filmcraft) - [effectcraft](https://github.com/storytold/effectcraft)
+  4. [filmcraft](https://github.com/storytold/filmcraft) - [effectcraft](https://github.com/storytold/effectcraft) - [artcraft](https://github.com/storytold/artcraft)
   5. [Pikimov](https://pikimov.com/) (Online)
   6. [Shotcut](https://shotcut.org/)
   7. [LosslessCut](https://github.com/mifi/lossless-cut)
