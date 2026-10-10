@@ -147,10 +147,11 @@
   11. [needle](https://github.com/cactus-compute/needle)
   12. [needle-duck](https://github.com/andrisgauracs/needle-duck)
   13. [kev](https://github.com/jaredpalmer/kev)
-  14. []()
-  15. [KittenTTS](https://github.com/KittenML/KittenTTS)
-  16. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-  17. [LTX-Video](https://github.com/Lightricks/LTX-Video)
+  14. [Strata](https://github.com/Niko1221/Strata)
+  15. []()
+  16. [KittenTTS](https://github.com/KittenML/KittenTTS)
+  17. [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  18. [LTX-Video](https://github.com/Lightricks/LTX-Video)
 
 - ## Portable Local AI
   1. [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
