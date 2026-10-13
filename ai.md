@@ -80,6 +80,7 @@
 - ## AI App Builders — Native
   1. [Codex Desktop](https://chatgpt.com/codex) - [Codex CLI](https://github.com/openai/codex) - [Claude Code](https://claude.com/download) - [Claude Code CLI](https://github.com/anthropics/claude-code)
   2. [OpenCode](https://opencode.ai/) - [Freebuff](https://freebuff.com/) - [Pi](https://github.com/earendil-works/pi) - [oh-my-pi](https://github.com/can1357/oh-my-pi) - [free-claude-code](https://github.com/alishahryar1/free-claude-code)
+  2. [OpenCode](https://opencode.ai/) - [Freebuff](https://freebuff.com/) - [Pi](https://github.com/earendil-works/pi) - [oh-my-pi](https://github.com/can1357/oh-my-pi) - [free-claude-code](https://github.com/alishahryar1/free-claude-code) - [Ghostex](https://github.com/maddada/Ghostex)
   3. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - [ZCode](https://zcode.z.ai/en) - [Kimi Code](https://www.kimi.ai/code) - [Kimi Work](https://www.kimi.ai/products/kimi-work) - [Qwen Code](https://github.com/QwenLM/qwen-code)
   4. [Cursor](https://cursor.com) - [Antigravity](https://antigravity.google/) - [Kiro](https://kiro.dev/) - [TRAE](https://www.trae.ai/) - [Devin](https://devin.ai/) - [MiniMax](https://agent.minimax.io/)
   5. [Grok Build](https://github.com/xai-org/grok-build) - [LLxprt Code](https://github.com/vybestack/llxprt-code) - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
