@@ -62,10 +62,11 @@
   11. [headroom](https://github.com/headroomlabs-ai/headroom)
   12. [brain.md](https://github.com/mindmuxai/brain.md)
   13. [ponytail](https://ponytail.dev/)
-  14. []()
-  15. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-  16. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-  17. [agent-reach](https://github.com/Panniantong/agent-reach)
+  14. [REA: Reverse Engineer Anything](https://github.com/morluto/rea)
+  15. []()
+  16. [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+  17. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  18. [agent-reach](https://github.com/Panniantong/agent-reach)
 
 - ## AI App Builders — Web
   1. [v0](https://v0.dev/) - [Lovable](https://lovable.dev/) - [Bolt](https://bolt.new/) - [Replit](https://replit.com/)
