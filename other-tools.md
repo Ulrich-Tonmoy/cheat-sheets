@@ -360,8 +360,8 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 3. [Pragtical](https://github.com/pragtical/pragtical) - [Lite XL](https://github.com/lite-xl/lite-xl) - [Phoenix](https://github.com/phcode-dev/phoenix) - [Eclipse Theia](https://github.com/eclipse-theia/theia)
 4. [Vim](https://github.com/vim/vim) - [Neovim](https://github.com/neovim/neovim) - [NvChad](https://github.com/NvChad/NvChad) - [Astro](https://github.com/AstroNvim/AstroNvim) - [Lazy](https://github.com/LazyVim/LazyVim) - [Emacs](https://github.com/emacs-mirror/emacs) - [Space](https://github.com/syl20bnr/spacemacs) - [Doom](https://github.com/doomemacs/doomemacs) - [Centaur](https://github.com/seagle0128/.emacs.d) - [Evil](https://github.com/emacs-evil/evil)
 5. [terminal-code](https://github.com/zenbu-labs/terminal-code) - [Edit](https://github.com/microsoft/edit) - [Helix](https://github.com/helix-editor/helix) - [Ox](https://github.com/curlpipe/ox) - [micro](https://github.com/zyedidia/micro) - [Nano](https://github.com/madnight/nano) - [Fresh](https://github.com/sinelaw/fresh) - [Moe](https://github.com/fox0430/moe) - [kakoune](https://github.com/mawww/kakoune)
-6. [SharpIDE](https://github.com/MattParkerDev/SharpIDE) - [DotNetLab](https://github.com/jjonescz/DotNetLab) - [Apollo](https://github.com/Mythetech/Apollo) - [SharpLsp](https://github.com/Nimblesite/SharpLsp)
-7. [VS](https://visualstudio.microsoft.com/) - [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
+6. [VS](https://visualstudio.microsoft.com/) - [SharpIDE](https://github.com/MattParkerDev/SharpIDE) - [Passenger](https://github.com/Zaneris/passenger) - [DotNetLab](https://github.com/jjonescz/DotNetLab) - [Apollo](https://github.com/Mythetech/Apollo) - [SharpLsp](https://github.com/Nimblesite/SharpLsp)
+7. [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - [Eclipse CDT™](https://github.com/eclipse-cdt/cdt) - [Apache NetBeans](https://github.com/apache/netbeans) - [neoeedit](https://github.com/neoedmund/neoeedit)
 8. [athas](https://github.com/athasdev/athas) - [gram](https://codeberg.org/GramEditor/gram) - [sidex](https://github.com/Sidenai/sidex) - [loom](https://github.com/dexter-xD/loom) - [focus](https://github.com/focus-editor/focus)
 9. [textadept](https://github.com/orbitalquark/textadept) - [Kate](https://github.com/KDE/kate) - [CudaText](https://github.com/Alexey-T/CudaText) - [CodeLite](https://github.com/eranif/codelite) - [leo-editor](https://github.com/leo-editor/leo-editor) - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - [CotEditor](https://github.com/coteditor/CotEditor)
 
@@ -438,9 +438,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 28. [KytyPS5](https://github.com/KytyPS5/KytyPS5)
 29. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 30. [sharpemu](https://github.com/sharpemu/sharpemu)
-31. []()
-32. [nostlan](https://quinton-ashley.itch.io/nostlan)
-33. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+31. [hakuX](https://github.com/rfandango/hakuX) - [Adreno-Tools-Drivers](https://github.com/StevenMXZ/Adreno-Tools-Drivers)
+32. [xemu](https://github.com/xemu-project/xemu) - [xemu](https://github.com/izzy2lost/xemu)
+33. []()
+34. [nostlan](https://quinton-ashley.itch.io/nostlan)
+35. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Cyberspace Tools
 
