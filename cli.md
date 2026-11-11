@@ -6,6 +6,7 @@
 - [Bun](#bun)
 - [Angular Cli](#angular-cli)
 - [.NET Cli](#net-cli)
+- [GitHub CLI](#github-cli)
 
 # Git Commit Patterns
 
@@ -894,3 +895,44 @@ bun pm ls
    ```properties
    dotnet publish
    ```
+
+# GitHub CLI
+
+## 1. Authentication & Status
+
+```bash
+gh auth login         # Authenticate with GitHub
+gh auth status        # View active authentication status and accounts
+gh auth switch        # Switch between multiple accounts
+gh auth logout        # Log out of GitHub
+```
+
+## 2. Working with Repositories
+
+```bash
+gh repo create        # Create a new repository on GitHub
+gh repo clone <repo>  # Clone a repository locally
+gh repo fork <repo>   # Fork a repository to your GitHub account
+gh repo view <repo>   # View repository details and README
+```
+
+## 3. Pull Requests
+
+```bash
+gh pr create          # Create a pull request interactively
+gh pr list            # List open pull requests in the repository
+gh pr checkout <pr#>  # Check out a pull request branch locally
+gh pr diff <pr#>      # View code changes in a pull request
+gh pr merge <pr#>     # Merge an open pull request
+```
+
+## 4. Issues & CI Workflows
+
+```bash
+gh issue list         # List open issues in the repository
+gh issue create       # Open a new issue
+gh issue view <id>    # View details of an issue
+gh run list           # List recent GitHub Actions workflow runs
+gh run view <run-id>  # View details and logs of a workflow run
+```
+
