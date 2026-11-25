@@ -86,6 +86,7 @@
 27. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 28. [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 29. [magictools](https://github.com/ellisonleao/magictools)
+30. [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 30. [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 31. [Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
 32. [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
