@@ -270,6 +270,7 @@
   30. [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov)
   31. [sd-webui-image-sequence-toolkit](https://github.com/OedoSoldier/sd-webui-image-sequence-toolkit)
   32. [worldmonitor](https://github.com/koala73/worldmonitor)
+  33. [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web and mobile testing with advanced memidex memory and self-improvement.
 
 # [Google Colab](https://colab.research.google.com/)
 
